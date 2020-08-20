@@ -2,19 +2,18 @@
 
 How to reach me? Social Networks:
 
-<a href="https://discord.gg/ZXqtNbm">
-  <code><img alt="Hideaki's YouTube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
+<a href="https://discord.gg/">
+  <code><img alt="My Discord" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
 </a>
-<a href="https://www.youtube.com/c/HideakiAtsuyo?sub_confirmation=1">
-  <code><img alt="Hideaki's YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code>
+<a href="https://www.youtube.com/c/sqostik?sub_confirmation=1">
+  <code><img alt="My YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code>
 </a>
-<a href="https://www.instagram.com/hideakiatsuyo/">
-  <code><img alt="Hideaki's Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code>
+<a href="https://www.instagram.com/sqostik/">
+  <code><img alt="My Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code>
 </a>
 <br>
 <br>
 
-Nickname: HideakiAtsuyo passionate about development!
 
 **Languages and Tools:**
 
