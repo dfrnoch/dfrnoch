@@ -11,6 +11,9 @@ How to reach me? Social Networks:
 <a href="https://www.instagram.com/sqostik/">
   <code><img alt="My Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code>
 </a>
+<a href="https://myanimelist.net/profile/Sqostik">
+  <code><img alt="My MAL" height="20" src="https://i.imgur.com/gqxtoZM.png"></code>
+</a>
 <br>
 <br>
 
