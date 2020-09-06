@@ -2,7 +2,7 @@
 
 How to reach me? Social Networks:
 
-<a href="https://discord.gg/">
+<a href="https://discord.gg/a3Vg8fU">
   <code><img alt="My Discord" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
 </a>
 <a href="https://www.youtube.com/c/sqostik?sub_confirmation=1">
