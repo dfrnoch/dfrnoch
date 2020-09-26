@@ -9,12 +9,6 @@
 <br>
 <p align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.</p>
 <br>
-
-### 💻 What i am currently/done working on:
-- [Nitro Sniper](https://github.com/lnxcz/nitro-sniper)  🚀
-Soon..
-<br>
-<br>
 <br>
 ### 📫 Languages and tools:
 
