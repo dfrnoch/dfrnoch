@@ -12,7 +12,7 @@
 
 ### 💻 What i am currently/done working on:
 - [Nitro Sniper](https://github.com/lnxcz/nitro-sniper)  🚀
- 
+Soon..
 <br>
 <br>
 <br>
