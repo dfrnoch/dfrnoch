@@ -46,3 +46,4 @@ How to reach me? Social Networks:
 </a>
 <br>
 <br>
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lnxcz.lnxcz)
