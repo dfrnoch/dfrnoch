@@ -10,9 +10,9 @@
 <p align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.</p>
 <br>
 
-## 💻 What i am currently/done working on:
+### 💻 What i am currently/done working on:
 - [Nitro Sniper](https://github.com/lnxcz/nitro-sniper)  🚀
-
+ 
 <br>
 <br>
 <br>
@@ -27,7 +27,7 @@
 <br>
 <br>
 <br>
-### 📈 My GitHub Stats
+### 📈 My GitHub Stats:
 
 <a href="https://github.com/lnxcz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lnxcz&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="LnX's stats" />
