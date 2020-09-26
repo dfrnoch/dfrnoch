@@ -14,6 +14,12 @@ How to reach me? Social Networks:
 <a href="https://myanimelist.net/profile/Sqostik">
   <code><img alt="My MAL" height="20" src="https://i.imgur.com/gqxtoZM.png"></code>
 </a>
+<p align='center'>
+<a href="https://discord.gg/a3Vg8fU"><img height="30" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/sqostik?sub_confirmation=1"><img height="30" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sqostik"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://myanimelist.net/profile/lnxcz"><img height="30" src="https://i.imgur.com/gqxtoZM.png"></a>
+</p>
 <br>
 <br>
 
