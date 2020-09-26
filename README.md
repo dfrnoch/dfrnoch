@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-**Languages and Tools:**  
+### 📫 Languages and tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -27,8 +27,7 @@
 <br>
 <br>
 <br>
-<details>
-<summary>📈 My GitHub Stats</summary>
+###📈 My GitHub Stats
 
 <a href="https://github.com/lnxcz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lnxcz&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="LnX's stats" />
@@ -40,4 +39,3 @@
 <br>
 <br>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=lnxcz.lnxcz" />
-</details>
