@@ -17,7 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 <code><img height="20" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>&nbsp;
-<code><img height="20" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>&nbsp;
+<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>&nbsp;
 <code><img height="20" src="https://i.imgur.com/d99lFGD.png"></code>&nbsp;
 <br>
 <br>
