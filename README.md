@@ -7,7 +7,7 @@
 <a href="https://instagram.com/sqostik"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
-<p align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.</p>
+<p align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing and i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.</p>
 <br>
 <br>
 
