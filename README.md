@@ -26,7 +26,7 @@
 <br>`V1` <a href="https://github.com/lnxcz/discord-scraper">Discord Scraper</a> - Scrapes custom amount message in channel or DM's and saves it to txt.
 <br>`V1` <a href="https://github.com/lnxcz/invite-generator">Invite Generator</a> - Create random discord invites and checks them using HTTP proxies.
 <br>`V1` <a href="https://github.com/lnxcz/nitro-generator">Nitro Generator</a> - Create random discord nitro codes (Boost, Classic) and checks them using HTTP proxies.
-<br>`V0.2` <a href="https://img.lnx.rip">Image Uploader</a> - Free ShareX image uploader made with nodejs (currently not open source).
+<br>`V0.5` <a href="https://img.lnx.rip">Image Uploader</a> - Free ShareX image uploader made with nodejs (currently not open source).
 <br>`UNRELEASED` <a href="https://lnx.rip/sayrine">Sayrine</a> - Future discord tools.
 <br>
 <br>
