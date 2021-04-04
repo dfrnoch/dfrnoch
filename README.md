@@ -22,11 +22,12 @@
 <br>
 <br>
 ### ⚙️ Active Projects:
-`V2` <a href="https://github.com/lnxcz/discord-sniper">Discord Sniper</a> - The most advanced nitro sniper you can find.
+`V0.5` <a href="https://imgix.cz">imgix</a> - Free ShareX image uploader made with nodejs (currently not open source).
+
+<br>`V2` <a href="https://github.com/lnxcz/discord-sniper">Discord Sniper</a> - The most advanced nitro sniper you can find.
 <br>`V1` <a href="https://github.com/lnxcz/discord-scraper">Discord Scraper</a> - Scrapes custom amount message in channel or DM's and saves it to txt.
 <br>`V1` <a href="https://github.com/lnxcz/invite-generator">Invite Generator</a> - Create random discord invites and checks them using HTTP proxies.
 <br>`V1` <a href="https://github.com/lnxcz/nitro-generator">Nitro Generator</a> - Create random discord nitro codes (Boost, Classic) and checks them using HTTP proxies.
-<br>`V0.5` <a href="https://imgix.cz">imgix</a> - Free ShareX image uploader made with nodejs (currently not open source).
 <br>`V0.1` <a href="https://note.lnx.rip">Notes</a> - Free and end-to-end encrypted notepad. (still in early dev)
 <br>`UNRELEASED` <a href="https://lnx.rip/sayrine">Sayrine</a> - Future discord tools.
 <br>
