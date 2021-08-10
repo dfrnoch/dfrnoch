@@ -48,8 +48,9 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
-          plugin_people_types: followers, following
+          plugin_people_types: followers
           plugin_music: yes
           plugin_music_limit: 4
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/1uoPSPScp98KV0SglFK04f?theme=0
           plugin_music_provider: spotify
           plugin_music_user: a4bwona21qt45c1xngulm6gog
