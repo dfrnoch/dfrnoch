@@ -17,10 +17,8 @@ jobs:
 
           # Options
           user: lnxcz
-          template: markdown
-          markdown: >-
-            https://raw.githubusercontent.com/lnxcz/lnxcz/master/template.md
-          base: header, isocalendar, activity, community, repositories, metadata, wakatime
+          template: clasic
+          base: header, isocalendar, activity, community, repositories, metadata
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
@@ -31,12 +29,13 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: lynxiik
           plugin_anilist: yes
-          plugin_anilist_limit.characters: 22
+          plugin_anilist_limit_characters: 22
           plugin_anilist_limit: 2
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
