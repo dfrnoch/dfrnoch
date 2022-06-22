@@ -17,8 +17,8 @@ jobs:
 
           # Options
           user: lnxcz
-          template: classic
-          base: header, isocalendar, activity, community, repositories, metadata, wakatime,
+          template: markdown
+          base: header, isocalendar, activity, community, repositories, metadata, wakatime
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
@@ -26,6 +26,13 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_visibility: all
           plugin_isocalendar: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: lynxiik
           plugin_anilist: yes
           plugin_anilist_limit.characters: 22
           plugin_anilist_limit: 2
@@ -57,10 +64,3 @@ jobs:
           plugin_music_limit: 4
           plugin_music_played_at: yes
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: lynxiik
