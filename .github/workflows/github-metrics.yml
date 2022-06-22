@@ -44,8 +44,8 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, scss, ejs, pug
+          plugin_languages_limit: 5
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_traffic: yes
