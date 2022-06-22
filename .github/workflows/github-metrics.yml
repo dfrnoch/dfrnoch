@@ -18,6 +18,8 @@ jobs:
           # Options
           user: lnxcz
           template: markdown
+          markdown: >-
+            https://raw.githubusercontent.com/lnxcz/lnxcz/master/template.md
           base: header, isocalendar, activity, community, repositories, metadata, wakatime
           config_timezone: Europe/Prague
           plugin_activity: yes
