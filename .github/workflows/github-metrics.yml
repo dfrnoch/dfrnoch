@@ -18,7 +18,7 @@ jobs:
           # Options
           user: lnxcz
           template: classic
-          base: header, isocalendar, activity, community, repositories, metadata
+          base: header, isocalendar, activity, community, repositories, metadata, wakatime,
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
