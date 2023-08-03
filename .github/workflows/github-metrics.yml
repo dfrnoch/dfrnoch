@@ -18,8 +18,9 @@ jobs:
           # Options
           user: lnxcz
           template: classic
-          base: header, isocalendar, activity, community, repositories, metadata
-          config_order: header, isocalendar, activity, sponsors, repositories, metadata
+          base: header, isocalendar, activity, repositories, metadata
+          base_hireable: yes
+          config_order: base.header, introduction, base.activity, base.repositories, activity, languages, sponsors, people, habits, wakatime, music
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
@@ -40,7 +41,6 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: lynxiik
-          plugin_followup: yes
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_ignored: html, css, scss, ejs, pug
