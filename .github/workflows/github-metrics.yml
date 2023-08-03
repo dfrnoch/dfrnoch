@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, isocalendar, community, activity, repositories, metadata
           base_hireable: yes
-          config_order: base.header, introduction, base.activity, base.community, base.repositories, activity, isocalendar, languages, sponsors, people, habits, wakatime, music
+          config_order: base.header, introduction, base.activity+community, base.metadata, base.repositories, activity, isocalendar, languages, sponsors, people, habits, wakatime, music
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
@@ -38,7 +38,7 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: lynxiik
           plugin_languages: yes
