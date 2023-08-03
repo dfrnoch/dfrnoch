@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, isocalendar, community, activity, repositories, metadata
           base_hireable: yes
-          config_order: base.header, introduction, base.activity+community, base.metadata, base.repositories, languages, isocalendar activity, sponsors, people, habits, wakatime, music
+          config_order: base.header, introduction, base.activity+community, base.metadata, base.repositories, languages, isocalendar, activity, sponsors, people, habits, wakatime, music
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
