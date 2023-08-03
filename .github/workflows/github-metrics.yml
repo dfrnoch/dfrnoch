@@ -18,9 +18,9 @@ jobs:
           # Options
           user: lnxcz
           template: classic
-          base: header, isocalendar, activity, repositories, metadata
+          base: header, isocalendar, community, activity, repositories, metadata
           base_hireable: yes
-          config_order: base.header, introduction, base.activity, base.repositories, activity, languages, sponsors, people, habits, wakatime, music
+          config_order: base.header, introduction, base.activity, base.community, base.repositories, activity, isocalendar, languages, sponsors, people, habits, wakatime, music
           config_timezone: Europe/Prague
           plugin_activity: yes
           plugin_activity_days: 14
