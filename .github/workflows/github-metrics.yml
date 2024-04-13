@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 */2 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: lnxcz
+          user: dfrnoch
           template: classic
           base: header, isocalendar, community, activity, repositories, metadata
           base_hireable: yes
