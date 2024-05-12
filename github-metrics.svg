@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    176k added, 129k removed
+                                    134k added, 73.7k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    6.52k views in last two weeks
+                                    6.53k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1559,11 +1559,18 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEEBQYHAgP/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiEGMRMiQWFCUXGBoQcUMpGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUA/8QAIBEAAgMAAgIDAQAAAAAAAAAAAQIAAxEEEiFBIiNRsf/aAAwDAQACEQMRAD8AwXBXa69s/mnthD+6JWFT4oyQM/DjNc3EYS39Of8AaTSluHuoo7NiJ3bC84/P0rKJ1SY73J3o2zmu9biiiSVg38ykZbA98VtM+jwaZFGmnXBkureQSK3AVUK87vvVQ6L8fSLZ9KtwkM93E1zNcSkoWQcKqHuOefeq11FDcaZrTNFIy218viRAMfMvz+uazHdrreu4P7Lw4/Srv7mwTX2n9Raci4EszALI2Mff2orDtC1jUOn9SCSTHwpSGcqchgfeiqtvCtRvrPiBLUz5CQczPOfYd+Kl+hzp8OuRvfsyxggbgM7Bnk4qvNI3mCng050yYR3DbyFJXg5xyDmtt0JQqJTQ4wMsv6oaw1zqDJHKDGF2LgfD6YPyqIl6ibWbDR7acBbjTlKCTtuGfLn+8VC9R3AnuFZM4x3qLtZTE7HAZSORmjTxlFQGeRG2XsXJ/Zbb+4jeGQy+GzYwNrcg59KKraTglsKfNxyc0UwU54ii2x1NuR2BGMV5nvwaKKkJCcXKFrbLZz6U2igO3caKKmpwTsip5ZcHGKKKKJnT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUHBgEDBAj/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMEAAUREiEGFCJBUTFxkRMWYUJDUoGh/8QAGAEBAQADAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIDERITITFR/9oADAMBAAIRAxEAPwD55aiqIGxpu5YXGLMzOkDQZDmlhGd1pGdSseMjFamBw6tRSQgH+qbzrXzVyiQnCpBSyOXbKNsAdYB74O/sa0Sm7qxvjD25MDBVn0PxXBhK8f5VVPCS9xo39q8r/CriMkoPxTsQa2TIxD4oqgOcNuD9o0U5k4ssfD9ibcQhRSMVuLZwzDeRlxhJcSCEOfqRn1we1LOEGlmK3q9Pat1DWhlAGRWU4Jrozm0+Ew+yGrXfbze5z0uX9JKGUaAD9NtW5KkgdQSfAzikdrt1zfmuI5V6RaCsiPMcbLSlJxkEpV1KHbV37VcYagifJdzlEjSnHjCcV2TIaHk5SBjFY6SY7GR42dAICkgUVq+IIaml6kjYUVD4KkzXW612+I0GwyRj80xTGh9mx80UV22SXDmbYvkJkIE5bEFag1p5dIWkF3+WN9vAzimuGgkDqT70UUJDcWz4DD4J6SfzRRRVYr4Tkz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">intellectual greed
+                                    <div class="name">Crybaby
 Explicit content</div>
-                                    <div class="artist">brakence</div>
+                                    <div class="artist">Elroy</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgIHCAP/xAAtEAABAwMEAQIDCQAAAAAAAAABAAIDBAURBhIhMRMjQQdRchQiQmFxgZGx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgQD/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERIQIS/9oADAMBAAIRAxEAPwDTGoardI4Kqync8qVvsual3PCi6fa6dofnaSMrrWaTp2O0VLrS+47R9nZIIyT3k9Y+fS8oW4K6N0ZYrNNosW67UzJnup31EbHEk4G4tII9+8A8rngN++o89dPckzFg044Mqoj+YQlrTJsnjx3uCFeI1BXZxNQ79UjG4h2VKXKllMhcGnCj/BIPwn+EjjZOmfiBPQyUbmeJsdFRvaYQ3Ae7nGeOTz2qI+bySvkIA3EuwEpDC7c8lp6x+6dp6KokxiN2EQXqQtr/AFovqH9oTNvttSJIyYnYyPZCepxtCPTlK6IF0Z3LN+mYsNEcTT88sCELLtbPmMKfRbHW+dj4meSV/kHpAlvIOAfbpXik0vb2jmip8+/pD/EIVyosNHTVDG3LKeID6UIQgP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Pedestal (Eurovision version)</div>
+                                    <div class="artist">Aiko</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1574,19 +1581,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQADAAMAAAAAAAAAAAAABgACAwUEBwj/xAArEAACAQMDBAEEAQUAAAAAAAABAgMABBEFEiEGEzFBgRQiMlFhQnGh0fD/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB8RAQACAwABBQAAAAAAAAAAAAEAAgMRIQQSEyIxQf/aAAwDAQACEQMRAD8A+p3H2+vmjfVeqzadZpFav2pJDnu7eFUegSMZNd2RyshDA4xxj3XC6stJ7vp8r93bU9yVVAzgcggEEeecUlhsJV0wmh7DMV1c3DGQy3n2ttOblsH4z/qmfTd6bmwMbl3mgOxmfJ3ewcnzxXry2voLfU7TTHuEe9nV5OzuALquAWH6H9s4yK7/AErrGn3p+p0SYyBpOxMrsSpcEjAbxnIK+M5rJjrkxW3c4yl7VscjxTkZ4qqAAHAqrdJTF037c+jmtU7xqkvecdtVJfJ8D+azmjZypWQrj/NGOuD9H09dvbzOs0xSIuSMqMkkgnwcZrg3OhqXspLcbXhCWzKpkIO6IMF3cjz8Y44pvodjYW1kZLLZLHO29mxgMwPnHo5+c0BthF9GnbAWC7YKBnODuxjPs4z80v6KydDjtxJI88DNveT+olicgj1xj907VrQF3B+xSDkZFVaLWNkQ7yS5PJqpIZ42pXMkTwQwSRpJLnlhkhRySB/3mimq3DT3aiR2leGTHbVSwwR+efxHn1zjNVVZcdm3leheBG18dwyVgklv7d2ZI0fuR5baIz5LDnjBpDol5daNavLLE8NtI3BnjIQfoZzkeffn1VVT4196wsewFBjDRL9tSsFuTEY1Ynac8OPTL/Bqqqq79yU//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAuEAACAQMDAwMCBQUAAAAAAAABAgMEBREAEiEGMUETIlEUMhUWYXGBI1JikaH/xAAaAQACAwEBAAAAAAAAAAAAAAADBAECBQAG/8QAIhEAAQQBAwUBAAAAAAAAAAAAAQACAxEEEhMhBRQiMUFh/9oADAMBAAIRAxEAPwBWtPUZrKm5LcWklo5jEyYmkiEZELkngkhcjOMEZ0xyWNPrY0o+oIErAakbVlLFgyn08sOBtJJx4x+mlvomBKrpasqxj0I5ljmiRF9aQ7T9rHxjx57aaLHJ0XaKl1rp3qbm6yOjsxCMylzsABwT7yvPfjGtDc+lJbDifFULpuivlvoYg1THU/00XfuOWwFDHnk87v31k1lY9ouNQ15rAsjZMIWb2n3EdsZzyBg+dRim6ku091lq/wAduSTmQyblVjHH7uFYA8DHHA4+D5qF3o6KZvrpa63XA1VMJI2lmWBozneqlW75x3wD+2obMqSYDm+1yostrlpKOs6hqLjX1m0mlWdSjN7CcM3OODxkZ34xo1DHvkfqh2ilMsTBlfIBBUKB/wAXRqBOBwu7W/ap9oofyJeqGQ0T3GsqgR6MkjII5FziTaOG5Pnt/OsifpSru4ikkklgqppMLGyklSPnBwAM4HHbVBXpihlr6gy3hqmYR7KdKiT1GizyPdnOdLt0s1Lb9rUF6Uzp7niirFk5P+LYIxjxnQcmJzuWGltdLyYWjRILJWF+GRpcJ6SvrFprhb4XaKOMECcjJ2gDAyR50nVkkTwFkgYlG9iyKpIzg4PGcZ+eNP17pKQx0809U8TzoVmm+9V3ZBIBOdvtH88aQKwBLJO4qhKIaxdo7Eo6nn9vZ20nGDVgrVzpGjwcPi4r/XU12vH1FLQUVuiKqGihyqbvJx4J+Bxo1iKMOQPB0aZv8XniFvSfa071ohZyWRI5st88sx7efOuWmutHHdoqmspmqFV9zZfcW4/Xg86NGg6y6wU3KBGA5qe5eubPJRAPbYnYR/awX+4e3v8AHOkC63aCqqqtqeBooJmyqcYUZyOO2jRoUIolWyZ3vq1y04SRTJIygD9QD/rzo0aNGa48oOgEBf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Amane (feat. b2nny)
+                                    <div class="name">HARD 2 DA CORE
 Explicit content</div>
-                                    <div class="artist">dashie</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHCAUE/8QALhAAAQMDAwMCBQQDAAAAAAAAAQIDBAAFEQYSITFBUQcTFCIjYYEVMnHRkaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQEBAAICAwAAAAAAAAAAAAAAAQIRAzESIWH/2gAMAwEAAhEDEQA/AM/S4T1zvEplR2COMJA5J8VzlWyQlO5CA4BgHZyQfGOtUC9adurVyVPtbSVoW2n3eduMHH54/wBV29M6bDM1+U6p1TzucoUQUo84x5/5QCDpSC7HvDQltbW1NlwBSNwUMZxjp/VPDcRMiG682hLRSrc6jfj5eAkAHk17F21xTsqcltp9nKmEfLw2AM7uvXHH4rs6MhwWL4qLepcJhtaE+4HXAMpPIAUMgEjsarGOjhx330X4MXetttbak7+Acd/zwaKqvqX+lt3i1yInwMlpIAeYZcClFKeQFKHTIOKKV0yy8d9PTbLKnZ9RKdmPm3dMd81PtX3eAie3D0y+t5kZ+L9pGUpT32LPJ8ccc8GrtK0rGvUAQZvu/CLWkuttq2+6kH9ij12nuBjPTpUe0vpd7VWodQ3SJcWWJseeGExloIaLASR7KkjBAACcKHQo4pIMFvjwYNpZckKQmGlv3FOKGEgbdxJ/H9VE7ldHrteZU15lbcR3KorZb2gtZIScD+P81foPpVInpQ3qu7iTAYJUxboiChkHkpLijy5jxgClXWmlVrubartcEKWyyiEp9plLTbSwPpqWkcBCumRgA9aca8d+p1p7VUqwXFh+2upQ61yG3UbmyPBB7H7UUvXa3yrXdJkW4NlqW1hBB7fceRjmikmtpepKpFs9OdQTIMgxJDMRa0PDqjyR98Z/g1mTQGopOlb8xM9xDsZ7PxIJ+ZxIwepOMjkjucqHeiikmNTMSUTobUmA6hbbqQptZ6EHoalUpG7Ua49weebUwgrcW8U7Xc8LbUk/uSoYOexziiiqOX0mnqQ6i4agtrjbIQ0hlaUJIG4pSRjd5xnj7UUUVIj/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Kiss Me (feat. Cold Hart &amp; Splashgvng) [Remix]
-Explicit content</div>
-                                    <div class="artist">Ekeon, JOLLY WRLD &amp; Weepings</div>
+                                    <div class="artist">Pouya &amp; Terror Reid</div>
                                 </div>
                             </div>
                         </div>
@@ -1595,7 +1594,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2024, 16:03:19 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2024, 18:03:27 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
