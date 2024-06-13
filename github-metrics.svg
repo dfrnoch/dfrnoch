@@ -32,16 +32,16 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    686k added, 639k removed
+                                    628k added, 579k removed
                                 </div>
                             </section>
                             <section>
@@ -309,7 +309,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.49
+                            Average per day at ~1.48
                         </div>
                     </section>
                 </div>
@@ -1307,6 +1307,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1563,21 +1568,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAuEAACAQMDAwMCBQUAAAAAAAABAgMEBREAEiEGMUETIlEUMhUWYXGBI1JikaH/xAAaAQACAwEBAAAAAAAAAAAAAAADBAECBQAG/8QAIhEAAQQBAwUBAAAAAAAAAAAAAQACAxEEEhMhBRQiMUFh/9oADAMBAAIRAxEAPwBWtPUZrKm5LcWklo5jEyYmkiEZELkngkhcjOMEZ0xyWNPrY0o+oIErAakbVlLFgyn08sOBtJJx4x+mlvomBKrpasqxj0I5ljmiRF9aQ7T9rHxjx57aaLHJ0XaKl1rp3qbm6yOjsxCMylzsABwT7yvPfjGtDc+lJbDifFULpuivlvoYg1THU/00XfuOWwFDHnk87v31k1lY9ouNQ15rAsjZMIWb2n3EdsZzyBg+dRim6ku091lq/wAduSTmQyblVjHH7uFYA8DHHA4+D5qF3o6KZvrpa63XA1VMJI2lmWBozneqlW75x3wD+2obMqSYDm+1yostrlpKOs6hqLjX1m0mlWdSjN7CcM3OODxkZ34xo1DHvkfqh2ilMsTBlfIBBUKB/wAXRqBOBwu7W/ap9oofyJeqGQ0T3GsqgR6MkjII5FziTaOG5Pnt/OsifpSru4ikkklgqppMLGyklSPnBwAM4HHbVBXpihlr6gy3hqmYR7KdKiT1GizyPdnOdLt0s1Lb9rUF6Uzp7niirFk5P+LYIxjxnQcmJzuWGltdLyYWjRILJWF+GRpcJ6SvrFprhb4XaKOMECcjJ2gDAyR50nVkkTwFkgYlG9iyKpIzg4PGcZ+eNP17pKQx0809U8TzoVmm+9V3ZBIBOdvtH88aQKwBLJO4qhKIaxdo7Eo6nn9vZ20nGDVgrVzpGjwcPi4r/XU12vH1FLQUVuiKqGihyqbvJx4J+Bxo1iKMOQPB0aZv8XniFvSfa071ohZyWRI5st88sx7efOuWmutHHdoqmspmqFV9zZfcW4/Xg86NGg6y6wU3KBGA5qe5eubPJRAPbYnYR/awX+4e3v8AHOkC63aCqqqtqeBooJmyqcYUZyOO2jRoUIolWyZ3vq1y04SRTJIygD9QD/rzo0aNGa48oOgEBf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">CHEVY THANG
-Explicit content</div>
-                                    <div class="artist">Pouya &amp; Terror Reid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Chains</div>
-                                    <div class="artist">Alex Yarmak</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAQMFAQAAAAAAAAAAAAAAAAQFBwECAwYICf/EAC8QAAEDBAECBQIFBQAAAAAAAAECAwQABRESIQYxBxMiQVEVoRQWMnGRJWGBwdH/xAAZAQADAAMAAAAAAAAAAAAAAAACAwQABQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADBBESIQUTMSL/2gAMAwEAAhEDEQA/AOaND39qf+kelZnVMmRFtq2jMbaLqGFnUvAfqCT2yBzg4yKTMwt1ahC1OqwGwgZJVkcY/bPb3qbPASyOJmykTrIy0tlSk/UHHC1Ijq7FISTk8H2SCPml5AatCw+wqyGYAxHP8Dv6dYFpltwnCyTc1vHOih6soTnkgenA49OahKbFS3LcS1sI+5Da3BzrngnH9vivQiVYYKrectuSFNoy24vGqTgjI2zn78Vyb4tWhd46sdds91/MTgaKlNw4ygIqE4ATgDUgZ9j3781PjC0NxtO9xtxr1tZEnZGvloI5G2Of3op6n2iXBf8AInw3o0hGQpLzakqJz7g/xRV/qMm5iS90Wi4dHyJtxt8eCZHkhIdltblr1DlHPB/1Vt2h33qDqI3aY4V3P0kONIDeuv6cY+PmsUlmT9F/Eeetb8h0pSy4rJ0TqQcZzn1BQ+QeKkqIqy2+O2yiet7VOpXryqo28go3z0IdVJsOwpjnI6+U908GFxn1XRbJaW4VHykrIxuMe3vgDvUcdKwrn0XfkT7W5GecfZ8tSlJK06kgkdxzkDmtyTPsvn6ZOmudsc5z8Vivsi2ps0p2BLSzIbTuFKR7Dkj35pdebjVn8t9j7Mdip2NzT/EA3DrK+/i5yWtGEllpDWdUpyTnnnJPNFIHYFwhKakwnEybg/s2I8fnVSnFoByfnHfAxmiq0zQw6Ei7XoqZrn1LDTTLKTqgjXntjt9h/FK0XJ1SMqOFfGaKK51kE3Acy9NwVuDv6iMdvtVV3NzVSVAlJHIP/KKKWa1hhzqDPUBbfQ4eVoyAT7cg8f5GaKKKL0pMFrT/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">BOUNTY HUNTER
@@ -1586,11 +1576,26 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEEAwAAAAAAAAAAAAAAAAUBAgYHAwQI/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQACAwQFESExBhJBUQcTFDIiQ2FxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAQB/8QAGhEBAQEAAwEAAAAAAAAAAAAAAAECAxExE//aAAwDAQACEQMRAD8A9Uoii+JK11vsdXUsbI8sb8v3anGR9dUEg+aKNri+RjQ3fLtle0hwBB0Oq1XE+5snNbUwwQUsOJoqeIea+fBOQ95BJ016AHZbSieJYmyM9rhkHHRBeiIgKGu0nqXGjki5qV+GSOBPMDkYI/KmVwSwt5zJj4tFl7I13xyLhbpnUNDDFJb6uKQlzWgSxucTsew201AK7PhbNLRwSWyommljcTNAZTnl7tB7dVk9/t5vFua+lcG1EeXRF2gJ6g/dY9wXQyPuLnysfGaRxyx+4cRgD+n9KTf0nNOvKrzca4bL7GeIiKxIIiICpgZz1REFUREH/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhEzEGB0FRYSLRFCMyQmKBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwCVk0qK3dd0cjj+T8H/AClWqR9MjajJjvkmqO31K2MP1SLweGbvWG9jXUpGaMHAXap96DHK76Sya4jp+o7hUJ3McDml9y8ihiSwX9OaapC9xfx2wwru+3t2NV3inRdO0uzFr1EQFcbpF5L4yT8CnG5tAJ72fpWyF5McLnmimHheHdqcZVWI3/UAP2+tFa4yhZVZkXlmGRz7c090m/QKvUI2Mnb34+9T2m27R75rhgZMEAKeBWmGZRB0lBU80Oeslzjz6ph8Q28yEL+chzjtzVF5zxiGVZAx7qNvvke1c81C6eNXJJBU4U/NWnmlfrqVrpN/ayCaGe1XqOnIVgOQT6Grx8ZUr4T1Y2OqxSMO7YxRU3a3DLcqzcKp3HiirlTpfWjIUI53Uv1B9twNmQPWiivN6Xwo1ePfbMC2Fbt96T2eozRWclr+Jm6D94wxCsfkUUUmCa36Jp1vdWpuZNStY5VcgWjbuq3bBGBjH90UUUkQ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ivy
+                                    <div class="name">god is dead</div>
+                                    <div class="artist">glaive</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFCAIGAQME/8QALBAAAQMDAwMDBAIDAAAAAAAAAQIDBAAFEQYSIQcxQRMUYSIyUYEVI3GRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCsMCTJgTWJcJ1bElhYcacQcKQoHIIp2aGtd91Lply9Wu6PJvDrzqJKyshSlE53AjyeecYzWgaK0NeNXOvps0dtaI+31XHHAlKM5xnz4PYU/tDacuGj9MtqhhUx+C857pDSeXmycnaO5KDyPyM0EvomKu1adbs/8PPtEttwrU+2G3w+sjcFr+rcvOO+AQRjIpBaza1RE6kLuc6K8m5y3ypjawpr1eNoKcnIH+TVp7dd4N/tZettzaYdUnjJH0nzjPiq/wDUp+Pp/VkebKu38zcEKC0sg8DHKQccAZ8DGaBbdTWLnF1U9HvsxqXcG20eqW1bg2ojOzPkjPNFa/dJki4XGVMmLK5T7inHFEd1E5P/AGigYvS7WMvRsqZLZZTJiPJQ2/HJ27+cgg+CBmrA6O6n6SnNKKbgm3vrUVKYm/1kKPfCvtP+6QvSWzQLtfzDuvt1xFtFRaekejuWPtCT3Jz4HjNMtzploy3XL3dyuxRGS5v9o4+2gY77NxO4j57kUEv1GsOjL7CkSodzgRZrmVetFmoQlSvypGSkn5wCfzVatS2pq2zVMx7lFuQxy7HUSkfGSOf1mnjdpnTm031M2MliRIaSoNiMj+kg5wlSAkjIzjd3/fNQV61boBMiZIj6Y9y8+56h3NBKM5zwCr6e54Ax2HOKBKymVmIxIdCgtalJyR94GOfnvjPxRUpq27IvV3XLZjiLH2pbajpVlLSQMbU4AAHnAHc0UGSFq8AhVdweWTlWc0UUGLr5JwRyK8b7gKVZBz45oooOG4sNy2PyHbkhqUgnZFLSiXBx2UOB+/xRRRQf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">the cake is a lie
 Explicit content</div>
-                                    <div class="artist">Elroy</div>
+                                    <div class="artist">ericdoa</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiFBVRcTJhgZGhFkJDUrH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjEEURMiQf/aAAwDAQACEQMRAD8AgdC251RVudS0qtJuVvQcZZjyCcYxuPGruwuUFSIreaPZtTh/V3DKgnOOO/8AGqJ0VDcY6qAET/KYnQKUICbt44I79zrXLJsafe+M4T9tq6DmZsxC2RHBBjF9xFXi/wACQjdbY2df880iZbj8OT276hVVHfkSQ3EUwiCsx9N5M8Akdzjvr1k6ear6h6grrnPTVjPIBBBVlnhij/uyo84xgHj9dMLDbpDZ5KQzoIJ5pWpsOZFjgI9oUnnGOQPGcaNwbZDnUrYFWBuZHRzfMr2dkpkI3g+wDsoz/OdGrVF0xD09fS/xcVQJHb8Mewqp8YyQfvo1t+NkDpdwWRRy1O+mqKjrLDD8rlpkuUsQMbSjhXBVgQwHDYB4A86SVvX9faL7VWuoiEJ9GNYJE5fO1cNzxyO2eM6x1bhWR0yyRzvAjyeqixtsAYcZUDtwSNMLq5qLDRVtRc2qa1mMbRPkvEoxtyT4POPpjQUx82+x/Ig5PjANXNOmrrveJ7t8rq2EjIjSCqUHcmGB9v8AtnbyPvqzdI9VtX0zUzRwxzUcPAjbKMoBHH2xjVbt/WUdpscVVcgtaapBtekp1jCOo9yP255U554OlDdVVlZUTS2GkijiaEsZKiFQSygmRQ/c8EcA/pzolPRWot3xMCQJIufV0lTVRJVRxwVnrPG8SqQwKkAd/rk8flo1nZvaf1DDcLjC+VlWWRYn92Qc5BOjT8ZGNeKTNZjcTW+qE0RhmUP7CFbyoA13TyJIhikbAI4+/jRo1zqSckjZ6jKirJqmmngVlSCFPWZOcMRxx4zg/tqXBUz3mChtXxQpqWjEkvqOSQisQScD/nf8/oaNTCiifUaGLLv1K/1EaKGrEdDNJUKg2tI67dx+oHgaNGjVVGoNjuf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">It Boy
+Explicit content</div>
+                                    <div class="artist">bbno$</div>
                                 </div>
                             </div>
                         </div>
@@ -1599,7 +1604,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 00:03:45 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 02:10:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
