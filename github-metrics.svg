@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    30.6k added, 7.05k removed
+                                    575k added, 553k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    6k views in last two weeks
+                                    6.04k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1536,32 +1536,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEBQEG/8QAKxAAAgICAAQEBQUAAAAAAAAAAQIAAwQREiExcQUTgZEUI0FSYTNCUaGx/8QAGgEBAAMAAwAAAAAAAAAAAAAAAgADBAEFBv/EAB0RAAIBBAMAAAAAAAAAAAAAAAABEQIDEkETMVH/2gAMAwEAAhEDEQA/APT20nnJbKZvPTv6RDY/EdDrO7Vw8+7Rh/Djf57SvHp6co/xA4uAitlZNaHeiOuu8rpp5AjRB5gg8iIuQKtnKUIAhK1Tl0hDkPAsasRRSsA8e/SR3eKNW/6LPV91Y2QO05fl1AbZnA/I1MU1LRsin0ZZj4jE+ZUG3/KgxvywAK9gDoNTMbMq+5vXlG0WizflktEnVsLS0aGxrrCRW2sugUbZ6coS1SBtHns7ECKa7LsptnZC8IB9hv8AuJHw1bVoqs7t+2x2Y+kIRdlTcFBxcVtIyN2Rjv3+kuoxcemoKrOi9+I+5hCcCRYlGNaAHdz2bX+QhCSCSf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBAYDAv/EADEQAAIBAwIDBAgHAAAAAAAAAAECAwAEEQUhBhIxIkFRYQcTIzJxkaGxNENSU3OB0f/EABoBAAEFAQAAAAAAAAAAAAAAAAMBAgQFBgf/xAAiEQABBAIBBAMAAAAAAAAAAAABAAIDEQQhEgUiMVETQWH/2gAMAwEAAhEDEQA/AHdjBp7W4N5M0cwY5A8MqB/e5roY9MzynlDHGSkpIX3s4ON+i/OlXeM16iXndguCUUyMM+6o6sfAedZhpvQC6a+PjbnPICcLa6QWUNMVB2BVidsjdttj1yO6k7oSWK55V+2dqucR6XqGkcMNq6pDMmAVVHyMN0JI7unTxqjpepR6hoNoYEBM7CRiBuCBjl+eaI+JwHJwpRoMqNzyyN/IqR2ceNFdpIXhbllXlf8ASeo+PhRQaIU+wdhVwct8KyGs3b8NcZQawsXr7eeF4poScCRSpVlz3bEHp1rXqvh1pJxpYm90GXlXMsHtV28Oo+VSMSThIL8FV/V8cz4zg3yNqzrOu3V16IbWS21yGGMexexV0LlefAQ57ZbHayMDFJfRlqToJ7VCDLGfXREjJXOxx55+9ZfTuGdQvijR2xVP3Jewv+mtrw/w62mXUV1LdM9wqkARryKAfqascqSLgW3tZvpOLlfO2UN7fu1pyXZy0nNzNk8zdW8/OipmvbqdFSWeR1UYAY5xRVOSFsmt13aXAY2NRnJXuFFFNRFaWG2yM3gx/G1SsFuT+LXG/wCWaKKW/wAQqPte2t7dYyVuA7dy+rI+tFFFPpJR9r//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sweaters</div>
-                                    <div class="artist">Ivan B</div>
+                                    <div class="name">Notion</div>
+                                    <div class="artist">The Rare Occasions</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQHAwYIAgX/xAAxEAABAgUCBAQDCQAAAAAAAAABAgMABAURIQYSBzFBYRMiUXEUFjIjJDNCUoGR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFBAv/aAAwDAQACEQMRAD8A5odk/h20BxbTi3d20tOhRRtJB3AevTPLMSBKoRL2Qkrd6qF7jtblESSlg8r8ZpoD9arRYej+EupdUMrmKcywmVQAQ67MbNxORYc+WciAq8N2njuRuCTfau+exsYutrS+lmqC1NTFIa+J8NKlbZhwAk36BRtGTR3BOtS+om16no6V01s+b74gpcN+tje3brG88VqZQafR20TalU4fQ05LI8QAhJskp6j+PeMdTgU/MSNAmqYh2jooslVGnVFyXm33vtGwlRtm4tj1Bv6QjSGpNqZmlLqMwplu58yUXPLGPe0I0nzJRKXF7SUpwTnrbpF/cPONEnpvSjUrMMJfmGObe3apY5ABQxyHMjAxmKSYp3gNtPOFKlqyE/7EqtPSiZBLYlmkPkDzfmv/AFCZdQ07i3L6y09WvluQWiryUsJkSc4RZ1A+vYpJyUjOextHO3ETW9Q1dVAp9axKsXLLewAgdSbcz3MaYzMuoF0KKCARdJsbdRiJNIqq6dPomgy09tSpJQ4PKoKFiD+0FaqYFTS3MLJI94RHdWFOqUlIQkqJCQcDtCFJCqk6UAWG4C245I9oiKcKlEqJJ9TCERed2YEmEIkBWOQhCEQf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgID/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDAAQRBRIhEzFBUWEiMhRDUnGBkfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIB/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhMSIS/9oADAMBAAIRAxEAPwCJp9hGCXBBwfFWItiouB2+aWhURRKkP0pwAAvamY4mjX9XIOB6qdTXksVNaZ6T2/4qAspiMirld/Hb3moi2EkMWLgqXvJBCOQDt7t4z4AqorO91thBDLnGGxXRuoWcBljLxgHJ75HB5/as2Bh82Gx52YO/0zpXIhJk7jLBcjb7HainteldJ2TqYjLYG07uw5wTzj5oo1g3OVopuaZYZo2EZuEL43FQmB/PmrunWyOpDkBhgVJg063SRIre7nRCCz/X93o/7FUo1ZV6azsY8Y5HJHzTiJxUsv0RK9eFb8vD+XxlR5peeaxnuHkMQhyeSQcP88U/Lb28EPVkd888ZHNZq7dppWdnIHgYAAqV3Uc4C5ONetbZ5FlbYwkP0oGxk4APPiiptxGGzudsfNFHXsM4vxzc08TOsgQSNgeCR2/qq8BJQMzEAUUUsmq88kbV5zLMRliBwM03p+oafZ2jwTTPiTpu2Y8ncDnHb7R688/FFFTXTF1fmTtc1WxudPu4+vKilVeKNY+GkBPGccDDHzyfVFFFSe9YLJkS0//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">MILLION DOLLAR BABY</div>
-                                    <div class="artist">Tommy Richman</div>
+                                    <div class="name">Fright</div>
+                                    <div class="artist">Rain Check</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCCP/EACwQAAEDAwMDAwMFAQAAAAAAAAECAxEABCEFEkETMVEGImEycZEUUoGhsfH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAgMFAAH/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADERIhBDFBUSIjMmH/2gAMAwEAAhEDEQA/APMqmcpKAOi58AkfGaY2+mh4J2KAkj2zJI7d+wHzH2mrtvbMMaUlG5Tzji8ECNkCY/J/7VpizUw25e3DjaQlOOofqHIH7if6FEe71NSjpdhs3A8zW6daIc9C3dkt5x9tz3tBSwYg9kycDueD2rD3Gn3Fupzo24b2ZUEq3KQeFGP47fetz6r1q09O6ZYM2XQuLxxAFwlIJQwMHZJ54I4isvo2u6eNY69zYsOqjbtJUFBUQDIMEZ7RBiiUGwZfHBjLT05+tP1M7dG+dB65eWCoqO5ZUCfP+UU41NCbqwdSoFoB2QRmZEjx45opi2Aj1M62plbGCZU166/QuMMJY9pb6gSVYG45HzBEd+K40/UrrUHmjcOBabZBS2ggQkTOBxmufZrjaUFW1xChCjwIyI8YpgqwtrBSE2yTOwJWo5KjJz8VElVXBHM9LWN5+MEXb15Zh10yOusqQrPu8meYxWd1ozfTtCVbRJHPE09ZLnWvmUAdNKkvLHyYGPzUN3plxevtOWzHULf1kkADkAzjzXVkK38lTguMDvI/ShVdqura4WssdMLJmYIMCPzRTJkNW2uXrTDQaauLZKiBENnBjGBnEeTRR7ss2VOI2k6rqxziI7G4Rb2ctjZ3ClESoziacp1IBy3S8lKmHEpUUAwVGSDn7UUUqxQYNGI4jl1m20m0c1VLzTy1R1GikkESIAIwoY+KQq1RV8tbjLgZW4ouGcAknsBRRR+nGylj3zLrTo4VfUit7tKX7o3S0nenYrafcrmQRiMUUUVeVEgrmf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAUGBAcCAwj/xAAmEAABBAICAgEEAwAAAAAAAAABAAIDEQQFEiEGMRMHFDJRQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APVKIonauzBlRtxHOaCw99cbv+bQSyKrZ24gw9jj67L2ZjzpYTMRya1rWggWb9WTQ/dH9KR0krpppXDLkyIS0cbc1w9+wQEEwiIgLCyHj71jLF8Lr/VmqG3OpmzcqLKxsowzRN4tBbY92gpPmfgOu8p+pGqzNthOydfHrZmzguc1jnh7RGLFd055991/SufjWq1uigbrdPjx4uNEy2wsJ6BPvs37XH5MwTfZHLwDsPj+UR2Q4sui/j7q+r9Wurx7VbDB2+bPnSxTRysaGvDjyJuz1XQQWNERAREQajPinmjvqU7yR2djDGbPxZjt9HH/AB4kmz+PdChyPLtbcREBERB//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Terminal</div>
-                                    <div class="artist">natori</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUHBgEDBAj/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMEAAUREiEGFCJBUTFxkRMWYUJDUoGh/8QAGAEBAQADAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIDERITITFR/9oADAMBAAIRAxEAPwD55aiqIGxpu5YXGLMzOkDQZDmlhGd1pGdSseMjFamBw6tRSQgH+qbzrXzVyiQnCpBSyOXbKNsAdYB74O/sa0Sm7qxvjD25MDBVn0PxXBhK8f5VVPCS9xo39q8r/CriMkoPxTsQa2TIxD4oqgOcNuD9o0U5k4ssfD9ibcQhRSMVuLZwzDeRlxhJcSCEOfqRn1we1LOEGlmK3q9Pat1DWhlAGRWU4Jrozm0+Ew+yGrXfbze5z0uX9JKGUaAD9NtW5KkgdQSfAzikdrt1zfmuI5V6RaCsiPMcbLSlJxkEpV1KHbV37VcYagifJdzlEjSnHjCcV2TIaHk5SBjFY6SY7GR42dAICkgUVq+IIaml6kjYUVD4KkzXW612+I0GwyRj80xTGh9mx80UV22SXDmbYvkJkIE5bEFag1p5dIWkF3+WN9vAzimuGgkDqT70UUJDcWz4DD4J6SfzRRRVYr4Tkz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Crybaby
+                                    <div class="name">Drain Me
 Explicit content</div>
-                                    <div class="artist">Elroy</div>
+                                    <div class="artist">Arizona Zervas</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiFBVRcTJhgZGhFkJDUrH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjEEURMiQf/aAAwDAQACEQMRAD8AgdC251RVudS0qtJuVvQcZZjyCcYxuPGruwuUFSIreaPZtTh/V3DKgnOOO/8AGqJ0VDcY6qAET/KYnQKUICbt44I79zrXLJsafe+M4T9tq6DmZsxC2RHBBjF9xFXi/wACQjdbY2df880iZbj8OT276hVVHfkSQ3EUwiCsx9N5M8Akdzjvr1k6ear6h6grrnPTVjPIBBBVlnhij/uyo84xgHj9dMLDbpDZ5KQzoIJ5pWpsOZFjgI9oUnnGOQPGcaNwbZDnUrYFWBuZHRzfMr2dkpkI3g+wDsoz/OdGrVF0xD09fS/xcVQJHb8Mewqp8YyQfvo1t+NkDpdwWRRy1O+mqKjrLDD8rlpkuUsQMbSjhXBVgQwHDYB4A86SVvX9faL7VWuoiEJ9GNYJE5fO1cNzxyO2eM6x1bhWR0yyRzvAjyeqixtsAYcZUDtwSNMLq5qLDRVtRc2qa1mMbRPkvEoxtyT4POPpjQUx82+x/Ig5PjANXNOmrrveJ7t8rq2EjIjSCqUHcmGB9v8AtnbyPvqzdI9VtX0zUzRwxzUcPAjbKMoBHH2xjVbt/WUdpscVVcgtaapBtekp1jCOo9yP255U554OlDdVVlZUTS2GkijiaEsZKiFQSygmRQ/c8EcA/pzolPRWot3xMCQJIufV0lTVRJVRxwVnrPG8SqQwKkAd/rk8flo1nZvaf1DDcLjC+VlWWRYn92Qc5BOjT8ZGNeKTNZjcTW+qE0RhmUP7CFbyoA13TyJIhikbAI4+/jRo1zqSckjZ6jKirJqmmngVlSCFPWZOcMRxx4zg/tqXBUz3mChtXxQpqWjEkvqOSQisQScD/nf8/oaNTCiifUaGLLv1K/1EaKGrEdDNJUKg2tI67dx+oHgaNGjVVGoNjuf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">It Boy
+Explicit content</div>
+                                    <div class="artist">bbno$</div>
                                 </div>
                             </div>
                         </div>
@@ -1570,7 +1571,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2024, 20:04:30 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2024, 22:03:26 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
