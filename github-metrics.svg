@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    23.7k added, 5.33k removed
+                                    53.5k added, 36.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1439,33 +1439,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhEzEGB0FRYSLRFCMyQmKBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwCVk0qK3dd0cjj+T8H/AClWqR9MjajJjvkmqO31K2MP1SLweGbvWG9jXUpGaMHAXap96DHK76Sya4jp+o7hUJ3McDml9y8ihiSwX9OaapC9xfx2wwru+3t2NV3inRdO0uzFr1EQFcbpF5L4yT8CnG5tAJ72fpWyF5McLnmimHheHdqcZVWI3/UAP2+tFa4yhZVZkXlmGRz7c090m/QKvUI2Mnb34+9T2m27R75rhgZMEAKeBWmGZRB0lBU80Oeslzjz6ph8Q28yEL+chzjtzVF5zxiGVZAx7qNvvke1c81C6eNXJJBU4U/NWnmlfrqVrpN/ayCaGe1XqOnIVgOQT6Grx8ZUr4T1Y2OqxSMO7YxRU3a3DLcqzcKp3HiirlTpfWjIUI53Uv1B9twNmQPWiivN6Xwo1ePfbMC2Fbt96T2eozRWclr+Jm6D94wxCsfkUUUmCa36Jp1vdWpuZNStY5VcgWjbuq3bBGBjH90UUUkQ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYC/8QALhAAAQMDAwMEAAUFAAAAAAAAAQIDBAAFEQYSIQcTQQgUIjEyUWGEwxYjRnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAiExcf/aAAwDAQACEQMRAD8Ap195uOyp19xDbSBlS1nASP1Jr0hQWlKkqCkqGQQeCKmG0dVtRdQYj7blsiKEBtyS7BjLWn3rYCUlpSSTn8eQQofX0abkXqLD2adYtFseuMeZ2o76oLqVmAtQACVoPyIHk+AM1jctZstPWB/iv7n+OpqXjFUp6wjj+lf3P8dJLSeh71qmJMkW6I+Y7Layh7t5Q44nB7QOfxHNSh20DycLkHmHvbe47Lvt93b7uw7N2M43fWcc4orvLrqa5WnptK0TcrLDiqZnZeQ+0v3CXCneHd27AVjCcYxiiki0OhMyM3e5dteXNYvUxKm7aqOra3Hd2KJWobtpOAAAUnnmsnTuqZWlesAurkq5ezROUqQEDDjzO4lW5AwDkEnGMV03pxu6WLncbY3boz2pLottFukzEYQztStTmVgFScgDgDk/dM7WvSVy8APQ4qWLksyluLba+O4OkpAOASFJXgZ5O0flihksb1EzmtcsdO3dMqMlF4W+3F3jt7lKU2nBz9YPBpidINKjRdpdslx1LFmXhxYCYzbmBH43dtKScnklWcAnP+qSkRxyJY+i4uTvZMK6yG1lPyU0EyGyUqAGcg5GPuurs+qYb/qBu8y6S0RLbZVTHnFunYhJCW2k8k+TuOB91IPtCnkjupUyRL1PqVyYoqkC7KQs/qkKTxnx8f8AlFY9xvMCXbrk3IguuXSXNMsTjJwBknjt7eeFHnOc0UhX2pX072rTUTVDwhvRbjdkxVKEgS0u7ACAoto2AjOfxZzjjzVFeaKKUs03eq9xdkk6TkWVZt0jfMc7kX+0rcoNhSsjyfJ+6nBi5zYcC5Qo7+I1wSlMkKQFFwJVuT8iMjnyCM0UUTVD0wPS7TuiYEG7KtyJkpiPJmLurAVucdb3pG9SduMA4A4AH5miiiir/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">god is dead</div>
-                                    <div class="artist">glaive</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFCAIGAQME/8QALBAAAQMDAwMDBAIDAAAAAAAAAQIDBAAFEQYSIQcxQRMUYSIyUYEVI3GRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCsMCTJgTWJcJ1bElhYcacQcKQoHIIp2aGtd91Lply9Wu6PJvDrzqJKyshSlE53AjyeecYzWgaK0NeNXOvps0dtaI+31XHHAlKM5xnz4PYU/tDacuGj9MtqhhUx+C857pDSeXmycnaO5KDyPyM0EvomKu1adbs/8PPtEttwrU+2G3w+sjcFr+rcvOO+AQRjIpBaza1RE6kLuc6K8m5y3ypjawpr1eNoKcnIH+TVp7dd4N/tZettzaYdUnjJH0nzjPiq/wDUp+Pp/VkebKu38zcEKC0sg8DHKQccAZ8DGaBbdTWLnF1U9HvsxqXcG20eqW1bg2ojOzPkjPNFa/dJki4XGVMmLK5T7inHFEd1E5P/AGigYvS7WMvRsqZLZZTJiPJQ2/HJ27+cgg+CBmrA6O6n6SnNKKbgm3vrUVKYm/1kKPfCvtP+6QvSWzQLtfzDuvt1xFtFRaekejuWPtCT3Jz4HjNMtzploy3XL3dyuxRGS5v9o4+2gY77NxO4j57kUEv1GsOjL7CkSodzgRZrmVetFmoQlSvypGSkn5wCfzVatS2pq2zVMx7lFuQxy7HUSkfGSOf1mnjdpnTm031M2MliRIaSoNiMj+kg5wlSAkjIzjd3/fNQV61boBMiZIj6Y9y8+56h3NBKM5zwCr6e54Ax2HOKBKymVmIxIdCgtalJyR94GOfnvjPxRUpq27IvV3XLZjiLH2pbajpVlLSQMbU4AAHnAHc0UGSFq8AhVdweWTlWc0UUGLr5JwRyK8b7gKVZBz45oooOG4sNy2PyHbkhqUgnZFLSiXBx2UOB+/xRRRQf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">the cake is a lie
+                                    <div class="name">heather
 Explicit content</div>
-                                    <div class="artist">ericdoa</div>
+                                    <div class="artist">glaive &amp; ericdoa</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAUGBAcCAwj/xAAmEAABBAICAgEEAwAAAAAAAAABAAIDEQQFEiEGMRMHFDJRQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APVKIonauzBlRtxHOaCw99cbv+bQSyKrZ24gw9jj67L2ZjzpYTMRya1rWggWb9WTQ/dH9KR0krpppXDLkyIS0cbc1w9+wQEEwiIgLCyHj71jLF8Lr/VmqG3OpmzcqLKxsowzRN4tBbY92gpPmfgOu8p+pGqzNthOydfHrZmzguc1jnh7RGLFd055991/SufjWq1uigbrdPjx4uNEy2wsJ6BPvs37XH5MwTfZHLwDsPj+UR2Q4sui/j7q+r9Wurx7VbDB2+bPnSxTRysaGvDjyJuz1XQQWNERAREQajPinmjvqU7yR2djDGbPxZjt9HH/AB4kmz+PdChyPLtbcREBERB//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUHBgEDBAj/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMEAAUREiEGFCJBUTFxkRMWYUJDUoGh/8QAGAEBAQADAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIDERITITFR/9oADAMBAAIRAxEAPwD55aiqIGxpu5YXGLMzOkDQZDmlhGd1pGdSseMjFamBw6tRSQgH+qbzrXzVyiQnCpBSyOXbKNsAdYB74O/sa0Sm7qxvjD25MDBVn0PxXBhK8f5VVPCS9xo39q8r/CriMkoPxTsQa2TIxD4oqgOcNuD9o0U5k4ssfD9ibcQhRSMVuLZwzDeRlxhJcSCEOfqRn1we1LOEGlmK3q9Pat1DWhlAGRWU4Jrozm0+Ew+yGrXfbze5z0uX9JKGUaAD9NtW5KkgdQSfAzikdrt1zfmuI5V6RaCsiPMcbLSlJxkEpV1KHbV37VcYagifJdzlEjSnHjCcV2TIaHk5SBjFY6SY7GR42dAICkgUVq+IIaml6kjYUVD4KkzXW612+I0GwyRj80xTGh9mx80UV22SXDmbYvkJkIE5bEFag1p5dIWkF3+WN9vAzimuGgkDqT70UUJDcWz4DD4J6SfzRRRVYr4Tkz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Drain Me
+                                    <div class="name">Crybaby
 Explicit content</div>
-                                    <div class="artist">Arizona Zervas</div>
+                                    <div class="artist">Elroy</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAQFBgcIAQID/8QALxAAAQMDAQUHAwUAAAAAAAAAAQIDBAAFEQYSEyExUQcUIkFxgbEkYaEjMkJEkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAeEQACAgIDAQEAAAAAAAAAAAAAAQIRAyESIjEEYf/aAAwDAQACEQMRAD8Ay4kY40/QbOt9tK0gHP3plA/SUr7irOv+mJVitdjnW2Tvk3K3syy2oYKFKHEdDx/FQy3XUfh4Rl38IsuyOJGSmkT9tUj+Ip1kXC4twQp9Kk4WfARjhgccfiuLatcxh1xzyqKc1uQlrDkfHH6RmS3sEADhRSu4Iwo8KKRGWgMlxdCL+qv2+a0PIjOybboluVuZDQtLCko2SnCQM7J4+L1GPSs7A/TrHp81a0zVZlaf0+UlSHIMduKhSfDjYGOHX1PPoBU8itUVi93+ErkwrTOsvdlRme+d5KVFSlbSGx5cuvtTDC0M8LbdpUF9kNRG96424SDjCleHh0T54rqjUsyS2VBDRdKcbzYOfnFP2kJExGj9XOPfUpUyreHk4nLSwFY5Edegos4uK9FfNKLyLWylLj+80V5T15UaKZFaB5HcmNgVhB9qklodG7aDpOynkOnnRRWzWjlPZI41wbayU7OPWrRh9pdie7N5tju6n0z3I7jDbjLG1zBCSVEjr/lFFElBNiObozhKUdog86KKKYvA1n//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBAYDAv/EADEQAAIBAwIDBAgHAAAAAAAAAAECAwAEEQUhBhIxIkFRYQcTIzJxkaGxNENSU3OB0f/EABoBAAEFAQAAAAAAAAAAAAAAAAMBAgQFBgf/xAAiEQABBAIBBAMAAAAAAAAAAAABAAIDEQQhEgUiMVETQWH/2gAMAwEAAhEDEQA/AHdjBp7W4N5M0cwY5A8MqB/e5roY9MzynlDHGSkpIX3s4ON+i/OlXeM16iXndguCUUyMM+6o6sfAedZhpvQC6a+PjbnPICcLa6QWUNMVB2BVidsjdttj1yO6k7oSWK55V+2dqucR6XqGkcMNq6pDMmAVVHyMN0JI7unTxqjpepR6hoNoYEBM7CRiBuCBjl+eaI+JwHJwpRoMqNzyyN/IqR2ceNFdpIXhbllXlf8ASeo+PhRQaIU+wdhVwct8KyGs3b8NcZQawsXr7eeF4poScCRSpVlz3bEHp1rXqvh1pJxpYm90GXlXMsHtV28Oo+VSMSThIL8FV/V8cz4zg3yNqzrOu3V16IbWS21yGGMexexV0LlefAQ57ZbHayMDFJfRlqToJ7VCDLGfXREjJXOxx55+9ZfTuGdQvijR2xVP3Jewv+mtrw/w62mXUV1LdM9wqkARryKAfqascqSLgW3tZvpOLlfO2UN7fu1pyXZy0nNzNk8zdW8/OipmvbqdFSWeR1UYAY5xRVOSFsmt13aXAY2NRnJXuFFFNRFaWG2yM3gx/G1SsFuT+LXG/wCWaKKW/wAQqPte2t7dYyVuA7dy+rI+tFFFPpJR9r//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">fantasize</div>
-                                    <div class="artist">ericdoa</div>
+                                    <div class="name">Notion</div>
+                                    <div class="artist">The Rare Occasions</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Once in a While</div>
+                                    <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                         </div>
@@ -1474,7 +1474,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2024, 10:03:47 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2024, 12:03:28 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
