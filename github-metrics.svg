@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    85.2k added, 62k removed
+                                    80.6k added, 48.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1549,33 +1549,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QALhAAAgEDAwMCBQMFAAAAAAAAAQIDBAURABIhBhMxQVEHFCJhsSOhwTJCcZHw/8QAGQEBAAMBAQAAAAAAAAAAAAAABAIDBQAB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAEQMhEjEEE0FS/9oADAMBAAIRAxEAPwBP0jaKKWyJUXHvqpZlbY3KgH2Hpqoq7PYaaiWptf6zlfrjmmZM/f31l+HLxydLUrLtqEDPksM55Pv50vulQlyMThqKTu479H2mCcHAxkk7gR54GNZjG2NxmNC1AR5brTDWxqxoirs5OVlkK7ccEH1Pp6aY0/Ttohpme5r8swY+akoNo8ef+9tRlsuVZQVW6lkanpjJzDAAEUD2B1bW+1x3eAy3C5POfMcRIJUDyWOMseQPsNVNY3eolsDILYTF1V0/baCySVNGsvcyoBMu4EE88HgjRrP1as1D07NSxgFVZO3uB2Abh/ofjRq3Hsdwrd9Tyv4dX64U0E1LBMssKF5TTKmHx67eeffGnbUqS3aG5QbnSVsFd2dreRjBzyOf86hbfaqinplu1CxkhRz+rE31K33Hn+NOenrhP8zMVlVI6nldh2kSDksvpnjx4Okul2RI4snBgTH88vZrkWbIk28JsO7Ht7ftqv6b6nsdkleSpWdqqRT9EEZkbORwR6Hge2pqnrpq4ROghlk5XvzTCKPjyST+AM672sVVxeloqRFqo45WlmShnWKJdwZQWck/UTz48emi8P1NHP5IZKQ9yo6z64tVysQprdTV9TJKyk4pyvbw392SOfzo02v9PPQ9ANBKpR0dBiQruxu4yV4P86NSxla0JnkH7PCLVVm106dhHhnV+4ZNp27c+D6EffSe89RJUyzRRwKkbSh+F/pA9API5znnxxo0acqjuHJ+ThZeqKm2SyCB9kTnOxlzhvIxjGOfbVPY+s1pzGnztTbtsYZgpLxzy5yzNgHAJ9ME/fRo1zIDPQSJd1PX8N26YemaCUTOyMp3BlwDknd7fuNGjRo3rUaEnyM//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC8QAAIBAwMDAwMCBwEAAAAAAAECAwQFEQASIQYTMQcUQSJRcTKBFSMlQlJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECEQMSMUFRBCEi/9oADAMBAAIRAxEAPwCUgob3FYamaywof4jIziRIyJgmeGBOfKAcMPxq09GXtuo7PWUVwQUd3pSKaojQfOOGUEcqfx8Y0Wq7TVNrorlTwSiCpZiInO1kiwSDj77QOPjOo6626ougpL106P6nbds/Zwf5sTctDgEc4GRk+fzrFuxJV7G8PT0dlvNdRUbzLTrRNUU9PkLHJKxO44HGQQuRj+7WM+o95gr6iyz0txqpKQwoJYJB29kmSQQuBxg/qAx551u/Ul4pKiHpjqOjcrS+7MMrEYKB1IZGHwQ4UEHkEayz1G3y9N9KVc9KhPaemgRBh3jZOBkccMQdVG+SJ9Gr9Zu1ytMnt5BH2W4YENnPAODweSOCcEaNL3SjjqoaVoGSOnrX9vMjDCx87iwB8D6CMeM8/fRqbCiMnv1sul4s1Haqt0aoUydwYKsqqdzH/EHaw5HGc/Gr5bqynoqUVVPKtXE43nshWL5JLYOcE/n4HGTrmnoiqrbTX1K+2jdKWJoHSNgCykbiN+MEZDDg5OcYOkbr6lV9JsShENDQuu9I48B4nHkt9+f+6Uo8I2x/Stlz6wlvl26mu0nTi+2t9csTIZlURyyphxyjfQ5YDkgE+DqHrbGLxWW2S4T1tK0UCHsS7volXBZYlI5OQ30nyMAHWax+odRHE0ImqEibdu7TlTg/Gfkfnxol9RrrPRxwSVk1WY8BWnRWKj7c5P7jGhaynjx3udV3GSCnmpayeWJII2ZxK7dqN4tkjKSx4XHg5xjOjXPi+oL3jp02y+OXo1jMSruwEBz5IGjSpi0LsUoYaHpy3UMldNI9FdC00bsu1U7eR4HPJwB4wB/vVUunTsXUM1xu0dV7SNYxN2mXft5wQcHP2PAPnRo1U5NKx+PFSnpexQqykanYHJZD+l9pXd+MjTYNgg8fvo0a0i7RMlTH1HUvntOVMbrt2k4/9+Do0aNDBH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Queen</div>
-                                    <div class="artist">Can't Swim</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQADAAMAAAAAAAAAAAAAAAMCBAUBBgf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEjEhUWEGE0EiMnEUQpGh0f/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBAAB/8QAHxEBAAICAgIDAAAAAAAAAAAAAQACESEDEjFBBCKB/9oADAMBAAIRAxEAPwD42p2sD0yDmu1feoLzVNxvdqW6AhYo/wBzEdM+Kh6f02HUriUXV0ttBEm5mOMnwM1RdOSWWWO0mWWAK8iyOdg2ggZJ/wArRfquHySKdgye5HQ9Pi1HUord7gRRHLMxGDgdvjNX9R2On2k+3S53mVMCTcQQCeMEVzAGkYxt9CjkKcVMnYhij6Rhi2B8nuT817izYR1JE64xuY0pSlkS1nbpc3CRSEbTW1c2c42tIpMaN9zY+3oB0z44rHS7JrpbiT34oUhjJYyNjOegAA5qc+8tGpZgTz144obC20zTS3GUxeu5tS2EkLD2w0m762PYDitWSwuELfQDt7HxnP460adyHdXYKV24z5GP6rX9x+NzY/NdUueyVe/x3xVP2VmtJoVZpFwFIH8jIpUdzEY3NjtmlIFvczcjVfponhVLOoUZbI2/mvaNa9PjTNLjklu0a627faA5+Tg0pRctmqYicdRHM466hEuk/ohaRhyxZ5+WbsPFc+lKSpjMNcxSlKuTP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Everlong</div>
-                                    <div class="artist">Foo Fighters</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAYHBQMECP/EAC4QAAEDAwMDAwMDBQAAAAAAAAECAwQABREGEiEHMYETIkEUUWEjMnFCgpGh8P/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAABBf/EACMRAAICAQMDBQAAAAAAAAAAAAECABEDBBIhBTFhFCIyUnH/2gAMAwEAAhEDEQA/AIxLjXJDYjoafZbbSe7ZAWM/jsa0NJpuMSYQIb7yXMZ9p2/7q1v6euCm90iCWUf1GUpDASf7yMj81w/Q22O2Wnr5ZmHVe0BuR6ykn+EBXNeeNRkbgLKW6fgAovE+axDTpV4SmXobzDrn0sdC0qC+AcqBP3We3Oe+aTXJykK9VLhKVsJUSncC5gYAPHI9ue/ml9u03BWsW7N68vDs8tJeIOVkLxvAJAJ8+asdp6c3GHNXLtkSbEKR6ampLBWSMcZCCsYx8VRTL5kzadPiOP2SGRKXJCWwohHH6fc/bGftRVrnWS8LT6D0eENh3ELirRyfnlviih3t9ZvTgdmEe7z01sMSyPS4Mf1p4J2quBU6VHODhJIyc8gfPmtXp5EC58pkRLe0mKktrLMIN5c4wUKIz8KyDyOK0+oN+0M1FSjU0uO+GFb0tod9wPGeQQPjtnNIFq6k6ZhXBFxtGl72m3N53zWg4pHOR+3sRyew4qymIirxqfMX4THrdX0acWHtiJ646n23tisNsB3eE7SBncOM96u7Gn5CJDTgvdyJRgqSsNEOAfCvZnH8EGpHpa86cuXW6ZqBq+xEwsLcQ0s4HqqYaayFHgn2q/7NX1h+NIAXHkMupPYocCgf8GgqVZM7ZjbmdQwUh1bg3b1JCTzxgZxx5orTI780VriqnmrRugor12UlVuduT6dx+uuBcWOD8BSAgeCfNVeFpZpl0IdmoTKWj2tDAwPwPkUUV0k3ErjUi4r6s6ZWu571TrUy8pWf1449Nzzjv5zUMh2TVNwlog22MYVtg7w01McKCs57qI928+MfiiiugwX9nAlT0j1F1lb34tkuWmH3EtNhtC0nejaOBl0nt+SSaKKKDI9HtH4k3Ldz/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">my ex's best friend
+                                    <div class="name">Wait Up
 Explicit content</div>
-                                    <div class="artist">mgk &amp; blackbear</div>
+                                    <div class="artist">Ryan Hall &amp; Atlas in Motion</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggDBP/EADAQAAEDAwQBAQYFBQAAAAAAAAECAwQABREGEiExQRMHFSJRYXEUJTJCsYGRocHh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEBQAB/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAxESIQQxEyOBMv/aAAwDAQACEQMRAD8AkrrabXepENz1mdkUblI/Ucn+K8F60bFulyRKt6WWdjZK2EjbvHOOhjml5o+zXiHKU+xIV6SXNgJXtC8HKsjs/KnJoaQ2qPJmSmQl4rwcncUkcED6VmnkeM6NxCCZSuIgzIsE21yKUuTm0odKMnlKvhI3Dz5/xUrp7ScKQomWlSVsZxlOOTwc57q3OPIeBeZUjIIChj4v+DnqoDV+pPc9ofmrBKGU5VtNSVOU1WqEAnLl+ZW5EU6Y1EfQkL/AvIwUKx1nrPnqiqVM9pT11BTFhb1tEOOIWo7tozwkY780VZlVPYt9nuh2t/sbV6gtqgqjYKVKbLe8J5BKcZrPMW9z9L6lkQ2Hlux2X9riGXCELHRx9cefBrS9+etdz0zNSqQEIcZUkOIVwMjg5z8+e+azp7O9NOXyU+htTW9OV7nFEDbnGeMnzV1DioEJaLa4Jjk0PfoNxsjimkusvBz09jhz4zwfNSRtAu0SRFmpUtpzIUDxx4IqA0Tp+XbroqDc3EJhtqUtojAClcHKT3/emHc405ML8uU16pHwqWCU/Trn+tYlTi+269CMpEFdxI23QMu06xdYiMue7lry24sAjGPmKKv1nutxTqN5q6x2mIrWQhe5RKldcZ4wcE9cUVayl9mDjM8XezXFiQIDzzhG9Sg1uJQk/PHWa52iRdrVMJiyVxHU8bwoj+O/tRRWyrHG0AHUc2lZEhmI+5qOVKUoNnKXCVFKlddcjg9dV2suv7u3p68Oy1tCUw3hhDgAKlZIH3H+6KKicAbhlQouJ0teprtqG2odMCIuay2pS9723dgftR2T9qKKKZ41iixn/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Clueless (feat. Kurtains)
+                                    <div class="name">Chains</div>
+                                    <div class="artist">Alex Yarmak</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcBAwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiETMUEGIlEVYXEHMoEUI2KRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAiEQACAgIBAwUAAAAAAAAAAAAAAQIRAyETBBJRIjEyQWH/2gAMAwEAAhEDEQA/ANsbeKZzjCVhW0DaAfB8nHDI2oFqJH5zNY0ecxIaecjFcta/6hSUWSkUBt3dvgYxhjVWltIkF0KWvc2rwmzRFfz5/OL7vwZRaPUeqr0iAJDMN2a7uSAw0PcpJICqNVYBvmr+caJO5KTRBIuiORkaE46r9wT0toKVhVknz47fe88HFamdbSltLI0wM+5SuVFy/Fc1XHOEDQxwzgKt6hQ20KN+fPGGaYJNOS+xJcYdQlaNpcQ4nzyLFeO/+sj6u+9Hiy5jwS1FZSpQUg+9Sa7URwSfiuM+ZuqxoJfXIcAaaG1blkpTuN7BXNkV+BkqmZ0LoyLfS4k7rTSefHP24+awAl7lc/THVXpUSa3Lddc2LCypzjYVDkfFcXxltlazCjJO95IIzF9P1bUNDam/UOlHLziunG5thINDi+1cjycm+nNIleoZhXNkyo8VbSnm/buW6AaO0ZOs0vilsvl0sV6pPRoUn1awSURzf+VYZSvT+mQ9W1yZCiPS0xmVFtuQuj1SOCQPi+MMY4ZfIu8K+h3pWlrfC3tSeeS68nciOgq/tlfJUqv2kjj7D+caFapEL6bJS8SB03HoytquPIPx47ecMMKtEqbTvwdielNBZXEXHi9N1tfVS4r3LWqiCFE3fft89s8HmxBlNaTo7SN7Tbrq5MlVCO2s8pFd/wDgwwwMlRjaQ7HklKVNmYa7rMmfpa29G2RYLdtiQ2Clb6L9ykV2B5rmz3wwwyTlktIt4oySbR//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Butterflies
 Explicit content</div>
-                                    <div class="artist">KURU</div>
+                                    <div class="artist">Ryan Hall</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAtEAABAwMCBAUDBQAAAAAAAAABAgMEAAURITEGEhNBByJRYaEIMnEVIzNEgf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHhEAAgIDAAMBAAAAAAAAAAAAAAECAwQRIRIUMVH/2gAMAwEAAhEDEQA/AHEW7Hb4rdNs2wmpVOtk4QnTamGHpgH7bb6lBCj6EpBPxvTcC2SXYMV6ZCfhPvNJcUw8nC2yRqD7g6VYvPj5eO+kP6dzj564RFu35xzD4phFt20+KlMyPFgtBya80wkkJT1FY5j2AG5PsNaUk3WzQoi5Eqc2y0hXTUpxJHKogkAgjIOh3oPL3xHLDsZyE24+lFSm0NMToaJUaSiVHdSFIcQBj4NFJeXr6M9CRX/ghxLxE3eY87i2/NO2Yx3VKU82hBbUMAErCR76Z71n6l/EqKwqLabJPKnFN9R5+K4oFOvlAUk7aVT6eJZD7drg29kwWY0lDiT1isHU6K9Rk1yfE62ORZdnfckKkKkxErW3plCwohSfKT3z6em4NTFWRKuxSl1lpPHhKDUeI473Et+W83cJE+S460odF0vKK2j25VE5FOxuP7lIKGeIlSrvaEKStUJyUpKVLAwlWTkjvkDekbbMjRYrSZtoXLcRnyuPEN+2QADoNN8e1OS7lBmxEx1WhhhAx/CAFaafdv8ANOeVbtNP4LVUPwtjwp4iuEBMN8qtlvsbZKn2lL6z7qVZKcFI8o/JA9qKry3cRsw2UMhpwsoAT0s4SQNu9FYlk3SbcumlRWR4r5zjShSU5bUtaiEJ5UBRJCRvgDt/lFFJNmCoKOADXszE622M/miiuCNuW6Em3qd/UgJif6pYVnfH37ba0UUUUwH/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">DEVIL IS A LIE
+Explicit content</div>
+                                    <div class="artist">Tommy Richman</div>
                                 </div>
                             </div>
                         </div>
@@ -1584,7 +1585,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2024, 18:03:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2024, 20:03:57 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
