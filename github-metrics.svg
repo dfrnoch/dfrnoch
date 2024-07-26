@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    80.6k added, 48.6k removed
+                                    583k added, 563k removed
                                 </div>
                             </section>
                             <section>
@@ -1549,34 +1549,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC8QAAIBAwMDAwMCBwEAAAAAAAECAwQFEQASIQYTMQcUQSJRcTKBFSMlQlJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECEQMSMUFRBCEi/9oADAMBAAIRAxEAPwCUgob3FYamaywof4jIziRIyJgmeGBOfKAcMPxq09GXtuo7PWUVwQUd3pSKaojQfOOGUEcqfx8Y0Wq7TVNrorlTwSiCpZiInO1kiwSDj77QOPjOo6626ougpL106P6nbds/Zwf5sTctDgEc4GRk+fzrFuxJV7G8PT0dlvNdRUbzLTrRNUU9PkLHJKxO44HGQQuRj+7WM+o95gr6iyz0txqpKQwoJYJB29kmSQQuBxg/qAx551u/Ul4pKiHpjqOjcrS+7MMrEYKB1IZGHwQ4UEHkEayz1G3y9N9KVc9KhPaemgRBh3jZOBkccMQdVG+SJ9Gr9Zu1ytMnt5BH2W4YENnPAODweSOCcEaNL3SjjqoaVoGSOnrX9vMjDCx87iwB8D6CMeM8/fRqbCiMnv1sul4s1Haqt0aoUydwYKsqqdzH/EHaw5HGc/Gr5bqynoqUVVPKtXE43nshWL5JLYOcE/n4HGTrmnoiqrbTX1K+2jdKWJoHSNgCykbiN+MEZDDg5OcYOkbr6lV9JsShENDQuu9I48B4nHkt9+f+6Uo8I2x/Stlz6wlvl26mu0nTi+2t9csTIZlURyyphxyjfQ5YDkgE+DqHrbGLxWW2S4T1tK0UCHsS7volXBZYlI5OQ30nyMAHWax+odRHE0ImqEibdu7TlTg/Gfkfnxol9RrrPRxwSVk1WY8BWnRWKj7c5P7jGhaynjx3udV3GSCnmpayeWJII2ZxK7dqN4tkjKSx4XHg5xjOjXPi+oL3jp02y+OXo1jMSruwEBz5IGjSpi0LsUoYaHpy3UMldNI9FdC00bsu1U7eR4HPJwB4wB/vVUunTsXUM1xu0dV7SNYxN2mXft5wQcHP2PAPnRo1U5NKx+PFSnpexQqykanYHJZD+l9pXd+MjTYNgg8fvo0a0i7RMlTH1HUvntOVMbrt2k4/9+Do0aNDBH//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiFBVRcTJhgZGhFkJDUrH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhEjEEURMiQf/aAAwDAQACEQMRAD8AgdC251RVudS0qtJuVvQcZZjyCcYxuPGruwuUFSIreaPZtTh/V3DKgnOOO/8AGqJ0VDcY6qAET/KYnQKUICbt44I79zrXLJsafe+M4T9tq6DmZsxC2RHBBjF9xFXi/wACQjdbY2df880iZbj8OT276hVVHfkSQ3EUwiCsx9N5M8Akdzjvr1k6ear6h6grrnPTVjPIBBBVlnhij/uyo84xgHj9dMLDbpDZ5KQzoIJ5pWpsOZFjgI9oUnnGOQPGcaNwbZDnUrYFWBuZHRzfMr2dkpkI3g+wDsoz/OdGrVF0xD09fS/xcVQJHb8Mewqp8YyQfvo1t+NkDpdwWRRy1O+mqKjrLDD8rlpkuUsQMbSjhXBVgQwHDYB4A86SVvX9faL7VWuoiEJ9GNYJE5fO1cNzxyO2eM6x1bhWR0yyRzvAjyeqixtsAYcZUDtwSNMLq5qLDRVtRc2qa1mMbRPkvEoxtyT4POPpjQUx82+x/Ig5PjANXNOmrrveJ7t8rq2EjIjSCqUHcmGB9v8AtnbyPvqzdI9VtX0zUzRwxzUcPAjbKMoBHH2xjVbt/WUdpscVVcgtaapBtekp1jCOo9yP255U554OlDdVVlZUTS2GkijiaEsZKiFQSygmRQ/c8EcA/pzolPRWot3xMCQJIufV0lTVRJVRxwVnrPG8SqQwKkAd/rk8flo1nZvaf1DDcLjC+VlWWRYn92Qc5BOjT8ZGNeKTNZjcTW+qE0RhmUP7CFbyoA13TyJIhikbAI4+/jRo1zqSckjZ6jKirJqmmngVlSCFPWZOcMRxx4zg/tqXBUz3mChtXxQpqWjEkvqOSQisQScD/nf8/oaNTCiifUaGLLv1K/1EaKGrEdDNJUKg2tI67dx+oHgaNGjVVGoNjuf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wait Up
+                                    <div class="name">It Boy
 Explicit content</div>
-                                    <div class="artist">Ryan Hall &amp; Atlas in Motion</div>
+                                    <div class="artist">bbno$</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAAFAwQDAAAAAAAAAAECAAMEBRESITFBUQYTFAciYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOWtwKmzPPWN46vwOSwJ6k9JYC9oo2mfmPxubo8yaM742iz6gkTEyHcrq2XCVAtJeNe56f1JXK0nH3cSH8iPti9WLCRs1BE1HvqSkfcDvxElzj9KxZW4+3Fzd06TVFpq7BSzHQG/J8T0vqr05b4jI07ayylpkA9NW9y3bagkbI5jtKqxxVJwTcZG3oKe5DMf8ABMtL41hkqdZrj5lGn2QmmT/JB1PNbt6ZpTVUZsX6fpZLFZG9FyKSWVNXdhTZgSzBQOQ67I6TVbAVgisbi2AdXdSxYcSodNrY89p0zJ/VbF3XoS5wlHEXFG8qFOCs1cVAArBu6g9VnK8rf/MyFxcU9otRi3D4315fuODk/dDeK8K91K630PMfqJB0TE6EE+40gsT3iIARuREQAREQA//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Chains</div>
-                                    <div class="artist">Alex Yarmak</div>
+                                    <div class="name">Everybody's dead!
+Explicit content</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcBAwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiETMUEGIlEVYXEHMoEUI2KRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAiEQACAgIBAwUAAAAAAAAAAAAAAQIRAyETBBJRIjEyQWH/2gAMAwEAAhEDEQA/ANsbeKZzjCVhW0DaAfB8nHDI2oFqJH5zNY0ecxIaecjFcta/6hSUWSkUBt3dvgYxhjVWltIkF0KWvc2rwmzRFfz5/OL7vwZRaPUeqr0iAJDMN2a7uSAw0PcpJICqNVYBvmr+caJO5KTRBIuiORkaE46r9wT0toKVhVknz47fe88HFamdbSltLI0wM+5SuVFy/Fc1XHOEDQxwzgKt6hQ20KN+fPGGaYJNOS+xJcYdQlaNpcQ4nzyLFeO/+sj6u+9Hiy5jwS1FZSpQUg+9Sa7URwSfiuM+ZuqxoJfXIcAaaG1blkpTuN7BXNkV+BkqmZ0LoyLfS4k7rTSefHP24+awAl7lc/THVXpUSa3Lddc2LCypzjYVDkfFcXxltlazCjJO95IIzF9P1bUNDam/UOlHLziunG5thINDi+1cjycm+nNIleoZhXNkyo8VbSnm/buW6AaO0ZOs0vilsvl0sV6pPRoUn1awSURzf+VYZSvT+mQ9W1yZCiPS0xmVFtuQuj1SOCQPi+MMY4ZfIu8K+h3pWlrfC3tSeeS68nciOgq/tlfJUqv2kjj7D+caFapEL6bJS8SB03HoytquPIPx47ecMMKtEqbTvwdielNBZXEXHi9N1tfVS4r3LWqiCFE3fft89s8HmxBlNaTo7SN7Tbrq5MlVCO2s8pFd/wDgwwwMlRjaQ7HklKVNmYa7rMmfpa29G2RYLdtiQ2Clb6L9ykV2B5rmz3wwwyTlktIt4oySbR//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYBBAUHAgP/xAAuEAACAQMDAgQFBAMAAAAAAAABAgMABBEFEiExQQYTYXEHFCJRgRYjMqFSsdH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABwRAAIDAAMBAAAAAAAAAAAAAAABAhEhAwQSIv/aAAwDAQACEQMRAD8A4TDqTR2nkfKWLDaV8x4AX577vv61Q6CvW36c5Ht3qFYqwZcZHpUwI9qKkjgnNG04HIopgbNvbW50R5ipMmG5IGMjOCD1+3H9UVjb22bNx2Zzt7ZorQLAt5DEXCEr/kK+bRMB1GfQ5pxv9LtNP0+azuL0/NSGKTIyIlZv5du2f7HHPFmTw1JbWQvNRg+XuJ0/YjkAwiJCX3MByGOw49jSqVlnwtYI0MTTOqIpZjwAoySfamKy1C98P6TqFhNpNsV1CPb5l3bnzFx0KMemM9vzWbqFvPpl1DFcBFk2JJiMjowyP9+tWPEmqxarqHnW0BtoBGiiLgDcFAZsKAASRngVVJSWkXcHgxfDL4d/rSyubo34gW2uFjkjwMlCMlgex+2Rg80UjxTTRRyxxyukb43qrkBsdMgdaKxFFKNahon0R7nQbSe1vUlmmgkupISpXakfBHHBP/Ks+EBqHijV7XTJdYa2QqVjeQ7vqVGCrgnuCV/OOaKKOuvT0ftfCXnDb+IdtZ+F7K401z597dxxrbusYVokQKjl8jJ3lTjB7Vy4kt0Iz70UVXmSjLyjmhJyVsZNe0bRoAJdG16G5iFqkzJOpWRpCcMigDHHXnHFFFFQsbkdSw//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Butterflies
-Explicit content</div>
-                                    <div class="artist">Ryan Hall</div>
+                                    <div class="name">Chasm</div>
+                                    <div class="artist">aldrch &amp; illusion hills</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAtEAABAwMCBAUDBQAAAAAAAAABAgMEAAURITEGEhNBByJRYaEIMnEVIzNEgf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHhEAAgIDAAMBAAAAAAAAAAAAAAECAwQRIRIUMVH/2gAMAwEAAhEDEQA/AHEW7Hb4rdNs2wmpVOtk4QnTamGHpgH7bb6lBCj6EpBPxvTcC2SXYMV6ZCfhPvNJcUw8nC2yRqD7g6VYvPj5eO+kP6dzj564RFu35xzD4phFt20+KlMyPFgtBya80wkkJT1FY5j2AG5PsNaUk3WzQoi5Eqc2y0hXTUpxJHKogkAgjIOh3oPL3xHLDsZyE24+lFSm0NMToaJUaSiVHdSFIcQBj4NFJeXr6M9CRX/ghxLxE3eY87i2/NO2Yx3VKU82hBbUMAErCR76Z71n6l/EqKwqLabJPKnFN9R5+K4oFOvlAUk7aVT6eJZD7drg29kwWY0lDiT1isHU6K9Rk1yfE62ORZdnfckKkKkxErW3plCwohSfKT3z6em4NTFWRKuxSl1lpPHhKDUeI473Et+W83cJE+S460odF0vKK2j25VE5FOxuP7lIKGeIlSrvaEKStUJyUpKVLAwlWTkjvkDekbbMjRYrSZtoXLcRnyuPEN+2QADoNN8e1OS7lBmxEx1WhhhAx/CAFaafdv8ANOeVbtNP4LVUPwtjwp4iuEBMN8qtlvsbZKn2lL6z7qVZKcFI8o/JA9qKry3cRsw2UMhpwsoAT0s4SQNu9FYlk3SbcumlRWR4r5zjShSU5bUtaiEJ5UBRJCRvgDt/lFFJNmCoKOADXszE622M/miiuCNuW6Em3qd/UgJif6pYVnfH37ba0UUUUwH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggDBP/EADAQAAEDAwQBAQYFBQAAAAAAAAECAwQABREGEiExQRMHFSJRYXEUJTJCsYGRocHh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEBQAB/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAxESIQQxEyOBMv/aAAwDAQACEQMRAD8AkrrabXepENz1mdkUblI/Ucn+K8F60bFulyRKt6WWdjZK2EjbvHOOhjml5o+zXiHKU+xIV6SXNgJXtC8HKsjs/KnJoaQ2qPJmSmQl4rwcncUkcED6VmnkeM6NxCCZSuIgzIsE21yKUuTm0odKMnlKvhI3Dz5/xUrp7ScKQomWlSVsZxlOOTwc57q3OPIeBeZUjIIChj4v+DnqoDV+pPc9ofmrBKGU5VtNSVOU1WqEAnLl+ZW5EU6Y1EfQkL/AvIwUKx1nrPnqiqVM9pT11BTFhb1tEOOIWo7tozwkY780VZlVPYt9nuh2t/sbV6gtqgqjYKVKbLe8J5BKcZrPMW9z9L6lkQ2Hlux2X9riGXCELHRx9cefBrS9+etdz0zNSqQEIcZUkOIVwMjg5z8+e+azp7O9NOXyU+htTW9OV7nFEDbnGeMnzV1DioEJaLa4Jjk0PfoNxsjimkusvBz09jhz4zwfNSRtAu0SRFmpUtpzIUDxx4IqA0Tp+XbroqDc3EJhtqUtojAClcHKT3/emHc405ML8uU16pHwqWCU/Trn+tYlTi+269CMpEFdxI23QMu06xdYiMue7lry24sAjGPmKKv1nutxTqN5q6x2mIrWQhe5RKldcZ4wcE9cUVayl9mDjM8XezXFiQIDzzhG9Sg1uJQk/PHWa52iRdrVMJiyVxHU8bwoj+O/tRRWyrHG0AHUc2lZEhmI+5qOVKUoNnKXCVFKlddcjg9dV2suv7u3p68Oy1tCUw3hhDgAKlZIH3H+6KKicAbhlQouJ0teprtqG2odMCIuay2pS9723dgftR2T9qKKKZ41iixn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">DEVIL IS A LIE
+                                    <div class="name">Clueless (feat. Kurtains)
 Explicit content</div>
-                                    <div class="artist">Tommy Richman</div>
+                                    <div class="artist">KURU</div>
                                 </div>
                             </div>
                         </div>
@@ -1585,7 +1585,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2024, 20:03:57 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2024, 22:04:48 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
