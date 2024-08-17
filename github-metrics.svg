@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    799k added, 711k removed
+                                    246k added, 166k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    3.47k views in last two weeks
+                                    3.50k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1549,21 +1549,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBggD/8QAKhAAAgEEAQIEBwEBAAAAAAAAAQIDAAQFEQYSIQcTMXEUFSNBUVKRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwDqCouUvY8djri8mV3SFC5VBtm/AH+k9qlVl+fXnkY+GFdFmLXBXq1sRDa++5DEP+1rmbcS3FrxzKnM4qK9a0ltGcn6MhBZR6gnXbuCDVnVHxWH4S0Wz3vyYxHve9lGaPf8VavKnUy+EKUpUUrIZNfmXJlj6FkiWeK1KuBoKgM8jD87byl91rX1zzzLNZjD8gy11w3K3uQuYrq4j+Eh49LcC1eVl6wJSwVjtB3O9d9DVWXErVeLPK5uB3uFycV2bbH/ADNobu2jtg7XEbIjkBj2AGm9O+61uD5rxvK5kri8xazi7jUj6mgZBoBRv7kH0H61zNyTjHi/4hizbP467eO26jG115VuiltAkKNa7ADuDUnD+HPMuE5/CX82Kluo7W4STrs9ydXSwYKQBsb0RsjXesW+ukkyZ9df/eleMdwrMqyI8UhUHpcfn7A+hPsaVph7UUdPZRr2FKUA99g9xUaazSVAgd0Xe+nsy/xgRqlKD0hhWO3EJJdR+3elKUH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Gl4mour (feat. poptropicaslutz!)</div>
-                                    <div class="artist">aldrch &amp; torr</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBQYHBAL/xAAuEAACAQMDAgUCBgMAAAAAAAABAgMABBEFEiETMQYiQVFxQqEHFBUXI4EyYcH/xAAaAQACAgMAAAAAAAAAAAAAAAADBAEFAAIG/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAEQMSBBQhIjFBMv/aAAwDAQACEQMRAD8AVtPtL4Si2uJQIpNuVJyWVsgkDuMcY9qtPhe8trVh1YbQfT5oDK3ccnJGM/FVnSdP1GGedriM2qEg7HB39sDOe/zzSyoLGGa1ckdZCq7TyBtwTXOAhCNI0ENSw6jrGnjVHh69ukxhdgFsht8vIGclQfvUZ4dskvlMztMuwlwcLhgDj27Vn+peH3j1i3v4XXoIqlgxOSwGB9zWhL1be2CQ/wAcTwn/ABPOTyazkaBgy/ZOFGW7MavozBqlnNJFbJCJF3xhz5lwSGLZwOI+3uaKir3UWS+jmuVZbd5Cq7kByBGwI+/f0orc5Avr7CKlzvsNcMdqJNSvjc3Uh6bDLMBySCMgAD44pu4uobpmd4JGkTlV2nPHx3qp/uFcScKSF+aZvfHF3+XfpykPtJXzetTk4e7djUb1WrlhulvLyMK0L2yFgS7gKQP9A0/b6tJaOHvrqCRVG0IoyT/ysk1jxZqtw6qL1Y0YcnIzn+s15XVHltomaYudoySe9F6AKBcDjbGxImvS6hpGpEpckpD59hKlghYAZ4OfftzRWfaK11fMIrKGW4lGMrGpOPbPt/dFAbBRoGoyExzObG9Ypgk5FdctywTJYkYxRRV4yi5Vo51kf192AkTPj3q+/h9caRDZTfr9mrydXyHOBs2jjuPXNFFF/Jg6uT+qXXhSS3nNlZtHLIo6W1juVvpJ59KKKKXznyjXGUaz/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">KRATOM
-Explicit content</div>
-                                    <div class="artist">Řáhol One</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQcGAf/EAC8QAAEDAwQBAwIEBwAAAAAAAAECAwQABREGEiExE0FRcRVCFCKRsSMyYYGhssH/xAAaAQADAAMBAAAAAAAAAAAAAAACBQYAAQMH/8QAJBEAAgICAgIABwAAAAAAAAAAAQIAAwQRBSETQSIxUXGBoeH/2gAMAwEAAhEDEQA/ALLU86TFZjPpabe8T+87ckcAg5HoKct6psqHHkqt0RTTyAUgOYPPyKjXHmz7G8iMlol5BQlZc/mKs89dHOa8gN3FiCIZhNIcYSWfJ+JOCUpBJxjrn9amEwb7EBVfnKm3l8ShijWAEepEi7N2PU6UXRlbKbg2Eo8ag4EBJxuJHQycdUndZKZN5d8m0pS74inOeE8Y/rTcfTUeXKQZtyS3LjbkBDCwpW3jcFH0GSOKVTZJTl0lsqcb8S1eVD6jla17inCgOByk9cYHVN6+LdFOh3FFvO4zOCziMXu9xNPziI0dWx1tJCW/4YyFKGc4z0fSimbjZ495jtzbkUqbb/IgtujbtyBnI7GaKTPV4NLah3HuPm1ZKlqSGA6jtidS3ZoB8zLg2kgt+oSAkevuRSk1pX09CGVHyzLsAo+obVI5/wANgfFZxpnWS7fbo0eMmLHVESpCQ6VblJLgWrr3xt98Vcsa2CGPLKMAOtFtbKNysbk785Hf3nr2qxw7aqagm/U8x5PAyr8lrQvv9bOp02kZ7U+73p1lhSUCSlPkcxlYUsk/6n+2KYiT0swrXLeJCXIzs13HexKVK4B75dFZ7Z9Xm2sXQMR4iPxKy42Dv/IcEDb+vrVlJ1dD+mQkNtxXwmEYTwc34SkhPtzyU0VWZWiAE9/2ayuHyLbiwX4evv0J1d71BEs+kYcp+OdrqW0hpKQACpJWOOvmisu1LqpN8htQpZYYZjub0KbCsKwhKRweehRSPka68i0MN6A1LDgaXxcYi0gMxJP5iLurG3mVIdtrO5X3pVhQ+CRSYu9t3harQlSx9xeJP7UUV38ajoTPKxPckRfoIkb/AKWz4cYLXr87v+YpKPc2I7o2RAW93S15ynPXVFFGUWCrH6y0b1DbWs+K0pSv3JST+1FFFAaVnUWtP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Take Over (feat. Jeremy McKinnon, MAX &amp; Henry)</div>
@@ -1571,11 +1556,26 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAYFAwf/xAAsEAABAwMEAQIEBwAAAAAAAAACAQMRAAQhBRITMUEGFAckUZEWIiNCYXGh/8QAGAEBAQADAAAAAAAAAAAAAAAAAAECBAb/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/APR6Uqe9V32p2SMrpz1k0BCU+4KFUkzif4/2tJ1ChpUm5q2ptafZOuXmkA4Sw8pHKEsLHSwn3+2a0PTt/dXr1wl1d2DyAgwFt2K/umVyk4nzTE1uUpSopUV8QGC9xZvIyTiEJNjxCqmhd58RmrWpz1ayrh2JfOqIkspbNb8YlVjpfpVghU0t+30ZxeEkuQe2mHCXIQEKxmIVJTrv+vNJ8ObN8H7q5f5AQWxZQHBVCXMzml5cv5JXvUogRYb4EXbmUzNa3pUjR64bJ3VXE2oXzrW1EWc7VnurTVHSlKxE2Wpa4ms+3TTxW15tvJxFGye90x15iqC4M27d02gVwxFVEOtyxhKUqieZ1fX3VJPw+rW3P6j4/mz0keYqgtTdctmzuG+F0hRSbmdq/SfNKUo60pSoP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EAC8QAAEEAQIEBAMJAAAAAAAAAAEAAgMEEQUSBhMhMRQiQVEHgdEkMjRhcXKRkrH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABsRAQEAAgMBAAAAAAAAAAAAAAABAhEDIUFR/9oADAMBAAIRAxEAPwDbamhVcZNaP+E6zRKbB5a0Y9eysDYGtGAEvesR1adicDnOhjdJy2EbnYBOB+fomtSnGz/TtX0PU9as6RLSnp34Xua2G3CYzKwHAkZ6bSR0zgn2Ujc0CltI8M3H6n6rFeHW6vxp8Tr2ojSLWnVKsba1pjLW91QkhzclxyXjG7A7HC9HRV5vBQtuOY+yGN5ro24aX46kA9hlCX62WE8ZpqPDlJpOK4/sfqhXW/UGDkDCEydlXBI3atdlSy+OvCx5jd5msAPb3ATy4XvwU/7D/iR0qczhWlV4sscR0Jn15rcPKuxRu8llwxtc4dgQM9R1PqrWXBzSR2SF132UnOOidy2KHbkZwjC1CatJgEIUZxJb8K2NxAcJJWx98feKE2kqvQcuNprZYnRyNDmuGCD7IQgr4g7+l1HVuXJCHxgY2vcSMfMqMDoqkTtkZDWAnDck/IIQmiOd7QetW5L0tVra8vIZK1zi9hHUdeiEIRLt/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Vendetta
+                                    <div class="name">prone2leave</div>
+                                    <div class="artist">aldrch &amp; Voda Fuji</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHCAUE/8QALhAAAQMDAwMCBQQDAAAAAAAAAQIDBAAFEQYSITFBUQcTFCIjYYEVMnHRkaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQEBAAICAwAAAAAAAAAAAAAAAQIRAzESIWH/2gAMAwEAAhEDEQA/AM/S4T1zvEplR2COMJA5J8VzlWyQlO5CA4BgHZyQfGOtUC9adurVyVPtbSVoW2n3eduMHH54/wBV29M6bDM1+U6p1TzucoUQUo84x5/5QCDpSC7HvDQltbW1NlwBSNwUMZxjp/VPDcRMiG682hLRSrc6jfj5eAkAHk17F21xTsqcltp9nKmEfLw2AM7uvXHH4rs6MhwWL4qLepcJhtaE+4HXAMpPIAUMgEjsarGOjhx330X4MXetttbak7+Acd/zwaKqvqX+lt3i1yInwMlpIAeYZcClFKeQFKHTIOKKV0yy8d9PTbLKnZ9RKdmPm3dMd81PtX3eAie3D0y+t5kZ+L9pGUpT32LPJ8ccc8GrtK0rGvUAQZvu/CLWkuttq2+6kH9ij12nuBjPTpUe0vpd7VWodQ3SJcWWJseeGExloIaLASR7KkjBAACcKHQo4pIMFvjwYNpZckKQmGlv3FOKGEgbdxJ/H9VE7ldHrteZU15lbcR3KorZb2gtZIScD+P81foPpVInpQ3qu7iTAYJUxboiChkHkpLijy5jxgClXWmlVrubartcEKWyyiEp9plLTbSwPpqWkcBCumRgA9aca8d+p1p7VUqwXFh+2upQ61yG3UbmyPBB7H7UUvXa3yrXdJkW4NlqW1hBB7fceRjmikmtpepKpFs9OdQTIMgxJDMRa0PDqjyR98Z/g1mTQGopOlb8xM9xDsZ7PxIJ+ZxIwepOMjkjucqHeiikmNTMSUTobUmA6hbbqQptZ6EHoalUpG7Ua49weebUwgrcW8U7Xc8LbUk/uSoYOexziiiqOX0mnqQ6i4agtrjbIQ0hlaUJIG4pSRjd5xnj7UUUVIj/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Kiss Me (feat. Cold Hart &amp; Splashgvng) [Remix]
 Explicit content</div>
-                                    <div class="artist">nobody&amp;co &amp; kitz</div>
+                                    <div class="artist">Ekeon, JOLLY WRLD &amp; Weepings</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUHBgEDBAj/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMEAAUREiEGFCJBUTFxkRMWYUJDUoGh/8QAGAEBAQADAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIDERITITFR/9oADAMBAAIRAxEAPwD55aiqIGxpu5YXGLMzOkDQZDmlhGd1pGdSseMjFamBw6tRSQgH+qbzrXzVyiQnCpBSyOXbKNsAdYB74O/sa0Sm7qxvjD25MDBVn0PxXBhK8f5VVPCS9xo39q8r/CriMkoPxTsQa2TIxD4oqgOcNuD9o0U5k4ssfD9ibcQhRSMVuLZwzDeRlxhJcSCEOfqRn1we1LOEGlmK3q9Pat1DWhlAGRWU4Jrozm0+Ew+yGrXfbze5z0uX9JKGUaAD9NtW5KkgdQSfAzikdrt1zfmuI5V6RaCsiPMcbLSlJxkEpV1KHbV37VcYagifJdzlEjSnHjCcV2TIaHk5SBjFY6SY7GR42dAICkgUVq+IIaml6kjYUVD4KkzXW612+I0GwyRj80xTGh9mx80UV22SXDmbYvkJkIE5bEFag1p5dIWkF3+WN9vAzimuGgkDqT70UUJDcWz4DD4J6SfzRRRVYr4Tkz//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Crybaby
+Explicit content</div>
+                                    <div class="artist">Elroy</div>
                                 </div>
                             </div>
                         </div>
@@ -1584,7 +1584,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2024, 16:04:22 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2024, 18:03:36 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
