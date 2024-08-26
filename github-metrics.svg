@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    102k added, 69.6k removed
+                                    97.2k added, 64.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1568,33 +1568,34 @@ Reviewed-on: https://gitea.viceverse.cz/ViceVerse/tron-marketplace/pulls/8</div>
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYBBAUHAgP/xAAuEAACAQMDAgQFBAMAAAAAAAABAgMABBEFEiExQQYTYXEHFCJRgRYjMqFSsdH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABwRAAIDAAMBAAAAAAAAAAAAAAABAhEhAwQSIv/aAAwDAQACEQMRAD8A4TDqTR2nkfKWLDaV8x4AX577vv61Q6CvW36c5Ht3qFYqwZcZHpUwI9qKkjgnNG04HIopgbNvbW50R5ipMmG5IGMjOCD1+3H9UVjb22bNx2Zzt7ZorQLAt5DEXCEr/kK+bRMB1GfQ5pxv9LtNP0+azuL0/NSGKTIyIlZv5du2f7HHPFmTw1JbWQvNRg+XuJ0/YjkAwiJCX3MByGOw49jSqVlnwtYI0MTTOqIpZjwAoySfamKy1C98P6TqFhNpNsV1CPb5l3bnzFx0KMemM9vzWbqFvPpl1DFcBFk2JJiMjowyP9+tWPEmqxarqHnW0BtoBGiiLgDcFAZsKAASRngVVJSWkXcHgxfDL4d/rSyubo34gW2uFjkjwMlCMlgex+2Rg80UjxTTRRyxxyukb43qrkBsdMgdaKxFFKNahon0R7nQbSe1vUlmmgkupISpXakfBHHBP/Ks+EBqHijV7XTJdYa2QqVjeQ7vqVGCrgnuCV/OOaKKOuvT0ftfCXnDb+IdtZ+F7K401z597dxxrbusYVokQKjl8jJ3lTjB7Vy4kt0Iz70UVXmSjLyjmhJyVsZNe0bRoAJdG16G5iFqkzJOpWRpCcMigDHHXnHFFFFQsbkdSw//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QALBAAAgEDAwMDAwQDAAAAAAAAAQIDAAQRBRIhBhMxQVFxFCKBFRZhkTKh4f/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQEG/8QAIxEAAQQBAwQDAAAAAAAAAAAAAQACAxEEBRIxBiJBURMhgf/aAAwDAQACEQMRAD8A4P01+2TZImsxyfWd0lpC7iPZuQYwgznG85/5U+rwdJR3ljNpk801qS4ubeQSBx9uVIbGMZ445/FZROGHrT0emXk8HfhtppIzkDahPgcngeKfDfpYATwtFbL0Z+p3ST/U/Q9xTDJmQtt2ruGAPfdyfFFunRY0d5J2uDqvfYCLMgiEXc4II5zsPr6jnzWUlt5o498kTqh8MVIH91BijagilfdSw6ALOym0Gd++wxcW7q5KNgHKsRgjPHvRVCaKNqxXGlWMUggmuN3bkYrgMB4/n05qzbQZ12SRXRjABXKlj8ng0lpt1JGkMcoEtsmcLnBXkk4Poefj3rWabIjw7kmBACr2zwQeSaWyRPES5nC6fSI8DKaIpx3XQrlZyfRbx0VTcPNCh4UsfHsM0ldaJOpLW6FkA5AzlfnNdS6jk0e7uIp9BtXsbXaqSQzOXIfHLA88fn8UnFoV7dMBAt1KCOBFbO2fj7aRGdKD7V2Tp7BMYdRbfvwuTzW7RNsk2q3seDRWu6t02YEQ3MQguxJsBuG7ZBA5UlsAenBoqvBN8zA6lxGpYgwpzFuseExp2kwtEJArTBuGTGMe5qddK7Nw88ZeNx/juB24+SMUUVXlja4UeFFjnkjkD2GiE9+rahZaYbbt28kBlEpQxhvuxgHPx/NVl91xryKFa+ulTkDMzH+uaKKSODA0WGqudZzJT3vv8CozJf646w3E5KhjJ74LeT8n/dFFFU4ceNjAGhQc7PndMS51r//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Chasm</div>
-                                    <div class="artist">aldrch &amp; illusion hills</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMECAH/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSEzEiMlEHFUFxgZFCUmFicqHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAQEBAAMBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AKDTl5cEEDFdGezfV7TXOH4pUCCWHlilj/Kygf0dq5pEy7eM5pxwbcavHro9w3MsMuxkKnw8uQPEDse/aizwWdusIprPqmPqxCUnt/lZLh4bZXmkChUUkn0FV9bW1zGlyBKhk5SxbJy5/Udh3+FVbxpxtxHeF9L1GRLSNECyRQnzgjIy3c5HpiuWfprXH0R+0DVG4j4suL5WVbcN04VA/AD3+p3opIZlLgfuFFdgkeVEZn8oGTTvSLiPRzbX8Ny3SuiA6KNzjfBPoDSCeNpoHUeY15IqxusUchdI1CqSuBnALbfPb6VWdxS+rjsOO9DngSykjms5zkxmUZVj6hwSDVW67Ib/AFaadpGlBPKrH0HaiwllihboyvHk78hxn7VjCjmyFHbvWc5kN1a02t1VsrnIordKDB3P2orQSntUhs4ZxfW8rS94IyxeP+QIx9jSiRsTPjOM0UVJuWkxCYznepwToJB1Qzp6A4PbaiipJ3TxLzdKRdifiTzfLaiiimmv/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Think I'm OKAY
+                                    <div class="name">Pedal To the Metal
 Explicit content</div>
-                                    <div class="artist">mgk, YUNGBLUD &amp; Travis Barker</div>
+                                    <div class="artist">TH3 KXD</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EAC8QAAEEAQIEBAMJAAAAAAAAAAEAAgMEEQUSBhMhMRQiQVEHgdEkMjRhcXKRkrH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABsRAQEAAgMBAAAAAAAAAAAAAAABAhEDIUFR/9oADAMBAAIRAxEAPwDbamhVcZNaP+E6zRKbB5a0Y9eysDYGtGAEvesR1adicDnOhjdJy2EbnYBOB+fomtSnGz/TtX0PU9as6RLSnp34Xua2G3CYzKwHAkZ6bSR0zgn2Ujc0CltI8M3H6n6rFeHW6vxp8Tr2ojSLWnVKsba1pjLW91QkhzclxyXjG7A7HC9HRV5vBQtuOY+yGN5ro24aX46kA9hlCX62WE8ZpqPDlJpOK4/sfqhXW/UGDkDCEydlXBI3atdlSy+OvCx5jd5msAPb3ATy4XvwU/7D/iR0qczhWlV4sscR0Jn15rcPKuxRu8llwxtc4dgQM9R1PqrWXBzSR2SF132UnOOidy2KHbkZwjC1CatJgEIUZxJb8K2NxAcJJWx98feKE2kqvQcuNprZYnRyNDmuGCD7IQgr4g7+l1HVuXJCHxgY2vcSMfMqMDoqkTtkZDWAnDck/IIQmiOd7QetW5L0tVra8vIZK1zi9hHUdeiEIRLt/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAqEAABAwMDAwQDAAMAAAAAAAABAgMEAAURBhIhIjFBExRRYQcVcTKB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAIhEAAQMEAgIDAAAAAAAAAAAAAQACAwQREiEFMSJBEyNR/9oADAMBAAIRAxEAPwDn3TsVb8lleAUlRGM+cV0VojTVtd03KM4NMI2JcU64oAYGcgecgc9qoKwFEFfu3hvYVjekd0896cJWoJN+LFks0q4SPVWUpbdcATz2GAOw7lRruaY/TiHWN+1uWYU0BsNlW1cdS6WY065Fh2f3aisbV7toWR3+8Y8mk+ytWzUKZi7dtQ5GG1cd1IKgD5yO4z58UsXi0/o74u3w7oielxlCnHY5yUqAHqJBIxwQeeeMVnpFuRYbuuW8WUtTGSwoug4SCodeMY4x845piFlhlGDv9UvhZ5Yaq77EE7UHryyKgJeR6YSW1BSj5we3H/cUVu6/mNTLixDgSDN3HfIcyDjbwASnjx44xiipdXi6U2V3kIMpyYhpQluaNwjiHGLSJJCFJSrpCwAcjPznmrr0muJpj8e3q4Ro0qHMTH9DL6G8qcX05BCc9znOa5/tDzQwuQlSgACPTPUk/RpmueqEyGLbZmpDimC6n3Djy1dI7fOOM57eKWhmaWWcnZo4307ydOIsF6WjWa9L39qchoLebJCW843JIGQfr6Iq17PqnS/5V93b5UeRa5xaMlLSXekOdlFCtvCf8VEH/VVj+XItlm6vclWp9p6O60lSxHSUIQsDbgZ78AHP3W9ptmyWTR/uExkuXV0KUtxSldKCcBPx2AOPujOkkkfmda7UrjaHCoNM31srHWn6q1SJUOwlIaWypD6golKlBWAsfHBxxwT/ACika+XNTi3VFScnjgcAeMUUo+pAOyqsswY63ShIk9cEPJUA4HE7Qfj7rSW/uwU8YooqZ8rm+A6UuV7nWaTodKRj3uQhQ9wfWR5Cu5H9qbsepwzAmMTtqm3BuSnYD1eMHxRRR2Tv9lbo5300hkj7S3OlCUSltBCAc5x2ooopZvn5OQ5Xl5ycv//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">prone2leave</div>
-                                    <div class="artist">aldrch &amp; Voda Fuji</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUHBgEDBAj/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMEAAUREiEGFCJBUTFxkRMWYUJDUoGh/8QAGAEBAQADAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIDERITITFR/9oADAMBAAIRAxEAPwD55aiqIGxpu5YXGLMzOkDQZDmlhGd1pGdSseMjFamBw6tRSQgH+qbzrXzVyiQnCpBSyOXbKNsAdYB74O/sa0Sm7qxvjD25MDBVn0PxXBhK8f5VVPCS9xo39q8r/CriMkoPxTsQa2TIxD4oqgOcNuD9o0U5k4ssfD9ibcQhRSMVuLZwzDeRlxhJcSCEOfqRn1we1LOEGlmK3q9Pat1DWhlAGRWU4Jrozm0+Ew+yGrXfbze5z0uX9JKGUaAD9NtW5KkgdQSfAzikdrt1zfmuI5V6RaCsiPMcbLSlJxkEpV1KHbV37VcYagifJdzlEjSnHjCcV2TIaHk5SBjFY6SY7GR42dAICkgUVq+IIaml6kjYUVD4KkzXW612+I0GwyRj80xTGh9mx80UV22SXDmbYvkJkIE5bEFag1p5dIWkF3+WN9vAzimuGgkDqT70UUJDcWz4DD4J6SfzRRRVYr4Tkz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Crybaby
+                                    <div class="name">SLAY!
 Explicit content</div>
-                                    <div class="artist">Elroy</div>
+                                    <div class="artist">Eternxlkz</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQME/8QALRAAAQMCBQMCBwADAAAAAAAAAQIDBAURAAYSITEHE1EiQRQjMmFxgZGCofD/xAAaAQACAwEBAAAAAAAAAAAAAAACBAEFBgAD/8QAIBEAAgIDAAIDAQAAAAAAAAAAAQIAEQMEIRJBIjEyYf/aAAwDAQACEQMRAD8AlWTo9SqjdSiRSw0h5vsuPrSVLsTcJRY7k2/44c8u9LgucaXOiSUSQ38SZi16G2vTtcjYJJ/yNuBjj0xp6OxKRUqfNefbqaGQiOrQG3RYJ1EG/wBQHB4vj09Rc8Px3U0qCezDCVNu3SbpcA0qVvyCLgHwNtsWCYlCebQr50zbV0ioS2ENxqtARNLySkh1WlTQIKrEnY2uP3jAq/Tan0x6AXpAiKqJdjx0KBketJKbaQNidrb4VoUyZBjNvZdfqEp563dKULSEC30X4VsfH4+9NyFnwZirNOok2Ld5bjZafk6QQlK0LI1EXKgBseSDY+xwQCH1BZSnSJLsxUKpQZcGFImtJZTGLbZupISoAqUhV9wbkC3AKrDg4MUzqLlhyt0yU6l1pDgq89bY+kKbbJJSD7qUT/cGIOAt1VsTxOdVNE1O2Uao9lGTToNGQHodTeS6p55vQWSlGhXcQOFa9W53sLgGxxLc1TE1XNlRZeeaQphBS062ohruJINwDyCSbfY+MUnow6allGp0acmYIiXg58QhSmy1qQTsRuSSfPBwndQsrOpnuVCnQ0rgyrMx3Ip9S1IKUEqQrcXURwffxjsjApyNKCaMYcr5pjmkT5So7rM+BHKlxSQWlrVt3Qfb24wo5dWg5mp8x54tIgLQ2hLiyi7pVbQlQBIN972Nh+sMOTmKe5RtEvLbzjmjUpS0rKlJJ3WbCxF+PttjxwMhTaxWIa0xjApwdMhK5CtSyhW5Nh4Nhfj84gs3xJlm+YbCgGuShdVs1VB6hvU1p2AuU+8hmOKYe+XXFH1BatI0qASOLE3wYVs/w4mWMvQYtNckNPtTlrQ+24NRdLQJKr8jkeR/rBgi/jy6lPsa5R6aLGSs2nJ9KnoZflSFSGwr4QgJb7l978qta3i/8wwwOo1OqD0IS4Uxl6M4HghlIcQVBTagAOQPlD9qJwYMKKxuoxjY2qepuZZqcGi1RT9RVOLAiBJKkjQ2EuuLA58FIt5xlVHPgoc6Y7S2pM6IqF2fmAJAC1A6k87W2wYMMZx4GhNLv6GLVx3j+4hZyzDU6+iM5OShhQX3m47bZSOLaiTyo2tbxgwYMJljczOx+gf4J//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Geeked
+Explicit content</div>
+                                    <div class="artist">JOLLY WRLD, Sadzilla &amp; Mvko</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwYFB//EADEQAAIBAwIFAgQEBwAAAAAAAAECAwAEERIhBRMxQWEiURQykbEGJXGBQ2KhwdHw8f/EABgBAQEBAQEAAAAAAAAAAAAAAAEAAwIE/8QAHBEBAQACAgMAAAAAAAAAAAAAAAEREhMhAkFR/9oADAMBAAIRAxEAPwDzOCFwSsgf9hT54fdQMpBZyRlo0OSB5pDgnHI1jiKxO19cHTHGItYJ7/f61oZLni0xMV/Fda4xqVXhySe2DjzW28Y6VRbryITK+qEgj0SHGr6Ui3Ex8RMZHkMeTpJPb/lM7XTt8aJwyfNGqkb+ARt2FVxCwjM3OtJJgvykn/e3encaOe1w0hV4w5IO8jHbNFZfiv4ouLiULbJHBCh0ogGdvPbNFHLDxl7Z+S1vOs7C4gO2NiRnYjzWrufxPxa4sWuJ+P3RuwiyBOWoRhq06Q3XUBv0x13zWLv447ViI5RK0baHK5wTvgjIBxtU9TR2GolXVZDrjBzjIAznpn7V5O/baeVjc/m13d2ltJxy5i4tdxCaG21MQNQJVWfPpLDcDBwGGSK4HFJRPa2nJ4heyXDI0swlYFAdI+XG47qc9SNqQk4vNNMl4Jy900npCppY4C4BPsPYUtdXagQQsAyEAyyDOW9RJA8Z+tOfitypvrVJOVyOWmnc7YOfbzRVV5OvNIjA0gAZUEA/pneijsFWuWMJizqjByNQ3GPY/wBqY+KRIVihQD+Jq/mIAIPuMf58UUV0k5b1GsUt40iRlJYsika9XVSTuBjH9fFUXNwkkcOnZo10/qOv3J/aiilFXbrgnBoooqT/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">I got a lot of problems, so I made this</div>
+                                    <div class="artist">JOLLY WRLD, LOVENude &amp; Ekeon</div>
                                 </div>
                             </div>
                         </div>
@@ -1603,7 +1604,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2024, 20:16:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2024, 22:04:37 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
