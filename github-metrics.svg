@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    196k added, 153k removed
+                                    255k added, 157k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    4.10k views in last two weeks
+                                    4.08k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1317,6 +1317,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5316948</div>
+                                        <div class="message">feat(both): big changes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ViceVerse-cz/tron-marketplace</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#97e9e29</div>
                                         <div class="message">feat(web): switch vite to farm</div>
                                     </div>
@@ -1372,26 +1392,6 @@
                                     <div class="commit">
                                         <div class="sha">#9a56cc4</div>
                                         <div class="message">feat(both): major changes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ViceVerse-cz/tron-marketplace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7f1335a</div>
-                                        <div class="message">refactor(tooling): modify tsconfing, remove typescript dependecy</div>
                                     </div>
                                 </div>
                             </section>
@@ -1476,12 +1476,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 20 commits)</small>
+                    <small class="h-details">(computed from last 21 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.8 characters per line of code written</li>
+                        <li>Has approximately 31.9 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1554,35 +1554,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEEAwAAAAAAAAAAAAAAAAUBAgYHAwQI/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQACAwQFESExBhJBUQcTFDIiQ2FxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAQB/8QAGhEBAQEAAwEAAAAAAAAAAAAAAAECAxExE//aAAwDAQACEQMRAD8A9Uoii+JK11vsdXUsbI8sb8v3anGR9dUEg+aKNri+RjQ3fLtle0hwBB0Oq1XE+5snNbUwwQUsOJoqeIea+fBOQ95BJ016AHZbSieJYmyM9rhkHHRBeiIgKGu0nqXGjki5qV+GSOBPMDkYI/KmVwSwt5zJj4tFl7I13xyLhbpnUNDDFJb6uKQlzWgSxucTsew201AK7PhbNLRwSWyommljcTNAZTnl7tB7dVk9/t5vFua+lcG1EeXRF2gJ6g/dY9wXQyPuLnysfGaRxyx+4cRgD+n9KTf0nNOvKrzca4bL7GeIiKxIIiICpgZz1REFUREH/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAQMFAQAAAAAAAAAAAAAAAAQFBwECAwYICf/EAC8QAAEDBAECBQIFBQAAAAAAAAECAwQABRESIQYxBxMiQVEVoRQWMnGRJWGBwdH/xAAZAQADAAMAAAAAAAAAAAAAAAACAwQABQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADBBESIQUTMSL/2gAMAwEAAhEDEQA/AOaND39qf+kelZnVMmRFtq2jMbaLqGFnUvAfqCT2yBzg4yKTMwt1ahC1OqwGwgZJVkcY/bPb3qbPASyOJmykTrIy0tlSk/UHHC1Ijq7FISTk8H2SCPml5AatCw+wqyGYAxHP8Dv6dYFpltwnCyTc1vHOih6soTnkgenA49OahKbFS3LcS1sI+5Da3BzrngnH9vivQiVYYKrectuSFNoy24vGqTgjI2zn78Vyb4tWhd46sdds91/MTgaKlNw4ygIqE4ATgDUgZ9j3781PjC0NxtO9xtxr1tZEnZGvloI5G2Of3op6n2iXBf8AInw3o0hGQpLzakqJz7g/xRV/qMm5iS90Wi4dHyJtxt8eCZHkhIdltblr1DlHPB/1Vt2h33qDqI3aY4V3P0kONIDeuv6cY+PmsUlmT9F/Eeetb8h0pSy4rJ0TqQcZzn1BQ+QeKkqIqy2+O2yiet7VOpXryqo28go3z0IdVJsOwpjnI6+U908GFxn1XRbJaW4VHykrIxuMe3vgDvUcdKwrn0XfkT7W5GecfZ8tSlJK06kgkdxzkDmtyTPsvn6ZOmudsc5z8Vivsi2ps0p2BLSzIbTuFKR7Dkj35pdebjVn8t9j7Mdip2NzT/EA3DrK+/i5yWtGEllpDWdUpyTnnnJPNFIHYFwhKakwnEybg/s2I8fnVSnFoByfnHfAxmiq0zQw6Ei7XoqZrn1LDTTLKTqgjXntjt9h/FK0XJ1SMqOFfGaKK51kE3Acy9NwVuDv6iMdvtVV3NzVSVAlJHIP/KKKWa1hhzqDPUBbfQ4eVoyAT7cg8f5GaKKKL0pMFrT/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ivy
+                                    <div class="name">BOUNTY HUNTER
 Explicit content</div>
-                                    <div class="artist">Elroy</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMECAH/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSEzEiMlEHFUFxgZFCUmFicqHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAQEBAAMBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AKDTl5cEEDFdGezfV7TXOH4pUCCWHlilj/Kygf0dq5pEy7eM5pxwbcavHro9w3MsMuxkKnw8uQPEDse/aizwWdusIprPqmPqxCUnt/lZLh4bZXmkChUUkn0FV9bW1zGlyBKhk5SxbJy5/Udh3+FVbxpxtxHeF9L1GRLSNECyRQnzgjIy3c5HpiuWfprXH0R+0DVG4j4suL5WVbcN04VA/AD3+p3opIZlLgfuFFdgkeVEZn8oGTTvSLiPRzbX8Ny3SuiA6KNzjfBPoDSCeNpoHUeY15IqxusUchdI1CqSuBnALbfPb6VWdxS+rjsOO9DngSykjms5zkxmUZVj6hwSDVW67Ib/AFaadpGlBPKrH0HaiwllihboyvHk78hxn7VjCjmyFHbvWc5kN1a02t1VsrnIordKDB3P2orQSntUhs4ZxfW8rS94IyxeP+QIx9jSiRsTPjOM0UVJuWkxCYznepwToJB1Qzp6A4PbaiipJ3TxLzdKRdifiTzfLaiiimmv/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Think I'm OKAY
-Explicit content</div>
-                                    <div class="artist">mgk, YUNGBLUD &amp; Travis Barker</div>
+                                    <div class="name">Chains</div>
+                                    <div class="artist">Alex Yarmak</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAwUGB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwAEEQUSIRMxQVGBIjJhcbEUQmOh0f/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAfEQACAgEFAQEAAAAAAAAAAAAAAQIRAwQSEzFBIWH/2gAMAwEAAhEDEQA/APIxo3S062vN4aOWR4tu3kMAp9+9LLaskhCwyPn+M/5Wlb6xG1pBbMsiiF5XLRvj51259Mj1p1dUsnIdo7lo1UBtp4B9SQaocUn8ZLzPUQeNxoybbTD1o5JIpTxnZ0u/v3qdWtJplCR27KN37UO3+hXQXIs206ZEursidtxdWAZPOB6D6Upb69YaWXjgtbjLDbl5slTjvz9eazYvWVR1k8WLhhG0/wAOPuLGeBk6kEsQPGXUgH7UVq6nqVlKpjs7eaNndGYvP1BkZ7Dx3opWl4yWOaf3cqLNXuLR7WWKztxCI+e4yQSvfAx3qrR9YkstIvbWNISLjPzAFhx49Ky5HaW4uFjUkvgBe/kcVXNC9rO8UgG5CVJHbPmlbvspxrjbcfQe5mEjqrnAPk1bI265mZlDnkgHnmoO4O4wyB85IXORVLSHrPIhx96Ap+jNk1rPKRdKIlUZBjXnPiikd21Sccn8UUoJJKqJDFpQUOHLDnOMGrbZVa4ImbjBYnPOcZ/NFFaxl2NW62f6O+65C3AZGhzn4lyQwHtzSLmME/CSCeOew9KKKzo1jtzpm6zW8s3EtuV3MAfijbOCpGc+/kUUUUtsD//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAAFAwQDAAAAAAAAAAECAAMEBRESITFBUQYTFAciYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOWtwKmzPPWN46vwOSwJ6k9JYC9oo2mfmPxubo8yaM742iz6gkTEyHcrq2XCVAtJeNe56f1JXK0nH3cSH8iPti9WLCRs1BE1HvqSkfcDvxElzj9KxZW4+3Fzd06TVFpq7BSzHQG/J8T0vqr05b4jI07ayylpkA9NW9y3bagkbI5jtKqxxVJwTcZG3oKe5DMf8ABMtL41hkqdZrj5lGn2QmmT/JB1PNbt6ZpTVUZsX6fpZLFZG9FyKSWVNXdhTZgSzBQOQ67I6TVbAVgisbi2AdXdSxYcSodNrY89p0zJ/VbF3XoS5wlHEXFG8qFOCs1cVAArBu6g9VnK8rf/MyFxcU9otRi3D4315fuODk/dDeK8K91K630PMfqJB0TE6EE+40gsT3iIARuREQAREQA//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Walk Up
-Explicit content</div>
-                                    <div class="artist">Mills</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcCAwYFAf/EACoQAAEDAgMIAQUAAAAAAAAAAAEAAgMEBQYRMRITISJBUWFxgTKRobHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAcEQACAwEAAwAAAAAAAAAAAAAAAQIREiEDIjH/2gAMAwEAAhEDEQA/AIhqmGqwNXLvt6p7RGN5nJO4ZtjGvs9guhsx6OkGqQbxS7mxZc5JdqORsLejWMH7KojxFdGuBFXIfeRCHasPHrYzmtQszYsUiokbFcGNYTwEjdPkIRaQJqg3RKDEU81bdKl4kDZDJ1GeTQcgPsE5g1K7GVofb7lJJsncTOL43jueJCV5G0uDIRTfTOSw7ckb945gYc8hofanC4vBJA2c+UjqFS8DPm2neCeC9Epy0Kj27KsI6VIcn+EKdjpqi4VccFPEXSOPwB3PYITVJ0IlFWOgNVdVSQ1cDoamJssbtWuHBCFSAhfYowVJSxS1VtJkgaC50TjzMHg9R+VmLFZai73GOlp9lpdzOcdGt6lCFPKC0MUnkcdhsdLZqXdUzSXH65HDmef54QhCoqvgs//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Spoiled little brat
+                                    <div class="name">Heck
 Explicit content</div>
                                     <div class="artist">underscores</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC8QAAIBAwMDAwMCBwEAAAAAAAECAwQFEQASIQYTMQcUQSJRcTKBFSMlQlJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECEQMSMUFRBCEi/9oADAMBAAIRAxEAPwCUgob3FYamaywof4jIziRIyJgmeGBOfKAcMPxq09GXtuo7PWUVwQUd3pSKaojQfOOGUEcqfx8Y0Wq7TVNrorlTwSiCpZiInO1kiwSDj77QOPjOo6626ougpL106P6nbds/Zwf5sTctDgEc4GRk+fzrFuxJV7G8PT0dlvNdRUbzLTrRNUU9PkLHJKxO44HGQQuRj+7WM+o95gr6iyz0txqpKQwoJYJB29kmSQQuBxg/qAx551u/Ul4pKiHpjqOjcrS+7MMrEYKB1IZGHwQ4UEHkEayz1G3y9N9KVc9KhPaemgRBh3jZOBkccMQdVG+SJ9Gr9Zu1ytMnt5BH2W4YENnPAODweSOCcEaNL3SjjqoaVoGSOnrX9vMjDCx87iwB8D6CMeM8/fRqbCiMnv1sul4s1Haqt0aoUydwYKsqqdzH/EHaw5HGc/Gr5bqynoqUVVPKtXE43nshWL5JLYOcE/n4HGTrmnoiqrbTX1K+2jdKWJoHSNgCykbiN+MEZDDg5OcYOkbr6lV9JsShENDQuu9I48B4nHkt9+f+6Uo8I2x/Stlz6wlvl26mu0nTi+2t9csTIZlURyyphxyjfQ5YDkgE+DqHrbGLxWW2S4T1tK0UCHsS7volXBZYlI5OQ30nyMAHWax+odRHE0ImqEibdu7TlTg/Gfkfnxol9RrrPRxwSVk1WY8BWnRWKj7c5P7jGhaynjx3udV3GSCnmpayeWJII2ZxK7dqN4tkjKSx4XHg5xjOjXPi+oL3jp02y+OXo1jMSruwEBz5IGjSpi0LsUoYaHpy3UMldNI9FdC00bsu1U7eR4HPJwB4wB/vVUunTsXUM1xu0dV7SNYxN2mXft5wQcHP2PAPnRo1U5NKx+PFSnpexQqykanYHJZD+l9pXd+MjTYNgg8fvo0a0i7RMlTH1HUvntOVMbrt2k4/9+Do0aNDBH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wait Up
+Explicit content</div>
+                                    <div class="artist">Ryan Hall &amp; Atlas in Motion</div>
                                 </div>
                             </div>
                         </div>
@@ -1591,7 +1590,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2024, 02:12:52 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Oct 2024, 04:27:52 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
