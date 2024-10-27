@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    4.64 GB used
+                                    4.63 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    605k added, 564k removed
+                                    75k added, 48.5k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    3.11k views in last two weeks
+                                    3.12k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1558,18 +1558,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQADAAMAAAAAAAAAAAAAAAMCBAUBBgf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEjEhUWEGE0EiMnEUQpGh0f/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBAAB/8QAHxEBAAICAgIDAAAAAAAAAAAAAQACESEDEjFBBCKB/9oADAMBAAIRAxEAPwD42p2sD0yDmu1feoLzVNxvdqW6AhYo/wBzEdM+Kh6f02HUriUXV0ttBEm5mOMnwM1RdOSWWWO0mWWAK8iyOdg2ggZJ/wArRfquHySKdgye5HQ9Pi1HUord7gRRHLMxGDgdvjNX9R2On2k+3S53mVMCTcQQCeMEVzAGkYxt9CjkKcVMnYhij6Rhi2B8nuT817izYR1JE64xuY0pSlkS1nbpc3CRSEbTW1c2c42tIpMaN9zY+3oB0z44rHS7JrpbiT34oUhjJYyNjOegAA5qc+8tGpZgTz144obC20zTS3GUxeu5tS2EkLD2w0m762PYDitWSwuELfQDt7HxnP460adyHdXYKV24z5GP6rX9x+NzY/NdUueyVe/x3xVP2VmtJoVZpFwFIH8jIpUdzEY3NjtmlIFvczcjVfponhVLOoUZbI2/mvaNa9PjTNLjklu0a627faA5+Tg0pRctmqYicdRHM466hEuk/ohaRhyxZ5+WbsPFc+lKSpjMNcxSlKuTP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Once in a While</div>
-                                    <div class="artist">Thisistoodifficult</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAtEAABAwMCBAUDBQAAAAAAAAABAgMEAAURITEGEhNBByJRYaEIMnEVIzNEgf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHhEAAgIDAAMBAAAAAAAAAAAAAAECAwQRIRIUMVH/2gAMAwEAAhEDEQA/AHEW7Hb4rdNs2wmpVOtk4QnTamGHpgH7bb6lBCj6EpBPxvTcC2SXYMV6ZCfhPvNJcUw8nC2yRqD7g6VYvPj5eO+kP6dzj564RFu35xzD4phFt20+KlMyPFgtBya80wkkJT1FY5j2AG5PsNaUk3WzQoi5Eqc2y0hXTUpxJHKogkAgjIOh3oPL3xHLDsZyE24+lFSm0NMToaJUaSiVHdSFIcQBj4NFJeXr6M9CRX/ghxLxE3eY87i2/NO2Yx3VKU82hBbUMAErCR76Z71n6l/EqKwqLabJPKnFN9R5+K4oFOvlAUk7aVT6eJZD7drg29kwWY0lDiT1isHU6K9Rk1yfE62ORZdnfckKkKkxErW3plCwohSfKT3z6em4NTFWRKuxSl1lpPHhKDUeI473Et+W83cJE+S460odF0vKK2j25VE5FOxuP7lIKGeIlSrvaEKStUJyUpKVLAwlWTkjvkDekbbMjRYrSZtoXLcRnyuPEN+2QADoNN8e1OS7lBmxEx1WhhhAx/CAFaafdv8ANOeVbtNP4LVUPwtjwp4iuEBMN8qtlvsbZKn2lL6z7qVZKcFI8o/JA9qKry3cRsw2UMhpwsoAT0s4SQNu9FYlk3SbcumlRWR4r5zjShSU5bUtaiEJ5UBRJCRvgDt/lFFJNmCoKOADXszE622M/miiuCNuW6Em3qd/UgJif6pYVnfH37ba0UUUUwH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">DEVIL IS A LIE
-Explicit content</div>
-                                    <div class="artist">Tommy Richman</div>
+                                    <div class="name">Everlong</div>
+                                    <div class="artist">Foo Fighters</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1580,11 +1572,18 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFCAIGAQME/8QALBAAAQMDAwMDBAIDAAAAAAAAAQIDBAAFEQYSIQcxQRMUYSIyUYEVI3GRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCsMCTJgTWJcJ1bElhYcacQcKQoHIIp2aGtd91Lply9Wu6PJvDrzqJKyshSlE53AjyeecYzWgaK0NeNXOvps0dtaI+31XHHAlKM5xnz4PYU/tDacuGj9MtqhhUx+C857pDSeXmycnaO5KDyPyM0EvomKu1adbs/8PPtEttwrU+2G3w+sjcFr+rcvOO+AQRjIpBaza1RE6kLuc6K8m5y3ypjawpr1eNoKcnIH+TVp7dd4N/tZettzaYdUnjJH0nzjPiq/wDUp+Pp/VkebKu38zcEKC0sg8DHKQccAZ8DGaBbdTWLnF1U9HvsxqXcG20eqW1bg2ojOzPkjPNFa/dJki4XGVMmLK5T7inHFEd1E5P/AGigYvS7WMvRsqZLZZTJiPJQ2/HJ27+cgg+CBmrA6O6n6SnNKKbgm3vrUVKYm/1kKPfCvtP+6QvSWzQLtfzDuvt1xFtFRaekejuWPtCT3Jz4HjNMtzploy3XL3dyuxRGS5v9o4+2gY77NxO4j57kUEv1GsOjL7CkSodzgRZrmVetFmoQlSvypGSkn5wCfzVatS2pq2zVMx7lFuQxy7HUSkfGSOf1mnjdpnTm031M2MliRIaSoNiMj+kg5wlSAkjIzjd3/fNQV61boBMiZIj6Y9y8+56h3NBKM5zwCr6e54Ax2HOKBKymVmIxIdCgtalJyR94GOfnvjPxRUpq27IvV3XLZjiLH2pbajpVlLSQMbU4AAHnAHc0UGSFq8AhVdweWTlWc0UUGLr5JwRyK8b7gKVZBz45oooOG4sNy2PyHbkhqUgnZFLSiXBx2UOB+/xRRRQf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwYFB//EADEQAAIBAwIFAgQEBwAAAAAAAAECAwAEERIhBRMxQWEiURQykbEGJXGBQ2KhwdHw8f/EABgBAQEBAQEAAAAAAAAAAAAAAAEAAwIE/8QAHBEBAQACAgMAAAAAAAAAAAAAAAEREhMhAkFR/9oADAMBAAIRAxEAPwDzOCFwSsgf9hT54fdQMpBZyRlo0OSB5pDgnHI1jiKxO19cHTHGItYJ7/f61oZLni0xMV/Fda4xqVXhySe2DjzW28Y6VRbryITK+qEgj0SHGr6Ui3Ex8RMZHkMeTpJPb/lM7XTt8aJwyfNGqkb+ARt2FVxCwjM3OtJJgvykn/e3encaOe1w0hV4w5IO8jHbNFZfiv4ouLiULbJHBCh0ogGdvPbNFHLDxl7Z+S1vOs7C4gO2NiRnYjzWrufxPxa4sWuJ+P3RuwiyBOWoRhq06Q3XUBv0x13zWLv447ViI5RK0baHK5wTvgjIBxtU9TR2GolXVZDrjBzjIAznpn7V5O/baeVjc/m13d2ltJxy5i4tdxCaG21MQNQJVWfPpLDcDBwGGSK4HFJRPa2nJ4heyXDI0swlYFAdI+XG47qc9SNqQk4vNNMl4Jy900npCppY4C4BPsPYUtdXagQQsAyEAyyDOW9RJA8Z+tOfitypvrVJOVyOWmnc7YOfbzRVV5OvNIjA0gAZUEA/pneijsFWuWMJizqjByNQ3GPY/wBqY+KRIVihQD+Jq/mIAIPuMf58UUV0k5b1GsUt40iRlJYsika9XVSTuBjH9fFUXNwkkcOnZo10/qOv3J/aiilFXbrgnBoooqT/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">the cake is a lie
+                                    <div class="name">I got a lot of problems, so I made this</div>
+                                    <div class="artist">JOLLY WRLD, LOVENude &amp; Ekeon</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAAFAwQDAAAAAAAAAAECAAMEBRESITFBUQYTFAciYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOWtwKmzPPWN46vwOSwJ6k9JYC9oo2mfmPxubo8yaM742iz6gkTEyHcrq2XCVAtJeNe56f1JXK0nH3cSH8iPti9WLCRs1BE1HvqSkfcDvxElzj9KxZW4+3Fzd06TVFpq7BSzHQG/J8T0vqr05b4jI07ayylpkA9NW9y3bagkbI5jtKqxxVJwTcZG3oKe5DMf8ABMtL41hkqdZrj5lGn2QmmT/JB1PNbt6ZpTVUZsX6fpZLFZG9FyKSWVNXdhTZgSzBQOQ67I6TVbAVgisbi2AdXdSxYcSodNrY89p0zJ/VbF3XoS5wlHEXFG8qFOCs1cVAArBu6g9VnK8rf/MyFxcU9otRi3D4315fuODk/dDeK8K91K630PMfqJB0TE6EE+40gsT3iIARuREQAREQA//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Everybody's dead!
 Explicit content</div>
-                                    <div class="artist">ericdoa</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                         </div>
@@ -1593,7 +1592,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2024, 11:03:31 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2024, 13:04:32 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
