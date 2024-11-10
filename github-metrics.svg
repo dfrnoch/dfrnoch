@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    573k added, 551k removed
+                                    214k added, 149k removed
                                 </div>
                             </section>
                             <section>
@@ -1540,18 +1540,19 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgID/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDAAQRBRIhEzFBUWEiMhRDUnGBkfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIB/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhMSIS/9oADAMBAAIRAxEAPwCJp9hGCXBBwfFWItiouB2+aWhURRKkP0pwAAvamY4mjX9XIOB6qdTXksVNaZ6T2/4qAspiMirld/Hb3moi2EkMWLgqXvJBCOQDt7t4z4AqorO91thBDLnGGxXRuoWcBljLxgHJ75HB5/as2Bh82Gx52YO/0zpXIhJk7jLBcjb7HainteldJ2TqYjLYG07uw5wTzj5oo1g3OVopuaZYZo2EZuEL43FQmB/PmrunWyOpDkBhgVJg063SRIre7nRCCz/X93o/7FUo1ZV6azsY8Y5HJHzTiJxUsv0RK9eFb8vD+XxlR5peeaxnuHkMQhyeSQcP88U/Lb28EPVkd888ZHNZq7dppWdnIHgYAAqV3Uc4C5ONetbZ5FlbYwkP0oGxk4APPiiptxGGzudsfNFHXsM4vxzc08TOsgQSNgeCR2/qq8BJQMzEAUUUsmq88kbV5zLMRliBwM03p+oafZ2jwTTPiTpu2Y8ncDnHb7R688/FFFTXTF1fmTtc1WxudPu4+vKilVeKNY+GkBPGccDDHzyfVFFFSe9YLJkS0//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMECAH/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSEzEiMlEHFUFxgZFCUmFicqHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAQEBAAMBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AKDTl5cEEDFdGezfV7TXOH4pUCCWHlilj/Kygf0dq5pEy7eM5pxwbcavHro9w3MsMuxkKnw8uQPEDse/aizwWdusIprPqmPqxCUnt/lZLh4bZXmkChUUkn0FV9bW1zGlyBKhk5SxbJy5/Udh3+FVbxpxtxHeF9L1GRLSNECyRQnzgjIy3c5HpiuWfprXH0R+0DVG4j4suL5WVbcN04VA/AD3+p3opIZlLgfuFFdgkeVEZn8oGTTvSLiPRzbX8Ny3SuiA6KNzjfBPoDSCeNpoHUeY15IqxusUchdI1CqSuBnALbfPb6VWdxS+rjsOO9DngSykjms5zkxmUZVj6hwSDVW67Ib/AFaadpGlBPKrH0HaiwllihboyvHk78hxn7VjCjmyFHbvWc5kN1a02t1VsrnIordKDB3P2orQSntUhs4ZxfW8rS94IyxeP+QIx9jSiRsTPjOM0UVJuWkxCYznepwToJB1Qzp6A4PbaiipJ3TxLzdKRdifiTzfLaiiimmv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fright</div>
-                                    <div class="artist">Rain Check</div>
+                                    <div class="name">I Think I'm OKAY
+Explicit content</div>
+                                    <div class="artist">mgk, YUNGBLUD &amp; Travis Barker</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcBAwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiETMUEGIlEVYXEHMoEUI2KRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAiEQACAgIBAwUAAAAAAAAAAAAAAQIRAyETBBJRIjEyQWH/2gAMAwEAAhEDEQA/ANsbeKZzjCVhW0DaAfB8nHDI2oFqJH5zNY0ecxIaecjFcta/6hSUWSkUBt3dvgYxhjVWltIkF0KWvc2rwmzRFfz5/OL7vwZRaPUeqr0iAJDMN2a7uSAw0PcpJICqNVYBvmr+caJO5KTRBIuiORkaE46r9wT0toKVhVknz47fe88HFamdbSltLI0wM+5SuVFy/Fc1XHOEDQxwzgKt6hQ20KN+fPGGaYJNOS+xJcYdQlaNpcQ4nzyLFeO/+sj6u+9Hiy5jwS1FZSpQUg+9Sa7URwSfiuM+ZuqxoJfXIcAaaG1blkpTuN7BXNkV+BkqmZ0LoyLfS4k7rTSefHP24+awAl7lc/THVXpUSa3Lddc2LCypzjYVDkfFcXxltlazCjJO95IIzF9P1bUNDam/UOlHLziunG5thINDi+1cjycm+nNIleoZhXNkyo8VbSnm/buW6AaO0ZOs0vilsvl0sV6pPRoUn1awSURzf+VYZSvT+mQ9W1yZCiPS0xmVFtuQuj1SOCQPi+MMY4ZfIu8K+h3pWlrfC3tSeeS68nciOgq/tlfJUqv2kjj7D+caFapEL6bJS8SB03HoytquPIPx47ecMMKtEqbTvwdielNBZXEXHi9N1tfVS4r3LWqiCFE3fft89s8HmxBlNaTo7SN7Tbrq5MlVCO2s8pFd/wDgwwwMlRjaQ7HklKVNmYa7rMmfpa29G2RYLdtiQ2Clb6L9ykV2B5rmz3wwwyTlktIt4oySbR//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgEDBwL/xAAtEAABAwMDAgUEAgMAAAAAAAABAgMEAAUREiFBBjETImFxoQcjUYEUMkLB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECEQMhEjETIkFR/9oADAMBAAIRAxEAPwDn5ZbKVFpGkpGSVr7+mKmyrWhqwNzy4rU4rwynSRjcjnnymtsJ6CtDzslp9byk+XSsJCTyTtuc1p/mzHmURDIdVFS74qUH+oV3z70WKtpgztIkXbVGursck6m0I9+wplb4zN2g3CbPlOrloSdKlunbAByRz+N6S31U+9XmVcXWVLSvKi4B5SlOw3HtWG7w5HiKZhMMBp1GFZb8ySe+Dnf91rab0FD13IadMMmReIYUCpvx0DITt/Yc+1FWr6ddUwbLaYwmLih5oq0oeTkDJO/ofWineJd2BHPSqijQ7rPl3Zbf2EKlshjU4gJShASdx+s781YmbPAtFqccnZkNoW1hxOPOCrJCRnvgH0xSCNGk2y8yIjiUibAfKDlPKSRzx/qtU96bPURJdWpAJWlKgPjHb2qSfJzW9fR0aUHXZcLP1LYWen5cKdFkLcccUUlOAkpUo4OAcAgHt+RtVXZtTFx6gdjWsqVEUtSmyc50AZ53pEStORlRFOel7sLRJU+5GdeykpUW16SEnGe4xVdQ7RK55Hpk7qDp161sPF4amk4U04lOMjbY+u/xRU7qnquHd24rbKJIZQfuBwdxwBuds0VlL9OV/EWP68Jbi9URZkFpKVOsFL6k7FagefXB7/8AK5qma0WzrccCtPlSkZJPvtj5oooMsVyGYpPieWyt9wqcQAr/ABGMnb810bo5lidZV+Myh17JQsE424Hsd6KKPF0IzbdiCfZbZBck6ru0h4A/YcYVx2APxn90UUUtyY9RVH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Butterflies
+                                    <div class="name">creature
 Explicit content</div>
-                                    <div class="artist">Ryan Hall</div>
+                                    <div class="artist">guardin</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1563,11 +1564,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMBBAIFBgf/xAApEAABAwMDAwIHAAAAAAAAAAABAAIDBBEhEjFBBSJhcaEGExVRgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEDBP/EABsRAQEAAwEBAQAAAAAAAAAAAAEAAgMRITFB/9oADAMBAAIRAxEAPwDw5r+4cKZJBuqrJBr3RK7t3z4XQNklMsu6Q+S6wcfKXqQWQTdSEouQj2UwHKYS7Q1ug3OQbcJQ9leoKSfqNRTUtM0GWRwiaM5JOP6l0xFXyhi5IH21z75usCV2fWfg6uo53SufF9O+SZTVydjXECxaBvfUNIHK5B0YyQcDdZa9uvcd1vS126c9LzYcl3Qmzsa2QtjvYDf8C/uhNLMe0hzfuP2rFPVup5GSRyaXMyCDkH1QhOn7XKnr9ZVUsdNWVcktPGSY4y64aTva61L5WyE3LQPVCEAMfMTks1fV7D5A5lgRi/PlCEKrQv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFCAIGAQME/8QALBAAAQMDAwMDBAIDAAAAAAAAAQIDBAAFEQYSIQcxQRMUYSIyUYEVI3GRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCsMCTJgTWJcJ1bElhYcacQcKQoHIIp2aGtd91Lply9Wu6PJvDrzqJKyshSlE53AjyeecYzWgaK0NeNXOvps0dtaI+31XHHAlKM5xnz4PYU/tDacuGj9MtqhhUx+C857pDSeXmycnaO5KDyPyM0EvomKu1adbs/8PPtEttwrU+2G3w+sjcFr+rcvOO+AQRjIpBaza1RE6kLuc6K8m5y3ypjawpr1eNoKcnIH+TVp7dd4N/tZettzaYdUnjJH0nzjPiq/wDUp+Pp/VkebKu38zcEKC0sg8DHKQccAZ8DGaBbdTWLnF1U9HvsxqXcG20eqW1bg2ojOzPkjPNFa/dJki4XGVMmLK5T7inHFEd1E5P/AGigYvS7WMvRsqZLZZTJiPJQ2/HJ27+cgg+CBmrA6O6n6SnNKKbgm3vrUVKYm/1kKPfCvtP+6QvSWzQLtfzDuvt1xFtFRaekejuWPtCT3Jz4HjNMtzploy3XL3dyuxRGS5v9o4+2gY77NxO4j57kUEv1GsOjL7CkSodzgRZrmVetFmoQlSvypGSkn5wCfzVatS2pq2zVMx7lFuQxy7HUSkfGSOf1mnjdpnTm031M2MliRIaSoNiMj+kg5wlSAkjIzjd3/fNQV61boBMiZIj6Y9y8+56h3NBKM5zwCr6e54Ax2HOKBKymVmIxIdCgtalJyR94GOfnvjPxRUpq27IvV3XLZjiLH2pbajpVlLSQMbU4AAHnAHc0UGSFq8AhVdweWTlWc0UUGLr5JwRyK8b7gKVZBz45oooOG4sNy2PyHbkhqUgnZFLSiXBx2UOB+/xRRRQf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">CABIN FEVER
+                                    <div class="name">the cake is a lie
 Explicit content</div>
-                                    <div class="artist">Aries</div>
+                                    <div class="artist">ericdoa</div>
                                 </div>
                             </div>
                         </div>
@@ -1576,7 +1577,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2024, 03:26:56 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2024, 05:03:50 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
