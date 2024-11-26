@@ -30,13 +30,13 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    605k added, 576k removed
+                                    84.9k added, 52.4k removed
                                 </div>
                             </section>
                             <section>
@@ -1297,6 +1297,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1561,33 +1566,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYC/8QALhAAAQMDAwMEAAUFAAAAAAAAAQIDBAAFEQYSIQcTQQgUIjEyUWGEwxYjRnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAiExcf/aAAwDAQACEQMRAD8Ap195uOyp19xDbSBlS1nASP1Jr0hQWlKkqCkqGQQeCKmG0dVtRdQYj7blsiKEBtyS7BjLWn3rYCUlpSSTn8eQQofX0abkXqLD2adYtFseuMeZ2o76oLqVmAtQACVoPyIHk+AM1jctZstPWB/iv7n+OpqXjFUp6wjj+lf3P8dJLSeh71qmJMkW6I+Y7Layh7t5Q44nB7QOfxHNSh20DycLkHmHvbe47Lvt93b7uw7N2M43fWcc4orvLrqa5WnptK0TcrLDiqZnZeQ+0v3CXCneHd27AVjCcYxiiki0OhMyM3e5dteXNYvUxKm7aqOra3Hd2KJWobtpOAAAUnnmsnTuqZWlesAurkq5ezROUqQEDDjzO4lW5AwDkEnGMV03pxu6WLncbY3boz2pLottFukzEYQztStTmVgFScgDgDk/dM7WvSVy8APQ4qWLksyluLba+O4OkpAOASFJXgZ5O0flihksb1EzmtcsdO3dMqMlF4W+3F3jt7lKU2nBz9YPBpidINKjRdpdslx1LFmXhxYCYzbmBH43dtKScnklWcAnP+qSkRxyJY+i4uTvZMK6yG1lPyU0EyGyUqAGcg5GPuurs+qYb/qBu8y6S0RLbZVTHnFunYhJCW2k8k+TuOB91IPtCnkjupUyRL1PqVyYoqkC7KQs/qkKTxnx8f8AlFY9xvMCXbrk3IguuXSXNMsTjJwBknjt7eeFHnOc0UhX2pX072rTUTVDwhvRbjdkxVKEgS0u7ACAoto2AjOfxZzjjzVFeaKKUs03eq9xdkk6TkWVZt0jfMc7kX+0rcoNhSsjyfJ+6nBi5zYcC5Qo7+I1wSlMkKQFFwJVuT8iMjnyCM0UUTVD0wPS7TuiYEG7KtyJkpiPJmLurAVucdb3pG9SduMA4A4AH5miiiir/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgEDBwL/xAAtEAABAwMDAgUEAgMAAAAAAAABAgMEAAUREiFBBjETImFxoQcjUYEUMkLB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECEQMhEjETIkFR/9oADAMBAAIRAxEAPwDn5ZbKVFpGkpGSVr7+mKmyrWhqwNzy4rU4rwynSRjcjnnymtsJ6CtDzslp9byk+XSsJCTyTtuc1p/mzHmURDIdVFS74qUH+oV3z70WKtpgztIkXbVGursck6m0I9+wplb4zN2g3CbPlOrloSdKlunbAByRz+N6S31U+9XmVcXWVLSvKi4B5SlOw3HtWG7w5HiKZhMMBp1GFZb8ySe+Dnf91rab0FD13IadMMmReIYUCpvx0DITt/Yc+1FWr6ddUwbLaYwmLih5oq0oeTkDJO/ofWineJd2BHPSqijQ7rPl3Zbf2EKlshjU4gJShASdx+s781YmbPAtFqccnZkNoW1hxOPOCrJCRnvgH0xSCNGk2y8yIjiUibAfKDlPKSRzx/qtU96bPURJdWpAJWlKgPjHb2qSfJzW9fR0aUHXZcLP1LYWen5cKdFkLcccUUlOAkpUo4OAcAgHt+RtVXZtTFx6gdjWsqVEUtSmyc50AZ53pEStORlRFOel7sLRJU+5GdeykpUW16SEnGe4xVdQ7RK55Hpk7qDp161sPF4amk4U04lOMjbY+u/xRU7qnquHd24rbKJIZQfuBwdxwBuds0VlL9OV/EWP68Jbi9URZkFpKVOsFL6k7FagefXB7/8AK5qma0WzrccCtPlSkZJPvtj5oooMsVyGYpPieWyt9wqcQAr/ABGMnb810bo5lidZV+Myh17JQsE424Hsd6KKPF0IzbdiCfZbZBck6ru0h4A/YcYVx2APxn90UUUtyY9RVH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">heather
+                                    <div class="name">creature
 Explicit content</div>
-                                    <div class="artist">glaive &amp; ericdoa</div>
+                                    <div class="artist">guardin</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhEzEGB0FRYSLRFCMyQmKBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwCVk0qK3dd0cjj+T8H/AClWqR9MjajJjvkmqO31K2MP1SLweGbvWG9jXUpGaMHAXap96DHK76Sya4jp+o7hUJ3McDml9y8ihiSwX9OaapC9xfx2wwru+3t2NV3inRdO0uzFr1EQFcbpF5L4yT8CnG5tAJ72fpWyF5McLnmimHheHdqcZVWI3/UAP2+tFa4yhZVZkXlmGRz7c090m/QKvUI2Mnb34+9T2m27R75rhgZMEAKeBWmGZRB0lBU80Oeslzjz6ph8Q28yEL+chzjtzVF5zxiGVZAx7qNvvke1c81C6eNXJJBU4U/NWnmlfrqVrpN/ayCaGe1XqOnIVgOQT6Grx8ZUr4T1Y2OqxSMO7YxRU3a3DLcqzcKp3HiirlTpfWjIUI53Uv1B9twNmQPWiivN6Xwo1ePfbMC2Fbt96T2eozRWclr+Jm6D94wxCsfkUUUmCa36Jp1vdWpuZNStY5VcgWjbuq3bBGBjH90UUUkQ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">god is dead</div>
-                                    <div class="artist">glaive</div>
+                                    <div class="name">Control</div>
+                                    <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EAC4QAAEEAQQBAwIFBQEAAAAAAAECAwQRBQAGEiExEyJBBxQyUXGh0RUjNGFigf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIFAf/EACcRAAICAgAFAgcAAAAAAAAAAAECAxEABAUSITFBE3EiQmGBobHR/9oADAMBAAIRAxEAPwDB2Nr5efh8dPbxTaWEpCUqQpIMhNqPJY5ch11ZABGuqWouLcfTk8LjwtLalpBkkqIN1xAvv9Rqx2lmZO2MazNgZJpkSWS3JjhSTSOXR8E9+f214fVElHICQ88xj3ZAdRkVslalLKClTfp9f9d9EfPWqyIpA69MupqwwvKHGmJlnyw1joUbvkp1x5QCR46/jUlWOjxckqM81AcSkoVzS4tXqA+UpAF35HdfrqTtLZ24Z7q5OPxb7kQHkVPLLHqAX0FWOz/q9OMzaDm34yMs+/j1TYq/8cqU6FpUnjxtX5dmx/53pZ+IQoRFzC/zhYNZ/lHTK2R9OMNH2a9nmd0w3X1Y8SkwSz7kqUAfTCuX4hdXXxo01Q93mR9EJ8KOxMMWJC+wftDXH1SkC0kq5cfwnxo0/wCoh7DAEZmuOkYxnBxIjjrL4c4uLaLQK+ZKrogXQoCu7vWtYHPwMg19tDhwoYipSVOPNhJ5JABoEX+QPzWkbAbN3Z/RMbkGlOiAzHMv1FKKQ2wsWQhZFAkHwDZPjvVZMmZTDTzjIzLbylOKWlaVJXYX7k2v5VQN3oBih2ZFGxfIPfHIk5FNtyX5Asj6gHpmt5DNMV/dmvS3D2EN+1Pn5J7/AG0o5tTeWW83AiqW6sp4hoeo62AD4NUAfJsfFaS4kLcecfQ2pQjJWFUt5xKE9fFk1f8AGp7eN3Dt2epEKUltbzJW4G3m3WxRoWTYBs9UL1pO+hFEUhiFD7fr+51F04CWp5Ho/E7dvZRQznkoT+TxExbEOXHjQwozTFjlpokEdOUONjknyL7GjWlbn2Kpf0yl3kGxMbiHISXksq5PlKC4pKiF0STSb7HsTQ60aRj6iytYqzgntkDZ+7MvK+nhiO5TDxI0eIIjbMhlQccSEAjibHu66UL70p71izMhmENQ8cr7CIlKo6m2AnmKA5KKiQffYo2fOjRrPm2XU5rRaMbCiTlbj2pkQpbkR5TTcflyWGmuSLBA/KzZ8X41PMjIsuiTBGQ9Rlo85DkdAUlKiKASLBHXk9i9GjVjxGZIDEKokePbz3xheHRPIC5JrGPKfUrc+S2fOx6XglpyEqKtH2KVeowEhJNj8NA+e/OjRo1IthyMDs6USsKGf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQEH/8QAMRAAAgEDAwMBBwEJAAAAAAAAAQIDBAURABIhBjFBExQVIjJhcZFRByMzgYKhscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQUSMUFx/9oADAMBAAIRAxEAPwCCntpyVZSGHg6b6StCVF8T1VJjiUyYPbPjXt9jj6gudHLX1dkob3T1SqySTmLPAx55/wAajuo0p6K/VHs1sW1uFAeFHDAAjvwSByfB0NnOfGRxalD9HQJsWWnNFXxVSfxEY8sc/Tt+mrjrFzdumRNbGkp7tSRGro5IziRHXh0/1jzkaneibY1zoBWXCogliddsS0ZZMDbhgxJzvByMjH20zaYY7G8tBRyyTx0c6SO89QZpMtywLMc52+M9tK6QdjNiBhJOyftyuVvKpeRTVyjAOBsk/I4/I0axuvekbdRXOokJCztNvEicLMjZ7r2DA+Rww5wDnRp5WVhsz2QgzPWnkhkTfI6QA7zsc48eNM3h4ab1ZlDMXA9VlPIRRkgE+ccfz1g3CsagkucM0ksqUk6oN4yflGMnyMjOnqiSmqLJLQLOvtzx52ucNI3zvj68nQHOx6is5v1sfr+uqoWuKptkwt6R/uxT052gZ8t+p/7pzoC4e9bbXRh5A5mM7OCSdyhWySTk5xj+rUJY6eCQTQ1QXZtZfjPGQPhOnrDPJb/aCFMZqYvQSUD5W78fTjSq5pBm7fVtQKCWV3ukVz6Wqfb1O+OEvHlcmMg44PcfbRrJs7NcLWq1hMcVUzQxnA+Mspye3YH++jUrv9B6mC5XjDe4eoYCJPdYwyjqSu5Iiml9UZB+35GNIULzwmTcpdXwyh1yUI7HPg6NGiPK8TqsRKkkf3hUbVZkVxxg6p5bkJrJLRmnCuRlGC8Bs57eONGjVLANEbpc4R+zkN3rKm0vTNGTVRsix+muMLkdgPqBo0aNdSte4K7lWKQAZ//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Buttercup
+                                    <div class="name">Tainted Love</div>
+                                    <div class="artist">Ivan B</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMI/8QAJBABAAEDBAIBBQAAAAAAAAAAAQACESEDEjFBImFRcYKxwfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEBAQACAgMAAAAAAAAAAAAAAAECESExEhNh/9oADAMBAAIRAxEAPwDysCtjLJSqlsiMnTqtVnhwzVtNhj7fmK3S8cPKMUTWVAg6dFnPP9+JYpppN4WOfcNq9f1jidNVugt0wsRsrNVTTL10jxeaK0y1PQWmal21CcmZoWktmw9849xVpheCw6pVcwXjTtvLN6USPDB456H9w105yYxc6PUSuuXDUxqP1iQu6q73Epje1YiIAiIgEkREA//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Seven Sins
 Explicit content</div>
-                                    <div class="artist">ceo@business.net &amp; lentra</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUEBgIDAQcI/8QALBAAAQMDAwIFBAMBAAAAAAAAAQIDEQAEBRIhMRNBBjJRYXEUIoGhJFKRsf/EABgBAQEAAwAAAAAAAAAAAAAAAAIDAAEE/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECEQMhIkFR/9oADAMBAAIRAxEAPwDzvctgvOpBDr5KdLg29oINWO3w4RZMrvWwzcMt/UFATpC0ggJIUOT6zAqKtrRc4tam2nWXUFOtA8yxtqPvP/K3Wl25m8uhFxKVtsgIStQSniSOw3NPNYG3hMw+NRdvm2eCg4oKbC0OfahW8z6jjfgiuL3Cu2kNNvJS8yCwsaiocnfbYCZ+awtm729DbratxOrpkA7dtzA7fun2btTbotn7e4Dl6u2S6tLCILRBg6/WR+KTnPJrUlmClX0NljjdNqfcyekKCkEoGr+wPaDtFFZeIb4s2tv1LEot3wXVNxslahsQfSIMGisN8KdTrKhgXXbpDqXXysoGptskwFSJMccfqas1gqzure6eRZtLd0fZI8pMAf5NUPFO9K4UqSD01aSOxjmndncOtt26mZ0d9I1GRHbkCapxpfUHpP4We1hGQaQ25C3VFJLY8pJKaneIMfe2Tbdqu5Q8XGgOogaFrRMwR7Eb+tQGbhTN0ttUQl0ufaY08ESI4+K05S9uFZdm9fUktvKPmHbY/irVMZrRGXbY0dyKRhjiXllt4vhSpHUSwAkiBtKjPyIorr57L3J6i3HCpa1FU954miuVtHVHosQpt3OkvVAO0fFOcXeBGTZDJUUGAkSNjt2O28cUUUYbTMa1FiRl3XHLpv8Ajg6ldNxW3J3PtyT71X3ss3AK0KedQ4Fq1GEq4ERG2wooql9KpLQzClvBmG/CDuE6lxf5NOULSlFtDKS31Y4B9J/VFFFSGf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Doomsday Blue</div>
-                                    <div class="artist">Bambie Thug</div>
+                                    <div class="artist">Ren</div>
                                 </div>
                             </div>
                         </div>
@@ -1596,7 +1601,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2024, 23:03:52 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 01:12:32 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
