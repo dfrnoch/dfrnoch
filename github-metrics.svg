@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    52.6k added, 36.3k removed
+                                    83.8k added, 57.8k removed
                                 </div>
                             </section>
                             <section>
@@ -1568,10 +1568,25 @@ But you can check out this project: https://github.com/zyrouge/pho. It is basica
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEECAP/xAAuEAABAwMDAwMCBgMAAAAAAAABAgMEAAURBhIhEzFRIkFhFHEHFSMyM0KBscH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERIUH/2gAMAwEAAhEDEQA/AGa6xWy9JciobVNUHEBGBjHuaVkOA2GKl6OHVBQTuT3BzxXhrm9OQYTzkVTiXFyFnITgbT80q2rUcl+yENYQthWUqKe+fNZSKPOuJ8eNDNvloSqbKa2MtITucWfgDsPmlrQt7Z0/GlWm/QnYTz+VNLdAUAfbPx80u2LUf5hrqXcru+lS22+m2pSsJSlPFGsZ8vUlwkSorP6MRCRuSk8J88jNVJ4WrTXbbpMhWd4LYYWysrdCsYUnORjHB4oqsNK6gnTGE2h+U6y404AkZ/rn1D/tFTYenydHgqj9E3JlLKFZTx1CR5qBvdyttqtzwtr8h6Zt7KbG3H2pyg6MtkeKlxT5LKv2+rkHvjB5rbeslnYbaWlLLgUQFHvkfbvQHOOnZLcXUipMhYSeor0FORz/AKp1vSXH3yba11nn8bsOYT8cdqgPxH05cmNQ3CYxGjxre46VNLckIQCnt2J/zjvUZpMSXW23UPLUEK2q2qPI8itCMGn7Vdrbry2xxH6swESV9PlKUZwd3j3oq2rFNatNmlT222wG2gtxxSRuCB359/OPf70VFumLq2WTGlgr+maLinsZITlJAURnnB8VhVtiX+yogx7tOYku5LchsBC044wST6xn2HNFFKBzhrmxXGwalk267uKekNncl0qJDiD2UM81pWW6TLa+lUF8tLzuAIBST8g8UUVpOxKVn6pvdxthhTJyvplufwoSEJJHJzgc8kcHiiiijA//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQHAwYIAgX/xAAxEAABAgUCBAQDCQAAAAAAAAABAgMABAURIQYSBzFBYRMiUXEUFjIjJDNCUoGR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFBAv/aAAwDAQACEQMRAD8A5odk/h20BxbTi3d20tOhRRtJB3AevTPLMSBKoRL2Qkrd6qF7jtblESSlg8r8ZpoD9arRYej+EupdUMrmKcywmVQAQ67MbNxORYc+WciAq8N2njuRuCTfau+exsYutrS+lmqC1NTFIa+J8NKlbZhwAk36BRtGTR3BOtS+om16no6V01s+b74gpcN+tje3brG88VqZQafR20TalU4fQ05LI8QAhJskp6j+PeMdTgU/MSNAmqYh2jooslVGnVFyXm33vtGwlRtm4tj1Bv6QjSGpNqZmlLqMwplu58yUXPLGPe0I0nzJRKXF7SUpwTnrbpF/cPONEnpvSjUrMMJfmGObe3apY5ABQxyHMjAxmKSYp3gNtPOFKlqyE/7EqtPSiZBLYlmkPkDzfmv/AFCZdQ07i3L6y09WvluQWiryUsJkSc4RZ1A+vYpJyUjOextHO3ETW9Q1dVAp9axKsXLLewAgdSbcz3MaYzMuoF0KKCARdJsbdRiJNIqq6dPomgy09tSpJQ4PKoKFiD+0FaqYFTS3MLJI94RHdWFOqUlIQkqJCQcDtCFJCqk6UAWG4C245I9oiKcKlEqJJ9TCERed2YEmEIkBWOQhCEQf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">bella</div>
-                                    <div class="artist">EKKSTACY</div>
+                                    <div class="name">MILLION DOLLAR BABY</div>
+                                    <div class="artist">Tommy Richman</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAYHBQMECP/EAC4QAAEDAwMDAwMDBQAAAAAAAAECAwQABREGEiEHMYETIkEUUWEjMnFCgpGh8P/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAABBf/EACMRAAICAQMDBQAAAAAAAAAAAAECABEDBBIhBTFhFCIyUnH/2gAMAwEAAhEDEQA/AIxLjXJDYjoafZbbSe7ZAWM/jsa0NJpuMSYQIb7yXMZ9p2/7q1v6euCm90iCWUf1GUpDASf7yMj81w/Q22O2Wnr5ZmHVe0BuR6ykn+EBXNeeNRkbgLKW6fgAovE+axDTpV4SmXobzDrn0sdC0qC+AcqBP3We3Oe+aTXJykK9VLhKVsJUSncC5gYAPHI9ue/ml9u03BWsW7N68vDs8tJeIOVkLxvAJAJ8+asdp6c3GHNXLtkSbEKR6ampLBWSMcZCCsYx8VRTL5kzadPiOP2SGRKXJCWwohHH6fc/bGftRVrnWS8LT6D0eENh3ELirRyfnlviih3t9ZvTgdmEe7z01sMSyPS4Mf1p4J2quBU6VHODhJIyc8gfPmtXp5EC58pkRLe0mKktrLMIN5c4wUKIz8KyDyOK0+oN+0M1FSjU0uO+GFb0tod9wPGeQQPjtnNIFq6k6ZhXBFxtGl72m3N53zWg4pHOR+3sRyew4qymIirxqfMX4THrdX0acWHtiJ646n23tisNsB3eE7SBncOM96u7Gn5CJDTgvdyJRgqSsNEOAfCvZnH8EGpHpa86cuXW6ZqBq+xEwsLcQ0s4HqqYaayFHgn2q/7NX1h+NIAXHkMupPYocCgf8GgqVZM7ZjbmdQwUh1bg3b1JCTzxgZxx5orTI780VriqnmrRugor12UlVuduT6dx+uuBcWOD8BSAgeCfNVeFpZpl0IdmoTKWj2tDAwPwPkUUV0k3ErjUi4r6s6ZWu571TrUy8pWf1449Nzzjv5zUMh2TVNwlog22MYVtg7w01McKCs57qI928+MfiiiugwX9nAlT0j1F1lb34tkuWmH3EtNhtC0nejaOBl0nt+SSaKKKDI9HtH4k3Ldz/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">my ex's best friend
+Explicit content</div>
+                                    <div class="artist">mgk &amp; blackbear</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECCAP/xAAzEAABAwMCBQICCQUAAAAAAAABAgMRAAQFBiEHEhMxQVFhFCIVFiQycYGhsdFCcpGiwf/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRITEE/9oADAMBAAIRAxEAPwDnMS4rnMgeJ8D+ayVmISQEjzWXJgCdyd6avD/g1e6mZddyr11ikIA5Ertx8widiSO0jx52rOlp685qtdKrw01ddaSzi7mzKJuGiypxTYJQO+xI27fnT8x3EJX1XvMjjcnbNu2f269auCoqKQIKBIIPOeUCO3pSU1PoF3Ruq38beXbV610EvMvtJ5ZBJmQZg7R3NRVslplfOStds6ek63O0HaCPPt6GqxWLDBZJWS1EVKbrI3GRfQhttbil9NAhJUoyEj2E0VtjWW2bK7VdNKPw7yACR+MiZ2O1FdFLOjW2SUuFt05oNR6ORzNw0ixCwUdBaVl3+0khMe8kR2Bp8Y7LJvca3f2z7zjryywptZIQiCAOUkfMI3nYelVfLZ7Rysg4L3Sdyt5Km0pccuw6lJXuAgTtsZiP2pj4f4DItou3rdK7OENhJ32JI7R4iO3t60YpLwW2bn1iO4wPdXVgUCZ+DCf91f8ACKXmIW3cqdtnCeVSjzR6Gr5xeKWdZvMABJbaKeUHsJBA/wAGlxgJTknFT3Mfv/FMRXp5ZK5m2trVtIDLQJB5fvEnck+d6KkM1jVM5O9sCCFhXVYkAEhW4HtI29jRUpRe8N/z21qGS9Gdwu0ZcXOnLjVefg2pLabBtY+Za2wUpdPiEiQJ7xTnwlkpOlMCrpBp5xRUEI/qSkykfjtP5miinj4ZLnsmc7cU7xvJ8SsoqzKlNc3LMTuUgn9dqo1qSxdJ2hXVV+m1FFEGLEbZe5V9KdYKKuZIhR80UUUSR//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Gedosanka</div>
+                                    <div class="artist">FantasticYouth</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1582,29 +1597,13 @@ Explicit content</div>
                                     <div class="artist">Ryan Hall</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEEBQYHAgP/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiEGMRMiQWFCUXGBoQcUMpGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUA/8QAIBEAAgMAAgIDAQAAAAAAAAAAAQIAAxEEEiFBIiNRsf/aAAwDAQACEQMRAD8AwXBXa69s/mnthD+6JWFT4oyQM/DjNc3EYS39Of8AaTSluHuoo7NiJ3bC84/P0rKJ1SY73J3o2zmu9biiiSVg38ykZbA98VtM+jwaZFGmnXBkureQSK3AVUK87vvVQ6L8fSLZ9KtwkM93E1zNcSkoWQcKqHuOefeq11FDcaZrTNFIy218viRAMfMvz+uazHdrreu4P7Lw4/Srv7mwTX2n9Raci4EszALI2Mff2orDtC1jUOn9SCSTHwpSGcqchgfeiqtvCtRvrPiBLUz5CQczPOfYd+Kl+hzp8OuRvfsyxggbgM7Bnk4qvNI3mCng050yYR3DbyFJXg5xyDmtt0JQqJTQ4wMsv6oaw1zqDJHKDGF2LgfD6YPyqIl6ibWbDR7acBbjTlKCTtuGfLn+8VC9R3AnuFZM4x3qLtZTE7HAZSORmjTxlFQGeRG2XsXJ/Zbb+4jeGQy+GzYwNrcg59KKraTglsKfNxyc0UwU54ii2x1NuR2BGMV5nvwaKKkJCcXKFrbLZz6U2igO3caKKmpwTsip5ZcHGKKKKJnT/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">intellectual greed
-Explicit content</div>
-                                    <div class="artist">brakence</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EAC4QAAEEAQQBAwIFBQEAAAAAAAECAwQRBQAGEiExEyJBBxQyUXGh0RUjNGFigf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIFAf/EACcRAAICAgAFAgcAAAAAAAAAAAECAxEABAUSITFBE3EiQmGBobHR/9oADAMBAAIRAxEAPwDB2Nr5efh8dPbxTaWEpCUqQpIMhNqPJY5ch11ZABGuqWouLcfTk8LjwtLalpBkkqIN1xAvv9Rqx2lmZO2MazNgZJpkSWS3JjhSTSOXR8E9+f214fVElHICQ88xj3ZAdRkVslalLKClTfp9f9d9EfPWqyIpA69MupqwwvKHGmJlnyw1joUbvkp1x5QCR46/jUlWOjxckqM81AcSkoVzS4tXqA+UpAF35HdfrqTtLZ24Z7q5OPxb7kQHkVPLLHqAX0FWOz/q9OMzaDm34yMs+/j1TYq/8cqU6FpUnjxtX5dmx/53pZ+IQoRFzC/zhYNZ/lHTK2R9OMNH2a9nmd0w3X1Y8SkwSz7kqUAfTCuX4hdXXxo01Q93mR9EJ8KOxMMWJC+wftDXH1SkC0kq5cfwnxo0/wCoh7DAEZmuOkYxnBxIjjrL4c4uLaLQK+ZKrogXQoCu7vWtYHPwMg19tDhwoYipSVOPNhJ5JABoEX+QPzWkbAbN3Z/RMbkGlOiAzHMv1FKKQ2wsWQhZFAkHwDZPjvVZMmZTDTzjIzLbylOKWlaVJXYX7k2v5VQN3oBih2ZFGxfIPfHIk5FNtyX5Asj6gHpmt5DNMV/dmvS3D2EN+1Pn5J7/AG0o5tTeWW83AiqW6sp4hoeo62AD4NUAfJsfFaS4kLcecfQ2pQjJWFUt5xKE9fFk1f8AGp7eN3Dt2epEKUltbzJW4G3m3WxRoWTYBs9UL1pO+hFEUhiFD7fr+51F04CWp5Ho/E7dvZRQznkoT+TxExbEOXHjQwozTFjlpokEdOUONjknyL7GjWlbn2Kpf0yl3kGxMbiHISXksq5PlKC4pKiF0STSb7HsTQ60aRj6iytYqzgntkDZ+7MvK+nhiO5TDxI0eIIjbMhlQccSEAjibHu66UL70p71izMhmENQ8cr7CIlKo6m2AnmKA5KKiQffYo2fOjRrPm2XU5rRaMbCiTlbj2pkQpbkR5TTcflyWGmuSLBA/KzZ8X41PMjIsuiTBGQ9Rlo85DkdAUlKiKASLBHXk9i9GjVjxGZIDEKokePbz3xheHRPIC5JrGPKfUrc+S2fOx6XglpyEqKtH2KVeowEhJNj8NA+e/OjRo1IthyMDs6USsKGf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Buttercup
-Explicit content</div>
-                                    <div class="artist">ceo@business.net &amp; lentra</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 09:06:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 11:04:11 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
