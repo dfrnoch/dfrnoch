@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    79.4k added, 57.7k removed
+                                    47.6k added, 33.7k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.73k views in last two weeks
+                                    2.71k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1569,34 +1569,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAYHAwQFAgj/xAAsEAABAwMEAQMDBAMAAAAAAAABAgMEAAURBhIhMUEHFFETIjIjYXGRJVKB/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhEjH/2gAMAwEAAhEDEQA/AIr6ZenszWHpbbEwG2Gy7dXi7IdwAhIbQlPPZ5J4HZrX1CLbC0YzZmHowlIwzKdCOctvPnjzzvSc/AFWf6a3WVqGxaIdkRY0CKX3pbcWI39NpLaHSEgAd/h2ck9moxA9PGNQWs3Kbc4sFkuL3lWVucqJ/AfOfNFR6U3h84XMpS6UoVu/fFLPZbneZSGLVAky3VKCQllor5P8CrV1VD0tplh0Wu1quMzOBIuCjjdnw2kgf2TUDla01FIY9ozcXYsMKCvbwwGGxg5B2oAH90zjn0m2YZGjLyzeX7Y8w23NZbLzjSnU5bSFBP3YPByRweeaVoQrtPgXV+4Qnl+4UVZdySck5z+5zg8+QDSlMPMa/XiK203FutwZbZTtbS3JWkIGc4SAeBkk8Ubvt3aSpLd1noSogkCQsAkdea7MLT31YDbpaX+qNydwwoYJHI/5WN3T6lq5ykFXJCeqGhw4635EpCnpU95w9kKUpSvjzXq2wX7i+WIaXDlKlKUo4GEgk5qYacs9sa0jMlzWFyJTyj9MqWEoQEKIyB5OTzuOPgGs8jTtyi2Bi4pirbfkyCzHbSgEKTtycYPfB4x18VTy86A17BoQ6gsqXLBcC7dEJUp6KRgDCd2M+DjgZ7IpUdRLulqjMeyeeilG4qWysoUoKPkjulK4tDai+0WaKi/zf8lHcjy2W3E7nUKAKRhQT/qrhJ7wa4epGEW2KpuHGjuuvfYl5xwBtpRPeEkqJ/bqlKZxWD4RTRcuO3DZiXJIS7HdUttZRuDn3cjHSjzgEcjOKv30tvGkrtbrgyfZF6I1skNqjFhQQAcqKD32fuH8cUpT3L1XFka3kmVVqLRcNc1xlpSlRdxcSk/kQSSkKPnilKV140wa6jSdktP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBAYDAv/EADEQAAIBAwIDBAgHAAAAAAAAAAECAwAEEQUhBhIxIkFRYQcTIzJxkaGxNENSU3OB0f/EABoBAAEFAQAAAAAAAAAAAAAAAAMBAgQFBgf/xAAiEQABBAIBBAMAAAAAAAAAAAABAAIDEQQhEgUiMVETQWH/2gAMAwEAAhEDEQA/AHdjBp7W4N5M0cwY5A8MqB/e5roY9MzynlDHGSkpIX3s4ON+i/OlXeM16iXndguCUUyMM+6o6sfAedZhpvQC6a+PjbnPICcLa6QWUNMVB2BVidsjdttj1yO6k7oSWK55V+2dqucR6XqGkcMNq6pDMmAVVHyMN0JI7unTxqjpepR6hoNoYEBM7CRiBuCBjl+eaI+JwHJwpRoMqNzyyN/IqR2ceNFdpIXhbllXlf8ASeo+PhRQaIU+wdhVwct8KyGs3b8NcZQawsXr7eeF4poScCRSpVlz3bEHp1rXqvh1pJxpYm90GXlXMsHtV28Oo+VSMSThIL8FV/V8cz4zg3yNqzrOu3V16IbWS21yGGMexexV0LlefAQ57ZbHayMDFJfRlqToJ7VCDLGfXREjJXOxx55+9ZfTuGdQvijR2xVP3Jewv+mtrw/w62mXUV1LdM9wqkARryKAfqascqSLgW3tZvpOLlfO2UN7fu1pyXZy0nNzNk8zdW8/OipmvbqdFSWeR1UYAY5xRVOSFsmt13aXAY2NRnJXuFFFNRFaWG2yM3gx/G1SsFuT+LXG/wCWaKKW/wAQqPte2t7dYyVuA7dy+rI+tFFFPpJR9r//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">paranoia</div>
-                                    <div class="artist">KENTENSHI</div>
+                                    <div class="name">Notion</div>
+                                    <div class="artist">The Rare Occasions</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAUGBwgE/8QAKhAAAQIFBAEEAQUAAAAAAAAAAQIDAAQFBhEHEiExEyJBUXFhCDJScoH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCAP/EACQRAAICAQMDBQEAAAAAAAAAAAECAAMRBDFBEyFhIiMkUXHR/9oADAMBAAIRAxEAPwDqmEIq973jTrUpq5mddG4YCUJ9RJOQOAfmMM4XeFVLHAln6hFG0uvY3nTDMql1MqAB5bUkclQ9/qLNcdTbo9EnJ50gJYaU5z+BmNaj44JftiZrIsOFOeJJwjA9J72rt33pVFl1w0pp15tCS4rHBBTwTjowh/QIALHGRmS26oI5RRnE3SoF0SMwZfJe2K2feOI44vR2dc1UKb8ymmeRfhDmMY8np/Zz38x2hFRvyyKbd1NXLzjeHOClaTtIIyRyBnsxMjGq5bgM44/nmWkB62qJxnmSdpoprdHYTRtolMHYBnGMn557zGR/qbuhcpRGqNIkqmJ1ZZWgHHpWhQ9xjv8AMXTTS0l2LQFNTk35MAAqUtRA9Sv5f2jCZDy6l6zomyFGVkVtL69J2Lwesj3hj1rqtYtQOVHqb8+ompzpaGsYYK9h5PE2fQK10UCzJVxScPTSETCvstpz7n4hGkyEumVk2WEABKEhI+gIQ2+3q2FovS19OsBtz3M9MIQhMokPdVMdq9DmZJh1TTjgAC0q2kcg9/5FP0t01lrLS86VqemnVKKlr2k4Ks9gCEI6r2yxXdt4HAsUI2wOZpEIQjoZ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECBgcEBQgD/8QALRAAAQMCBAUDAwUAAAAAAAAAAQIDBAARBRITIQYxQVFhBxRxFYGRIlKhwfD/xAAZAQACAwEAAAAAAAAAAAAAAAADBAUGBwH/xAAiEQACAgEDBAMAAAAAAAAAAAABAgADEQQFMRITIUEyQpH/2gAMAwEAAhEDEQA/AN4mfpDL7SIsgWzKRcnzXoudqNqPsYJv1LfI+K0jc6O6LpJt5rJjuJkshbKhY8hyvWds7rNVbSqPJEZlUNjYfFKVr62Ipy0qIuSfilZsVgKKUjyKGIckYjmGVvEBFvlR2orMbDTSs1ysKNhtyoruYu1jZ8SA/X8F1ShM+OleoEm6xY9/tUt4KhDHo6mcPejrfaazNoSoHNYgEAj/AF652XGbWopQrfMd7HcfipP6e4xO4SxdU7D5JZdW3p5sgWLHnt1qx6nakCEqxzIWredVqj0dIGeDOj8V4Sdh4Q3iDWrqIGV1padwb8x4qgEcXSIHGsx9hx5+A67pLadUCARt+nsL8u451ZPEvrFiEnCoYwGYGZjbeWQiRGC0Pnl1OwNUZIQkT1PrayynDrJKCEtpVzNhY7X6dqFt2iADd0cjEWuu1ahe56Oczo5r3aADl2+1FUixxnxHDVljTVSGTYlMqyyFdSCLWHiilzs12fBEdO6V/ZT+SIFSUuHna/astqSylAuFE96KKtTqDzKtRe9fxiomtJWbhX5ps9uRDWhx9taUuJ1EE9UqAI/iiihEBXAHuMnUPZUxJ4it4U+9hTmImTCS0LnT92hLux/Ydz/dFFFGEiTY2eZ//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">incentive
-Explicit content</div>
-                                    <div class="artist">Disphing</div>
+                                    <div class="name">Last First Date</div>
+                                    <div class="artist">7ru7h</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAwUGB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwAEEQUSIRMxQVGBIjJhcbEUQmOh0f/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAfEQACAgEFAQEAAAAAAAAAAAAAAQIRAwQSEzFBIWH/2gAMAwEAAhEDEQA/APIxo3S062vN4aOWR4tu3kMAp9+9LLaskhCwyPn+M/5Wlb6xG1pBbMsiiF5XLRvj51259Mj1p1dUsnIdo7lo1UBtp4B9SQaocUn8ZLzPUQeNxoybbTD1o5JIpTxnZ0u/v3qdWtJplCR27KN37UO3+hXQXIs206ZEursidtxdWAZPOB6D6Upb69YaWXjgtbjLDbl5slTjvz9eazYvWVR1k8WLhhG0/wAOPuLGeBk6kEsQPGXUgH7UVq6nqVlKpjs7eaNndGYvP1BkZ7Dx3opWl4yWOaf3cqLNXuLR7WWKztxCI+e4yQSvfAx3qrR9YkstIvbWNISLjPzAFhx49Ky5HaW4uFjUkvgBe/kcVXNC9rO8UgG5CVJHbPmlbvspxrjbcfQe5mEjqrnAPk1bI265mZlDnkgHnmoO4O4wyB85IXORVLSHrPIhx96Ap+jNk1rPKRdKIlUZBjXnPiikd21Sccn8UUoJJKqJDFpQUOHLDnOMGrbZVa4ImbjBYnPOcZ/NFFaxl2NW62f6O+65C3AZGhzn4lyQwHtzSLmME/CSCeOew9KKKzo1jtzpm6zW8s3EtuV3MAfijbOCpGc+/kUUUUtsD//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMBBAIFBgf/xAApEAABAwMDAwIHAAAAAAAAAAABAAIDBBEhEjFBBSJhcaEGExVRgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEDBP/EABsRAQEAAwEBAQAAAAAAAAAAAAEAAgMRITFB/9oADAMBAAIRAxEAPwDw5r+4cKZJBuqrJBr3RK7t3z4XQNklMsu6Q+S6wcfKXqQWQTdSEouQj2UwHKYS7Q1ug3OQbcJQ9leoKSfqNRTUtM0GWRwiaM5JOP6l0xFXyhi5IH21z75usCV2fWfg6uo53SufF9O+SZTVydjXECxaBvfUNIHK5B0YyQcDdZa9uvcd1vS126c9LzYcl3Qmzsa2QtjvYDf8C/uhNLMe0hzfuP2rFPVup5GSRyaXMyCDkH1QhOn7XKnr9ZVUsdNWVcktPGSY4y64aTva61L5WyE3LQPVCEAMfMTks1fV7D5A5lgRi/PlCEKrQv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Walk Up
+                                    <div class="name">CABIN FEVER
 Explicit content</div>
-                                    <div class="artist">Mills</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EAC4QAAEEAQQBAwIFBQEAAAAAAAECAwQRBQAGEiExEyJBBxQyUXGh0RUjNGFigf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIFAf/EACcRAAICAgAFAgcAAAAAAAAAAAECAxEABAUSITFBE3EiQmGBobHR/9oADAMBAAIRAxEAPwDB2Nr5efh8dPbxTaWEpCUqQpIMhNqPJY5ch11ZABGuqWouLcfTk8LjwtLalpBkkqIN1xAvv9Rqx2lmZO2MazNgZJpkSWS3JjhSTSOXR8E9+f214fVElHICQ88xj3ZAdRkVslalLKClTfp9f9d9EfPWqyIpA69MupqwwvKHGmJlnyw1joUbvkp1x5QCR46/jUlWOjxckqM81AcSkoVzS4tXqA+UpAF35HdfrqTtLZ24Z7q5OPxb7kQHkVPLLHqAX0FWOz/q9OMzaDm34yMs+/j1TYq/8cqU6FpUnjxtX5dmx/53pZ+IQoRFzC/zhYNZ/lHTK2R9OMNH2a9nmd0w3X1Y8SkwSz7kqUAfTCuX4hdXXxo01Q93mR9EJ8KOxMMWJC+wftDXH1SkC0kq5cfwnxo0/wCoh7DAEZmuOkYxnBxIjjrL4c4uLaLQK+ZKrogXQoCu7vWtYHPwMg19tDhwoYipSVOPNhJ5JABoEX+QPzWkbAbN3Z/RMbkGlOiAzHMv1FKKQ2wsWQhZFAkHwDZPjvVZMmZTDTzjIzLbylOKWlaVJXYX7k2v5VQN3oBih2ZFGxfIPfHIk5FNtyX5Asj6gHpmt5DNMV/dmvS3D2EN+1Pn5J7/AG0o5tTeWW83AiqW6sp4hoeo62AD4NUAfJsfFaS4kLcecfQ2pQjJWFUt5xKE9fFk1f8AGp7eN3Dt2epEKUltbzJW4G3m3WxRoWTYBs9UL1pO+hFEUhiFD7fr+51F04CWp5Ho/E7dvZRQznkoT+TxExbEOXHjQwozTFjlpokEdOUONjknyL7GjWlbn2Kpf0yl3kGxMbiHISXksq5PlKC4pKiF0STSb7HsTQ60aRj6iytYqzgntkDZ+7MvK+nhiO5TDxI0eIIjbMhlQccSEAjibHu66UL70p71izMhmENQ8cr7CIlKo6m2AnmKA5KKiQffYo2fOjRrPm2XU5rRaMbCiTlbj2pkQpbkR5TTcflyWGmuSLBA/KzZ8X41PMjIsuiTBGQ9Rlo85DkdAUlKiKASLBHXk9i9GjVjxGZIDEKokePbz3xheHRPIC5JrGPKfUrc+S2fOx6XglpyEqKtH2KVeowEhJNj8NA+e/OjRo1IthyMDs6USsKGf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAAFAwQDAAAAAAAAAAECAAMEBRESITFBUQYTFAciYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOWtwKmzPPWN46vwOSwJ6k9JYC9oo2mfmPxubo8yaM742iz6gkTEyHcrq2XCVAtJeNe56f1JXK0nH3cSH8iPti9WLCRs1BE1HvqSkfcDvxElzj9KxZW4+3Fzd06TVFpq7BSzHQG/J8T0vqr05b4jI07ayylpkA9NW9y3bagkbI5jtKqxxVJwTcZG3oKe5DMf8ABMtL41hkqdZrj5lGn2QmmT/JB1PNbt6ZpTVUZsX6fpZLFZG9FyKSWVNXdhTZgSzBQOQ67I6TVbAVgisbi2AdXdSxYcSodNrY89p0zJ/VbF3XoS5wlHEXFG8qFOCs1cVAArBu6g9VnK8rf/MyFxcU9otRi3D4315fuODk/dDeK8K91K630PMfqJB0TE6EE+40gsT3iIARuREQAREQA//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Buttercup
+                                    <div class="name">Heck
 Explicit content</div>
-                                    <div class="artist">ceo@business.net &amp; lentra</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                         </div>
@@ -1605,7 +1604,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 13:05:01 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2025, 15:03:30 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
