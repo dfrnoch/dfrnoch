@@ -1457,14 +1457,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 10 commits)</small>
+                    <small class="h-details">(computed from last 6 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 28.3 characters per line of code written</li>
-                        <li>Mostly pushes code around 15:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Has approximately 31.0 characters per line of code written</li>
+                        <li>Mostly pushes code around 01:00</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -1535,34 +1535,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcCAwYFAf/EACoQAAEDAgMIAQUAAAAAAAAAAAEAAgMEBQYRMRITISJBUWFxgTKRobHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAcEQACAwEAAwAAAAAAAAAAAAAAAQIREiEDIjH/2gAMAwEAAhEDEQA/AIhqmGqwNXLvt6p7RGN5nJO4ZtjGvs9guhsx6OkGqQbxS7mxZc5JdqORsLejWMH7KojxFdGuBFXIfeRCHasPHrYzmtQszYsUiokbFcGNYTwEjdPkIRaQJqg3RKDEU81bdKl4kDZDJ1GeTQcgPsE5g1K7GVofb7lJJsncTOL43jueJCV5G0uDIRTfTOSw7ckb945gYc8hofanC4vBJA2c+UjqFS8DPm2neCeC9Epy0Kj27KsI6VIcn+EKdjpqi4VccFPEXSOPwB3PYITVJ0IlFWOgNVdVSQ1cDoamJssbtWuHBCFSAhfYowVJSxS1VtJkgaC50TjzMHg9R+VmLFZai73GOlp9lpdzOcdGt6lCFPKC0MUnkcdhsdLZqXdUzSXH65HDmef54QhCoqvgs//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAcIBQYBAwT/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEAAURBhIhBzETQVFhFCIyQnGhCFJy/8QAGQEBAQADAQAAAAAAAAAAAAAAAwEABAUG/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAEQMhBAUSIjETUfD/2gAMAwEAAhEDEQA/AKopadQNT6n8RLOhVWcBhZEp+4Bw4KU7ihKRjkjHrny9aZdT51P1tbtMX/U0NtIVPipjSYjfhkhx9QIWFnPJ2u5zx+gKLJ3V4+4uFVLeXqN3p5fp2otNMTLxBRAuIJQ8yhe5OR2Unz2kYIB5FbNU03TqbqF3Q4n6f8a2vIKTILjCFkDgApKhg8+eO2aanSjUNzvjLq7xIS865GjSU7UJSkb2wTtA5xnv+aiuaHcNmI2AEM6HQjDooopJrTipD/lZEDuvFKtzoelKhI+IZHGwA4GSfMjBwCTVeVJ/UPS99tt3uFz1EygC5S3ti0Ob9ycgp/yNpAA7/KaLK5RbE6HTcC8jN2MasTaentvTI6C3dFw8KdNFtW4BsP0BO4JJ+5SSnGR6DtmsH0e1Fd4eq9KRnU+Hb3o64z6llKUIT86mwcnIP0e54Hel3pfXFwtlyNltt2kxYT25D0UgbVrPGQCOMjvjGayzES5yodwbZZl3GdM3iOw0jccJzgJAHbGD+6J85sCp0uL00BMltrf4y0aK1XpgL6jQtpa1Wypu7tMht3csKUoDhJURxnGM896K2p54ijU9Ft1BMmallWt2zSo8ZnftmLC9jmCAMZQBzn+xrq6kWEai0fcIaQfiQ2XWClO4hxPIwPfGPwTRRWEA6lR2xsGU0RJit/R69mDcNThi4tTYkoIYtrkQqXI5SCoKzuCcKP2ntx7Pboxo1Nqssa73WPIbvLwXlp/gsJKiAAMDBIAJzzziiip8ajf1FPNzEMl0G2Yz6KKKsCf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Spoiled little brat
+                                    <div class="name">Holding On
 Explicit content</div>
-                                    <div class="artist">underscores</div>
+                                    <div class="artist">iann dior</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAQMFAQAAAAAAAAAAAAAAAAQFBwECAwYICf/EAC8QAAEDBAECBQIFBQAAAAAAAAECAwQABRESIQYxBxMiQVEVoRQWMnGRJWGBwdH/xAAZAQADAAMAAAAAAAAAAAAAAAACAwQABQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADBBESIQUTMSL/2gAMAwEAAhEDEQA/AOaND39qf+kelZnVMmRFtq2jMbaLqGFnUvAfqCT2yBzg4yKTMwt1ahC1OqwGwgZJVkcY/bPb3qbPASyOJmykTrIy0tlSk/UHHC1Ijq7FISTk8H2SCPml5AatCw+wqyGYAxHP8Dv6dYFpltwnCyTc1vHOih6soTnkgenA49OahKbFS3LcS1sI+5Da3BzrngnH9vivQiVYYKrectuSFNoy24vGqTgjI2zn78Vyb4tWhd46sdds91/MTgaKlNw4ygIqE4ATgDUgZ9j3781PjC0NxtO9xtxr1tZEnZGvloI5G2Of3op6n2iXBf8AInw3o0hGQpLzakqJz7g/xRV/qMm5iS90Wi4dHyJtxt8eCZHkhIdltblr1DlHPB/1Vt2h33qDqI3aY4V3P0kONIDeuv6cY+PmsUlmT9F/Eeetb8h0pSy4rJ0TqQcZzn1BQ+QeKkqIqy2+O2yiet7VOpXryqo28go3z0IdVJsOwpjnI6+U908GFxn1XRbJaW4VHykrIxuMe3vgDvUcdKwrn0XfkT7W5GecfZ8tSlJK06kgkdxzkDmtyTPsvn6ZOmudsc5z8Vivsi2ps0p2BLSzIbTuFKR7Dkj35pdebjVn8t9j7Mdip2NzT/EA3DrK+/i5yWtGEllpDWdUpyTnnnJPNFIHYFwhKakwnEybg/s2I8fnVSnFoByfnHfAxmiq0zQw6Ei7XoqZrn1LDTTLKTqgjXntjt9h/FK0XJ1SMqOFfGaKK51kE3Acy9NwVuDv6iMdvtVV3NzVSVAlJHIP/KKKWa1hhzqDPUBbfQ4eVoyAT7cg8f5GaKKKL0pMFrT/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBQYHBAL/xAAuEAACAQMDAgUCBgMAAAAAAAABAgMABBEFEiETMQYiQVFxQqEHFBUXI4EyYcH/xAAaAQACAgMAAAAAAAAAAAAAAAADBAEFAAIG/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAEQMSBBQhIjFBMv/aAAwDAQACEQMRAD8AVtPtL4Si2uJQIpNuVJyWVsgkDuMcY9qtPhe8trVh1YbQfT5oDK3ccnJGM/FVnSdP1GGedriM2qEg7HB39sDOe/zzSyoLGGa1ckdZCq7TyBtwTXOAhCNI0ENSw6jrGnjVHh69ukxhdgFsht8vIGclQfvUZ4dskvlMztMuwlwcLhgDj27Vn+peH3j1i3v4XXoIqlgxOSwGB9zWhL1be2CQ/wAcTwn/ABPOTyazkaBgy/ZOFGW7MavozBqlnNJFbJCJF3xhz5lwSGLZwOI+3uaKir3UWS+jmuVZbd5Cq7kByBGwI+/f0orc5Avr7CKlzvsNcMdqJNSvjc3Uh6bDLMBySCMgAD44pu4uobpmd4JGkTlV2nPHx3qp/uFcScKSF+aZvfHF3+XfpykPtJXzetTk4e7djUb1WrlhulvLyMK0L2yFgS7gKQP9A0/b6tJaOHvrqCRVG0IoyT/ysk1jxZqtw6qL1Y0YcnIzn+s15XVHltomaYudoySe9F6AKBcDjbGxImvS6hpGpEpckpD59hKlghYAZ4OfftzRWfaK11fMIrKGW4lGMrGpOPbPt/dFAbBRoGoyExzObG9Ypgk5FdctywTJYkYxRRV4yi5Vo51kf192AkTPj3q+/h9caRDZTfr9mrydXyHOBs2jjuPXNFFF/Jg6uT+qXXhSS3nNlZtHLIo6W1juVvpJ59KKKKXznyjXGUaz/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">BOUNTY HUNTER
+                                    <div class="name">KRATOM
 Explicit content</div>
+                                    <div class="artist">Řáhol One</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAECBAYHAwUI/8QALBAAAgEEAQIEBAcAAAAAAAAAAQIDAAQFERIGIRMxQVEiUmFzFBVCcaGisf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiMf/aAAwDAQACEQMRAD8A+ppZEijaSRgqKNsxOgBUQ5XHgbN7b6+4KXMqXxN2g1sxMP4qhWOLTJXsFuzhY+RZ+J9AN6FTTcWRl7OXxoOjfW2/uCmvmsYg5Nf2oHuZRVZ6l6bs7K1/F2ysscYAkTlvt8w3614cOGur+ANYJE1u3wkSHR3S9ip12ylbfX5NPhljniSWF1eNxyVlOwR7g0VFwkBtsRaQOArRxqpA8hoUUHSIzqBmXB37IAWELkDfrqs76Btc3J1EstzbJHj1jL+MsvLbHtw1rz0d1oHVMng9OZKT5Ldz/U0/ASWUmJtnxkiyWpQFWU73+/1rNuIsl2Q5MfGc83jZslhL2zju3hmmB8OVkVvDO9jsPMdvXv8AWqrjcfmcWi467ulJXlIl3HFwVzrXHWz5edaBUPLAHHXBb9KEg+x1VcPZmu313qGILNi7UvosY1J176opMPr8rtddx4a/5RSlvKoypikkzwxzwvFMivG4KsrDYI9jXDH2FpYI6WVvFAjNsiNdbNFFamZLFcrhEkiZJAGR/hIPqD2ooomxFijSGNY41Coo0AB2AooooAGET//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">90 DAYS</div>
                                     <div class="artist">Aries</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhEzEGB0FRYSLRFCMyQmKBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwCVk0qK3dd0cjj+T8H/AClWqR9MjajJjvkmqO31K2MP1SLweGbvWG9jXUpGaMHAXap96DHK76Sya4jp+o7hUJ3McDml9y8ihiSwX9OaapC9xfx2wwru+3t2NV3inRdO0uzFr1EQFcbpF5L4yT8CnG5tAJ72fpWyF5McLnmimHheHdqcZVWI3/UAP2+tFa4yhZVZkXlmGRz7c090m/QKvUI2Mnb34+9T2m27R75rhgZMEAKeBWmGZRB0lBU80Oeslzjz6ph8Q28yEL+chzjtzVF5zxiGVZAx7qNvvke1c81C6eNXJJBU4U/NWnmlfrqVrpN/ayCaGe1XqOnIVgOQT6Grx8ZUr4T1Y2OqxSMO7YxRU3a3DLcqzcKp3HiirlTpfWjIUI53Uv1B9twNmQPWiivN6Xwo1ePfbMC2Fbt96T2eozRWclr+Jm6D94wxCsfkUUUmCa36Jp1vdWpuZNStY5VcgWjbuq3bBGBjH90UUUkQ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQEH/8QAMRAAAgEDAwMBBwEJAAAAAAAAAQIDBAURABIhBjFBExQVIjJhcZFRByMzgYKhscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQUSMUFx/9oADAMBAAIRAxEAPwCCntpyVZSGHg6b6StCVF8T1VJjiUyYPbPjXt9jj6gudHLX1dkob3T1SqySTmLPAx55/wAajuo0p6K/VHs1sW1uFAeFHDAAjvwSByfB0NnOfGRxalD9HQJsWWnNFXxVSfxEY8sc/Tt+mrjrFzdumRNbGkp7tSRGro5IziRHXh0/1jzkaneibY1zoBWXCogliddsS0ZZMDbhgxJzvByMjH20zaYY7G8tBRyyTx0c6SO89QZpMtywLMc52+M9tK6QdjNiBhJOyftyuVvKpeRTVyjAOBsk/I4/I0axuvekbdRXOokJCztNvEicLMjZ7r2DA+Rww5wDnRp5WVhsz2QgzPWnkhkTfI6QA7zsc48eNM3h4ab1ZlDMXA9VlPIRRkgE+ccfz1g3CsagkucM0ksqUk6oN4yflGMnyMjOnqiSmqLJLQLOvtzx52ucNI3zvj68nQHOx6is5v1sfr+uqoWuKptkwt6R/uxT052gZ8t+p/7pzoC4e9bbXRh5A5mM7OCSdyhWySTk5xj+rUJY6eCQTQ1QXZtZfjPGQPhOnrDPJb/aCFMZqYvQSUD5W78fTjSq5pBm7fVtQKCWV3ukVz6Wqfb1O+OEvHlcmMg44PcfbRrJs7NcLWq1hMcVUzQxnA+Mspye3YH++jUrv9B6mC5XjDe4eoYCJPdYwyjqSu5Iiml9UZB+35GNIULzwmTcpdXwyh1yUI7HPg6NGiPK8TqsRKkkf3hUbVZkVxxg6p5bkJrJLRmnCuRlGC8Bs57eONGjVLANEbpc4R+zkN3rKm0vTNGTVRsix+muMLkdgPqBo0aNdSte4K7lWKQAZ//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">god is dead</div>
-                                    <div class="artist">glaive</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUHCAL/xAAwEAABAwIEAggGAwAAAAAAAAABAAIDBBEFBiExEkETFCIyUWFxkQcVFiNCgVKhwf/EABgBAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxEEIRJBUf/aAAwDAQACEQMRAD8A2QDwCaqIZHtPRVD4X8tAR7FPhpvpuqzNWJ/I8vV+IkAvgiJjafyedGj9khbGYhp6priH4pw6jvMaFMhp5IwOkmkleN7gAewC5Oq6DFsSdNiFW900srjJJI+S5c7/AD05Lpf4cV9TiWSsJqawv6yIuikc/dxYS2/7smvZWck10mX9kJxzTc7IQtskDgB0VRm+OOoy9WRPaXhzRtbcEEHX0U4PN0P7UbgSADpqoXT2VufKXP0xV2H4L1d8To3shMhlLQ613c7+Xktcyj1X6eoWUh+0yMAf2s0zBk3HsTzHPLFHSwUUslmyiUd3+RG9ytQwqkbh+HwUsb+NsTGt4uZsLarLGqW030c/hca8V06e0WXYQo/EQbW1QtTpjd0rteXuhCkHkRx2ADG28LJWgNaA0AAbWQhAKHWB80IQgP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Blue
-Explicit content</div>
-                                    <div class="artist">guardin</div>
+                                    <div class="name">Tainted Love</div>
+                                    <div class="artist">Ivan B</div>
                                 </div>
                             </div>
                         </div>
@@ -1571,7 +1570,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 15:03:52 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 17:03:34 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
