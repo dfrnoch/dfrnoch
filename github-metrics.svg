@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    29.4k added, 29.4k removed
+                                    53.6k added, 47k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.90k views in last two weeks
+                                    1.80k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1457,7 +1457,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~5 coding hours recorded
+                            ~6 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1469,7 +1469,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in PHP
+                            Mostly coding in TypeScript
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -1511,31 +1511,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAYHAwQFAgj/xAAsEAABAwMEAQMDBAMAAAAAAAABAgMEAAURBhIhMUEHFFETIjIjYXGRJVKB/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhEjH/2gAMAwEAAhEDEQA/AIr6ZenszWHpbbEwG2Gy7dXi7IdwAhIbQlPPZ5J4HZrX1CLbC0YzZmHowlIwzKdCOctvPnjzzvSc/AFWf6a3WVqGxaIdkRY0CKX3pbcWI39NpLaHSEgAd/h2ck9moxA9PGNQWs3Kbc4sFkuL3lWVucqJ/AfOfNFR6U3h84XMpS6UoVu/fFLPZbneZSGLVAky3VKCQllor5P8CrV1VD0tplh0Wu1quMzOBIuCjjdnw2kgf2TUDla01FIY9ozcXYsMKCvbwwGGxg5B2oAH90zjn0m2YZGjLyzeX7Y8w23NZbLzjSnU5bSFBP3YPByRweeaVoQrtPgXV+4Qnl+4UVZdySck5z+5zg8+QDSlMPMa/XiK203FutwZbZTtbS3JWkIGc4SAeBkk8Ubvt3aSpLd1noSogkCQsAkdea7MLT31YDbpaX+qNydwwoYJHI/5WN3T6lq5ykFXJCeqGhw4635EpCnpU95w9kKUpSvjzXq2wX7i+WIaXDlKlKUo4GEgk5qYacs9sa0jMlzWFyJTyj9MqWEoQEKIyB5OTzuOPgGs8jTtyi2Bi4pirbfkyCzHbSgEKTtycYPfB4x18VTy86A17BoQ6gsqXLBcC7dEJUp6KRgDCd2M+DjgZ7IpUdRLulqjMeyeeilG4qWysoUoKPkjulK4tDai+0WaKi/zf8lHcjy2W3E7nUKAKRhQT/qrhJ7wa4epGEW2KpuHGjuuvfYl5xwBtpRPeEkqJ/bqlKZxWD4RTRcuO3DZiXJIS7HdUttZRuDn3cjHSjzgEcjOKv30tvGkrtbrgyfZF6I1skNqjFhQQAcqKD32fuH8cUpT3L1XFka3kmVVqLRcNc1xlpSlRdxcSk/kQSSkKPnilKV140wa6jSdktP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAEEAgYDBQj/xAAnEAABBAEEAQMFAQAAAAAAAAABAAIDEQQFEiFBEzFRYQYUIjJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQIhQf/aAAwDAQACEQMRAD8A8vIimuLVVCIiAiIgLKMAvAJ4PCxRBy5WO/FyJIZRT2GirODgsycTMldP43ws3taW2H88i+lGNI3JeGZpL2NaacHU/wCKPfJuj8rbZ/p7StGwDl6hkT5Eoa132XEdkgEbnA3V9AXQ6UtqMb20VFcdMzJj8cjY4A0nxiOIdm6c79iPa7pFWVNBzVBEQdvp8enRabPNl5L25/kYIYmM3DZzuJN8H0pV9R1GTO2tlDSGOLt9fk4nskn2/wAREL4sYumYeRpEuXLrGJBkM3bcSRry91elECuf6iIg/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">paranoia</div>
-                                    <div class="artist">KENTENSHI</div>
+                                    <div class="name">FE!N (feat. Playboi Carti)
+Explicit content</div>
+                                    <div class="artist">Travis Scott</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQADAAMAAAAAAAAAAAAAAAMCBAUBBgf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEjEhUWEGE0EiMnEUQpGh0f/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBAAB/8QAHxEBAAICAgIDAAAAAAAAAAAAAQACESEDEjFBBCKB/9oADAMBAAIRAxEAPwD42p2sD0yDmu1feoLzVNxvdqW6AhYo/wBzEdM+Kh6f02HUriUXV0ttBEm5mOMnwM1RdOSWWWO0mWWAK8iyOdg2ggZJ/wArRfquHySKdgye5HQ9Pi1HUord7gRRHLMxGDgdvjNX9R2On2k+3S53mVMCTcQQCeMEVzAGkYxt9CjkKcVMnYhij6Rhi2B8nuT817izYR1JE64xuY0pSlkS1nbpc3CRSEbTW1c2c42tIpMaN9zY+3oB0z44rHS7JrpbiT34oUhjJYyNjOegAA5qc+8tGpZgTz144obC20zTS3GUxeu5tS2EkLD2w0m762PYDitWSwuELfQDt7HxnP460adyHdXYKV24z5GP6rX9x+NzY/NdUueyVe/x3xVP2VmtJoVZpFwFIH8jIpUdzEY3NjtmlIFvczcjVfponhVLOoUZbI2/mvaNa9PjTNLjklu0a627faA5+Tg0pRctmqYicdRHM466hEuk/ohaRhyxZ5+WbsPFc+lKSpjMNcxSlKuTP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBggD/8QAKhAAAgEEAQIEBwEBAAAAAAAAAQIDAAQFEQYSIQcTMXEUFSNBUVKRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwDqCouUvY8djri8mV3SFC5VBtm/AH+k9qlVl+fXnkY+GFdFmLXBXq1sRDa++5DEP+1rmbcS3FrxzKnM4qK9a0ltGcn6MhBZR6gnXbuCDVnVHxWH4S0Wz3vyYxHve9lGaPf8VavKnUy+EKUpUUrIZNfmXJlj6FkiWeK1KuBoKgM8jD87byl91rX1zzzLNZjD8gy11w3K3uQuYrq4j+Eh49LcC1eVl6wJSwVjtB3O9d9DVWXErVeLPK5uB3uFycV2bbH/ADNobu2jtg7XEbIjkBj2AGm9O+61uD5rxvK5kri8xazi7jUj6mgZBoBRv7kH0H61zNyTjHi/4hizbP467eO26jG115VuiltAkKNa7ADuDUnD+HPMuE5/CX82Kluo7W4STrs9ydXSwYKQBsb0RsjXesW+ukkyZ9df/eleMdwrMqyI8UhUHpcfn7A+hPsaVph7UUdPZRr2FKUA99g9xUaazSVAgd0Xe+nsy/xgRqlKD0hhWO3EJJdR+3elKUH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Everlong</div>
-                                    <div class="artist">Foo Fighters</div>
+                                    <div class="name">Antifreeze*
+Explicit content</div>
+                                    <div class="artist">aldrch &amp; Ryan Leahan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQHAwYIAgX/xAAxEAABAgUCBAQDCQAAAAAAAAABAgMABAURIQYSBzFBYRMiUXEUFjIjJDNCUoGR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFBAv/aAAwDAQACEQMRAD8A5odk/h20BxbTi3d20tOhRRtJB3AevTPLMSBKoRL2Qkrd6qF7jtblESSlg8r8ZpoD9arRYej+EupdUMrmKcywmVQAQ67MbNxORYc+WciAq8N2njuRuCTfau+exsYutrS+lmqC1NTFIa+J8NKlbZhwAk36BRtGTR3BOtS+om16no6V01s+b74gpcN+tje3brG88VqZQafR20TalU4fQ05LI8QAhJskp6j+PeMdTgU/MSNAmqYh2jooslVGnVFyXm33vtGwlRtm4tj1Bv6QjSGpNqZmlLqMwplu58yUXPLGPe0I0nzJRKXF7SUpwTnrbpF/cPONEnpvSjUrMMJfmGObe3apY5ABQxyHMjAxmKSYp3gNtPOFKlqyE/7EqtPSiZBLYlmkPkDzfmv/AFCZdQ07i3L6y09WvluQWiryUsJkSc4RZ1A+vYpJyUjOextHO3ETW9Q1dVAp9axKsXLLewAgdSbcz3MaYzMuoF0KKCARdJsbdRiJNIqq6dPomgy09tSpJQ4PKoKFiD+0FaqYFTS3MLJI94RHdWFOqUlIQkqJCQcDtCFJCqk6UAWG4C245I9oiKcKlEqJJ9TCERed2YEmEIkBWOQhCEQf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Control</div>
-                                    <div class="artist">Thisistoodifficult</div>
+                                    <div class="name">MILLION DOLLAR BABY</div>
+                                    <div class="artist">Tommy Richman</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECCAP/xAAzEAABAwMCBQICCQUAAAAAAAABAgMRAAQFBiEHEhMxQVFhFCIVFiQycYGhsdFCcpGiwf/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRITEE/9oADAMBAAIRAxEAPwDnMS4rnMgeJ8D+ayVmISQEjzWXJgCdyd6avD/g1e6mZddyr11ikIA5Ertx8widiSO0jx52rOlp685qtdKrw01ddaSzi7mzKJuGiypxTYJQO+xI27fnT8x3EJX1XvMjjcnbNu2f269auCoqKQIKBIIPOeUCO3pSU1PoF3Ruq38beXbV610EvMvtJ5ZBJmQZg7R3NRVslplfOStds6ek63O0HaCPPt6GqxWLDBZJWS1EVKbrI3GRfQhttbil9NAhJUoyEj2E0VtjWW2bK7VdNKPw7yACR+MiZ2O1FdFLOjW2SUuFt05oNR6ORzNw0ixCwUdBaVl3+0khMe8kR2Bp8Y7LJvca3f2z7zjryywptZIQiCAOUkfMI3nYelVfLZ7Rysg4L3Sdyt5Km0pccuw6lJXuAgTtsZiP2pj4f4DItou3rdK7OENhJ32JI7R4iO3t60YpLwW2bn1iO4wPdXVgUCZ+DCf91f8ACKXmIW3cqdtnCeVSjzR6Gr5xeKWdZvMABJbaKeUHsJBA/wAGlxgJTknFT3Mfv/FMRXp5ZK5m2trVtIDLQJB5fvEnck+d6KkM1jVM5O9sCCFhXVYkAEhW4HtI29jRUpRe8N/z21qGS9Gdwu0ZcXOnLjVefg2pLabBtY+Za2wUpdPiEiQJ7xTnwlkpOlMCrpBp5xRUEI/qSkykfjtP5miinj4ZLnsmc7cU7xvJ8SsoqzKlNc3LMTuUgn9dqo1qSxdJ2hXVV+m1FFEGLEbZe5V9KdYKKuZIhR80UUUSR//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhEzEGB0FRYSLRFCMyQmKBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwCVk0qK3dd0cjj+T8H/AClWqR9MjajJjvkmqO31K2MP1SLweGbvWG9jXUpGaMHAXap96DHK76Sya4jp+o7hUJ3McDml9y8ihiSwX9OaapC9xfx2wwru+3t2NV3inRdO0uzFr1EQFcbpF5L4yT8CnG5tAJ72fpWyF5McLnmimHheHdqcZVWI3/UAP2+tFa4yhZVZkXlmGRz7c090m/QKvUI2Mnb34+9T2m27R75rhgZMEAKeBWmGZRB0lBU80Oeslzjz6ph8Q28yEL+chzjtzVF5zxiGVZAx7qNvvke1c81C6eNXJJBU4U/NWnmlfrqVrpN/ayCaGe1XqOnIVgOQT6Grx8ZUr4T1Y2OqxSMO7YxRU3a3DLcqzcKp3HiirlTpfWjIUI53Uv1B9twNmQPWiivN6Xwo1ePfbMC2Fbt96T2eozRWclr+Jm6D94wxCsfkUUUmCa36Jp1vdWpuZNStY5VcgWjbuq3bBGBjH90UUUkQ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Gedosanka</div>
-                                    <div class="artist">FantasticYouth</div>
+                                    <div class="name">god is dead</div>
+                                    <div class="artist">glaive</div>
                                 </div>
                             </div>
                         </div>
@@ -1544,7 +1546,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 01:12:01 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 03:24:37 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
