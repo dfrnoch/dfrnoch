@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    37k added, 34.2k removed
+                                    34.2k added, 33k removed
                                 </div>
                             </section>
                             <section>
@@ -1469,34 +1469,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhEzEGB0FRYSLRFCMyQmKBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECESFB/9oADAMBAAIRAxEAPwCVk0qK3dd0cjj+T8H/AClWqR9MjajJjvkmqO31K2MP1SLweGbvWG9jXUpGaMHAXap96DHK76Sya4jp+o7hUJ3McDml9y8ihiSwX9OaapC9xfx2wwru+3t2NV3inRdO0uzFr1EQFcbpF5L4yT8CnG5tAJ72fpWyF5McLnmimHheHdqcZVWI3/UAP2+tFa4yhZVZkXlmGRz7c090m/QKvUI2Mnb34+9T2m27R75rhgZMEAKeBWmGZRB0lBU80Oeslzjz6ph8Q28yEL+chzjtzVF5zxiGVZAx7qNvvke1c81C6eNXJJBU4U/NWnmlfrqVrpN/ayCaGe1XqOnIVgOQT6Grx8ZUr4T1Y2OqxSMO7YxRU3a3DLcqzcKp3HiirlTpfWjIUI53Uv1B9twNmQPWiivN6Xwo1ePfbMC2Fbt96T2eozRWclr+Jm6D94wxCsfkUUUmCa36Jp1vdWpuZNStY5VcgWjbuq3bBGBjH90UUUkQ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAECBQT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEAAURBhIhMUEHIlFhcZETUmKBsf/EABoBAAIDAQEAAAAAAAAAAAAAAAEDAAQFAgb/xAAgEQACAQQDAAMAAAAAAAAAAAABAgADBBFBEiExEzJR/9oADAMBAAIRAxEAPwBSW+G5NWlbLZWUEFSO+31pgxtPrksNbyoAoAISeM0v7Vc5sV3fGI3ttFJX/CpFpOQJE0KlXpxlKgU7C8oAZ6HOcDnj5rWDbU4nnqtBmYE68kjk6XU/EZS+lw/jOcJB61GLrYE2xS3GFh1vJ3JIyU8d6nUi2RnbS/LZukh+OzuUpbUlWAceoPX5qDSNP3dy6xHGxIftz7iAXErKgpBIJ3Y68HrSyxHfKPSyf64kNUgImFGfLnrRTun+F8Oa6p2EVs4T5Ugdxx3opAcDc0HtH67iTlMqMtTDWTtJA5zwPfv817pNqmRWFOzmJUaEkBSXPwHznAxgnjB45zjmmba9SeG90grkXaAi3TnAQ42EKV9EDH+Usb1qy7T4DloVcXnbMh0llheOEgnaM4zgDtmqQuHY4AxNJrelTXkTn8nd03qVEeCLe9PRGt+7LjSwFhzjnojJz7kU89BXKBcNKrnQoCGIcZCgktuhaVBIyQB1B9iBVTviuzaNS3a2RUQotylMW8vJdcYbXgKIIJOP6+D3rp2Y+SJVUDiRLhW99q4wm3221thQzhacEUUqdR+N1tNhcbsrUpdxWnYlS0BAbP7Z7n2xRSQ7nUc3x59lehg1thPqfqiinShMYT+x+qzhP7n6oooSTZJSMgklJ9qKKKMM/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">god is dead</div>
-                                    <div class="artist">glaive</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUHCAL/xAAwEAABAwIEAggGAwAAAAAAAAABAAIDBBEFBiExEkETFCIyUWFxkQcVFiNCgVKhwf/EABgBAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxEEIRJBUf/aAAwDAQACEQMRAD8A2QDwCaqIZHtPRVD4X8tAR7FPhpvpuqzNWJ/I8vV+IkAvgiJjafyedGj9khbGYhp6priH4pw6jvMaFMhp5IwOkmkleN7gAewC5Oq6DFsSdNiFW900srjJJI+S5c7/AD05Lpf4cV9TiWSsJqawv6yIuikc/dxYS2/7smvZWck10mX9kJxzTc7IQtskDgB0VRm+OOoy9WRPaXhzRtbcEEHX0U4PN0P7UbgSADpqoXT2VufKXP0xV2H4L1d8To3shMhlLQ613c7+Xktcyj1X6eoWUh+0yMAf2s0zBk3HsTzHPLFHSwUUslmyiUd3+RG9ytQwqkbh+HwUsb+NsTGt4uZsLarLGqW030c/hca8V06e0WXYQo/EQbW1QtTpjd0rteXuhCkHkRx2ADG28LJWgNaA0AAbWQhAKHWB80IQgP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Blue
-Explicit content</div>
-                                    <div class="artist">guardin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIA//EAC0QAAEDAwMCBAUFAAAAAAAAAAECAwQABREGEiEHEzFRYXEUFSIyQUNikZLR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQBAgUG/8QAJhEAAgICAQMCBwAAAAAAAAAAAQMAAgQRIQUTMRJxBhQiQVGR0f/aAAwDAQACEQMRAD8A5ljRHJTwQ2DmrbA09Fix+/OWlKB4qUcAVN0rZHwyHjGcJP52GoWvH5TfagIZeQlQ3r+k8+Q8KyWZRe3s0Oh95tKSvGT3bjZ/EYJmabZbIXIbVjg7Uk16ytPW66RC/bHUKGM/Qc49/Ks3+FfP6Ln9TVq6fSbhGvDcRtp5TD5wpGwke/piodjFNS1TORzyZCc0NuKNrwYjuVvdgyC26k/xRWla0sD70QviM7lP52GimcXqVHLFrHmCycG1GEL8TQ7Z1Itz0ZKxAWjj7QRiod66o2iM0txdoLziR9O/bz6eFY7YLgG8tOKGPemkuN31lTjYLRG329TXOnouMtv1A69zHexVixdXmXBPWq2pIzppHH7k/wCU90z1fts+YR8hMZCRy6kpPPl4VjS9MvtOKdUhRjZwleDj2z503tURENoYwAKNkdKwDQigO/c/2BRjtvbV/E3O49UrTEiKcVCdWMfacc0VzxqO6d7DDauB480UJHw1imm7g/syz7JXf01iPcW3QpP4OaeIvyvhlIUDuwBRRXSXVW+vVFkPuvYqZZU6pZXpYJcchd8I7Ya3q7o5xnbt2+vjmqdNvTjiSlvgUUVSmMuh4En5tuiNxUkla8qJJNFFFMRbzP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Prospect (feat. Lil Baby)
-Explicit content</div>
-                                    <div class="artist">iann dior</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwUEB//EAC0QAAEDBAAGAgAFBQAAAAAAAAECAwQABREhBhITMUFRImEUFXGBkTKhscHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAESECMf/aAAwDAQACEQMRAD8AtubNthRlPTH2m2Qk5UpWhrX9681ud0t98mKYsygy3zJw44CvIxnAwNH9QcdvdJ3GmYjiIzUyS6lW1IccKgK5+Ei6ZqAHCmOQrqfpiszyZtfp7Og4dkx7u6qNNWqE4lQHUBGyDjtsAHHfP3moTbK42sgSn3U8wGQ3nWP6sAfY14wRuuSxB9Ky+uQrmeY5mAVqUPlkDP2BWpauK3bbdFQZcbrQobBL7iBzLKjsHJOhuillBqRHTdkxbgXIqFEfJwZ5cjzj71mireJpkS8GHcUR1M5eIcBToozo580UYMbKtzmOzpa33xhavHqmTgNTipzaehzM5IWsd+xpTeGHVDPn3TJwTckx7lHjL5Upcc2tRxjRq04BG9mNU1NtejvSkq6jSigMpBI6IyE79/5qTb8a5NXKQGyhMtODnvga3/FX3WJGfcU9+LYUs+OqND+aTrhd5UaQ/HjqbS2PjlIz491HoXhVz62jf5zItCojJGEFDeMet0UpF1S8AqJAOf3oqjzhJdpwXEMykOut9RtIVlOB3wQO4x3+qvfehOSI6gxyNJSlLqEEkq0ATknGf2H3RRVbK0IrtodVy/l6j8ioFSsBPf0djton/ee60wbXcJyI7NvlSHlpVhtsnBI86OkgfL67dqKKSzC33ODItuUZl9kJtsRw5bYCQp5XsADQ/wCzRRRWStphf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Upside Down (feat. Weepings)
+                                    <div class="name">Problems (feat. LIL JXN THA HEARTBREAKER)
 Explicit content</div>
                                     <div class="artist">Ekeon</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAECBAYHAwUI/8QALBAAAgEEAQIEBAcAAAAAAAAAAQIDAAQFERIGIRMxQVEiUmFzFBVCcaGisf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiMf/aAAwDAQACEQMRAD8A+ppZEijaSRgqKNsxOgBUQ5XHgbN7b6+4KXMqXxN2g1sxMP4qhWOLTJXsFuzhY+RZ+J9AN6FTTcWRl7OXxoOjfW2/uCmvmsYg5Nf2oHuZRVZ6l6bs7K1/F2ysscYAkTlvt8w3614cOGur+ANYJE1u3wkSHR3S9ip12ylbfX5NPhljniSWF1eNxyVlOwR7g0VFwkBtsRaQOArRxqpA8hoUUHSIzqBmXB37IAWELkDfrqs76Btc3J1EstzbJHj1jL+MsvLbHtw1rz0d1oHVMng9OZKT5Ldz/U0/ASWUmJtnxkiyWpQFWU73+/1rNuIsl2Q5MfGc83jZslhL2zju3hmmB8OVkVvDO9jsPMdvXv8AWqrjcfmcWi467ulJXlIl3HFwVzrXHWz5edaBUPLAHHXBb9KEg+x1VcPZmu313qGILNi7UvosY1J176opMPr8rtddx4a/5RSlvKoypikkzwxzwvFMivG4KsrDYI9jXDH2FpYI6WVvFAjNsiNdbNFFamZLFcrhEkiZJAGR/hIPqD2ooomxFijSGNY41Coo0AB2AooooAGET//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">90 DAYS</div>
+                                    <div class="artist">Aries</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EAC8QAAICAQMDAgIKAwAAAAAAAAECAwQRAAUhBhIxE1EiQQgUIzJCUmFxgZEVJKH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACoRAAEEAAQEBQUAAAAAAAAAAAEAAgMEERIhMQYTQXEFFCIyYVGBkaHh/9oADAMBAAIRAxEAPwDZ3JJSUkk9JYh293dGvGcZI41VWZLibnar1ooJ2RkCuUQJIGbAIOM4GR/fGlj1PuPUNmxaln3eeEBO+KtRjDRxMq+C7cnlCP3/AH1J6cv71ue0VLl5bZnWOMBJU7Yu1WY9wOR5ABI/garo5sxAARU/iD3kADTFOiKMjdX2+fbYlCK2ZBwCyryAzKAcE/IEE6zwh3Lb+oJZFs13gMoi9MwrkEDJIIHy8Y98jPjV30xuTbxMkm936Nu3H/r0o6C5VUVQzdzfibnGMDGP1zqB1P0vd3BbK7XdspZkbHwsJAYsA/ZjIK5HGDk58edAQvILo5Tul9+ux4xA237fHz9FbTytHUlE0KM5UvC0aKxHwn+hgaNYDZfrG3WTBuF+7YhjZoV9cZ+8pAQ8cc+/z0a3FVZAC3EnHVRduSnLJmeHE9v6Nku+od+3SKqs+1xxyXlQG5KuJHrt2DtKIBhFOfvYzngnxlcbbuO4y2pey1dkvOQFKFnc88j316M2wV49lo344xLYgZR9aWuHkC9yZXIGeVB9+NX+2Wts/wAlUSWnXFuzKB3SVlDFXEhUZxn8OeceNTNvikV5XN5Z9BI/Cv8Ay45enXosd9H7qKK5uN/bN9jRTVjWWvadSvpuDgqzfmPB8Zwp08I7NVr86UGUqZhNEoH3zgAgYHuvd7aoNv26kdtlsSWFo2VcH1IkCBmYnlhj4jxosbrts5nt1bEDV4Z/QWSuo7kkTCkceCT4x76aVLTb0QsZSMy2xjIhlXPVlCeStYbc4o40lkVz6iLJkgflPHnx7f8AdGrOxtctiWFd8i3BKFg+jBXjYl5XIJALE5Q4Ge4kfpzo0YLccYyu/SyXNJ9oSkq7/tUmyQyTTCBo3ErYQjCB0K5C8ZZQ3H8HUWHq3pOK3DMLhNmuzWAqQv8AFgSABj2/IPn9M6NGktnh+tYke95dqTsR1+y6vlMmp6qbD1vS3PqraZK8wubLIGrbj6f2XpKxPaSTjABOeP51lNhu9U1uvNx2nb3WKnvFoB23aJO2KQDtHfwM8YXgDI+WeNGjTKKmypBHHGTgAd+6FlkIITaub3Bf6ek26ejXXchC9e49yy0kfanDSo/cSqHAI7cEaNGjT+vWjazABUFGGJ0LS5oJX//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dead End in My Brain</div>
+                                    <div class="artist">レトベア(unknown Vo:10fu)</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAtEAABAwMCBAUDBQAAAAAAAAABAgMEAAURITEGEhNBByJRYaEIMnEVIzNEgf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHhEAAgIDAAMBAAAAAAAAAAAAAAECAwQRIRIUMVH/2gAMAwEAAhEDEQA/AHEW7Hb4rdNs2wmpVOtk4QnTamGHpgH7bb6lBCj6EpBPxvTcC2SXYMV6ZCfhPvNJcUw8nC2yRqD7g6VYvPj5eO+kP6dzj564RFu35xzD4phFt20+KlMyPFgtBya80wkkJT1FY5j2AG5PsNaUk3WzQoi5Eqc2y0hXTUpxJHKogkAgjIOh3oPL3xHLDsZyE24+lFSm0NMToaJUaSiVHdSFIcQBj4NFJeXr6M9CRX/ghxLxE3eY87i2/NO2Yx3VKU82hBbUMAErCR76Z71n6l/EqKwqLabJPKnFN9R5+K4oFOvlAUk7aVT6eJZD7drg29kwWY0lDiT1isHU6K9Rk1yfE62ORZdnfckKkKkxErW3plCwohSfKT3z6em4NTFWRKuxSl1lpPHhKDUeI473Et+W83cJE+S460odF0vKK2j25VE5FOxuP7lIKGeIlSrvaEKStUJyUpKVLAwlWTkjvkDekbbMjRYrSZtoXLcRnyuPEN+2QADoNN8e1OS7lBmxEx1WhhhAx/CAFaafdv8ANOeVbtNP4LVUPwtjwp4iuEBMN8qtlvsbZKn2lL6z7qVZKcFI8o/JA9qKry3cRsw2UMhpwsoAT0s4SQNu9FYlk3SbcumlRWR4r5zjShSU5bUtaiEJ5UBRJCRvgDt/lFFJNmCoKOADXszE622M/miiuCNuW6Em3qd/UgJif6pYVnfH37ba0UUUUwH/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">DEVIL IS A LIE
+Explicit content</div>
+                                    <div class="artist">Tommy Richman</div>
                                 </div>
                             </div>
                         </div>
@@ -1505,7 +1504,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2025, 10:04:48 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2025, 12:03:59 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
