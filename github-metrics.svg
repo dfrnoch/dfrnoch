@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    172k added, 125k removed
+                                    118k added, 59.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1497,33 +1497,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUHCAL/xAAwEAABAwIEAggGAwAAAAAAAAABAAIDBBEFBiExEkETFCIyUWFxkQcVFiNCgVKhwf/EABgBAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxEEIRJBUf/aAAwDAQACEQMRAD8A2QDwCaqIZHtPRVD4X8tAR7FPhpvpuqzNWJ/I8vV+IkAvgiJjafyedGj9khbGYhp6priH4pw6jvMaFMhp5IwOkmkleN7gAewC5Oq6DFsSdNiFW900srjJJI+S5c7/AD05Lpf4cV9TiWSsJqawv6yIuikc/dxYS2/7smvZWck10mX9kJxzTc7IQtskDgB0VRm+OOoy9WRPaXhzRtbcEEHX0U4PN0P7UbgSADpqoXT2VufKXP0xV2H4L1d8To3shMhlLQ613c7+Xktcyj1X6eoWUh+0yMAf2s0zBk3HsTzHPLFHSwUUslmyiUd3+RG9ytQwqkbh+HwUsb+NsTGt4uZsLarLGqW030c/hca8V06e0WXYQo/EQbW1QtTpjd0rteXuhCkHkRx2ADG28LJWgNaA0AAbWQhAKHWB80IQgP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAwEAABAwMDAgQFAwUAAAAAAAABAgMEBRESAAYhEzEHIkFhCBQWUXEyobEjgaLR4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRITEEEiJB/9oADAMBAAIRAxEAPwC6N57/AKXsGrparr9TlCenqx2mmEKSyEmxFwUnkkd7n30t0Xxs281EU1Icrcx1Ti1BxURKCEqJITYL9Bxf20v/ABL0lU+vUF5Ep1goYdTilIOXmBvzpCotKcjlJdmBaB3zYT/vQLLCvUYrqDjmdBx95QF7TQ6iVPLqo+AkFoFzK1ssb2vfm19QszxgoFPpAjSnasZSWemZPyyMs8bZ2yte/Nu2ktPWTTQGZKEtW79MW/nSFuHbrkwqcXUVqv8AZoW/nQUucnmHfx0A+Z0NsbxLo3iDPdg7fdqDD8EIkPl9hKQ4i9seFHudGqy+F+gil7lrjwkLdK4yEYlIFvPe/GjTanREnXDk2/iKqD7G89tREtFxEhlwYpSSvLMBNgO49tJ8+KJVAltrBAwN/Q8a6jntNLksrcaQtxskoWpsEoPsSONVn4g7PUucuZTo7zkeb5ZLUdGSkLPdYFjwfXjg/nQb1JByG8a0BsbqUgjZ1f8ApI1ES5v0/wDL5GPn/Sy/Te33y/fU3ToaYu2YaU3I6d+fzq4W6NIOxvp35eaIOGPLR6v6svtbv7a1tlbQ6MtqRUo7yIUCwYbkpspxfcKULdh+OT+NAVWZhGTYqqxJ/YmfDnU35O+txROj02mYyMSQQoqDljceg/to1cdDjUs7pnTosdpFRcaSh59tNlOJyuMrcHn17++jTqjic4v7cyclRX35GZcSlsDyhKbn3vzrAwXr8SFC3byf90aNayZ9Ruz0CHw3j1T1Ptj+/ftqNmUaa/ljUVICr5Do3v8A5aNGqwSZs1dt7Zk0arPS1TxJQ8jBSVNYkeoINz66NGjV9SwAJ//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Blue
-Explicit content</div>
-                                    <div class="artist">guardin</div>
+                                    <div class="name">Synthetica</div>
+                                    <div class="artist">Metric</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAtEAABAwMCBAUDBQAAAAAAAAABAgMEAAURITEGEhNBByJRYaEIMnEVIzNEgf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHhEAAgIDAAMBAAAAAAAAAAAAAAECAwQRIRIUMVH/2gAMAwEAAhEDEQA/AHEW7Hb4rdNs2wmpVOtk4QnTamGHpgH7bb6lBCj6EpBPxvTcC2SXYMV6ZCfhPvNJcUw8nC2yRqD7g6VYvPj5eO+kP6dzj564RFu35xzD4phFt20+KlMyPFgtBya80wkkJT1FY5j2AG5PsNaUk3WzQoi5Eqc2y0hXTUpxJHKogkAgjIOh3oPL3xHLDsZyE24+lFSm0NMToaJUaSiVHdSFIcQBj4NFJeXr6M9CRX/ghxLxE3eY87i2/NO2Yx3VKU82hBbUMAErCR76Z71n6l/EqKwqLabJPKnFN9R5+K4oFOvlAUk7aVT6eJZD7drg29kwWY0lDiT1isHU6K9Rk1yfE62ORZdnfckKkKkxErW3plCwohSfKT3z6em4NTFWRKuxSl1lpPHhKDUeI473Et+W83cJE+S460odF0vKK2j25VE5FOxuP7lIKGeIlSrvaEKStUJyUpKVLAwlWTkjvkDekbbMjRYrSZtoXLcRnyuPEN+2QADoNN8e1OS7lBmxEx1WhhhAx/CAFaafdv8ANOeVbtNP4LVUPwtjwp4iuEBMN8qtlvsbZKn2lL6z7qVZKcFI8o/JA9qKry3cRsw2UMhpwsoAT0s4SQNu9FYlk3SbcumlRWR4r5zjShSU5bUtaiEJ5UBRJCRvgDt/lFFJNmCoKOADXszE622M/miiuCNuW6Em3qd/UgJif6pYVnfH37ba0UUUUwH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">DEVIL IS A LIE
-Explicit content</div>
-                                    <div class="artist">Tommy Richman</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMCBQUBAAAAAAAAAAECAAMRBCExBRITIlFisRVScoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AGgCTgZJMp6bpTMoa4ke0Tw0BSom6wE42WWtPqVsp8XZQPWX8lNfCHjmX9FfpdWMdp/sW1HSmVS1JJP2mUtNqkd3FjDI4PAIjAYOgZWBU8b7RXekxqiKXh8kQQSDkEQlLrVIDi1RgnYwlE1q0mqceGKKw+lrbHGZg12FmQEJU3JJ2m+mWjzUuQM7rPTU+RGDAHG8HXuBYs03praKLCljlsY7d8jEpV6mixQK3X8cyZ03Su6CxnCA7hQufmUCorI3BP8AsVaWjuNtIU6vjwG/XzCLdXuDMKxueWhGwvBPI12Jw2IIzmNHVC2vsvBPuHMIQ2tBTO1apqlCpaCo9VOZ19c+D28+uIQmdUd2YmSSSSSSYQhNMP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Control</div>
                                     <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAsEAACAQMDAwIEBwAAAAAAAAABAgMABBEFEiEGMWFBUUJScYEHExQVIjKC/8QAFgEAAwAAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/ALdcMEhZhtyBxntmoiHVzIrKFX81DhvFK3crS9+3oKj5YljzIAqtu+m7wai1WHLXc7fHgeBSkV3Kv9iGHkUggVkVlxg1Uev+p/2O3ihs3Bu3O5h8q+5o2m0RXDqCMYNFZBoP4mSCVU1GINGeNyHkfainpY1Nh2pvdRmRNox7807Jf4om/wAkGq71V1ND0/BG89uxkkyI0ZgM49eMnFFB/LNDYKj3c0UUbnbmRto3enesA6tuJ7vW7u4mcSBpWUOvKsAcDHjFSHV/V99rzoJQiW8L7kjUcZ85701n1L9Vp+27Qd9yEAYqOrmeK5moBHKSc5B+tFOUeyEuJFeRMfC20j6UVYsdTSSJDDJLMwWNFLMSeABya5z601+TXtclumyIR/CFPlQHj7+tFFNCuschvfNJOx2hcnb7UUUG8LwRRRRQb//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">the prom</div>
-                                    <div class="artist">glaive</div>
+                                    <div class="name">Chains</div>
+                                    <div class="artist">Alex Yarmak</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EAC8QAAIBAwMCBAUDBQAAAAAAAAECAwQFEQASIQYxExUiQRRRcZGhI2GBJTJCQ1L/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAEQMhEjEEE1Ei/9oADAMBAAIRAxEAPwBf0LbpAqrc6lpFaTcrCBxlmPIJxjG48avDC4wVIit/wezanDmXcMqCc447/jVD6LhuMdVAuKjyiJ0ClCAm7eOCO/c61yybGnLNjOE+21dBzM2UhbqOCDGL7iOv8/hjhH9NjZ1/3zOmW4/tyeR31Cq6S/IkhuK0yxBWY+G8meASO5x311k6ees6hv8AW3OemrC8gFPBVlmhij/yyF98YwDx/OmFht0hs70hnUQzzStTYcyLHAR6QCecY5A9s40bg1EhzqVsCrUbmRUc3mV7OyUyFQ4Ppx2Az+c6NWuHpiHp6+s/xUVQJHfG2MoVU+2MkH66NbfjZA6XcE6i9T30zRUdZYIfK5aZLnLEDG0o4D5VgdwHDYB4A99JK3r+vtF8qbXUxCH9GNYJEGXLFVw3PHI7Z4zrHVuFZHTLJHO0CPJ4qJG2wBhxlQO3BI0wuj/EWGjrKi5NU1rMY2ifJaJBjaST7HnHyxoCJzP6MQcnrAPG5p09dd7xPdfK6xhKyI0oqgDvTDA+n/rO3kfXVm6S6ravpWp2jhjmo4TgRtlGUAgY9+MY1Wrf1nHabHFVXILWmqQbXpKdYwjqPVG/bnBU554PGlL9VVlZPNNYqWKKFoSxkqIlGWUEyKH7ngjgH+OdGp9rFu+NgSBJFy6ukqauFKmOOCt8Z43iVSGBUgDv88nj9tGs787QdRQ3G4wv6ZRLIsTndkHOQT++jTsZ9a8U6mYzEmJbfVCaMwzIH9BCse6jGulPIkiGKQ4BHH19tGjXOpNySNnqMqGslqaaeBXWOCGPxmTJw5HHHtnB+2pcFTPeYaC1mqFNS0SySeK2SEViCxwPsB+fkaNTCiifkcGLLv5K91E1FDVrHQTSzqg2tJIuN5+YHsPvo0aNVXqCY7n/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">It Boy
+Explicit content</div>
+                                    <div class="artist">bbno$</div>
                                 </div>
                             </div>
                         </div>
@@ -1532,7 +1531,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2025, 10:04:34 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2025, 12:03:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
