@@ -1387,32 +1387,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFBwECAwb/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEAAUREiExBkETIlFhBxRCcYGRFWKh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQUE/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAEQMhBBITFEEiMUL/2gAMAwEAAhEDEQA/AGS4hlWVFIArwX1EwwkBAClD14rO7veLzcYbk61wHnYKDgvkeX7+uPeothgdQdTxLjKjSEIjQQFPeYA4JxkDkjNY68Y/ZNTeGXGDR2Zqb3VL2ogOoQPRNLP9XSEtlCVtlSvqxxWbrssyKpLvzgkqx5m15SP3mpV4emMAKU2hgeoWVZpgwA+49swQWUmlO3hxwlS3gtXfNFY43dp7bowSUHfTRReLEeap/M2vpPrRVvsz1hkwojqUslDDsdRGse6TufvSHTsKN1D1JbLTa2HLK2uMXJTkd0nxVqTjSOxHJ75qSza/krj8+wzhbqtSk+nsKrpvv8Vdo06OlTLqdy5p2BqzkNj3IOCCl3Rn0r/wv1S5zL98dmGMlK3C+0nURucEjB7c842qbevh6xbGlTZ0tl9/wi602GQ2EgbDABwecZ70g71dIAlPJkKW5OOlwp+oZpC/dQTb5JaQVrIQ2G9X9R2xV9YN6gjhsCPlqdrJYUy7kqQiO2UDCc6fzgD84oppgSlx22A48hgjCy2rBHvsRn90UG29xjP2j0hblREuK9LcDwUHVE4QpBGg87143GwNz3G3ULUhTRGlQxz6FJ2PHONqKKC62J1Ke4tNJVy6TcSgeCGS8HS54ik4Kc84A2x7cVw1Ym2pnjOrOsHWlOBpBxgn1/2iiq7rGMXjoN1G37kplrUhphCTqSkvqIDmNvKBvz3oooowBUzMmdwxAM//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Baby Don't Go</div>
-                                    <div class="artist">guardin &amp; m4x</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcBAgP/xAAuEAABAwMEAQQABQUBAAAAAAABAgMEAAURBhIhMRMHIkFxFFFhobEjMjNCYpH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAAMBAAICAwAAAAAAAAAAAAABAhEDEiExQVFh/9oADAMBAAIRAxEAPwBxAu91ubyYUGSIERUjwsSPGFrR7dwSoH47wrH6Gmt7Zh2Wxu3STcVS5rr6CzIO0OOoSpJKSAMKG1JzkdVzqptMfUMealK0f0U+MlBKkqCic4PQzVN9R4r8vULewJS49KWwlOckbwB/BqOmLTeH2rEjQr5rp+Kyhy229ucVRUy1JEgDYn/bJHHHXHzUebrWS9pqwzIUYsyrtJSyDsLnhR2pWPk46+PmqFA0o1cb1Ntk+4yYzTLK05bbHuSjCicKGRkDNMrBfZCIFoZbdV+Ga3JKljaHRuAPH0dv3Up0vbNrUPVKzDXfTSe5c7e9MuC0KLEhbTTxTs8iQeCR0D9fdFI9MzVuz58XYUsthKxhOEgkDOMcUVafg5KnGI/U/UMWzv29DqVqdUo8JHQI4747H3VV1U4u8abt2poHnYeFw8DTa8ErVj+/PWdwx9V6+u238fC3FOdiCkfJ9ys/zTufDSz6d6IZWgpZE2Kt3H/eST/6aSbfhm9yuPq5+UZvfNTXBd3cfkLXFlNJU0oN8FJwUqSfvJzVidt0m2aHtT8nysuNNvPJbXgFaCElQBHPOOD2Pypbru1tO6+vbanEpSu4MN44H+U5UfoVsF9iMTr3ETLSE26I2ttxhxJIcHHeBgjGOM556pNfQTb8/ol9IZjtyssuXJUkq83jQnsoTjPJ+e/2oqb6dx27ZanYqm2mHVurcDaSBx9A56xRVT6Mb9nXWWi7dqq4R3JzktDrTexPhKQFAHPJI/Wmr9gcuNijWy4OJZajuNrbMfvCD7Rzx0BRRSDSt3fQ8+dq2Vfm1QGXUyG3mG3CpQcCBj3Y6zx8Hqnk+2yn/I4spDy9pPt3JB2gHns9flzRRTzS4564q2SA+43Z8ylFwbNyiMkDkpOOfjG4fvRRRQkg5uWrrWf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Usurper</div>
-                                    <div class="artist">NXCRE &amp; The Villains</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAECBAYHAwUI/8QALBAAAgEEAQIEBAcAAAAAAAAAAQIDAAQFERIGIRMxQVEiUmFzFBVCcaGisf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiMf/aAAwDAQACEQMRAD8A+ppZEijaSRgqKNsxOgBUQ5XHgbN7b6+4KXMqXxN2g1sxMP4qhWOLTJXsFuzhY+RZ+J9AN6FTTcWRl7OXxoOjfW2/uCmvmsYg5Nf2oHuZRVZ6l6bs7K1/F2ysscYAkTlvt8w3614cOGur+ANYJE1u3wkSHR3S9ip12ylbfX5NPhljniSWF1eNxyVlOwR7g0VFwkBtsRaQOArRxqpA8hoUUHSIzqBmXB37IAWELkDfrqs76Btc3J1EstzbJHj1jL+MsvLbHtw1rz0d1oHVMng9OZKT5Ldz/U0/ASWUmJtnxkiyWpQFWU73+/1rNuIsl2Q5MfGc83jZslhL2zju3hmmB8OVkVvDO9jsPMdvXv8AWqrjcfmcWi467ulJXlIl3HFwVzrXHWz5edaBUPLAHHXBb9KEg+x1VcPZmu313qGILNi7UvosY1J176opMPr8rtddx4a/5RSlvKoypikkzwxzwvFMivG4KsrDYI9jXDH2FpYI6WVvFAjNsiNdbNFFamZLFcrhEkiZJAGR/hIPqD2ooomxFijSGNY41Coo0AB2AooooAGET//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">90 DAYS</div>
-                                    <div class="artist">Aries</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAUGAQj/xAAqEAACAQMEAAQGAwAAAAAAAAABAgMABBEFEiExEyJBUQYyYXGBkRShwf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECITH/2gAMAwEAAhEDEQA/APOM7FWZSPbPPVRpsGMkA5+tSH3M2XGGPeBSWTaGDAfbFSm0iJAkCHd83Jx2OaCyAkuAw+tW+g2EN6JhPIYVVMggZBP+VXNbDxHMmWAJGfT71tnw3nzS4JreZfCW0iVt3D5Oce3PGKKbswY7hSBznIopjRp9OtICm6WNCAO2NUGsTQtdg2wGzGM959/rVhq94scUllC29SeXxj8YrPyMQeDWgjY2VyW0SJ0tGMakjAxtdvbjr3wfxT/w3a282iCSe2jd97glgc9nvms1a3f8XTWhVninY4Yqch1PQI6yD0eCK7oeoSWOoFTMzwyOFk3Htj6/v1qOZlq+utkaDUreBFOyCNSD5cA0UnW/EjmdCASPUdfuiqc2eeMBGdlyp4JDDv0x61BjiV5wj4Ck/OWxiiilR+4VVth4bIzjy4IBPP4/uoc8c8LG3mUqU527h5c80UUBaR317dWkUZlRgo29gHGOjRRRThkf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Gxth G!
 Explicit content</div>
                                     <div class="artist">TH3 KXD</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAf/EACkQAAEDAwMDAwUBAAAAAAAAAAECAwQABRESIUETIjEGFFEjMkJhgeH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEAwIFAP/EACERAAICAQQCAwAAAAAAAAAAAAECAAMRBBIhMRQiE0FR/9oADAMBAAIRAxEAPwDndza7ELGcYHNeItaXMvJSSFDPmmJ639SIcp2058VNGZahWZ554jDaSQDz8Ub5sLxOX5Hrhe4v2uIW5ZOcdwxW5OaCoriVqztSkPUElL5HRaGD9oB5/tOFrUm6Wj3CUFB3SpJ4IrNu7IaT1KOpDmK7TKkxilDu+rYE0VfkxQ06nX2jUB5oquSeYkOexHtMTVE8fhVB6JEm29yBKkssrd3TrWAduQCd6Yo2PYJUsgYQcknbFcT9USV3a/uORvqMpw22U+Ckf7mpV1bjB6ak2N+YkLMNfWcSoIUUqUAseDjO+a6P6MjxotndaXMadeeHVKQsHBxuKWmbTIYspLy+mkpzpxiqfpxtwy0gHQgKxnPFIWovnd1Ok9fkKRngS0uWmZfVR3SA0lYx/KKy7roavqvbK7eN6KUiDHESlAKjaY9Xa7mVam4bDgQlxGHSBvj4FLEZEe3SgpOCP3RRXq0UZkqaVHqPuTXq6IfbSjXt8ZrDclrQkpa7QKKKsAAI6qtVXAluz2MTIC7iu6W5lY1HovPFLnb+sc8UUUVHcZkEz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">let you
+Explicit content</div>
+                                    <div class="artist">iann dior</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBAYDAv/EADEQAAIBAwIDBAgHAAAAAAAAAAECAwAEEQUhBhIxIkFRYQcTIzJxkaGxNENSU3OB0f/EABoBAAEFAQAAAAAAAAAAAAAAAAMBAgQFBgf/xAAiEQABBAIBBAMAAAAAAAAAAAABAAIDEQQhEgUiMVETQWH/2gAMAwEAAhEDEQA/AHdjBp7W4N5M0cwY5A8MqB/e5roY9MzynlDHGSkpIX3s4ON+i/OlXeM16iXndguCUUyMM+6o6sfAedZhpvQC6a+PjbnPICcLa6QWUNMVB2BVidsjdttj1yO6k7oSWK55V+2dqucR6XqGkcMNq6pDMmAVVHyMN0JI7unTxqjpepR6hoNoYEBM7CRiBuCBjl+eaI+JwHJwpRoMqNzyyN/IqR2ceNFdpIXhbllXlf8ASeo+PhRQaIU+wdhVwct8KyGs3b8NcZQawsXr7eeF4poScCRSpVlz3bEHp1rXqvh1pJxpYm90GXlXMsHtV28Oo+VSMSThIL8FV/V8cz4zg3yNqzrOu3V16IbWS21yGGMexexV0LlefAQ57ZbHayMDFJfRlqToJ7VCDLGfXREjJXOxx55+9ZfTuGdQvijR2xVP3Jewv+mtrw/w62mXUV1LdM9wqkARryKAfqascqSLgW3tZvpOLlfO2UN7fu1pyXZy0nNzNk8zdW8/OipmvbqdFSWeR1UYAY5xRVOSFsmt13aXAY2NRnJXuFFFNRFaWG2yM3gx/G1SsFuT+LXG/wCWaKKW/wAQqPte2t7dYyVuA7dy+rI+tFFFPpJR9r//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Notion</div>
+                                    <div class="artist">The Rare Occasions</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAoEAACAQMDBAIBBQAAAAAAAAABAgMABBEGEiEFMUFRE2GBBxUjccH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxEhMf/aAAwDAQACEQMRAD8AoRkKrlwf6reFndgF529uaUEzjBGSo85r1t2LTAK4zt7gefIrk6l0PBvc8WWfIzwOa1muP4wKxKd/DSZx2GPNJTPgHJ7GjxN9NPeZx8bH80Uo8m4KM9+KKtLEYJiULGwA7iurpixk6t1m0sIWCS3DBAWPFcDnH3Uh0HPfQ6hs/wBtSBr5nCwvMCQpPHb80so8YkEm1pP5P0x6xHcFWltREE3GbccD2MYzmq91Haw2V88ENwJ1Vd3yAYBP1U91vp/WMl9eXUF5LPbSMmFhlK+sgLngA+6rW9M0rKk0a7kBXgYyfv3Q1xzrYt0Yx4lhkA4AXJz3op20iKQpu4bHfFFTKzGcrkc2Hp8pGWwgPk1J9IT2un+opfSxC6nTHxjOAh7E/Z9UUVllkvClNxeon8mvEkFsxUAFW+Rc8Mccf7VbdReKW4MqoYx5yfOeaKKnX4JOyU/RR7mJCAxPJxmiiirVaaCw/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Hurt (feat. Happy Jax)
+Explicit content</div>
+                                    <div class="artist">PVNKSTXRNATION, Caught in 4K &amp; Ekeon</div>
                                 </div>
                             </div>
                         </div>
@@ -1421,7 +1423,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2025, 14:05:47 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2025, 16:03:58 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
