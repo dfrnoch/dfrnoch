@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    571k added, 564k removed
+                                    871k added, 774k removed
                                 </div>
                             </section>
                             <section>
@@ -1469,35 +1469,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQH/xAAuEAABAwMCBAQFBQAAAAAAAAABAgMEAAUREiEGEzFhIkFRgQcUMnGhFRZCUpH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhMQUT/9oADAMBAAIRAxEAPwDPiz3m0IQlmEQABvFQT7nGTXXtcp0LWlpKsYw22ED/AADFONwSqSlhKVcxTCZLYx9aM6V49SlQ37KHetW22aRJeQ00yrUfNQwAPMknYCtUt1eiw61BV4xPsymInTYZp9uMcDYVurHDUF8sS72VvJxq5KBpB9zv99qT4luNps1tjToD714ZkOFlpMJsLVzAM6VEHAOPv9qCfo0+bjCV1j0xm32nn2yXII8bWkp32x/L8Gijhy5XcwFMTYsSM9K8RYQ4VrjtA48ZzjWdxjAx7UUGvMdtkDqFWst2o6mNKs0a5tsN3FhUllnVoSHVNLb1YyULTuCcdDkGpi66+Goz0CA5dxYbrpUqS8vmuMJaJDoITuACQNQ23zvVw3KQn1peyXRNp4hkXFbYWUtqbU2TsGlHUpZ26eEA/mpWQ6sdrG83FFahwJH3v4e3tyA3Ot7C58RXLkBDX1Otddgepxg4PWqD4ZwrlKvhadbnqtLYcceelRvlRGVsEpQThROMhXUYqltPxRc4ihXBFtZMF6MoKRlPMKmf7eQSex2HfNIcT8TOftkyrkz85a3FICXFrTpUrURkAYztv6DvS0mTVsjcLkuyYMhclp5xWl1YwVIScJx2xuPXOaKxeHFuRozoc1aVOamxpwAjA04HkMeVFFXMCDjNJh45/IEyQ/VzjGaQujguEdbfOcZdKFJS62cKSFDBHcEdR50UVBN7jvcsGlHHBhsSbj26cwjQgnWPCHWnMbfgiqDhpM2C1BZuC2JMWIHUpjODmIWFnPiB2yCAfaiiuWZtvHqJ0/Hxg+yCZSoujjiypRypRyaKKKnNkWb9lwVKOgJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYC/8QALhAAAQMDAwMEAAUFAAAAAAAAAQIDBAAFEQYSIQcTQQgUIjEyUWGEwxYjRnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAiExcf/aAAwDAQACEQMRAD8Ap195uOyp19xDbSBlS1nASP1Jr0hQWlKkqCkqGQQeCKmG0dVtRdQYj7blsiKEBtyS7BjLWn3rYCUlpSSTn8eQQofX0abkXqLD2adYtFseuMeZ2o76oLqVmAtQACVoPyIHk+AM1jctZstPWB/iv7n+OpqXjFUp6wjj+lf3P8dJLSeh71qmJMkW6I+Y7Layh7t5Q44nB7QOfxHNSh20DycLkHmHvbe47Lvt93b7uw7N2M43fWcc4orvLrqa5WnptK0TcrLDiqZnZeQ+0v3CXCneHd27AVjCcYxiiki0OhMyM3e5dteXNYvUxKm7aqOra3Hd2KJWobtpOAAAUnnmsnTuqZWlesAurkq5ezROUqQEDDjzO4lW5AwDkEnGMV03pxu6WLncbY3boz2pLottFukzEYQztStTmVgFScgDgDk/dM7WvSVy8APQ4qWLksyluLba+O4OkpAOASFJXgZ5O0flihksb1EzmtcsdO3dMqMlF4W+3F3jt7lKU2nBz9YPBpidINKjRdpdslx1LFmXhxYCYzbmBH43dtKScnklWcAnP+qSkRxyJY+i4uTvZMK6yG1lPyU0EyGyUqAGcg5GPuurs+qYb/qBu8y6S0RLbZVTHnFunYhJCW2k8k+TuOB91IPtCnkjupUyRL1PqVyYoqkC7KQs/qkKTxnx8f8AlFY9xvMCXbrk3IguuXSXNMsTjJwBknjt7eeFHnOc0UhX2pX072rTUTVDwhvRbjdkxVKEgS0u7ACAoto2AjOfxZzjjzVFeaKKUs03eq9xdkk6TkWVZt0jfMc7kX+0rcoNhSsjyfJ+6nBi5zYcC5Qo7+I1wSlMkKQFFwJVuT8iMjnyCM0UUTVD0wPS7TuiYEG7KtyJkpiPJmLurAVucdb3pG9SduMA4A4AH5miiiir/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">HYPERYOUTH
+                                    <div class="name">heather
 Explicit content</div>
-                                    <div class="artist">Joey Valence &amp; Brae</div>
+                                    <div class="artist">glaive &amp; ericdoa</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAUHAQgDBAb/xAAoEAABAgUEAwACAwEAAAAAAAABAgMABAUGEQcSITETIkEjURQVMmH/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIRAxIhMUFR/9oADAMBAAIRAxEAPwDamEPsIARgEZIzyIhbwrKKDb05PKWlC0J2tkjd7nhIx9OccfYrHQKkzNYM5fdfbfRW6gtbaVFakJU36g/j6ABSQM84ETTqyu3aLphAdQiCxiPC6vlMzayqY3UkyE7NqHiX/ILKtqSNygUncraDnaMlRwPsdXW+k3TVrZkW7ImZlmptT7TpDLoaCkDP+lEj1Bwcc5/RiiKjpNqJedbm5m/Jl5rwKKGppG18E9jY2kghGf0AeeovGKfs5ym4+EXmj+i1L018Cpp+oSgQEF3HieLzY7UPis4OOuYqqzJud001hlrbmpt5ykzSEglw5yHB6KI6yF+vHwRyaHWjfdmTz4nZBybpDqj+Bl0J/IMjye+35xnuJHUbSWvX9dDNSZbTRilhLSzMOJWlQCsjbsyQrCjzyMj5GiK1g+8MOSW2Rcd/aNiEkHowiDs216daNERTKSl7xby444+4XHHXD2taj2Tgf8/UIyHoonYQhAkQhCAEIQgD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fmuuu
-Explicit content</div>
-                                    <div class="artist">han.irl &lt;3 &amp; Atlas in Motion</div>
+                                    <div class="name">Control</div>
+                                    <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAuEAABAwMBBQUJAAAAAAAAAAABAAIEAxEhBQYSMUFRExYigZEVNEJSU3GhscL/xAAYAQEBAQEBAAAAAAAAAAAAAAADAgUEAf/EABsRAAMBAQEBAQAAAAAAAAAAAAABAgMRBBRR/9oADAMBAAIRAxEAPwDYqsIHkm7oOVPuZccMJMsC059Bm1gyiz68qhtZp+mto0jFkUi4uIIcSA4useHhs3FviUw6DY8FITdGiy9TiT33bXjG7XMADjxwXcd3JxwPNPjTakj0c71h1h+IgRBHT8IU8KYQr+hE/OzP5MGnUksqnXdTx1kPv5EOx6KQfMpbob7T1HAt7wskr7Suz4ymr9pH/OVnKUd70ZqE6k2S5pZreossb5rOP6cEjKiur7u7tBqbbC2arj/SzHvK/k8rveZ/1CkWU0Q9aRdtQ2fr1Wud3gkPHPtO0cbeT0KkSdq6lGLVcypapundv15IR3hlL42XOmlrqRQquou64TZ091z4j6oQudNj8Qi/UCHtG9k87nh06L0yc5xsHZ+6EK4to8coWqyHFvZVLg4NnYQhCO6bfWJKSXEf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Everybody's dead!
+                                    <div class="name">I Had Some Help (feat. Morgan Wallen)
 Explicit content</div>
-                                    <div class="artist">underscores</div>
+                                    <div class="artist">Post Malone</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUHAgYIBP/EADEQAAEDAwMDAgQEBwAAAAAAAAECAxEABAUGEiExQVETcRQiMmEHI0KBFRYzkaGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQH/xAAgEQACAgEEAwEAAAAAAAAAAAAAAQIRAwQSITEiM0FR/9oADAMBAAIRAxEAPwBZonTKs1f22NIUmyacPxDhgK3ETtHYuECB25+1Nb6zOnc4tWOVcfy/c/lONoXCi2T86FKIkTBg+I8169AaixDuAawNu+4248HE3bS+A+pUBTm+eTEJSOCmZPSstbNPuJT6DYet20/XJLiAegUf1AeesRPTgTSUbXZpxk3Kn0N8TdLtkOX+23axzu55pu2+iwbnahtfgmJH9hW74XMfIlFyvchUfmDniovaZwY2xu7a7cHwzzcONnlJP6SR0JB5HtTp99vS+PxrzOo0XTd0nbscQHG0RHRSTI4gQfuZqafNxEutuyfP4zoCydStIKFA9hFFTLSV3mcWw9dP5C0zDLiy4ly04ARH0hEmTx2maKQsq+gJaZt3FnLuPuF26krbJC5CpB6R0qp4jWacoz8JfKLNwUhCXQYHXqVDkgeOv3M1OAyhe4iEKUNsp4PPamGFbuE3CLWzUPUuVBrdtEwTHft7UV5KGxw7+xtnGrXUGXyNpbXCGGCFJtkSlAWkD6lAiT7CDzNTR5m6x6VWy0B9kH+m4ZA9qrjGCaw+oQh5ari2W36SnJCYV4I6x4M+9azrPDu4e6UENt+g+n1LdSVbxs8T5HcVzHl8qKZ9PUFL6INK6jusbkGTibm6sRKd7I5bUkdRH/aKXW98mzNym4aCVlsejDcndPuB+/PtRSHG+UCtR4Y7Q/8AMnk9Soit2/DDFXC7z+IXS5YbJS2kCNx8/t/uiih5Oh2Jux9rUJRe2itxBO7jsQOh96R6qvwdN2Nokl1TkOcj6YmYP+KKKNF+aHv0sn96wlxQTAVCe/aiiimxk6MqcU2f/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgID/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDAAQRBRIhEzFBUWEiMhRDUnGBkfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIB/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhMSIS/9oADAMBAAIRAxEAPwCJp9hGCXBBwfFWItiouB2+aWhURRKkP0pwAAvamY4mjX9XIOB6qdTXksVNaZ6T2/4qAspiMirld/Hb3moi2EkMWLgqXvJBCOQDt7t4z4AqorO91thBDLnGGxXRuoWcBljLxgHJ75HB5/as2Bh82Gx52YO/0zpXIhJk7jLBcjb7HainteldJ2TqYjLYG07uw5wTzj5oo1g3OVopuaZYZo2EZuEL43FQmB/PmrunWyOpDkBhgVJg063SRIre7nRCCz/X93o/7FUo1ZV6azsY8Y5HJHzTiJxUsv0RK9eFb8vD+XxlR5peeaxnuHkMQhyeSQcP88U/Lb28EPVkd888ZHNZq7dppWdnIHgYAAqV3Uc4C5ONetbZ5FlbYwkP0oGxk4APPiiptxGGzudsfNFHXsM4vxzc08TOsgQSNgeCR2/qq8BJQMzEAUUUsmq88kbV5zLMRliBwM03p+oafZ2jwTTPiTpu2Y8ncDnHb7R688/FFFTXTF1fmTtc1WxudPu4+vKilVeKNY+GkBPGccDDHzyfVFFFSe9YLJkS0//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Big Dawgs
-Explicit content</div>
-                                    <div class="artist">Hanumankind &amp; Kalmi</div>
+                                    <div class="name">Fright</div>
+                                    <div class="artist">Rain Check</div>
                                 </div>
                             </div>
                         </div>
@@ -1506,7 +1504,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2025, 02:16:31 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2025, 04:46:52 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
