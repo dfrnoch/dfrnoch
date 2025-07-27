@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    275k added, 166k removed
+                                    736k added, 682k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.04k views in last two weeks
+                                    2.06k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1285,6 +1285,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1464,33 +1469,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYDBAUHCP/EACYQAAEEAgEDAwUAAAAAAAAAAAEAAgMRBAUGEjFBE1FxB0KRobH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EACIRAAMAAQMDBQAAAAAAAAAAAAABAgMEESESMUETUWFxkf/aAAwDAQACEQMRAD8A9UeESlI73lkmo5TNr5MYS4rNYc1pZfqPl9TpDB4oj9ouXsPDfsVyUur8P6g7bHeJt5g4MWK8hpGNI57oLNAuJADhZFkV7i1T8C5Bmb/Dml2EEMEjCKbFdUb9/hRVTLUpp/XJqyaLNinrtbLuVSIikyhR3IeNnYcsxNi+dkcAxX47x93ckEHt3I/CsFobHFmyJIzG6P02g213krlxN8UT1NJpeU1+kk3h+OxpZsHidrjbWsBAdRHceBdLn+L6oaqJ8Qc1xLGA9I8gG/6tzL1jcuCOOSaZvSeq2vIdfyKNLPgYGPgteMdhaXnqeS4kuPubKpw6TFgbcdy16nLUenVbr5NtERaCkIiIAiIgCIiA/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAUHBAYIAwH/xAAvEAABAwMCBAMHBQAAAAAAAAABAgMEAAURBiEHEjFhCBMUIiMyQVGBkUJTcbHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOVKUpQSVjs8++T24VrjLkSXDhKED/YHevO52yXbZDzUpojynC0VpGUFQ6gK6H7VY3B3iGnSspq2It0NDU5zypM9SgHkJVsCCr2QE9eX5/M1s/F29TbvHd0dZLPeFsQ5Bw+YyXjPVnId58cyAeoCDgg70FCUrPcjNw3lx7ixLZkoPKtJTylB7pO/9UoMCvoBPSvRlouFWPhSMqP0FSUOA7JL3pU8xZbDiwBvy5AJ/JH5oNs4PWGxah1KmPqNx7yW0lxLDCCpb4SCVAAddh0G9dCaP8Reira6iyvWmfZ4EfLTbwTzoSlI2yke0npjGDioLwh6KgJnTNTvvBy4xVLhelUjeOSAefPdOQO2amvFbprTd1s6Z0YRmdUtDzErawFPtjcoWB1ON0k75GOhoOVdZX17U2qbpeZJ95NkLex9ATsPsMClQtKDIYkLZQtvYtr+IVM6NviLDqeJPfaL8PJaks/uMrHKtP8AOCcdwKUoLcN/unDDV0W82OSzJtU9tuO+pzIafRjLLxxuCUY3G4KViqy1hqS4StYXyZMU36qQ8chp7zW0Y6BKv1JAAx2pSg1JxZW4pZxlRztSlKD/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Intuit</div>
-                                    <div class="artist">Disphing</div>
+                                    <div class="name">Don't Bother Me!!!</div>
+                                    <div class="artist">Atlas in Motion &amp; han.irl &lt;3</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYBBAUHAgP/xAAuEAACAQMDAgQFBAMAAAAAAAABAgMABBEFEiExQQYTYXEHFCJRgRYjMqFSsdH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABwRAAIDAAMBAAAAAAAAAAAAAAABAhEhAwQSIv/aAAwDAQACEQMRAD8A4TDqTR2nkfKWLDaV8x4AX577vv61Q6CvW36c5Ht3qFYqwZcZHpUwI9qKkjgnNG04HIopgbNvbW50R5ipMmG5IGMjOCD1+3H9UVjb22bNx2Zzt7ZorQLAt5DEXCEr/kK+bRMB1GfQ5pxv9LtNP0+azuL0/NSGKTIyIlZv5du2f7HHPFmTw1JbWQvNRg+XuJ0/YjkAwiJCX3MByGOw49jSqVlnwtYI0MTTOqIpZjwAoySfamKy1C98P6TqFhNpNsV1CPb5l3bnzFx0KMemM9vzWbqFvPpl1DFcBFk2JJiMjowyP9+tWPEmqxarqHnW0BtoBGiiLgDcFAZsKAASRngVVJSWkXcHgxfDL4d/rSyubo34gW2uFjkjwMlCMlgex+2Rg80UjxTTRRyxxyukb43qrkBsdMgdaKxFFKNahon0R7nQbSe1vUlmmgkupISpXakfBHHBP/Ks+EBqHijV7XTJdYa2QqVjeQ7vqVGCrgnuCV/OOaKKOuvT0ftfCXnDb+IdtZ+F7K401z597dxxrbusYVokQKjl8jJ3lTjB7Vy4kt0Iz70UVXmSjLyjmhJyVsZNe0bRoAJdG16G5iFqkzJOpWRpCcMigDHHXnHFFFFQsbkdSw//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAf/EACkQAAEDAwIGAQUBAAAAAAAAAAECAwQABRESIQYTIjFBURQjMkJhgeH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEAwIFAf/EACARAAICAQQDAQAAAAAAAAAAAAECAAMRBBIhMRMUIkH/2gAMAwEAAhEDEQA/AOd3NroQvfsK8Ra0uZeSkkKGe9MT1v5kQgp/GpozLUKzPPPEYbSSAfPqj+bC8Tl+x84XuL9riFuWTnHUMVuTmgqK4laidvdKQ4gkpfI5LQwftAPn+042pSbpaDISgoO6VJPgisW7shpPUo6kOYrtMqTGKUO76tgTRV6TFDTqdZ0jUB3oquSeYkOcZj2mJqidvwqg9EiTbe5AlSWWVuYKdawDt5AJ3piigfASpWAAg5J9VxPiiSu7X91yP9RkYbbKexSP9zUq6txg9NSbG7xiQsw185xKghRSpQCx2OM75ro/BkeNFs7jS5rTrzw5pSFg4ONxS0zaZDFkJdcDaSnOnGKpcONuGWgA6EBWM/qkLUXzu6nSev2FIzwJbXLTMvqo7pAaSsY/lFZd10NX1XxldPjeilIgxxEpQCo2mPV2u5lWpuGw4EJcRh0gb49CliKiPbpQUkAj2RRRXtaASVNKj5H7Jr1dEPtpRr29ZrDXLWhJS10gUUVQAAR1VaquBLdosYmQF3Fd0tzKxqPJeeKXOn9Y8+KKKKluMyCZ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Chasm</div>
-                                    <div class="artist">aldrch &amp; illusion hills</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUHCAL/xAAwEAABAwIEAggGAwAAAAAAAAABAAIDBBEFBiExEkETFCIyUWFxkQcVFiNCgVKhwf/EABgBAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxEEIRJBUf/aAAwDAQACEQMRAD8A2QDwCaqIZHtPRVD4X8tAR7FPhpvpuqzNWJ/I8vV+IkAvgiJjafyedGj9khbGYhp6priH4pw6jvMaFMhp5IwOkmkleN7gAewC5Oq6DFsSdNiFW900srjJJI+S5c7/AD05Lpf4cV9TiWSsJqawv6yIuikc/dxYS2/7smvZWck10mX9kJxzTc7IQtskDgB0VRm+OOoy9WRPaXhzRtbcEEHX0U4PN0P7UbgSADpqoXT2VufKXP0xV2H4L1d8To3shMhlLQ613c7+Xktcyj1X6eoWUh+0yMAf2s0zBk3HsTzHPLFHSwUUslmyiUd3+RG9ytQwqkbh+HwUsb+NsTGt4uZsLarLGqW030c/hca8V06e0WXYQo/EQbW1QtTpjd0rteXuhCkHkRx2ADG28LJWgNaA0AAbWQhAKHWB80IQgP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Blue
+                                    <div class="name">let you
 Explicit content</div>
-                                    <div class="artist">guardin</div>
+                                    <div class="artist">iann dior</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAYHBQMECP/EAC4QAAEDAwMDAwMDBQAAAAAAAAECAwQABREGEiEHMYETIkEUUWEjMnFCgpGh8P/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAABBf/EACMRAAICAQMDBQAAAAAAAAAAAAECABEDBBIhBTFhFCIyUnH/2gAMAwEAAhEDEQA/AIxLjXJDYjoafZbbSe7ZAWM/jsa0NJpuMSYQIb7yXMZ9p2/7q1v6euCm90iCWUf1GUpDASf7yMj81w/Q22O2Wnr5ZmHVe0BuR6ykn+EBXNeeNRkbgLKW6fgAovE+axDTpV4SmXobzDrn0sdC0qC+AcqBP3We3Oe+aTXJykK9VLhKVsJUSncC5gYAPHI9ue/ml9u03BWsW7N68vDs8tJeIOVkLxvAJAJ8+asdp6c3GHNXLtkSbEKR6ampLBWSMcZCCsYx8VRTL5kzadPiOP2SGRKXJCWwohHH6fc/bGftRVrnWS8LT6D0eENh3ELirRyfnlviih3t9ZvTgdmEe7z01sMSyPS4Mf1p4J2quBU6VHODhJIyc8gfPmtXp5EC58pkRLe0mKktrLMIN5c4wUKIz8KyDyOK0+oN+0M1FSjU0uO+GFb0tod9wPGeQQPjtnNIFq6k6ZhXBFxtGl72m3N53zWg4pHOR+3sRyew4qymIirxqfMX4THrdX0acWHtiJ646n23tisNsB3eE7SBncOM96u7Gn5CJDTgvdyJRgqSsNEOAfCvZnH8EGpHpa86cuXW6ZqBq+xEwsLcQ0s4HqqYaayFHgn2q/7NX1h+NIAXHkMupPYocCgf8GgqVZM7ZjbmdQwUh1bg3b1JCTzxgZxx5orTI780VriqnmrRugor12UlVuduT6dx+uuBcWOD8BSAgeCfNVeFpZpl0IdmoTKWj2tDAwPwPkUUV0k3ErjUi4r6s6ZWu571TrUy8pWf1449Nzzjv5zUMh2TVNwlog22MYVtg7w01McKCs57qI928+MfiiiugwX9nAlT0j1F1lb34tkuWmH3EtNhtC0nejaOBl0nt+SSaKKKDI9HtH4k3Ldz/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAUHAQgDBAb/xAAoEAABAgUEAwACAwEAAAAAAAABAgMABAUGEQcSITETIkEjURQVMmH/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIRAxIhMUFR/9oADAMBAAIRAxEAPwDamEPsIARgEZIzyIhbwrKKDb05PKWlC0J2tkjd7nhIx9OccfYrHQKkzNYM5fdfbfRW6gtbaVFakJU36g/j6ABSQM84ETTqyu3aLphAdQiCxiPC6vlMzayqY3UkyE7NqHiX/ILKtqSNygUncraDnaMlRwPsdXW+k3TVrZkW7ImZlmptT7TpDLoaCkDP+lEj1Bwcc5/RiiKjpNqJedbm5m/Jl5rwKKGppG18E9jY2kghGf0AeeovGKfs5ym4+EXmj+i1L018Cpp+oSgQEF3HieLzY7UPis4OOuYqqzJud001hlrbmpt5ykzSEglw5yHB6KI6yF+vHwRyaHWjfdmTz4nZBybpDqj+Bl0J/IMjye+35xnuJHUbSWvX9dDNSZbTRilhLSzMOJWlQCsjbsyQrCjzyMj5GiK1g+8MOSW2Rcd/aNiEkHowiDs216daNERTKSl7xby444+4XHHXD2taj2Tgf8/UIyHoonYQhAkQhCAEIQgD/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">title track
+                                    <div class="name">Fmuuu
 Explicit content</div>
-                                    <div class="artist">mgk</div>
+                                    <div class="artist">han.irl &lt;3 &amp; Atlas in Motion</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYIBP/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGEiExEyNBUQciMlJxkQgUYbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREkEEITFR/9oADAMBAAIRAxEAPwDl6ipYbeSVuKKWJ9hW4+Gm2JbndWnT6ppi3GjpMEuzcRsYVVgQOTAjBz2696aKXI3IPITBUU7t96Btpdr7dbbOlwruK8hWe8gEZbwfLUsArHH1OBg/acdRSt1jSJ7d1n/pyxW0qji4RhGzgAOEY/UA2R0JxWpSznBO5ASjoqR0wTRQMjKcM4HY59pbQEcSO0XIkD0/WKbWgW9tpuy9cswwhF+pjjmzhVOCCT7YJ/dVW1oI5UZEQgJhWA759vx/vrWm1WwMm3b9VtBdSRwtLFAOnNlwygH8gf50rLvJZrQp/ZIp7k7bD1qHwdNkm0g6C/HzJY8zciR5a5GAhK56kkDoPSsV8WIE07ZVpaa4ltZQ6ddCBDE7SK7PGZAO2cgYGffNWe2tU1ncRtX3G09sFe5kdZkRfBljMAVkLAlPkkmPf3NKf+Q25NSG6tR2uL83GiwyQ3Ko6ozeIY8klwAc/MR19KpblW2HqPChhFlqy2hfnaTq6t6YwR+6KrHzyJOcUVtlvJtIhBc7nQWkb10mz057m4vIR4a8gQ2XYfaFzk/j/leK6+Ks+4dMv7OzeHSoDCy82k87kVPEqcgdxggDPXOaKKbVRW92MJOoxdi417SETTbW+1DWoGuXjCKvAvI+PRgCSOI6ciBmsrcrHHPJHDL4sYYhZOPHmPfB7UUUi9ySCZQvyRt37iiiiksfcKf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Undercover Martyn</div>
+                                    <div class="artist">Two Door Cinema Club</div>
                                 </div>
                             </div>
                         </div>
@@ -1499,7 +1504,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2025, 00:03:41 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2025, 02:16:32 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
