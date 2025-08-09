@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    38.3k added, 32.8k removed
+                                    58.3k added, 51k removed
                                 </div>
                             </section>
                             <section>
@@ -1457,18 +1457,18 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAEGBwL/xAAuEAACAQMCBAQEBwAAAAAAAAABAgMABBEFEgYTIUExUWGBByIjkRQVMkJxobH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAQMEAAX/xAAfEQEAAwABBAMAAAAAAAAAAAABAAIREgMEITETIlH/2gAMAwEAAhEDEQA/AOH2cPK+ZolUj3JqG9W6mCs6FsnoF8AKj4xWKDW5UtQyQhVwC2e3WmHD2hW+paEl68kiyc0q31MAqD/R9fCmW8zJ8YVLLFjCZGwGBK+IAqMTXty3LjVm9MdKY3PD8YnZLe8ZVUAk8xm/wVSmtobeXYmo3hwDllDD7ZIp6wHCWreyvWjRViMjnoqL1NFIbTW76CORVnlZn/czk4ooN38lp24+5tfxQ0uWy1SGYqhjliwTH1UMCeh9cUs0DiSax0ZLBZLSGIMxJe33scnucYqMWt3MGG6ZvPLE1g6TcOMcpifUV2Z6kcxqVZZu9SW+P19dSNcfoiiaNfsoArIh0eGzlP54GkKMVREJ3NjoPCqSaHNIcGPDfxUo4clZsBF9xU+YdoRFDbI2mS3O88xJAmzHTBHjRW0S6EtrpMhmQqhcb2Xsvn7GiqW+OTbT7mk6LBoEEY3MzY7kV5ufwFoTs3vIPWiinPPYkvtXgAKxRFD3+XrShtcuuadoiC+WO1FFIIIT8TiRWt7qJWiYYbFFFFS9Kq6y+lmphP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYIBP/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGEiExEyNBUQciMlJxkQgUYbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREkEEITFR/9oADAMBAAIRAxEAPwDl6ipYbeSVuKKWJ9hW4+Gm2JbndWnT6ppi3GjpMEuzcRsYVVgQOTAjBz2696aKXI3IPITBUU7t96Btpdr7dbbOlwruK8hWe8gEZbwfLUsArHH1OBg/acdRSt1jSJ7d1n/pyxW0qji4RhGzgAOEY/UA2R0JxWpSznBO5ASjoqR0wTRQMjKcM4HY59pbQEcSO0XIkD0/WKbWgW9tpuy9cswwhF+pjjmzhVOCCT7YJ/dVW1oI5UZEQgJhWA759vx/vrWm1WwMm3b9VtBdSRwtLFAOnNlwygH8gf50rLvJZrQp/ZIp7k7bD1qHwdNkm0g6C/HzJY8zciR5a5GAhK56kkDoPSsV8WIE07ZVpaa4ltZQ6ddCBDE7SK7PGZAO2cgYGffNWe2tU1ncRtX3G09sFe5kdZkRfBljMAVkLAlPkkmPf3NKf+Q25NSG6tR2uL83GiwyQ3Ko6ozeIY8klwAc/MR19KpblW2HqPChhFlqy2hfnaTq6t6YwR+6KrHzyJOcUVtlvJtIhBc7nQWkb10mz057m4vIR4a8gQ2XYfaFzk/j/leK6+Ks+4dMv7OzeHSoDCy82k87kVPEqcgdxggDPXOaKKbVRW92MJOoxdi417SETTbW+1DWoGuXjCKvAvI+PRgCSOI6ciBmsrcrHHPJHDL4sYYhZOPHmPfB7UUUi9ySCZQvyRt37iiiiksfcKf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Over the Sea
-Explicit content</div>
-                                    <div class="artist">Ekeon</div>
+                                    <div class="name">Undercover Martyn</div>
+                                    <div class="artist">Two Door Cinema Club</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUEBgIDAQcI/8QALBAAAgEDAwMCBgIDAAAAAAAAAQIDAAQRBRIhEzFBUWEGFCIycaGBsSRCUv/EABgBAQEAAwAAAAAAAAAAAAAAAAIDAAEE/8QAHBEAAwEBAQADAAAAAAAAAAAAAAECEQMhIkFR/9oADAMBAAIRAxEAPwDzvcxgzSruEs5K7ZBx7YINWO30cJZQvexiG4hj+YKBdodQQFIYdz65wKivFsudLdo4pYZUK70H3OONx98/1W60u5Na1hEuMq8cICK7BV7ZI9OTTzWBt4TNH01Luc20wYSMGjDpJ9KNznPqO3PYiuL3RZbTEUcyrNCDA43Fh3PPHAGc/msLaO9vRHLG3Izu6ZAPHjk4Hj90/wBbtTbpbT29wJL17ZZXWBMGIg4O/wBcj+KTnPTWpLMFDfI2WnG6jaeTU9oYMhKDd/0D4weMUVl8Q3xhtLfqWJS3nBlaPwrsOCD6YwcGisN8KdTrKhoMst0kqyzlyg3RxknAbIycdu36zVmsGs7qC6mSzieUp9Gf9ScAf3VD0qTpXDtuIbpttI8HHendncSxx27Q52edo3HIx47gZqnGl9oPSfws9rhNQiSOTDSsVJjH2kkr+KnfEGn3tjHHavdJMZIgN6Lsd1znBHsRz61AhuGhuXjcDCymT6Tjb2IyMdvxWnVL24bV4b2dlMczH7h44P8AFWqYzWvSKdtjSXUFGjHSZnMcpnDNkdRYAFIwOMsc/kYorr6bV7k9R5JCzuxbPnPbNFcraOqPgsQpt5Ok+7APGPxTnS7wJqcIhLFDgKMjg8eDxzjtRRRhtMxrUWJNXkkkuo/8cHc3Tkbjv3Pt3J96r82rR4BdGmlSQO244VuwxjHHAooql9KpLQzClvBmI/hCXROpcX+prqhiZjGkKmPq47A+mf1RRRUhn//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QALxAAAgEDAwIEBQMFAAAAAAAAAQIDAAQRBRIhMUETIlFhBhQkcYEjMpFisdHh8P/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAAEE/8QAHxEAAgMAAgIDAAAAAAAAAAAAAAECESEDMRITIkFR/9oADAMBAAIRAxEAPwBCI7bEVtqfiwlQzRyxjcCTwQR6f9mutUt4tLvomMglEqboXjOAw/qGcA9uecVXhjjubFkv42Ro498TbsFGzjB7ge1RlJ5Y/qH+nAG3bz+FH37162vLAF+kupQ6ZqEHiwlrLUAoJXGUkArvT9avrLSY7ZjLBHg7OuDyMkEd/ftV7TmtFgkiW1laZ/N4knBUdwOenb/VM4Pn70Nb2FsLmxTk2jMMBcDzbuCuOzZGKNzTl4SG9HIuP29oQWaX17eTQpuu2mk37GY4f3JPtRUw+bs55NQ0mJ2toNysfFBliUjHmHb0z09DRVOLX0EmqIYmiud0DptQ4YKCf7nv960Pwdb6PJqgW+G59rMlux2rI4/aoP8Amsms4uollkZxIwwWA4J4/g4/FM478pETJGIZnBRZVQBlOOcHrg+1c1dHFnZu9c0yO+f55Y7aCQQlZbWM7Y5WXkbS3AcAYKtjPUZrLWFpdNqrQptyFLMFmC4ix5snuMH3HtS+bU5rmS3aZ3leHy4DYZl6nPqfQ/jp0u2aSfEmptaLPDp8e3y24HLDsGPVm+/HoKr4yW6y1yyjai8YvlvYNP1iaXS2F5CjmOEzJwVIwdw6N+eD6UUwvvh2XSJW8WP9IYBmfpkngCiolNrKDpmL06T6INJjj1+9NY50vAsF5GUjXKpKFyyfzRRSSNRW1RbvSbmLczPZzY8Of7ds+opppS2t34TW7sL88QsOpbsDjlh78EUUUc8SkjJbRvrW/wBQt0g0rWlMmrNF4iWzOpRxnjJXzHp3/NFFFLF2rZdH/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Doomsday Blue</div>
-                                    <div class="artist">Bambie Thug</div>
+                                    <div class="name">Not Like Us
+Explicit content</div>
+                                    <div class="artist">Kendrick Lamar</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1479,11 +1479,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDCAEEBQb/xAArEAABAwMEAQMEAgMAAAAAAAABAgMEAAURBhIhMQcTIkEjMlFhCHFCgZH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEiExQZH/2gAMAwEAAhEDEQA/ALOAEE8kg/rqsKNa1zuMS2QX5k+QhiMwgrccWcJSkdk0lNZ+f7RFZcY0u07c5qjsbWUFLW48Dv3K/oDn800hDtkPNR21OPuIbbSMlSjgAUvNU+YNNWNiOqKp66OyFrbabiDO4owFEH5GTjjPNVs1ZJ8g6lU5KujV1VFWopU279FtA7xtJSMfvo12vHGnpt+srmn3LO286HFA3ITilMVleCoYbyFKyMhJJBycj5obUVbBRbZ6PWfn55q5RHIsFxLKGlbo3qDYtwkg7l7Tu2jH2kYVkZNFdq/aTtOtdJW7T0CC0w1bW9se7KcA9PacObQB9QEgkkkJPBB7orFZIz6ZvpKPA19bwFXvTs+1uNKUmW0pk+/YBkfcVYOAO+j/AFVP7donWls1R6cGyT1zIzqg04IaltqxnCkqxtPAyDmr0Psh0AK+35H5qJyQlvDDIG88AfAq9tezJKyp1h0tq+5OuO399rTdkjI3SpjkJthQRnJAJTkn954/4D1WtcSl3qzab8d+larE49sVNmLCXpOQSp0qX1wN3PuVwOBxTi8h+MGdcwYUKbeZ0SGy6p51tnCvWJxjOeOOcZB7qGR4U0dMgxYs+LIkIjpwg+uUHrGTtxWclOTT8OrE8EYT3u/BNfyO1zEkxGNN6fuEZUZGBPfjYPqH/FoY4KRjKgOM4HxRTjvXg/Rd1iNMKhPRi0kIQ7Gc2rwBjkkHd/uiqxw1RGTJG1qr+jKV7gtKkkDrvuoo8RDRynv8miirpN2c9+GzjFFFFMQZIIwMg989UUUUAf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYDBAUHCP/EACYQAAEEAgEDAwUAAAAAAAAAAAEAAgMRBAUGEjFBE1FxB0KRobH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EACIRAAMAAQMDBQAAAAAAAAAAAAABAgMEESESMUETUWFxkf/aAAwDAQACEQMRAD8A9UeESlI73lkmo5TNr5MYS4rNYc1pZfqPl9TpDB4oj9ouXsPDfsVyUur8P6g7bHeJt5g4MWK8hpGNI57oLNAuJADhZFkV7i1T8C5Bmb/Dml2EEMEjCKbFdUb9/hRVTLUpp/XJqyaLNinrtbLuVSIikyhR3IeNnYcsxNi+dkcAxX47x93ckEHt3I/CsFobHFmyJIzG6P02g213krlxN8UT1NJpeU1+kk3h+OxpZsHidrjbWsBAdRHceBdLn+L6oaqJ8Qc1xLGA9I8gG/6tzL1jcuCOOSaZvSeq2vIdfyKNLPgYGPgteMdhaXnqeS4kuPubKpw6TFgbcdy16nLUenVbr5NtERaCkIiIAiIgCIiA/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Therapy
-Explicit content</div>
-                                    <div class="artist">Ryan Hall</div>
+                                    <div class="name">Intuit</div>
+                                    <div class="artist">Disphing</div>
                                 </div>
                             </div>
                         </div>
@@ -1492,7 +1491,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2025, 02:13:58 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2025, 04:35:11 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
