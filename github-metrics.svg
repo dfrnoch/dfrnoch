@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    735k added, 674k removed
+                                    88.8k added, 59k removed
                                 </div>
                             </section>
                             <section>
@@ -1291,6 +1291,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1408,7 +1415,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~6 coding hours recorded
+                            ~8 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1462,35 +1469,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAcIBQYBAwT/xAAtEAABAwMEAQEHBQEAAAAAAAABAgMEAAURBgcSITETFCIyQUJRcQgjUmGhkf/EABkBAQEAAwEAAAAAAAAAAAAAAAMBAAQFBv/EACERAAICAgEEAwAAAAAAAAAAAAECABEDIQQFEiIxE1Hw/9oADAMBAAIRAxEAPwCqKWm4Gp9T+olnQqrOAwsiU/cA4cFKeRQlIx2Rj75+X3pl1Pm5+trdpi/6mhtpCp8ZMaTEb9MkOPqBCws57PF3Ocj/AACiyd1ePuLhVS3l6jd28v07UWmmJl4gogXEEoeZQvknI8KT8+JGCAexWzVNN03M1C7ocTtP+tbXkFJkeowhZA6AKSro9/PHjNNTajUNzvjLq7xIS865GjSU8UJSkc2wTxA7xnz+aiuaHcNmI2AEM6HQjDooopJrTipD/VbEDuvFKtzwelKhI9oZHXAA4GSeskYOASarypO3E0vfbbd7hc9RMoAuUt7gtDnLknIKfHwjiQAPPumiyuUWxOh03AvIzfGxqxNq29t6ZGwt3RcPSnTRbVuAcD8ATyCSfqUkpxkfYeM1g9ntRXeHqvSkZ1Pp296OuM+pZSlCE++psHJyD8H56Hml3pbXFwtlyNltt2kxYT3JD0UgcVrPWQCMjI84xmssxEucqHcG2WZdxnTOYjsNI5HCc4CQB4xg/wC0T5zYFTpcXpoCZLbW/wAZaNFartgL6jQtpa1Wypu7tMht3ksKUoDpJUR1nGM9+aK2p54ijU9Fs1BMmallWx2zSo8ZnnxmLC+DmCAMZQB3n+Rrp3JsI1Fo+4Q0g+0hsusKSnkoOJ7GB/fj8E0UVhAOpUdsbBlNESY7fs9ezBuGpwxcWpsSUEMW12IVLkdpBUFZ5BOFH6T4/wCPbZnRotVljXe6x5Dd5eC/2n+iwkqIAAwMEgAnPfeKKKhxr7+op5uYhkug2zGfRRRVgT//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQH/xAAuEAABAwMCBAQFBQAAAAAAAAABAgMEAAUREiEGEzFhIkFRgQcUMnGhFRZCUpH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhMQUT/9oADAMBAAIRAxEAPwDPiz3m0IQlmEQABvFQT7nGTXXtcp0LWlpKsYw22ED/AADFONwSqSlhKVcxTCZLYx9aM6V49SlQ37KHetW22aRJeQ00yrUfNQwAPMknYCtUt1eiw61BV4xPsymInTYZp9uMcDYVurHDUF8sS72VvJxq5KBpB9zv99qT4luNps1tjToD714ZkOFlpMJsLVzAM6VEHAOPv9qCfo0+bjCV1j0xm32nn2yXII8bWkp32x/L8Gijhy5XcwFMTYsSM9K8RYQ4VrjtA48ZzjWdxjAx7UUGvMdtkDqFWst2o6mNKs0a5tsN3FhUllnVoSHVNLb1YyULTuCcdDkGpi66+Goz0CA5dxYbrpUqS8vmuMJaJDoITuACQNQ23zvVw3KQn1peyXRNp4hkXFbYWUtqbU2TsGlHUpZ26eEA/mpWQ6sdrG83FFahwJH3v4e3tyA3Ot7C58RXLkBDX1Otddgepxg4PWqD4ZwrlKvhadbnqtLYcceelRvlRGVsEpQThROMhXUYqltPxRc4ihXBFtZMF6MoKRlPMKmf7eQSex2HfNIcT8TOftkyrkz85a3FICXFrTpUrURkAYztv6DvS0mTVsjcLkuyYMhclp5xWl1YwVIScJx2xuPXOaKxeHFuRozoc1aVOamxpwAjA04HkMeVFFXMCDjNJh45/IEyQ/VzjGaQujguEdbfOcZdKFJS62cKSFDBHcEdR50UVBN7jvcsGlHHBhsSbj26cwjQgnWPCHWnMbfgiqDhpM2C1BZuC2JMWIHUpjODmIWFnPiB2yCAfaiiuWZtvHqJ0/Hxg+yCZSoujjiypRypRyaKKKnNkWb9lwVKOgJ//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Holding On
+                                    <div class="name">HYPERYOUTH
 Explicit content</div>
-                                    <div class="artist">iann dior</div>
+                                    <div class="artist">Joey Valence &amp; Brae</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcCAwj/xAAuEAABAwMDAQYFBQAAAAAAAAABAgMEAAURBhIhEwciMTJBYRRxgZGhI0NRwdH/xAAZAQEBAQADAAAAAAAAAAAAAAACAwABBAX/xAAgEQADAAICAQUAAAAAAAAAAAAAAQIREhMxMgMhYXGB/9oADAMBAAIRAxEAPwD2hsBeKnm1SXH2lMkdLCgoY5zjjFU9snIUf0nmle24U/aQXJuDhSxFUsI8ysgAfUmrO0lk8vjrJnaNLzXNdvKbcUIrUMJW1j1Uo45+maYIdnkN9YyUJS2D3MeKuOfzSl2xdqqkyo1q0RMSJaHVtzFtt7lFQICUpURg87vCr9OrJbmmoC7qluPOUyOslRwrd8qG5bjrCbI92S2ySMjP8UUm3nU7CSThbqvX0FFHkkovRvHQlW+4MNqT33CfYE1bXa4XswlKsr0mOlTKtwz0yU4JUefYGu7S0lLqeB9qm6wmdNqWGzyI/T+7Sv8AahridmdrfNapGd6DecY1rYXo8d2W6iaypMdpO5bveHdSPUnw+dPGqELlamu61IegONyFqEKQvLjPe8qscAj2rPNLKCdTWjdKehp+LaCpDBw40CsAqSR4EDmvoXt205ZdK3lLFmgtxviIy1rXkqWtQKTlSlEkn3Jp2soyrWvsx+6pntOlLjTYx65zRVpfng5018ZUhJ/FFClq8IUW2stEiEva4K7nNouN5XEdJ6bqw2oj0GwD+6KK5vw/SceefgR9b2qPp3WNytttfdejwn+m265jcSADnjjxp31lryRrO02OZcnULujTbrEjaMZ8u049wKKKddGn3aYvS3+pEjqz+2B9uKKKKLKz0f/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAECBAYHAwUI/8QALBAAAgEEAQIEBAcAAAAAAAAAAQIDAAQFERIGIRMxQVEiUmFzFBVCcaGisf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiMf/aAAwDAQACEQMRAD8A+ppZEijaSRgqKNsxOgBUQ5XHgbN7b6+4KXMqXxN2g1sxMP4qhWOLTJXsFuzhY+RZ+J9AN6FTTcWRl7OXxoOjfW2/uCmvmsYg5Nf2oHuZRVZ6l6bs7K1/F2ysscYAkTlvt8w3614cOGur+ANYJE1u3wkSHR3S9ip12ylbfX5NPhljniSWF1eNxyVlOwR7g0VFwkBtsRaQOArRxqpA8hoUUHSIzqBmXB37IAWELkDfrqs76Btc3J1EstzbJHj1jL+MsvLbHtw1rz0d1oHVMng9OZKT5Ldz/U0/ASWUmJtnxkiyWpQFWU73+/1rNuIsl2Q5MfGc83jZslhL2zju3hmmB8OVkVvDO9jsPMdvXv8AWqrjcfmcWi467ulJXlIl3HFwVzrXHWz5edaBUPLAHHXBb9KEg+x1VcPZmu313qGILNi7UvosY1J176opMPr8rtddx4a/5RSlvKoypikkzwxzwvFMivG4KsrDYI9jXDH2FpYI6WVvFAjNsiNdbNFFamZLFcrhEkiZJAGR/hIPqD2ooomxFijSGNY41Coo0AB2AooooAGET//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">SLEEPWALKER (feat. brakence)
-Explicit content</div>
+                                    <div class="name">90 DAYS</div>
                                     <div class="artist">Aries</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgME/8QALxAAAgECBAMHAwUBAAAAAAAAAQIDAAQFERIhBjFBBxMiMlFhcQhi4RSBkaHB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDBAAB/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhMRIi/9oADAMBAAIRAxEAPwDB8YnD7TiC3jwKBJwFErMoJVDmTlz98+WdZC+D3N1NKWGonxb9PT2pjhvGiRSjvopISkZ0SJ4/H0zU5bHrvXDDlucX/UXjQKFZtKlFyHvzrU2HhM4NfZxji3jVcjuK092kNusYyXMKM8z1+axGLteWtwkU0mTBQRpGW3T96XSSyTed2Ye7Z0N6i1vsv/ZThK3T309u7GbSFDLyXrkN/iilP05XwsMQvTOri2kVFY7kKczv8/5RTLW1yStWu+xDxN2ZwYPjAE1zLHYyeNVKgsPtzz39M6btiVpw9w+Xt7YSRxrpWP2PM1Qe02aWRxYkao5NB1soLIy88j77b1OLrBLm4URK7N6+EEH+6VKKbCTyq2BeSZ47eTX+JSXF0oVpMioA5L0pcMs+fzWyxDg6e1YrJKpYdQv5r1cIcBSY3JO4uAqQecFcm35bem3Og47HpLmSuuSifTLYW90mLpdae6ceVjz06Tt/Jopdw6bzhKUiGIZeXuTuT9xPrtRRasP1Vlp7QsNW+aIhCqruZF9amcmD3catNayxkHlmcjRRVcVkIMx+meiXhee4mg7+aFUfLUSpIX/tabD8DwzBrOYWc6a3PiYuC0v4+KKK6914zzHU1FV3h4m706WJ5rrG+XxRRRTPJF9n/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcBAwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiETMUEGIlEVYXEHMoEUI2KRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAiEQACAgIBAwUAAAAAAAAAAAAAAQIRAyETBBJRIjEyQWH/2gAMAwEAAhEDEQA/ANsbeKZzjCVhW0DaAfB8nHDI2oFqJH5zNY0ecxIaecjFcta/6hSUWSkUBt3dvgYxhjVWltIkF0KWvc2rwmzRFfz5/OL7vwZRaPUeqr0iAJDMN2a7uSAw0PcpJICqNVYBvmr+caJO5KTRBIuiORkaE46r9wT0toKVhVknz47fe88HFamdbSltLI0wM+5SuVFy/Fc1XHOEDQxwzgKt6hQ20KN+fPGGaYJNOS+xJcYdQlaNpcQ4nzyLFeO/+sj6u+9Hiy5jwS1FZSpQUg+9Sa7URwSfiuM+ZuqxoJfXIcAaaG1blkpTuN7BXNkV+BkqmZ0LoyLfS4k7rTSefHP24+awAl7lc/THVXpUSa3Lddc2LCypzjYVDkfFcXxltlazCjJO95IIzF9P1bUNDam/UOlHLziunG5thINDi+1cjycm+nNIleoZhXNkyo8VbSnm/buW6AaO0ZOs0vilsvl0sV6pPRoUn1awSURzf+VYZSvT+mQ9W1yZCiPS0xmVFtuQuj1SOCQPi+MMY4ZfIu8K+h3pWlrfC3tSeeS68nciOgq/tlfJUqv2kjj7D+caFapEL6bJS8SB03HoytquPIPx47ecMMKtEqbTvwdielNBZXEXHi9N1tfVS4r3LWqiCFE3fft89s8HmxBlNaTo7SN7Tbrq5MlVCO2s8pFd/wDgwwwMlRjaQ7HklKVNmYa7rMmfpa29G2RYLdtiQ2Clb6L9ykV2B5rmz3wwwyTlktIt4oySbR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Words That Kill
+                                    <div class="name">Butterflies
 Explicit content</div>
-                                    <div class="artist">Ty Lorenzo</div>
+                                    <div class="artist">Ryan Hall</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAEEAgYDBQj/xAAnEAABBAEEAQMFAQAAAAAAAAABAAIDEQQFEiFBEzFRYQYUIjJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQIhQf/aAAwDAQACEQMRAD8A8vIimuLVVCIiAiIgLKMAvAJ4PCxRBy5WO/FyJIZRT2GirODgsycTMldP43ws3taW2H88i+lGNI3JeGZpL2NaacHU/wCKPfJuj8rbZ/p7StGwDl6hkT5Ega132ViOyQK3OBur6Auh0pbUY3toqK46ZmTH45GxwBpPjEcQ7N0537Ee13SKsqaDmqCIg7fT49Oi02ebLyXtz/IwQxMZuGzncSb4PpSr6jqMmdtbKGkMcXb6/JxPZJPt/iIhfFjF0zDyNIly5dYxIMhm7biSNeXur0ogVz/UREH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAgEBQYHA//EACwQAAIBAwMDAwQBBQAAAAAAAAECAwAEEQUSIQYHMRNBYRQiUaEjFiQygZH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAECBP/EAB0RAAIDAAIDAAAAAAAAAAAAAAABAgMREiETMVH/2gAMAwEAAhEDEQA/AM/281bqW/6igmshdK897/ebfv2xhhuViwP+PzzTARa7p31DxHUbUSx53L6gyuPOa4FF9badO297oFw0Y1PT0jvERsN9pIWVQOd6hcHHJU/Fc8W+kurktcTyFs/c0jEk49zk5yaJSxFWU+SXwdyynE0SSQSLJG3IZDkGrW2d34Zjila7d9X6po88KwzTT2pYD6NMYb4GfHn2FNDYO81rFM0bRF1DGN/K/BqRnyDdbreNlukaKntRUJ5G24z+6K3prkhA+nepblNSsizF2iheBVd8DaVYAZPgfd71XWzn12GBgMfHAqL0+yW2oWcs1qJosgtG54Zec/6xWk1G2sI7iA2qS28hzvRudpyPn8Ucnjw64R3tlr0xcpHeRtOzrbq2W2e/xTDP3j06x06ALZySS+mo/lfG445PGaWuCaK1k9RlLr5xjAPxXlc6lJNcLJuJc+AP+AUa96irIJ9jW2nd3Q/6dgvtSZIrguqyQxhjgE4G3jk/r5opPtV1CZlxIx3ZBb7iTkY5zRSLkDiNLa9s9VLrL6kfqAg/yyjH6HirzT+2Guu7+tqVgsbkEgBifjkiiiidjFTaLSTtl1FDMrWQtbkR7Sr71Xcffhh7fmpkvZDqO4mFxDq2lidjvbcjAZznwFooqRkypSbM7rXaDq4WbWzJ9XcwElBBASj59hKcDx+RweKKKKZTYZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">FE!N (feat. Playboi Carti)
+                                    <div class="name">"conditional"
 Explicit content</div>
-                                    <div class="artist">Travis Scott</div>
+                                    <div class="artist">Musa &amp; soupandreas</div>
                                 </div>
                             </div>
                         </div>
@@ -1499,7 +1505,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2025, 00:03:48 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2025, 02:15:50 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
