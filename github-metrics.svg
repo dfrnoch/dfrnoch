@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    558k added, 555k removed
+                                    565k added, 557k removed
                                 </div>
                             </section>
                             <section>
@@ -1302,6 +1302,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1474,32 +1479,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQB/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAAFEQYSIQcTMVGRFCIyQWEVcYGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAIxEAAgIBBAAHAAAAAAAAAAAAAQIAAyEEERIxBRMiQVGRwf/aAAwDAQACEQMRAD8AndisjFwhtSZbqmY4Q6464CM4SQOAeCea9sFki3qw3qcp95iVa44dSyG8pdTnBJUfvk+KfdLnrkt2Mwq2PyrE4l5l15DCnA0pQOSNo4PIH7Yp7ItsfS/TvU7PYmNyXUhpt5yKtCVo7ifKlDGSPt+KcABHIyYzvyKj5kfQSOPtTGCvDTgwPmwPH5zShKySOa7oTm1Ks+ooKtmN8ZbOjM5TM8M7AUqGMgUVneml5/T7qwrYlaSrHJoqghDKDOc8Q01jXEqJp+jmp7Bp3Sfws66CHMckrfCHEKIKPlSDkDGcg+1aDq/qW333pZcUW+7R5iVlvhvIOQ4PUeOP6qOJ1TdnY7io8OAQ22cqJ2EZyAU5OPPvSJ8xF2aAtky/j3GXHZncTtbyF4Ts9Rg8nJ5pEOThhtOitoqrINL7k942/YkSyEkbs+9NI6LfzkS/4KfNLEK3L5PFdsVOQTzxihgDfE3n3lJ0BbIkycylHe+ofWR/lFHTl7tTGskDJ80VSqChRvImtNvm+g4nHpKbpaOd95ua4clhHZbIhiSlacqCgUqBBBBFN+q+pNN3LSsCBp+YH1ssE5VG7Hy70ABKQAAMA8D05oopEuZTWsD7kcaQQR5p9Z20Fh7uAcbce9FFZr7h36mts6gxscSpIOcBOeaKKKeBxEmAJn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMCBQUBAAAAAAAAAAECAAMRBCExBRITIlFisRVScoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AGgCTgZJMp6bpTMoa4ke0Tw0BSom6wE42WWtPqVsp8XZQPWX8lNfCHjmX9FfpdWMdp/sW1HSmVS1JJP2mUtNqkd3FjDI4PAIjAYOgZWBU8b7RXekxqiKXh8kQQSDkEQlLrVIDi1RgnYwlE1q0mqceGKKw+lrbHGZg12FmQEJU3JJ2m+mWjzUuQM7rPTU+RGDAHG8HXuBYs03praKLCljlsY7d8jEpV6mixQK3X8cyZ03Su6CxnCA7hQufmUCorI3BP8AsVaWjuNtIU6vjwG/XzCLdXuDMKxueWhGwvBPI12Jw2IIzmNHVC2vsvBPuHMIQ2tBTO1apqlCpaCo9VOZ19c+D28+uIQmdUd2YmSSSSSSYQhNMP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Edge of Tomorrow</div>
-                                    <div class="artist">iann dior</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAEEAgYDBQj/xAAnEAABBAEEAQMFAQAAAAAAAAABAAIDEQQFEiFBEzFRYQYUIjJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQIhQf/aAAwDAQACEQMRAD8A8vIimuLVVCIiAiIgLKMAvAJ4PCxRBy5WO/FyJIZRT2GirODgsycTMldP43ws3taW2H88i+lGNI3JeGZpL2NaacHU/wCKPfJuj8rbZ/p7StGwDl6hkT5Ega132ViOyQK3OBur6Auh0pbUY3toqK46ZmTH45GxwBpPjEcQ7N0537Ee13SKsqaDmqCIg7fT49Oi02ebLyXtz/IwQxMZuGzncSb4PpSr6jqMmdtbKGkMcXb6/JxPZJPt/iIhfFjF0zDyNIly5dYxIMhm7biSNeXur0ogVz/UREH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">FE!N (feat. Playboi Carti)
-Explicit content</div>
-                                    <div class="artist">Travis Scott</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMDAgcBAAAAAAAAAAECAAMRBCExBRJRE1IVImFicXKxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQADAQAAAAAAAAAAAAAAARECAxIhMf/aAAwDAQACEQMRAD8AaAJOBkkynpulMy91xIPtE8NAUqJusBONllrTalbKTbsoHmb96a+GHjzl/RX4XV4OfzFtR0plUtSST7TKWl1KOzixhtweARGFYOncpBB+u0l30mV6Y0vD5IgqSDkEQlLrVIDi1RgnYwmjOqqZtZjhiisPpa2xxmYNdhZk7glTcknab6ZaMNSxG+6z01PyIwYA43i12DTym9NbRRYVsckjHbncYlKrU0WKBW6/qDJnTtK7L6jWBQeFC5/soFRWeQT5ktpUtxtwU6vj0G/z+wi3V7gzCsbnloSuF4R5GqThsQRnMaOqFtRS9SfuHMIR4InDtWpapO1LAVHlTmdfXPg9p38whB1QezEySSSSSTCEIQH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Control</div>
+                                    <div class="name">Used to You</div>
                                     <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQEH/8QAMRAAAgEDAwMBBwEJAAAAAAAAAQIDBAURABIhBjFBExQVIjJhcZFRByMzgYKhscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUB/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQUSMUFx/9oADAMBAAIRAxEAPwCCntpyVZSGHg6b6StCVF8T1VJjiUyYPbPjXt9jj6gudHLX1dkob3T1SqySTmLPAx55/wAajuo0p6K/VHs1sW1uFAeFHDAAjvwSByfB0NnOfGRxalD9HQJsWWnNFXxVSfxEY8sc/Tt+mrjrFzdumRNbGkp7tSRGro5IziRHXh0/1jzkaneibY1zoBWXCogliddsS0ZZMDbhgxJzvByMjH20zaYY7G8tBRyyTx0c6SO89QZpMtywLMc52+M9tK6QdjNiBhJOyftyuVvKpeRTVyjAOBsk/I4/I0axuvekbdRXOokJCztNvEicLMjZ7r2DA+Rww5wDnRp5WVhsz2QgzPWnkhkTfI6QA7zsc48eNM3h4ab1ZlDMXA9VlPIRRkgE+ccfz1g3CsagkucM0ksqUk6oN4yflGMnyMjOnqiSmqLJLQLOvtzx52ucNI3zvj68nQHOx6is5v1sfr+uqoWuKptkwt6R/uxT052gZ8t+p/7pzoC4e9bbXRh5A5mM7OCSdyhWySTk5xj+rUJY6eCQTQ1QXZtZfjPGQPhOnrDPJb/aCFMZqYvQSUD5W78fTjSq5pBm7fVtQKCWV3ukVz6Wqfb1O+OEvHlcmMg44PcfbRrJs7NcLWq1hMcVUzQxnA+Mspye3YH++jUrv9B6mC5XjDe4eoYCJPdYwyjqSu5Iiml9UZB+35GNIULzwmTcpdXwyh1yUI7HPg6NGiPK8TqsRKkkf3hUbVZkVxxg6p5bkJrJLRmnCuRlGC8Bs57eONGjVLANEbpc4R+zkN3rKm0vTNGTVRsix+muMLkdgPqBo0aNdSte4K7lWKQAZ//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Chains</div>
-                                    <div class="artist">Alex Yarmak</div>
+                                    <div class="name">Tainted Love</div>
+                                    <div class="artist">Ivan B</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQH/xAAuEAABAwMCBAQFBQAAAAAAAAABAgMEAAUREiEGEzFhIkFRgQcUMnGhFRZCUpH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhMQUT/9oADAMBAAIRAxEAPwDPiz3m0IQlmEQABvFQT7nGTXXtcp0LWlpKsYw22ED/AADFONwSqSlhKVcxTCZLYx9aM6V49SlQ37KHetW22aRJeQ00yrUfNQwAPMknYCtUt1eiw61BV4xPsymInTYZp9uMcDYVurHDUF8sS72VvJxq5KBpB9zv99qT4luNps1tjToD714ZkOFlpMJsLVzAM6VEHAOPv9qCfo0+bjCV1j0xm32nn2yXII8bWkp32x/L8Gijhy5XcwFMTYsSM9K8RYQ4VrjtA48ZzjWdxjAx7UUGvMdtkDqFWst2o6mNKs0a5tsN3FhUllnVoSHVNLb1YyULTuCcdDkGpi66+Goz0CA5dxYbrpUqS8vmuMJaJDoITuACQNQ23zvVw3KQn1peyXRNp4hkXFbYWUtqbU2TsGlHUpZ26eEA/mpWQ6sdrG83FFahwJH3v4e3tyA3Ot7C58RXLkBDX1Otddgepxg4PWqD4ZwrlKvhadbnqtLYcceelRvlRGVsEpQThROMhXUYqltPxRc4ihXBFtZMF6MoKRlPMKmf7eQSex2HfNIcT8TOftkyrkz85a3FICXFrTpUrURkAYztv6DvS0mTVsjcLkuyYMhclp5xWl1YwVIScJx2xuPXOaKxeHFuRozoc1aVOamxpwAjA04HkMeVFFXMCDjNJh45/IEyQ/VzjGaQujguEdbfOcZdKFJS62cKSFDBHcEdR50UVBN7jvcsGlHHBhsSbj26cwjQgnWPCHWnMbfgiqDhpM2C1BZuC2JMWIHUpjODmIWFnPiB2yCAfaiiuWZtvHqJ0/Hxg+yCZSoujjiypRypRyaKKKnNkWb9lwVKOgJ//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">HYPERYOUTH
+Explicit content</div>
+                                    <div class="artist">Joey Valence &amp; Brae</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBwIDBgj/xAAwEAABAwMDAgQFAwUAAAAAAAABAgMEAAURBhIhE1EHFDFBCCJCYXEVMpEWI4Gx4f/EABgBAQADAQAAAAAAAAAAAAAAAAUBAwQG/8QAJREAAQQBAgUFAAAAAAAAAAAAAQACAxEEEiETFDFRcQUiMkFh/9oADAMBAAIRAxEAPwB1ZLTNlzC9NUpTWSXlr56qh9P/AH2p5KlNMIWZaSyNwCW0Nk7yeOAkZJ4xTOAgxI8eMlRKgkqUpTZ5PHf0pLo2a1qrxAu+99Zj2EobRDWyUYeUD/cJxz9QAPp61zoZJ6jPZoDsh8fEZEyh5KT3CfrmdGnN2exsuW0A9Fc1KmXgAOePRXPpjPbFRvOah01Z0o1RYyGASrz8J3rNoCjnLgOFJAz+4AjFX+i3bmVb1FK1JO3H0nvSzS1kVF0jChSbu5e1BsqTPfSNzyFcjOPUc4H2xSxwoAzhhbXY4k9zhvSqN11qRa25KDuTkEFHKVJPvke33opZfLUdFeIqrIxFUbBf0FcTpn5YzyAS4hKc8J+rjvxRQ0sTcZ2iQX28IqaCdhqMilvTeY1kmqhu7ITyPlRGCuXEnkYB5I4JyPvWvwJe6Hinrth9/qecLE1OeDtKlHkdxvAqQ24nW9jt11jw45cbe3OtuhKnE7cgpSSMA8ggnHFYzLZcoUhjUellIiXhthTLzExtKw+glJ6a9p4II4UDVmFkxQSW934VqhL2PN/Er0NLX04b7gPKW1KB/AJql/hEiy2/C9+ZMdcWmbcHHGQsk4QlKUcfbKT/ABUzTfjHZblCdtGoupp669JbTgnDa2lRGMpVnkZP2rrYFwsGi9I2+0wJTfloUdLLYbIUpQA5Vge5OST3NOWPopQPFWqu+JqcIv8ASzMZ9TM9NwcfacQfmSlCCFH8ZIH+KKV+MVhf1HfIF7hvEZaRGZbUnHyHJJJ9QST/AKoojNzI3SUD0QeZK9rwGqB4T3qND81a3WwJTqg4hScnfgYKe34710lwuFxjPFPlAlleNoeOF5/A5NFFCZELONq7qnmJOV2PRTgtC2yp5lpcQn9zgChg8Y5/imUW4sW5vNristbgArotBJIHAyRRRWiSd7aa00ohme0UD1FpXe/1CS5HUY6BFSoKS2khJB79se/eiiipgY2Vmt43VeVYkO6//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">SNAKE EYES</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                         </div>
@@ -1508,7 +1513,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2025, 00:03:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2025, 02:14:30 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
