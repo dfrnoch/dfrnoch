@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    762k added, 639k removed
+                                    736k added, 683k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.77k views in last two weeks
+                                    1.76k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1462,18 +1462,27 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAtEAABAwIEBAUEAwAAAAAAAAABAAIEAxEFEiExBiJBURMWUoGRFTNCYbHC8P/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBQQB/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECAxEEFDFR/9oADAMBAAIRAxEAPwDYqkIdk3dB12U+5lxtokywLTnyDNrBlFn15VDizD8NZRpmLIpl2YghxIDi6x25bN0t+SmHQLdFITcGiy8UiT33bXjG7XMABO+hdvl122PVPjTaknyPvWHWH4iBbB/SFPCmP8EK/YRPrsz+TBpvksqnHMT5e8h9/Y5tPhSDplLIG/U8R0FvvrJK/Ertecpq/iR/rKzlKO96M1CfSbJcC3G8RZY31rOP8OCRlRXV8uXiDE22Ftarj/ZZj5lf0eV3zK/1lIspoh60i7T+H5FVpd5gkPb18Q1HG3s9CpEniupRi1XMqAVMpy379EI7wyl8bLnTS11IoVXEXd9E2dPdc8x+UIXOmx+IRfiBD2jNqetzt27L02c5xsHaoQri2jxyharIcW+FUuDobO0QhCO6bfWJKSXEf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Had Some Help (feat. Morgan Wallen)
+                                    <div class="name">Heck
 Explicit content</div>
-                                    <div class="artist">Post Malone</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwYFB//EADEQAAIBAwIEBAQFBQAAAAAAAAECAwAEERIhBTFBYRMUIlEGMpGxJTNicYGhwdHw8f/EABgBAQEBAQEAAAAAAAAAAAAAAAEAAwIE/8QAGREBAQADAQAAAAAAAAAAAAAAAAEREhMC/9oADAMBAAIRAxEAPwDzO3hcErIH/inzw+6gZSCznGWjTcgd6Q4HxyNY4isTtfXB0xxiPWCev3+taGS54tMWiv4rrXGNSh4cknpg471tPcY6VRbr4EDSvqhII9Ehxq+lItxMeYmMjyGPJ0knp/ymTi7dvOicMnzRqCN+wI26VXF5CMzeNaSTBflJb/elO40c9rhpCrxhyQd5GO2aKy/Ffii4uJVW1SOCFDpRAM7d+maKOsXMvauYWgnWdhcQHbGxIzsR3rV3HxNxa4sWuJ+P3TXgRZAmhQjDVp0hueoDfljnvmsXfxx2rkRyrK0baHKg4J3wRkA42qepo+H6iVdVkOuMNnGQBnPLP2ryXLeWxufxa7vLS2k45cxcWu4hNDbFmIGoEqrPn0lhuBg4DDJFcDikontbPweIXrzlGlmEpBQHA+XG46qc8yNqQk4vNNKl4J9d0ZPTpTSxwFwCfYdqWurtcQQsAyMAZZBnL+okgds/WlW2qb21SUR+AIk07nbBz7d6KqvJ18UiMDSABlQQD+2d6KM0ZLNct4JizqiByNXMY9j/AGq/zUaQrFCgB/M1fqIwQfcY/wA9qKK6Sct6jWKW8aRIyksWRSNermpJ5DGP69qoubhJI4dOzRrp26jn9yf4oopRV2G+CcGiiipP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQME/8QALRAAAQMCBQMCBwADAAAAAAAAAQIDBAURAAYSITEHE1EiQRQjMmFxgZGCofD/xAAaAQABBQEAAAAAAAAAAAAAAAAEAAECBQYD/8QAIREAAgICAgIDAQAAAAAAAAAAAQIAEQMhBBIiQQUxMnH/2gAMAwEAAhEDEQA/AJVk6PUqo3UokVTDTbzfZcfWkqXYm4Six3Jt/wAbYc8u9LgucaXOiyUSQ2JJmLXobb9O1yOEk/5G3Axx6Y09AjykVKBNdebqaGQiOdPbdFgnUQb/AFAcHi+PT1Fzw/HcTSYJ7MMJU27dJulwDSpW/II2B8DbbFgmJQnZpK9bm2rpFQlsIbi1aAiaXklJDqtKmgQVWN9ja4/eF+r9NqfS3oBekCIqol2PHQoGR60kptpA2J2tvhXhTJkCO09l1+oSnngO6UoWkIFvovwrY+Px96ZkLPgzFWadRZsW7q3Gy0/J0ghKVoWRrIuVADY8kGx9jiQCH1IspTZEl+YqFUoMyDCkTWkspjFts+pISoAqUhV9wbkC3AKrDYHBimdRcsOVumSnUusocFXnrbH0hTbZJKQfdSif7gwxwdthbnE5lBomdso1R7KMqnQaMgPQ6m8l1TzzegslKNCu4gcK1atzvYXANjiW5qlpqubKgy8+0hTCClp1tRDXcSQbgHkEk2+x8YpPRh01LKNTo05MwREvBz4hClNlrUgnYjckk+eDhO6g5XdTUHKhTYaVwZVmY7kU+pakFKCVIVuLqI4PvhOwKeMKQE0fUYcr5pjmkT5So7rM+BHJXFJBaWtW3dBvt7cYUMurQczU6Y892kwFobQlxZTd0qt2woAkG9zexsP1hhycxT3KMUS8tvOOaNSlLSoqUkndZsLEX4/mPJAyHNrFYhrTGMCnB0yErkK1LKFbk2Hg2F+Pzhux8SZZvmHIUXWpQuquaqg9Q3qc07AXKfeQzHFM+eXXFKuoLVpGlQCRxub4MKvUCJEyzl6FFprkhp9qctaH21jUXS0CSq/I5HsR/rBhy4XV1Kfkcco9NUWclZtOT6VPQy/KkKkNhXwhAS33L735Va1vF/5hhp/UWnVB2EJcKYy9GcDwQykOIKgptQAF7gfKH7UTgwYFVjdQnGTap6m5lmqQaLVFP1Fc4sCIlN1JGhoJdcWBz4KRbzjKqOfBQ50x2ltSZsRULs2cASAFqB1Dc7W2wYMEZx00JpOd8fh4uInH9xCzjmGp19EZyclDCgvvNx22ykW41EnlRta3jBgwYDLG5mOR+h/BP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I got a lot of problems, so I made this</div>
-                                    <div class="artist">JOLLY WRLD, LOVENude &amp; Ekeon</div>
+                                    <div class="name">Geeked
+Explicit content</div>
+                                    <div class="artist">JOLLY WRLD, Sadzilla &amp; Mvko</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Everybody's dead!
+Explicit content</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1484,20 +1493,13 @@ Explicit content</div>
                                     <div class="artist">Ty Lorenzo</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQB/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAAFEQYSIQcTMVGRFCIyQWEVcYGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAIxEAAgIBBAAHAAAAAAAAAAAAAQIAAyEEERIxBRMiQVGRwf/aAAwDAQACEQMRAD8AndisjFwhtSZbqmY4Q6464CM4SQOAeCea9sFki3qw3qcp95iVa44dSyG8pdTnBJUfvk+KfdLnrkt2Mwq2PyrE4l5l15DCnA0pQOSNo4PIH7Yp7ItsfS/TvU7PYmNyXUhpt5yKtCVo7ifKlDGSPt+KcABHIyYzvyKj5kfQSOPtTGCvDTgwPmwPH5zShKySOa7oTm1Ks+ooKtmN8ZbOjM5TM8M7AUqGMgUVneml5/T7qwrYlaSrHJoqghDKDOc8Q01jXEqJp+jmp7Bp3Sfws66CHMckrfCHEKIKPlSDkDGcg+1aDq/qW333pZcUW+7R5iVlvhvIOQ4PUeOP6qOJ1TdnY7io8OAQ22cqJ2EZyAU5OPPvSJ8xF2aAtky/j3GXHZncTtbyF4Ts9Rg8nJ5pEOThhtOitoqrINL7k942/YkSyEkbs+9NI6LfzkS/4KfNLEK3L5PFdsVOQTzxihgDfE3n3lJ0BbIkycylHe+ofWR/lFHTl7tTGskDJ80VSqChRvImtNvm+g4nHpKbpaOd95ua4clhHZbIhiSlacqCgUqBBBBFN+q+pNN3LSsCBp+YH1ssE5VG7Hy70ABKQAAMA8D05oopEuZTWsD7kcaQQR5p9Z20Fh7uAcbce9FFZr7h36mts6gxscSpIOcBOeaKKKeBxEmAJn//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Edge of Tomorrow</div>
-                                    <div class="artist">iann dior</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2025, 04:40:09 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2025, 06:12:46 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
