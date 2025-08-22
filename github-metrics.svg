@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    43.3k added, 35.1k removed
+                                    68k added, 53.5k removed
                                 </div>
                             </section>
                             <section>
@@ -1452,32 +1452,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACoQAAIBAgQGAQUBAQAAAAAAAAECAwQRAAUSIQYTMUFhcVEiIzKBoRQk/8QAGwEAAQQDAAAAAAAAAAAAAAAABQACAwYBBAf/xAAkEQACAgIBAwQDAAAAAAAAAAABAgMRAAQFEiFBExQxUaGx0f/aAAwDAQACEQMRAD8AmlrqSE/9M7RekLee2OTmmXcyCNamUyzG0cYgbW3ofrGX4ln5UpJ3AUn+HGtpXoaeaunqoYoZQEkmmYXRV07KCdwe9tjfzi57ExiKgeRnNvZoNczGybqhjSLLZZE1cwJ8K1rn9A4UVmYU1E8S1n+yESEhXemYITf5wrr+NREy1NFlMZvsHcAM/W3bYeO+LSZ9T8R5ZUsk00dREoaanClulugA3322/eBr8owsKbP1jF46eNgdlSFP4/eW6TMKOqLCmmkZl6h4yve218GFENNJl2fTU0u+qBJEbTbWp777+PBwYJwyNIgZh3OQzwqr1GbGLeIQsWawGYfbsC23v5wx4rqpJMvnblSR3lVXj1A6R1HTYb9hYeL4i44o052gsCdAH9OJqqqhNXUUUMTyTsw1QsvLFiASy7AkXvZrdeuIOQhMhUDyD3wzqSVrq9XRHbPNs+mzKqqUlUTNAFURlR9Abqb+feNNwVQ18vENPXJVpHRUv3pRHcXW5+k9N7/P9w6bLKQRyxwV0kVHKpMi6A67AfVq6jY+/jHeUk5TFIMmoXqaWoYMec6rZl/IAHci1uu2+A7a5QL6vbp8/eE5+SbajZIVtmHkf3HedMs+dZY4dpHkpHcuRYlS4I27dTgwuyVK6uz2aszCEwxOjJCTKH6MCV+dr+t7dsGD2v0tGCDeVLZDazCJvkDNLmXDUeaVayvIQALFbbHr8YrNwBRsY25ra4/wbW919G+2DBhPM/xeCBv7CDpVqGMU4Y0TiVZxqC6bWNj7F9z5xQr+A6OvqedVyu7kaTZ3At61ecGDGvfVdjGx8jsq1q9ZNl/CNDlUzTUoOthpYlmNx17k4MGDE8bkL2zMm1NI3U7EnP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcCAwj/xAAuEAABAwMDAQYFBQAAAAAAAAABAgMEAAURBhIhEwciMTJBYRRxgZGhI0NRwdH/xAAZAQEBAQADAAAAAAAAAAAAAAACAwABBAX/xAAgEQADAAICAQUAAAAAAAAAAAAAAQIREhMxMgMhYXGB/9oADAMBAAIRAxEAPwD2hsBeKnm1SXH2lMkdLCgoY5zjjFU9snIUf0nmle24U/aQXJuDhSxFUsI8ysgAfUmrO0lk8vjrJnaNLzXNdvKbcUIrUMJW1j1Uo45+maYIdnkN9YyUJS2D3MeKuOfzSl2xdqqkyo1q0RMSJaHVtzFtt7lFQICUpURg87vCr9OrJbmmoC7qluPOUyOslRwrd8qG5bjrCbI92S2ySMjP8UUm3nU7CSThbqvX0FFHkkovRvHQlW+4MNqT33CfYE1bXa4XswlKsr0mOlTKtwz0yU4JUefYGu7S0lLqeB9qm6wmdNqWGzyI/T+7Sv8AahridmdrfNapGd6DecY1rYXo8d2W6iaypMdpO5bveHdSPUnw+dPGqELlamu61IegONyFqEKQvLjPe8qscAj2rPNLKCdTWjdKehp+LaCpDBw40CsAqSR4EDmvoXt205ZdK3lLFmgtxviIy1rXkqWtQKTlSlEkn3Jp2soyrWvsx+6pntOlLjTYx65zRVpfng5018ZUhJ/FFClq8IUW2stEiEva4K7nNouN5XEdJ6bqw2oj0GwD+6KK5vw/SceefgR9b2qPp3WNytttfdejwn+m265jcSADnjjxp31lryRrO02OZcnULujTbrEjaMZ8u049wKKKddGn3aYvS3+pEjqz+2B9uKKKKLKz0f/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">2005</div>
-                                    <div class="artist">South Arcade</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYBBAUHAgP/xAAsEAACAQMDAgQGAwEAAAAAAAABAgMABBEFEiExQQYTFFEHImFxgaEjMlLR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwABAgT/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIRAxIhBCJB/9oADAMBAAIRAxEAPwDhMOpNHaGD0di3ylfMe3Bfnvu9/rVAcV628Z4+3eoVirBl6j3GaOiI+1FTjgnNG04HIqojZt7a3OiPMVJkw3JAxkZwQevtx+qKxt7bNm47M529s0VEWPTyGLeEJX/Qr5mJgOo/BzTjf6Xaafp81ncXx9VIYpMjIiVm/t27Z/Y454sy+GpLazW81GD09zOn8EcgGERIS+5gOQx2HA+hrFKxnha59EaGJpnVEUsx4AUZJP2pistQvfD+k6hYTaTbFdQj2+Zd258xcdCjHpjPb81m6hbz6ZdQxXARZNiSARkdGGR+j9aseJNVi1XUfOtoDbQCNFEXAG4KAzYUAAkjPApVUl0LsGMXwy+HY8aWV1dG/EC21wsckeBnYRksD2PtkY60UjxTTRJLHHM6I+N6q5AbHTIHWisSO1KNdQ0T6G9zoFpPa3qSzTQSXUkJUrtSPgjjgn/lWfCA1DxRq1ppkustbIVKxvId3zKjBVwT3BK/nHNFFWBbvp35XolqbfxDtrPwvZXOmufPvbqOJbeRUCNEiBUcvkZO8qcYPauXEkg4Iz9aKKXMlGWqPNCTkrYya9o2jwKJdH12G5jFqkzJOpV2kJw0agDHHXnHFFFFBYmTkuH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Chasm</div>
-                                    <div class="artist">aldrch &amp; illusion hills</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACsQAAEDAgQEBQUAAAAAAAAAAAEAAgMEEQUSIUEGEyJhFDFRcZEkMjOBsf/EABkBAAMBAQEAAAAAAAAAAAAAAAACAwEFBP/EACARAAICAQQDAQAAAAAAAAAAAAABAhESAwQxQSEiUWH/2gAMAwEAAhEDEQA/AOJ8O4o+tJgfGBlFw4HQD09VeFq57gxk8fT8gOe8OHS02JC6M5twurttRzj56JNCANdEoN1CdgpZJLmNpdYEmw2S2sB7r0ZdBTCNiE+xtgEIyCjF0PD/AIfFY5mSfTM6gb69gVb1+MUlHKI5JC5+4aL291jnwNP4Z3Rj0uSmzQtdq6oA7lpXJjquC9VRdxvg39PjsccWanq2iIhwfldsRrf4SaTGKGoJ5dQzTZ3T/Vg46WFn3Sh9+xCcbHE1wsI7b3BTrddmYvhllxBiVRVVb6cVEbYWSHJbf3IQonMg127BqFKWpKTs3BfSA1xuNVIidr5tQhI+AQ6+ONwJzZHfq3woMl2ki4PdqEKdDyEZ7eZuEIQnSFv8P//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Intoxicated (feat. yung van)
+                                    <div class="name">SLEEPWALKER (feat. brakence)
 Explicit content</div>
-                                    <div class="artist">Ekeon</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFCAEDBAf/xAAtEAABBAEDAgQGAgMAAAAAAAABAgMEEQUAEiEGMRQiQYEHE1FhcZEkMkLB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCxEDKSJU5CIr6JTBIK1eGWkJHqAu9tjvR51INZnHu5VzGtym1T2xamOdyRV8+x9/bS9NzUp1aEhRQgqPKVbePb/p/GufxbiZiZG5XzG00XCdxCftfb9aBgzLGWels+AWyIgouBTqkL9bqhzfl9RVHWcIxkWpDxmymnWdoSG0krUF9ySo9uPStRvTrq40+UuXMmPCQrypdcttvufKCLH7I/11wMDGxeTk5V2Q6pe1QC3HVUEk7lbhe0m/WrAAHpoGDRrW06h4W2oKH20aCIh42Ni4bkqaErUhBUtW0qCUjmgKs/qz9PTXNk5+HVBXJlOqittp3LWGjaBVndwew50tTeq8gvDSkbYz8p8BCUNrQUtbto4UFcpG67o+/bSV8SZeSZ6Qlwm3Zjv8tbbzm5JLu6lGgBylKCUkUOfroHFPVvTbjQcazkVtJIS3847Fm+1ivWuPqNN/TmUiZPDKdElmREspDwV5Vp9+341TST0yUOPPRpS4jgfCUsvuf41W2levJAqzX016HjusG8L0F1RgzjnN7jLbbHyVlwJLoU3Zv+tbDzftoLE5PKYXASY3jHQw/KtDVIUsr7E9gft30arn02RMdwByzzq3lIBa8RJU3YFmtwNgcdx7aNAtyfiHlIwAThcbYQAkNSlnbxSTwkgkJ45u9anPjBlXYpYlYWE8LKrW7QB8xsAJruon86NGgi2+vQiU7KX06h5yQtSnCJqiPNwQARSeOOOdJuZzOTkSWJsRGSZWwNqV+K3nvYvy1o0aCVi9bIDTJy+GEl1uvMp6uQKutpA4+laNGjQf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcBAgP/xAAuEAABAwMEAQQABQUBAAAAAAABAgMEAAURBhIhMRMHIkFxFFFhobEjMjNCYpH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAAMBAAICAwAAAAAAAAAAAAABAhEDEiExQVFh/9oADAMBAAIRAxEAPwBxAu91ubyYUGSIERUjwsSPGFrR7dwSoH47wrH6Gmt7Zh2Wxu3STcVS5rr6CzIO0OOoSpJKSAMKG1JzkdVzqptMfUMealK0f0U+MlBKkqCic4PQzVN9R4r8vULewJS49KWwlOckbwB/BqOmLTeH2rEjQr5rp+Kyhy229ucVRUy1JEgDYn/bJHHHXHzUebrWS9pqwzIUYsyrtJSyDsLnhR2pWPk46+PmqFA0o1cb1Ntk+4yYzTLK05bbHuSjCicKGRkDNMrBfZCIFoZbdV+Ga3JKljaHRuAPH0dv3Up0vbNrUPVKzDXfTSe5c7e9MuC0KLEhbTTxTs8iQeCR0D9fdFI9MzVuz58XYUsthKxhOEgkDOMcUVafg5KnGI/U/UMWzv29DqVqdUo8JHQI4747H3VV1U4u8abt2poHnYeFw8DTa8ErVj+/PWdwx9V6+u238fC3FOdiCkfJ9ys/zTufDSz6d6IZWgpZE2Kt3H/eST/6aSbfhm9yuPq5+UZvfNTXBd3cfkLXFlNJU0oN8FJwUqSfvJzVidt0m2aHtT8nysuNNvPJbXgFaCElQBHPOOD2Pypbru1tO6+vbanEpSu4MN44H+U5UfoVsF9iMTr3ETLSE26I2ttxhxJIcHHeBgjGOM556pNfQTb8/ol9IZjtyssuXJUkq83jQnsoTjPJ+e/2oqb6dx27ZanYqm2mHVurcDaSBx9A56xRVT6Mb9nXWWi7dqq4R3JzktDrTexPhKQFAHPJI/Wmr9gcuNijWy4OJZajuNrbMfvCD7Rzx0BRRSDSt3fQ8+dq2Vfm1QGXUyG3mG3CpQcCBj3Y6zx8Hqnk+2yn/I4spDy9pPt3JB2gHns9flzRRTzS4564q2SA+43Z8ylFwbNyiMkDkpOOfjG4fvRRRQkg5uWrrWf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Hysteria Is Impossible Without an Audience</div>
-                                    <div class="artist">poptropicaslutz! &amp; aldrch</div>
+                                    <div class="name">Usurper</div>
+                                    <div class="artist">NXCRE &amp; The Villains</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYIBP/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGEiExEyNBUQciMlJxkQgUYbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREkEEITFR/9oADAMBAAIRAxEAPwDl6ipYbeSVuKKWJ9hW4+Gm2JbndWnT6ppi3GjpMEuzcRsYVVgQOTAjBz2696aKXI3IPITBUU7t96Btpdr7dbbOlwruK8hWe8gEZbwfLUsArHH1OBg/acdRSt1jSJ7d1n/pyxW0qji4RhGzgAOEY/UA2R0JxWpSznBO5ASjoqR0wTRQMjKcM4HY59pbQEcSO0XIkD0/WKbWgW9tpuy9cswwhF+pjjmzhVOCCT7YJ/dVW1oI5UZEQgJhWA759vx/vrWm1WwMm3b9VtBdSRwtLFAOnNlwygH8gf50rLvJZrQp/ZIp7k7bD1qHwdNkm0g6C/HzJY8zciR5a5GAhK56kkDoPSsV8WIE07ZVpaa4ltZQ6ddCBDE7SK7PGZAO2cgYGffNWe2tU1ncRtX3G09sFe5kdZkRfBljMAVkLAlPkkmPf3NKf+Q25NSG6tR2uL83GiwyQ3Ko6ozeIY8klwAc/MR19KpblW2HqPChhFlqy2hfnaTq6t6YwR+6KrHzyJOcUVtlvJtIhBc7nQWkb10mz057m4vIR4a8gQ2XYfaFzk/j/leK6+Ks+4dMv7OzeHSoDCy82k87kVPEqcgdxggDPXOaKKbVRW92MJOoxdi417SETTbW+1DWoGuXjCKvAvI+PRgCSOI6ciBmsrcrHHPJHDL4sYYhZOPHmPfB7UUUi9ySCZQvyRt37iiiiksfcKf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Undercover Martyn</div>
+                                    <div class="artist">Two Door Cinema Club</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcCA//EACkQAAIBBAAGAgEFAQAAAAAAAAECAwAEESEFBhIxQVETYcEHFSIygZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMhMf/aAAwDAQACEQMRAD8AwRkKrlgf+13CzuwCjPSdbpQTONjJX2DXrbsWmwrj+vce/Irk9S9Dwb6niyz6zobria4/gBuiU9Zw0mcdhjzSUr4ByfNHibNPeZx8bH/aKUeTqCjOjrtRVpYjBMShY2AHcVK8r2MvFuM2lhCQktwwQFjqoDePurDyJPfQ8w2f7akDXzOFheZSQhOvzTVPjEhbS0v8n6Y8YjuCrS2oiCdRm6jgfWMZzWe8x2sNlevBDcidVXq+QDAJ+qv3PHL/ADjJfXl1BeSz20jLhYZSvrIC50Afe6zW9M0rKk0a9SAroYyfv3Qc5z1sXtMz4lgAHpAGSD380U7aRFIU6tHG9UVNdcZyuiNg4fKRlsID5NWflCe15f4il9LELqdMfGOwQ9ifs+qKKy+lfClbT1F/l58WQWzFQAyt8i50xxr81m3EGiluDKqGMecnz5ooqdfwS+lX9FHuYkKhidnGaKKKtc00Fh//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Hurt (feat. Happy Jax)
+Explicit content</div>
+                                    <div class="artist">PVNKSTXRNATION, Caught in 4K &amp; Ekeon</div>
                                 </div>
                             </div>
                         </div>
@@ -1486,7 +1487,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2025, 22:03:52 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2025, 00:03:51 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
