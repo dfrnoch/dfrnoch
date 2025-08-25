@@ -1428,25 +1428,26 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQj/xAApEAABAwMEAQMEAwAAAAAAAAABAgMEAAURBhIhMUEHE1EUFSJxMmGB/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMSEyFBUf/aAAwDAQACEQMRAD8ArXpl6fzNXel1rTBbYaLt0eLsh7ACEhCEp57PJPA7NN9QfbYWjmLPHdjiSjDUp0I53Nuvnj97wc/AFaZ6bXWVqGx6IekxY8CKXn5bcaI37bSW0OqCQAO/4dnJNVm3+nzF+tRuU65xYLXuK35Bcc5UT/EfOfNMo2Uvo88XIpS4UpIUPnFJ2qxXO9TG2bVb5MtxSgkJZaKuf8FapqiNpnTbDqbVbFT5ecfUXAnGc+G0kAf6TVFl6x1FIZ+kauD0aGFBX08TDLYwcg7U4FM40I2MpmjrwxeZdueYablx2lPutl1OUJCgn8sHg5I4PPNFM4lymw7lKmxHFl1wKCnO87vJ+Tnn980UgBKLfLvGbaRGuk9ptlO1tLchaQgZzhIB4GTniui9XdkKQ3dJ6ASCQJCwCfHmp+Fp/wB2Ay6WVj3BuG4YUMHHIx/VJv6fU4fyykFXJx14oWGiC996S0p6XcH1qHKgVKUrvHk0pbYL9xeLMNLxBQpSlOKwnABPirfpu0WxnSMyVMjqkSXln2ytYCEBCikEDycnncf0KdStPXKLYI89MZaJEl9TTDaUggp258HvjrHXeKpq/TBlZtDJvlhL9huanLi02pyRGPCRhO7GfBxnGe8fNFV8v3K2Q2hEeejJQFby0opKgrvOO+PnxRSuLXgU0boLfbm77NP3mGtiWy24nfIbUApPCgOfxVwk94NQeolRYEVTUEQXXnvwS+5ITsaJPe1KiSf66oopnFUUorOjLhEahtRbipCXYzqlNrwCF5VkjGcE8kA9jqt59MtQ6NudrnNuO28Oxm/bebcY9hWwA5UUk4V2fyHPiiinzLbHFkcbpsyfU+lrcVyW2X0qjJ3OoTvGT2UhR88UUUV0uOPw1N2f/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUEBgIDAQcI/8QALBAAAgEDAwMCBgIDAAAAAAAAAQIDAAQRBRIhEzFBUWEGFCIycaGBsSRCUv/EABgBAQEAAwAAAAAAAAAAAAAAAAIDAAEE/8QAHBEAAwEBAQADAAAAAAAAAAAAAAECEQMhIkFR/9oADAMBAAIRAxEAPwDzvcxgzSruEs5K7ZBx7YINWO30cJZQvexiG4hj+YKBdodQQFIYdz65wKivFsudLdo4pYZUK70H3OONx98/1W60u5Na1hEuMq8cICK7BV7ZI9OTTzWBt4TNH01Luc20wYSMGjDpJ9KNznPqO3PYiuL3RZbTEUcyrNCDA43Fh3PPHAGc/msLaO9vRHLG3Izu6ZAPHjk4Hj90/wBbtTbpbT29wJL17ZZXWBMGIg4O/wBcj+KTnPTWpLMFDfI2WnG6jaeTU9oYMhKDd/0D4weMUVl8Q3xhtLfqWJS3nBlaPwrsOCD6YwcGisN8KdTrKhoMst0kqyzlyg3RxknAbIycdu36zVmsGs7qC6mSzieUp9Gf9ScAf3VD0qTpXDtuIbpttI8HHendncSxx27Q52edo3HIx47gZqnGl9oPSfws9rhNQiSOTDSsVJjH2kkr+KnfEGn3tjHHavdJMZIgN6Lsd1znBHsRz61AhuGhuXjcDCymT6Tjb2IyMdvxWnVL24bV4b2dlMczH7h44P8AFWqYzWvSKdtjSXUFGjHSZnMcpnDNkdRYAFIwOMsc/kYorr6bV7k9R5JCzuxbPnPbNFcraOqPgsQpt5Ok+7APGPxTnS7wJqcIhLFDgKMjg8eDxzjtRRRhtMxrUWJNXkkkuo/8cHc3Tkbjv3Pt3J96r82rR4BdGmlSQO244VuwxjHHAooql9KpLQzClvBmI/hCXROpcX+prqhiZjGkKmPq47A+mf1RRRUhn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">paranoia</div>
-                                    <div class="artist">KENTENSHI</div>
+                                    <div class="name">Doomsday Blue</div>
+                                    <div class="artist">Bambie Thug</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EAC8QAAICAQMDAgIKAwAAAAAAAAECAwQRAAUhBhIxE1EiQQgUIzJCUmFxgZEVJKH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACkRAAEEAQMCBAcAAAAAAAAAAAEAAgMEERIhMUFxBQYTYSJCUYGRoeH/2gAMAwEAAhEDEQA/ANnceU9kknpLEO3u7o1OM4yRxqqsPcTc7VetFBYZGQK5RAkgZsAg4zgZH98aWPU+49Q2bFqWfd54QE74q1GMNHEyr4LtyeUI/f8AfUnpy/vO57RUuXUtmdY4wI5U7Yu1WY9wOR5ABI/XA1XRzaiAAip/EHvIAG2U6IoyN1fbrG2xKEVsyA4BZV5AZlAOCT4BBOs8Idy2/qCWRbNd4GlEXpmFcggZJBA+XjHvkZ8au+mNybeZo5N7v0bduP8A16UdBcqqKoZu5vxNzjGBjH651A6n6Xu7gtldru2UsyNj4WEgMWAfsxkduRxg5OfHnQELyC6OU8pffrskGQOOe3t7/RW08rR05fWhRnILwtHGrEfCf6GBo1gNlFjbrJg3C/dsQxs0K/WBn7ykBDxxz7/PRrcNVkALc5zuou3JTlk1SBxPb+jhLvqHft0iqrPtcccl5UBuSriR67dg7SiDhFOfvYzngnxpcbbuO4y2pey1dkvOQFKFnc88j316M2wV49lo344xLYgZR9aWuHkC9yZXIGeVB9+NX+2Wts/yVRJadcW7MoHdJWUMyuJCozjP4c848ambfmkV5XN9M/ASPwr8Vx6e3Xosd9H7qKK5uN/bN9jRTVjWWvadSvpuDgqzfmPB8Zwp08I7NVr86UGUr6wmiUD75IAIGB7r3e2qDb9upHbZbElhaNlXB9SJAgZmJ5YY+I8aLG67bOZ7dWxA1eGf0FkrqO5JEwpHHgk+Me+mlS029ELGkjK2xjIhpXHVlCeStYbc40jSWRXJkRZMkD8p48+Pb/ujVpY2uWxLCu+RbglCw3owV42JeVyCQCxPwHAzkkf3o0YLccY0u/SwXNPyhKSrv+1SbJBJNKIGjcSthCMIHQrkLxllDcfwdRYurek4rcM4uE2a7NYCpC47seoAGPb8g+f50aNJbPl+tYke95duTwR1+y7PlMm56qbB1vS3PqraZK8wubLKGrbl6f2XpBie0knGACc8fzrKbDd6prdebjtO3usVPeLQDtu0SdsUgHaO/gZ4wvAGR8s8aNGmUVNlWCOOMnAB57oWSQgjCbVze69/p2Tb56NddyEL17j3LLSR9qcNKj9xKocAjtwRo0aNP69aNrMAKgpQxOhBc0Er/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMECAH/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSEzEiMlEHFUFxgZFCUmFicqHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAQEBAAMBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AKDTl5cEEDFdGezfV7TXOH4pUCCWHlilj/Kygf0dq5pEy7eM5pxwbcavHro9w3MsMuxkKnw8uQPEDse/aizwWdusIprPqmPqxCUnt/lZLh4bZXmkChUUkn0FV9bW1zGlyBMhk5SxbJJc/qOw7/Cqt40424jvC+l6jIlpGiBZIoT5wRkZbucj0xXLP01rj6I/aBqjcR8WXF8rKtuG6cKgfgB7/U70UkMylwP3CiuwSPKiMz+UDJp3pFxHo5tb+G5bp3JAdFG5xvjPoDSCeNpoHUeY15IqxusUchdI1CqSuBnALbfPb6VWdxS+rjseO9DngSykjmtJzkx9UZVj6hwSDVW67Ib/AFaadpGlBPKrH0HaiwllihboyvHk78hxn7VjCjmyFHbvWc5kN1a02t1VsrnIordKDB3P2orQSntUhs4ZxfW8rS94IyxeP+QIx9jSiRsTPjOM0UVJuWkxCYznepwToJB1Qzp6A4PbaiipJ3TxLzdKRdifiTzfLaiiimmv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dead End in My Brain</div>
-                                    <div class="artist">レトベア(unknown Vo:10fu)</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAwEAABAwMCAwYEBwAAAAAAAAABAgMEAAURITEGEhMHIkFRYaEIMnGRFSMzRFJigf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHREAAgIDAQEBAAAAAAAAAAAAAAECAwQRIRIxFP/aAAwDAQACEQMRAD8AcRbtu77Vum27YFSmfbJwhOm1MMPTQPy231KCFHyJSCfbenLfbJD0GK9LhPwn3mkuKYeThbZI1B9QdKsXnR9ed9Ib8dzj71wiLdvzjmT7Uwi2/wBdfpUpmR4sFsOTXmmEk8qeorHMfAAbk+g1pSTdbNCiLkSpzTLSFdNSnEkcqiCQCCMg6Gg8vfEGOFY+nIRbj/E0VKbQ0xOhtyo0lEqO6ApDiAMexopLy9fRn4JFf9iHEvETd5jzuLb809ZjHdUpTzaEFtQwASsJH2z41n4l+0qKwqNabJPKllvqPPxXFAp17oCknY4qn08SyH27XBt7JgsxpKHEnrFYOp0V5jJrk9p1sciy7O+5IVIVJiJWtvTKFhRCk90nxz5eW4NTFWRKuxSl1lpPHhKDUVpHGe4lvy3m7hInSXHWlDoul5RW0fDlUTkfeno3H9ykFDPESpV3tCFJWqE5KUlKlpGEqyckeOQN6RtsyNFitJm2hctxGe648Q36ZAAOg03x6U5LuUGbETHVaGGEDH6IAVpp82/vTnlW7TT+C1VD5otjsp4iuEBEN8qtlusbZKn2lL6z7qVZKcFI7o+pA9KKry3cRsw2UMhpwsoAT0s4SQNvGisSybpNuXTSoqI8V85xpQpKctqWtRCE8qAokhI3wB4f5RRSTZgqCjgA17MxOttjP1oorgjbluhJt6nfxICYn9qWFZ3x8+22tFFFFMB//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">DEVIL IS A LIE
+                                    <div class="name">I Think I'm OKAY
 Explicit content</div>
-                                    <div class="artist">Tommy Richman</div>
+                                    <div class="artist">mgk, YUNGBLUD &amp; Travis Barker</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAII/8QAJBABAAEDBAEEAwAAAAAAAAAAAQACESEDEjFB8CJRccFhgrH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEBAQACAgMAAAAAAAAAAAAAAAECERITITFh/9oADAMBAAIRAxEAPwDysCtjLJSqlsiMnTqtVnhwzVtNhc/X388vFbpeOHKMUTWVAg6dFnPPn8nW2mk3hY7O4bV1/WOJZqt0FumFiNlZquNMvXSPF5fWmWp6C0z0u2oTkzL1pLZsPDzj8xVphfCdtLq7rmC/Madt4DelE+49GB256H7hrpL2S5i518RLiivGo/MSF3VK9sSmF9uYiIAiIgEkREA//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Seven Sins
+Explicit content</div>
+                                    <div class="artist">Ren</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1462,7 +1463,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2025, 12:04:25 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2025, 14:05:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
