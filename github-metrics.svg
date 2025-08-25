@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    563k added, 557k removed
+                                    568k added, 558k removed
                                 </div>
                             </section>
                             <section>
@@ -1469,32 +1469,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMCBQUBAAAAAAAAAAECAAMRBCExBRITIlFisRVScoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AGgCTgZJMp6bpTMoa4ke0Tw0BSom6wE42WWtPqVsp8XZQPWX8lNfCHjmX9FfpdWMdp/sW1HSmVS1JJP2mUtNqkd3FjDI4PAIjAYOgZWBU8b7RXekxqiKXh8kQQSDkEQlLrVIDi1RgnYwlE1q0mqceGKKw+lrbHGZg12FmQEJU3JJ2m+mWjzUuQM7rPTU+RGDAHG8HXuBYs03praKLCljlsY7d8jEpV6mixQK3X8cyZ03Su6CxnCA7hQufmUCorI3BP8AsVaWjuNtIU6vjwG/XzCLdXuDMKxueWhGwvBPI12Jw2IIzmNHVC2vsvBPuHMIQ2tBTO1apqlCpaCo9VOZ19c+D28+uIQmdUd2YmSSSSSSYQhNMP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EACoQAAICAQQBAwQCAwEAAAAAAAECAxEEAAUSITEGE0EHIlFhFFIyQoGR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEBAAMBAAMAAwAAAAAAAAAAAQACEQMEEiEFEzH/2gAMAwEAAhEDEQA/AMNdcWNzH7c7vGpXo9kUCBfya+7r/takbjtsn8aKXHEVqg9xgCeJ88A1UTZBPyTrvtwUsknNPchg9ssf6NQDAGhfdfjoXpxAwodmb2sHI96SMxqz8VjVGPX57B7830xJHjQFvmxt6NbNZlPZy48IQsxkN8B/kGP+o/51qyz8TMhY44WNsYcXPFvu5DqwfPQoX8aYMbFw5PUojkgBlfHKqXjKqzGjYqiOro/vTMMKGHYHSZZ5JQOHsmPmhQg/A8d3+DQrU2CkyzZwM3PfCkjSaKRTxFgcXApTZ6HVX+ho0wZ+Pjxz5McYXjk8FPtrVggkk9+brrrRrj0xjacLWNlh6qhXb96mzNvkfDYMyxxwrYjW2/YrxVHrU3Y9wGVtCtnb1Dj5RZqikXiVX4YMx4k3/rVgd6bPSPqSPAys5GcATqCjMpILXRuiPI+fFX8kHTpnY0OZl4s2dsmBnDMgSCGaXGWTkl0CLP2ksVFn+134qvyVofZb/I0/X2a5mTDdkwNsmy/5e6b7JiZaJ7qz+6r8jdBRfkVZsWK689ak7/6rnw8OKCLNhmkJIEqFGa/7gJ0CQfnvzrWsfYdnGXkX6P2l48RWaRZECh1BpiAbFqerBIsE0bGpOIybVFt+TibLh4kCySNzWBE4hemDEUx+6lo+L6JIB0/22ZoI7sw7HhidEOW0jy5MqsGcG2Fn5I+7u+x+NGrT6geoDvHqPlEC0ODH/Hj5DqlLE+PAtq6A6HjRpTyV3ZscvKp6A1/kUDvD5AmBYq7eO6ofr/zTiPqLlQI3OOWUuOx73AKxslqVQPPdG+xfnvRo0VAIjybPT7aeo/qvlK0SvgzuV+1iMr7SOiRRWhZAJryR3867SfUiPKhyFlxswo6ilOSCC/klm42wJAJHyRo0aahKBEI545+7OOZdiXHi7s9frRo0amR5ZCf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Used to You</div>
-                                    <div class="artist">Thisistoodifficult</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQgDBP/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwQFEQAGEhMhMQdBCCJCUXGBYaHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABEQIDEiFBE//aAAwDAQACEQMRAD8Ajti26k5A6ZJ/kao+3PTg1rJ00AzgliRgaztsinWZFnB/AGdW7Y1NSR03COnkIPzc5FGf61gmG3p3a1ZaZamBKoBcwsy8jyzjt5OcHH41M9/enclHXOEiBTGewwdMNyrpqv4gEoaGmIua1SU0dZPIzGmhC5YRopC+Cx+bIy2Mfey7wtNPNS5kpnnYLjqcV5Z+5xjH60uOSysLbtL1S+nGdftjpoXAIONGqzu+0rTpLiNgPfIH+6NMQM/akNPI460xByDjONXrZ9FTtQCVJUfK/S3ga5f27d7osskMlohK8crIJey/7q2em96mpHcTUbyw54KyEYCnvkk/bStjTo87XbGPxN3WZI1VIbeKgs33aNEz/eqVvC4Cy2V6tBDMzSxwoskvBOo7hRybBwO+T29tJnWr33xctwWfbdXcOtQrb5KedkiVjHJnkrEkEEe2M/jS96zb0qrVLT0VXt+poYkqElWtp8Ym4jPFW4+xPfOcEeNLipS+7Z9HjfEJW879UXCGSYMqZkdSsbiRRxYqcNgch2840aUn3Db6y3Sh5JBUdaRyZD55MW8gYJ7/AMfjRo9kHBEprpc0IMVfOpHjDeNVI79ts22zbpaq5LOVQGoii4yZGCTkPg58EkeNGjWpbiqfUnqjDbqKOCxzXOjdZAzNxUhx9Q7nILdu/nWVet8Wu+ESXdry0yr8r08/Fg37YjH6/WjRocgRE0r5ZGqZzHNJ0mckZPcjPYnHk6NGjRDxR//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ten Thousand Feet</div>
-                                    <div class="artist">I See Stars</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQFBggHAQL/xAAxEAABBAECBQMBBgcAAAAAAAABAgMEEQUAIQYSEzFBBxRRIggVQmFxoSQyQ2KBkbH/xAAaAQABBQEAAAAAAAAAAAAAAAACAQMEBQYA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBIxQQUUgf/aAAwDAQACEQMRAD8Az1hXmJLKMdLx8ZwBfOmSgFDyf7SoGlJ/UEjwRq55bhdE6AtMWPHbkIbUshbykqCUjdSRvzADxV9tJcFYxmXiZ8RUZt6S8tKkK5vq2o1fjY/pepjivMyI/CS0xJMdL0Z32KVtCnVo5CFEqO6gUkA+LFjVdZaWtAU+JqqeMKeIxcZzGPsy4NGSz8+auQ6j2RaPSTXK5zc4+qxe1XsRrSHEPFELhzKYSDNjuqTknS17i0htntusk9rPjWTvRrifJ8PTp7eLTHV7vpoUl5rnClWaH8ySBudxepX1ex/EcrLSclnULeMltIi+3C+k02igpPKod63/ADN6st4mUwO00h6ruNxOA87KpNohuUa8lND9zo1xHK8W5x37Py2OJI6w/IcRHhvroKfYSpJ5lDvtVA1uP9k0oOIBGZz+Sv2i/eNxmi0kkBxC+mbI+Bv8/lr2SJE2CyBiHVGlFL/IpX0k2KoUfi99tOcScSjLQFR5mMYaUqlFUZPT6ZSSE7ebBN6neEuPujAj45vGRUJikKTbIdLqBYIKjuk0bvtY7aX6tJfJk1vleWawF9+tRr0Zw0JGZefyUVNR1IdcbfQQFpKXARR7Dye/bUuJcH1C4qnj7wRAioR0IjTbAWNgQOU+LAJuh/zXxk+JmsdNyOQTE6aXmGmWGNlJcCucpUSO347B31Q+CkNN5X+KL6ZaI7rjKm1lI6iUKKeWtz2/etEyKD1HiQjZYx7t5/JaeIeA1GCmAjLLah8xV0UtEpKh+Kiqga+AL86NSycsMnjIa31oRMkspVyJ78xAOw+LN9u2jQZA0J2zszl7kdrKY9ExLzEV2PyMyEKJ+oVSXBtvsKIu7386e4YTCenLhpCkNhPMlwpBU6q6F/AutvjvejRp6sAvgw7GK1Bl0Ytn8g+3FmNKZQA8pKSHW6NpCqVy3QO5F9tR0GZ7WRFb5hMQ27/UQQFpIG1XY3sXfxo0aZsYhoVSAruWPG5l2NmJzS7S31FJYb5zSVdTwTdAj/G2jRo032MkCtcT/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Twisted (Rock)
+                                    <div class="name">MollyPercs!
 Explicit content</div>
-                                    <div class="artist">NXCRE &amp; The Villains</div>
+                                    <div class="artist">DeeKay</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAoEAACAQMDAgYDAQAAAAAAAAABAgMABBEFEjETIQYiQVFhgRRxkUL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQFAP/EACMRAAIBBAEDBQAAAAAAAAAAAAECAAMREiEEEyIxUWGRoeH/2gAMAwEAAhEDEQA/APlldDF4kv5tOg08lIdPtkUSdMeeRQePuqrSLaC71KCC7uFtoHbzyn/Ixmruaw0s3uzS7pns3fpGS4YKuQpLHdjj65rVq4GytMqlmLssqtKsYNS1SGD8kQJI/mLrjYOTg8f3FT/FOm6VZShNHupZzGB1tzBgMnAwQOfiqqVT+Q0G9TAvcmPsrLznv3P3WibEReCLyxBydo9Txk+9EhiwIOoAVCkEbmqlKU2KmaoHU5Iz8+tS7jpsrqrDpkrtA4UDdn9CsNKS0e/iGoTNDagku6ruOAM4A+T2rfeRxyLi2ZmjeUBS3OO57/2p2Vi5sZdTrUggyS5HvMApyHwMysCf0O+Ps1EK7mBLLlj7+pqZHE9xFNNDC7x26kbgpIVSMDPt7/dV9FUqeMvqc9bjnfTPz+T1hgDuDn0zSvKU4AgbkjlCe0WEV2ELeHrfw3Db5a51S5HCsQUdhj9AAdqUqfksVAtHcZQxN5zsOp3dtZyWUM2LVpOoyADzMO3POKg0pVAUDfrJ2YnUUpSjBP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwQIAQID/8QAKhAAAQMDAwMEAgMBAAAAAAAAAQIDBAAFEQYSISIxQRMUUWEHFTJxgfD/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACIRAAIBBAICAwEAAAAAAAAAAAECAwAEESESMQUiEyNRQf/aAAwDAQACEQMRAD8A1807FW/JZVtBSVEY+8VsVojTVtd03KM5LTCNiXFOuKAGBnIHnIHPaqDsBRBX7t4b2FY3pHdPPenCXqCTfixZLNKuEgOrKUtuuAJ57DAHYdyo13Nsfp4hsb7rcswtoDgbNW1cdS6WY065Fh2j3iisbV7toWRwfvAHk4pPszVs1CmYu3bUORRtXHdSCoA+cjuM+fFLF4tX6O+Lt8O6onpdYQpx2OclKgB6iQSMcEHkZ4xXfSLciw3hct4spZmMlhRdzhIKh14xjjHzimYUwOUQO/01K8LPLDdZfBBNQevLGqAl5HphJbUFKOecHtx/3FFZuv5bUy4sw4Egzdx3yHcg4CeACU8ePHGMUVKu8NIcVe8hAWnJhGqg7c0bhHEOOWkSSEKSlXSFgA5GfnPNXZpNcTTH49vVwjRpMOYmP6GXkN5U4vpyCE585zmtf7Q80AFyEqUAMjYepJ+jTNc9UJkMW2zNSHFMF1PuHHlq6R2+ccZz/lLQzKUw1OzRxvbuTpiMCvS0a0Xpe/tTW2gt5okJRnG5JAyFfX0RVr2fVOl/yqZdulR5FrnloyUtJd6Q72WUK28J/iog/wCVWP5ci2Wbq9yTan2n2HWkqWI6ChCFgbcDI54AOec5rN04zZLJo/3CYqXLq6FKW4pSulBOAn47AHH3RmkkkfmTjXdSvG2PC4Nsv82a41p+qtUiVEsJSGlsqS+pKiUqUFYCx8cHHHBP9UUjXy5qcW6oqTk8cDgDxiilGuQDs1VlmCNjqoSJPXBDyVAOBxO0H4+6wlv7sFPGKKKmfKy+g6qXK7NhSdDqpGPe5CFD3B9ZHkK7kf3U5Y9ThmBMYnbVNuDclOwHq8YPiiijpO/7W7Od7aQyR90tTpYlkhtBCAc9u1FFFLL9ns1DlcueTV//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Everlong</div>
-                                    <div class="artist">Foo Fighters</div>
+                                    <div class="name">SLAY!
+Explicit content</div>
+                                    <div class="artist">Eternxlkz</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAIEBQMBBgj/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMABBEFIRIxQWEGIlFxkbHB8BMUM6HR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAfEQADAAIBBQEAAAAAAAAAAAAAAQIDESEEEhMxQTL/2gAMAwEAAhEDEQA/APm+SEm5YKOInOO231osZyuMYKGrzSRRuJRxHYscjcch/tRee0aNAqOxHyB0+lL2YFb0uCnLAyRBiD5sqDj87VYhswLZ2yeJWXYDoRz+2K83N9BJMzJCykbAFsjOPw1YtJHuY5AbdlRyCXQHbA+MdaLJVUp5JOuZWBBULjBNK6XIMUTEKzqoXIPXalRiZTrlF0aKr21ws8iLPJ/GVbiUbgnJqNppVnHqkclzcB7VJAZEiOGZOoBxgH+qywpPF5GAqCvGtzCzTR/ok5cIpLLjpv1pSdV6BjjJT0qPdvF+heGrRrK40sXDfuUE5Rm8mCCPQFTnpy271k6Le2ulRXERghujMjIrS54lzzIwefvU7XV49NMdzf20iLJlVVtie/tWFd6kNS1Wa8VTHEzAKvoAKt46if1sb1GF194NgSxu/HGsYC4Yca5zvkAg7Y6UrIS4YBR5jsRy9x96UO9mN4q+B5WYbNy9MVXNrC7pm4wzNlsjYH53pSg6a9GvG+18FK4sJJZMiXiA239O1TtkuIF4Q3l7ClKs6bRby1S0zuWmHMKD7UpSgiJI/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">December (feat. Weepings)
+Explicit content</div>
+                                    <div class="artist">JOLLY WRLD &amp; Ekeon</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQEH/8QALxAAAgEDAwMCBAUFAAAAAAAAAQIDBAURABIhBjFBExQiMmFxBxVRkaEjgYKxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUA/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQUSUWFx/9oADAMBAAIRAxEAPwCCntpyyspDDwdN9J2hKi+J6qkxxKZMHtnxr2+xx9QXOjlr6uyUN7pqpVZJJzDngY88/wCtR3UaU9Ffqj21sW1uFAeBXDAAjvwSByfB0tnOfEsWoB+joE2LLTGiroqpM+ojHljn6dv01cdYubt0yJrY8lPdaSE1dHJGcSI68On/ADHnI1O9E2xrnQe8uFRBLE67YloyyYG3DBiTneDkZGPtpm0wx2NpaCjlknjo50kd55zNJluWBZjnO3xntqXSDspsQMJJ2T8crjb9qXgU1cgwDgbJP3HH7jRrG696Rt1Hc55DhZ2m3iROFmRs917BlPkcMOcA50auVlI2Z7IQZnrTyROm+R0gB3nY5x48aZvDw0wlmUMxcD1WVuQijJAJ84OP76wbhWNQSXKGaSWVaSdUG8ZPyjGf1GRnT1RJTVFkloFnX3zxk7XbDSN874+vJ0hzsuorOb9x+v66qltUVTbJhb1j/pinpztAz5Y+TpzoC4fm1srow8gczGdpAcncoVsknk5xj/LUJYqeCUTQ1QXZtZfjPBIHw6esU8lv9wVQxmpiMCSgfK3fj6calXNIm7fVtQKCWV3ukdz6Wqffg7o4S8eVyYyDjg9x9tGsmzs1wtSrWZjiqmaGM4HxllOT27A/zo11d/oPUxXL8Wb3D1DBknesIZR1JXfERFNL6oyp+38Y0jQvPCZNylw+CodclSOxz4OjRprjuBxDlYiVJI/5hU7VZlDjjadU81yE1klozTBZCMqwXgNnPbxxo0aW6jqV02HCP2chu9ZU2l6ZoyaqNkWP01xhcjsB9QNGjRokrXuBZyrFwAz/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Tainted Love</div>
+                                    <div class="artist">Ivan B</div>
                                 </div>
                             </div>
                         </div>
@@ -1503,7 +1505,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2025, 16:04:02 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2025, 18:04:19 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
