@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    184k added, 145k removed
+                                    604k added, 574k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.28k views in last two weeks
+                                    1.27k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1433,10 +1433,19 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYDBAUHCP/EACYQAAEEAgEDAwUAAAAAAAAAAAEAAgMRBAUGEjFBE1FxB0KRobH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EACIRAAMAAQMDBQAAAAAAAAAAAAABAgMEESESMUETUWFxkf/aAAwDAQACEQMRAD8A9UeESlI73lkmo5TNr5MYS4rNYc1pZfqPl9TpDB4oj9ouXsPDfsVyUur8P6g7bHeJt5g4MWK8hpGNI57oLNAuJADhZFkV7i1T8C5Bmb/Dml2EEMEjCKbFdUb9/hRVTLUpp/XJqyaLNinrtbLuVSIikyhR3IeNnYcsxNi+dkcAxX47x93ckEHt3I/CsFobHFmyJIzG6P02g213krlxN8UT1NJpeU1+kk3h+OxpZsHidrjbWsBAdRHceBdLn+L6oaqJ8Qc1xLGA9I8gG/6tzL1jcuCOOSaZvSeq2vIdfyKNLPgYGPgteMdhaXnqeS4kuPubKpw6TFgbcdy16nLUenVbr5NtERaCkIiIAiIgCIiA/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQBAwUGAgf/xAApEAACAQMDAgUFAQAAAAAAAAABAgMABBEFEiExUQYTIkGRFDJxgaHh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgMBBQD/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIRAxIhMVH/2gAMAwEAAhEDEQA/AMGLSJprZJoxGYz0G7nisjUbYyiFI1DSGQABRk5wa27izXTbiGFJZpRcAFDFgBhxyc/mkrhEkvYI7FpXuTcbF80bcsP9rnAjOnVOR6zJtbG8vL9bSGFfOZ/KG7I9XsDxxzX0DVPBOk6Z4em0+eY3OuOA+7dsjU5GQvPb3PWuTJki1G/E5jW4aVtygYQNk8A+wrL0+6ay1IvA7C1mQNKhJYRknGfkd6tXEkOSrRxjGp6XLY8vLC+3A9D5Ioqb69MW6Ke3QxK+4lE29Rnvzjr+6KLX5ML/AGdubXfZWUYW4RIkwpgVEBU4I6nGOB7VXaaIJZ0vbaeGOa1nFwsVwMb1U5ZiwOOhzg9aq1DUTBDp24ZQ265YD7QOMkfjmkbk3Q0C3v7icJ5k0qqqYy8ewHd14IJ6HriiX30R12joxnxPoT3Elxfw3MDS30pZYSpX0kcNknGeOlc5pug3kcsTTRpEIvuZZV9Xboe/etC0mNzoGozrdL9TbtBwV425YM3yR09qSe7uYkdJnO9VUl34VR3/ALSLMzke7rLtYsY2mjjmeVXkw7ISuCMEZJHfGKKsvdTMd3b5YHbbqMjjcPainXUkLGMiSSSUxfVRXB8pBHGNp27R03cdfmpubk3EKQTyxNEjblRnUc/PP7oootA9Sndnh2uYYWKyBIpBhhuG1x2PODSc0U9xGX8kSqBxgA8UUUQnt2JvMs5V5pYImRdhjkJDnHYAEf2iiirVPElZ8z//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Intuit</div>
-                                    <div class="artist">Disphing</div>
+                                    <div class="name">BMXXing
+Explicit content</div>
+                                    <div class="artist">mgk</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC4QAAIBAwMDAwMDBQEAAAAAAAECAwQFEQASIQYTMQcUQSJRcSMygSVCUmGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAyESUQQiMUH/2gAMAwEAAhEDEQA/AJSGhvcVgqZrLChNxkZxIkZEwTPDA8+UA4YfjVp6MvbdR2esorhGKO70pFNURoPnHDqCOVP4+MaLTdpqm10Vyp4JRDUsxETnayRYJBx99oHHxnUddbdUXT2l66dH9Ttu2fs4P6sTctDgEfVgZGT5/OsXsSVbG8PT0dlvFbR0cky060TVFPT5CRySsTuOBxkELkAf3axn1HvMFfU2WopbjVSUhhQSwSfp7JMkghcDjB/cBjzzrd+pLxSVEPTHUdG5Wl92YZWIwUV1IZGHwQ4UEHkEayz1G3y9N9KVdRSoT2npoFQYd42TgZHHDEHVRIn0av1m7XK0ye3kEfZbhhg5zwDg8HkjgnBGjS90o46qGlaB0jp65/bzIwwsfO4sAfA+gjGMZ5++jU2GyMnv1sul5s1Haqx0apUydwAFWVVO5j/iDtYHPjOfjV8t1ZT0VKKqnlWricbz2QrF8klsHOCfz8DjJ1zT0TVVtpr6lfbI60sTQOkbqCykbiN/gjIYcHJzjB0jdfUqvpNiUIhoaB13pHGAHiceSfvz/wB0pR/EbY/bbLn1jLfLt1Nd5enF9tb65YmQzBRHLKmHHKN9DkgckAnwdQ9bYxeKy2yXCetpWjhQ9iXd9Eq8ssSkcnIb6T5GADrNY/UOojiaET1CRNu3dpypwfjPyPz40S+o11no44JKyarMeArTorFR9ucn+eNC5DePH2dV3CSCnmpKyeWJKeNmcSu/ajeLZIykseFx4OcYzo1z4vqC946eNsvrl6NYzEq78BQc+SBo0qYcF2KUEND05bqKSumkeiuhaaN2XaqdvI8Dnk4A8YA/3qqXTp2LqGa43aOq9pGsYm7TLv284IOOfseAfOjRqpyaVj8eKlPi/hQqykanYHJZD+19pXd+MjTYNgg4H86NGtIu0TNU9D6jqXz2nKmN127Scf8AvwdGjRoYI//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wait Up
+Explicit content</div>
+                                    <div class="artist">Ryan Hall &amp; Atlas in Motion</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1447,18 +1456,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAEDAwIEAwkBAAAAAAAAAAEAAgMEESEFEgZBUXETIpEUFSQxMjNhgbHB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQUE/8QAIREAAgIABQUAAAAAAAAAAAAAAAECEQMEEjFBEyEiUWH/2gAMAwEAAhEDEQA/AOJ8O6o+scYHxgbRcOBwB06q8LVz3RjJ7wp/Aa579w8rTYkLozm3C1ctiOce/ApoQBnCUG5CdgpZJC4xsLrAk26JbWAj55XTqJTCNiE/Gy1s4Qq1EoxdDw/7PqrJmSfCs8wN8noCrfUNYpKOQRySFzuYaL27rGvgaSPBndG3oCSkGia65dUWPUtKyY4rgvFD3G9jfwa7HHFup6xohIcH7X8iM39Emk1ihqPt1DMcneX+rBx0sLPqlD79x/icbHE1wsGEcyQUazXJWl7MsuINSqKqrfTiojbCyQ7Lc+5CFE8SCzuXZqEqWJKTsvpr2QGuNxlSIjkZbfshCB7EQ7JHG4X37Hfq3ooUl2ki4P5ahCXVhsbD7HJuhCEaQN/D/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQHAwYIAgX/xAAxEAABAgUCBAQDCQAAAAAAAAABAgMABAURIQYSBzFBYRMiUXEUFjIjJDNCUoGR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFBAv/aAAwDAQACEQMRAD8A5odk/h20BxbTi3d20tOhRRtJB3AevTPLMSBKoRL2Qkrd6qF7jtblESSlg8r8ZpoD9arRYej+EupdUMrmKcywmVQAQ67MbNxORYc+WciAq8N2njuRuCTfau+exsYutrS+lmqC1NzFIa+J8NKlbX3ACTfoFG0ZNHcE61L6ibXqejpXTWz5vviClw362N7dusbzxWplBp9HbRNqVTh9DTksjxACEmySnqP494x1OBT8xI0CapiHaOiiyVUadUXJebfe+0bCVG2bi2PUG/pCNIak2pmaUuozCmW7nzJRc8sY97QjSfMlEpcXtJSnBOetukX9w840Sem9KNSswwl+YY5t7dqljkAFDHIcyMDGYpJineA2084UqWrIT/sSq09KJkEtiWaQ+QPN+a/9QmXUNO4ty+stPVr5bkFoq8lLCZEnOEWdQPr2KSclIznsbRztxE1vUNXVQKfWsSrFyy3sAIHUm3M9zGmMzLqBdCiggEXSbG3UYiTSKqunT6JoMtPbUqSUODyqChYg/tBWqmBU0tzCySPeER3VhTqlJSEJKiQkHA7QhSQqpOlAFhuAtuOSPaIinCpRKiSfUwhEXndmBJhCJAVjkIQhEH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Intoxicated (feat. yung van)
-Explicit content</div>
-                                    <div class="artist">Ekeon</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcBAgP/xAAvEAABAwMEAQMCBAcAAAAAAAABAgMEAAURBhIhMRMHQXEUIiNRYbEyM0JigZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAeEQADAQACAgMAAAAAAAAAAAAAAQIRAyESMUFRYf/aAAwDAQACEQMRAD8AcW+73W5vCFBkiBEVI8DEjYFrR9u4JUD7d4Vj9DTW9swrLYnbpKuCpc119BZkHaHHUJUkqSQBhQ2pOcjqudUtpj6hjzUpWj8FPjJQSpKgonOD0M1TfUeK/M1C3s2JW9KWwlO7JG8AfsaRzi0vD8niRoV912/FaQ5bbe3OKoqZakiQBsT/AFZI446496jzNayXtNWGZCjFmVd5KWgdhc8KO1Kx7nHWePeqFB0o1cr1Ntk64yYzTLK0gttj7kowonCuRkDNMrBfZCIFpZbdV9O1uSVLG0OjcAeP87fmkTpe2WtRTcysw1300nuXK3vTLgtCixIW008U7PIkHgkYwD8fNFI9MzVuz58XYUsthCxgYTkgZxjiiqp9HJU4xH6n6hjWd+3odS4p1RPCfYEcd8dj5qq6qcXeNN27U1v87DouHgabXglasfx56zuGPivb122/XwtxTnagpGeT9ys/vTqfDSz6d6IZWgpZE2Kt3H9+ST/s0qbfTL3K4/Fr5Rm981NcF3dx+QpcWS2lTSg3wUnBSpJ+cnNWJ23SbZoe1PyfKytpt55La8ArQQkqAI55xwex+VLdeWtp3X17bU4lKF3BhvHA/mnKj8CtgvsRide4iZYAt0RtbbjDiSQ4OO8DBGMcZ9+qxr6Cbff6JfSGY7crLMlyVJJ83jQnsoTjPJ9+6Km+ncdu2Wp2KptphxbqnA2kgcfAOesUU0+iN+zrrPRdu1VcI7k5yW2603tT4doCgDnkkfrTV+wOXGxRrZcXUstR3G1tmP3hB+0c8dAUUUBpW7voefO1bLvzaoDLyZDbzDbhUoOBAx92Os8ex6p5Ptsp8OuLKQ8vaTxuSDtAPPZ6/LmiijNH4+e+KtkgPuN2cGUryAI3KI5A5KTjn2xuH/aKKK1JBzctXWs//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Usurper</div>
-                                    <div class="artist">NXCRE &amp; The Villains</div>
+                                    <div class="name">MILLION DOLLAR BABY</div>
+                                    <div class="artist">Tommy Richman</div>
                                 </div>
                             </div>
                         </div>
@@ -1467,7 +1468,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2025, 20:04:08 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 22:03:57 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
