@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    564k added, 560k removed
+                                    691k added, 620k removed
                                 </div>
                             </section>
                             <section>
@@ -1291,6 +1291,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1438,26 +1445,27 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQEH/8QALxAAAgEDAwMCBAUFAAAAAAAAAQIDBAURABIhBjFBExQiMmFxBxVRkaEjgYKxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUA/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQUSUWFx/9oADAMBAAIRAxEAPwCCntpyyspDDwdN9J2hKi+J6qkxxKZMHtnxr2+xx9QXOjlr6uyUN7pqpVZJJzDngY88/wCtR3UaU9Ffqj21sW1uFAeBXDAAjvwSByfB0tnOfEsWoB+joE2LLTGiroqpM+ojHljn6dv01cdYubt0yJrY8lPdaSE1dHJGcSI68On/ADHnI1O9E2xrnQe8uFRBLE67YloyyYG3DBiTneDkZGPtpm0wx2NpaCjlknjo50kd55zNJluWBZjnO3xntqXSDspsQMJJ2T8crjb9qXgU1cgwDgbJP3HH7jRrG696Rt1Hc55DhZ2m3iROFmRs917BlPkcMOcA50auVlI2Z7IQZnrTyROm+R0gB3nY5x48aZvDw0wlmUMxcD1WVuQijJAJ84OP76wbhWNQSXKGaSWVaSdUG8ZPyjGf1GRnT1RJTVFkloFnX3zxk7XbDSN874+vJ0hzsuorOb9x+v66qltUVTbJhb1j/pinpztAz5Y+TpzoC4fm1srow8gczGdpAcncoVsknk5xj/LUJYqeCUTQ1QXZtZfjPBIHw6esU8lv9wVQxmpiMCSgfK3fj6calXNIm7fVtQKCWV3ukdz6Wqffg7o4S8eVyYyDjg9x9tGsmzs1wtSrWZjiqmaGM4HxllOT27A/zo11d/oPUxXL8Wb3D1DBknesIZR1JXfERFNL6oyp+38Y0jQvPCZNylw+CodclSOxz4OjRprjuBxDlYiVJI/5hU7VZlDjjadU81yE1klozTBZCMqwXgNnPbxxo0aW6jqV02HCP2chu9ZU2l6ZoyaqNkWP01xhcjsB9QNGjRokrXuBZyrFwAz/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFCAIGAQME/8QALBAAAQMDAwMDBAIDAAAAAAAAAQIDBAAFEQYSIQcxQRMUYSIyUYEVI3GRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCsMCTJgTWJcJ1bElhYcacQcKQoHIIp2aGtd91Lply9Wu6PJvDrzqJKyshSlE53AjyeecYzWgaK0NeNXOvps0dtaI+31XHHAlKM5xnz4PYU/tDacuGj9MtqhhUx+C857pDSeXmycnaO5KDyPyM0EvomKu1adbs/8PPtEttwrU+2G3w+sjcFr+rcvOO+AQRjIpBaza1RE6kLuc6K8m5y3ypjawpr1eNoKcnIH+TVp7dd4N/tZettzaYdUnjJH0nzjPiq/wDUp+Pp/VkebKu38zcEKC0sg8DHKQccAZ8DGaBbdTWLnF1U9HvsxqXcG20eqW1bg2ojOzPkjPNFa/dJki4XGVMmLK5T7inHFEd1E5P/AGigYvS7WMvRsqZLZZTJiPJQ2/HJ27+cgg+CBmrA6O6n6SnNKKbgm3vrUVKYm/1kKPfCvtP+6QvSWzQLtfzDuvt1xFtFRaekejuWPtCT3Jz4HjNMtzploy3XL3dyuxRGS5v9o4+2gY77NxO4j57kUEv1GsOjL7CkSodzgRZrmVetFmoQlSvypGSkn5wCfzVatS2pq2zVMx7lFuQxy7HUSkfGSOf1mnjdpnTm031M2MliRIaSoNiMj+kg5wlSAkjIzjd3/fNQV61boBMiZIj6Y9y8+56h3NBKM5zwCr6e54Ax2HOKBKymVmIxIdCgtalJyR94GOfnvjPxRUpq27IvV3XLZjiLH2pbajpVlLSQMbU4AAHnAHc0UGSFq8AhVdweWTlWc0UUGLr5JwRyK8b7gKVZBz45oooOG4sNy2PyHbkhqUgnZFLSiXBx2UOB+/xRRRQf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Tainted Love</div>
-                                    <div class="artist">Ivan B</div>
+                                    <div class="name">the cake is a lie
+Explicit content</div>
+                                    <div class="artist">ericdoa</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAIEBQMBBgj/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMABBEFIRIxQWEGIlFxkbHB8BMUM6HR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAfEQADAAIBBQEAAAAAAAAAAAAAAQIDESEEEhMxQTL/2gAMAwEAAhEDEQA/APm+SEm5YKOInOO231osZyuMYKGrzSRRuJRxHYscjcch/tRee0aNAqOxHyB0+lL2YFb0uCnLAyRBiD5sqDj87VYhswLZ2yeJWXYDoRz+2K83N9BJMzJCykbAFsjOPw1YtJHuY5AbdlRyCXQHbA+MdaLJVUp5JOuZWBBULjBNK6XIMUTEKzqoXIPXalRiZTrlF0aKr21ws8iLPJ/GVbiUbgnJqNppVnHqkclzcB7VJAZEiOGZOoBxgH+qywpPF5GAqCvGtzCzTR/ok5cIpLLjpv1pSdV6BjjJT0qPdvF+heGrRrK40sXDfuUE5Rm8mCCPQFTnpy271k6Le2ulRXERghujMjIrS54lzzIwefvU7XV49NMdzf20iLJlVVtie/tWFd6kNS1Wa8VTHEzAKvoAKt46if1sb1GF194NgSxu/HGsYC4Yca5zvkAg7Y6UrIS4YBR5jsRy9x96UO9mN4q+B5WYbNy9MVXNrC7pm4wzNlsjYH53pSg6a9GvG+18FK4sJJZMiXiA239O1TtkuIF4Q3l7ClKs6bRby1S0zuWmHMKD7UpSgiJI/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAYHBQMECP/EAC4QAAEDAwMDAwMDBQAAAAAAAAECAwQABREGEiEHMYETIkEUUWEjMnFCgpGh8P/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAEABf/EACQRAAIDAAADCQAAAAAAAAAAAAECAAMREiExBAUUIjJRUmFx/9oADAMBAAIRAxEAPwCMS41yQgR0NPsttpPdsgLGfx2NaOlE3GJNI+jfeQ7jPtO3/dWp/T1wLe6RBLKP6vqihgJP95GR+a4TBtsdstPXyzMOn2gNyPWUk/wgK5rzxfY3ILKW7voAwvE+axDTpV4SmXojzDrn0sdCkrCsgHKgT91ntznvmk1c5SFB1LhKVsJUSncC5gYAPHI9ue/ml9u1XBWsW7N68vDs8tJeIOVkLxvAJAJ8+asdp6c3GHNXLtkSbEKR6ampLBWSMcZCCsYx8VRjKPeSt2dPSOX7JDJlLkhLYUQ3x+n3P2xn7UVa51kvCk+g9HhDYdxC4q0cn55bGKKHjb4zfDgdGEe7z01sMSyPS4Mf1p4J2quBU6VHODhJIyc8gfPmtXp5EC58tkRLeymKktrLMEN5c4wUKIz8KyDyOK0+oN+0M1FSjU0uO+GFb0tod9wPGeQQPjtnNIFq6k6ZhXFNxtGl72m3N53zGg4pHOR+zsRyew4qzGIitrU/cX4THrdYEacWHtqJ646n239qsNsB3eE7SBncOM96u7Gn5CJDTgvdyJRgqSsNEOAfCvZnH8EGpHpa86cuXW6ZqBq+xEwsLcQ0s4HqqYaayFHgn2q/7NX1h+NIAXHkMupPYoWFA/4NBkqsva4652dQwUh1bg3b1JCTzxgZxx5orTI780V2xWTzVo3QUV67KSq3O3J9O4/XXAuLHB+ApAQPBPmqvC0s0y6EuzkJlrR7WhgYH4HyKKK0k7ErWubFfVnTK13MLVOtbLylZ/Xjj03POO/nNQyHZNU3CWiDbYxhWyDvDTUxZQVnPdRHu3nxj8UUVoMF/JyEqekeousre/Fsly0w+4lpsNoWk70bRwMuk9vySTRRRQu+HpH1JxLuz//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">December (feat. Weepings)
+                                    <div class="name">my ex's best friend
 Explicit content</div>
-                                    <div class="artist">JOLLY WRLD &amp; Ekeon</div>
+                                    <div class="artist">mgk &amp; blackbear</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAII/8QAJBABAAEDBAEEAwAAAAAAAAAAAQACESEDEjFB8CJRccFhgrH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEBAQACAgMAAAAAAAAAAAAAAAECERITITFh/9oADAMBAAIRAxEAPwDysCtjLJSqlsiMnTqtVnhwzVtNhc/X388vFbpeOHKMUTWVAg6dFnPPn8nW2mk3hY7O4bV1/WOJZqt0FumFiNlZquNMvXSPF5fWmWp6C0z0u2oTkzL1pLZsPDzj8xVphfCdtLq7rmC/Madt4DelE+49GB256H7hrpL2S5i518RLiivGo/MSF3VK9sSmF9uYiIAiIgEkREA//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwQIAQID/8QAKhAAAQMDAwMEAgMBAAAAAAAAAQIDBAAFEQYSISIxQRMUUWEHFTJxgfD/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACIRAAIBBAICAwEAAAAAAAAAAAECAwAEESESMQUiEyNRQf/aAAwDAQACEQMRAD8A1807FW/JZVtBSVEY+8VsVojTVtd03KM5LTCNiXFOuKAGBnIHnIHPaqDsBRBX7t4b2FY3pHdPPenCXqCTfixZLNKuEgOrKUtuuAJ57DAHYdyo13Nsfp4hsb7rcswtoDgbNW1cdS6WY065Fh2j3iisbV7toWRwfvAHk4pPszVs1CmYu3bUORRtXHdSCoA+cjuM+fFLF4tX6O+Lt8O6onpdYQpx2OclKgB6iQSMcEHkZ4xXfSLciw3hct4spZmMlhRdzhIKh14xjjHzimYUwOUQO/01K8LPLDdZfBBNQevLGqAl5HphJbUFKOecHtx/3FFZuv5bUy4sw4Egzdx3yHcg4CeACU8ePHGMUVKu8NIcVe8hAWnJhGqg7c0bhHEOOWkSSEKSlXSFgA5GfnPNXZpNcTTH49vVwjRpMOYmP6GXkN5U4vpyCE585zmtf7Q80AFyEqUAMjYepJ+jTNc9UJkMW2zNSHFMF1PuHHlq6R2+ccZz/lLQzKUw1OzRxvbuTpiMCvS0a0Xpe/tTW2gt5okJRnG5JAyFfX0RVr2fVOl/yqZdulR5FrnloyUtJd6Q72WUK28J/iog/wCVWP5ci2Wbq9yTan2n2HWkqWI6ChCFgbcDI54AOec5rN04zZLJo/3CYqXLq6FKW4pSulBOAn47AHH3RmkkkfmTjXdSvG2PC4Nsv82a41p+qtUiVEsJSGlsqS+pKiUqUFYCx8cHHHBP9UUjXy5qcW6oqTk8cDgDxiilGuQDs1VlmCNjqoSJPXBDyVAOBxO0H4+6wlv7sFPGKKKmfKy+g6qXK7NhSdDqpGPe5CFD3B9ZHkK7kf3U5Y9ThmBMYnbVNuDclOwHq8YPiiijpO/7W7Od7aQyR90tTpYlkhtBCAc9u1FFFLL9ns1DlcueTV//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Seven Sins
+                                    <div class="name">SLAY!
 Explicit content</div>
-                                    <div class="artist">Ren</div>
+                                    <div class="artist">Eternxlkz</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1473,7 +1481,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2025, 00:03:27 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 02:14:05 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
