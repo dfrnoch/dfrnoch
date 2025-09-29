@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    49.6k added, 36.2k removed
+                                    604k added, 585k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.65k views in last two weeks
+                                    1.64k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1469,34 +1469,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACoQAAIBAgQGAQUBAQAAAAAAAAECAwQRAAUSIQYTMUFhcVEiIzKBoRQk/8QAGwEAAQQDAAAAAAAAAAAAAAAABQACAwYBBAf/xAAkEQACAgIBAwQDAAAAAAAAAAABAgMRAAQFEiFBExQxUaGx0f/aAAwDAQACEQMRAD8AmlrqSE/9M7RekLee2OTmmXcyCNamUyzG0cYgbW3ofrGX4ln5UpJ3AUn+HGtpXoaeaunqoYoZQEkmmYXRV07KCdwe9tjfzi57ExiKgeRnNvZoNczGybqhjSLLZZE1cwJ8K1rn9A4UVmYU1E8S1n+yESEhXemYITf5wrr+NREy1NFlMZvsHcAM/W3bYeO+LSZ9T8R5ZUsk00dREoaanClulugA3322/eBr8owsKbP1jF46eNgdlSFP4/eW6TMKOqLCmmkZl6h4yve218GFENNJl2fTU0u+qBJEbTbWp777+PBwYJwyNIgZh3OQzwqr1GbGLeIQsWawGYfbsC23v5wx4rqpJMvnblSR3lVXj1A6R1HTYb9hYeL4i44o052gsCdAH9OJqqqhNXUUUMTyTsw1QsvLFiASy7AkXvZrdeuIOQhMhUDyD3wzqSVrq9XRHbPNs+mzKqqUlUTNAFURlR9Abqb+feNNwVQ18vENPXJVpHRUv3pRHcXW5+k9N7/P9w6bLKQRyxwV0kVHKpMi6A67AfVq6jY+/jHeUk5TFIMmoXqaWoYMec6rZl/IAHci1uu2+A7a5QL6vbp8/eE5+SbajZIVtmHkf3HedMs+dZY4dpHkpHcuRYlS4I27dTgwuyVK6uz2aszCEwxOjJCTKH6MCV+dr+t7dsGD2v0tGCDeVLZDazCJvkDNLmXDUeaVayvIQALFbbHr8YrNwBRsY25ra4/wbW919G+2DBhPM/xeCBv7CDpVqGMU4Y0TiVZxqC6bWNj7F9z5xQr+A6OvqedVyu7kaTZ3At61ecGDGvfVdjGx8jsq1q9ZNl/CNDlUzTUoOthpYlmNx17k4MGDE8bkL2zMm1NI3U7EnP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQEH/8QALxAAAgEDAwMCBAUFAAAAAAAAAQIDBAURABIhBjFBExQiMmFxBxVRkaEjgYKxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUA/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQUSUWFx/9oADAMBAAIRAxEAPwCCntpyyspDDwdN9J2hKi+J6qkxxKZMHtnxr2+xx9QXOjlr6uyUN7pqpVZJJzDngY88/wCtR3UaU9Ffqj21sW1uFAeBXDAAjvwSByfB0tnOfEsWoB+joE2LLTGiroqpM+ojHljn6dv01cdYubt0yJrY8lPdaSE1dHJGcSI68On/ADHnI1O9E2xrnQe8uFRBLE67YloyyYG3DBiTneDkZGPtpm0wx2NpaCjlknjo50kd55zNJluWBZjnO3xntqXSDspsQMJJ2T8crjb9qXgU1cgwDgbJP3HH7jRrG696Rt1Hc55DhZ2m3iROFmRs917BlPkcMOcA50auVlI2Z7IQZnrTyROm+R0gB3nY5x48aZvDw0wlmUMxcD1WVuQijJAJ84OP76wbhWNQSXKGaSWVaSdUG8ZPyjGf1GRnT1RJTVFkloFnX3zxk7XbDSN874+vJ0hzsuorOb9x+v66qltUVTbJhb1j/pinpztAz5Y+TpzoC4fm1srow8gczGdpAcncoVsknk5xj/LUJYqeCUTQ1QXZtZfjPBIHw6esU8lv9wVQxmpiMCSgfK3fj6calXNIm7fVtQKCWV3ukdz6Wqffg7o4S8eVyYyDjg9x9tGsmzs1wtSrWZjiqmaGM4HxllOT27A/zo11d/oPUxXL8Wb3D1DBknesIZR1JXfERFNL6oyp+38Y0jQvPCZNylw+CodclSOxz4OjRprjuBxDlYiVJI/5hU7VZlDjjadU81yE1klozTBZCMqwXgNnPbxxo0aW6jqV02HCP2chu9ZU2l6ZoyaqNkWP01xhcjsB9QNGjRokrXuBZyrFwAz/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">HOW 2 GET AWAY WITH MURDER</div>
-                                    <div class="artist">South Arcade</div>
+                                    <div class="name">Tainted Love</div>
+                                    <div class="artist">Ivan B</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAUGBwgE/8QAKxAAAQIFAwMDBAMAAAAAAAAAAQIDAAQFBhEHEiETMVEiQXEIMlJhYnKB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAgD/xAAkEQACAgEEAQQDAAAAAAAAAAABAgADEQQhMUETIiMkYVFx0f/aAAwDAQACEQMRAD8A6phCKve94061KauZnXRuGAlCfUSTkDgHzGGcLzCqljgSz9oRRdLr2N500zKpdTKgAeW1JHJUPf4iz3HU26PRJyedICWGlOc/oZjWo+OCX2xM1kWHCnPUk4Rgek97V2770qiy64aU0682hJcVjggp4Jx2MIf4CACxxkZktuqCOUUZxN0qBdEjMGXyXtitnzjiOOb1dnXNVCm/MppnUX0Q5jGOp6fs57+Y7Pio35ZFNu6mrl5xvDnBStJ2kEZI5A8mJkY1XLcBnHX8+5aQHraonGe5J2mimt0dhNG2iUwdmM4xk+ee+YyP6m7oXKUNqjSJ3TE6ssLQOPStCh7jHf8AcXTTS0l2LQFNTk2HNoAKitRA9Svy/tGEyHV1L1nTNlKzKyK2l/xOxeD2yPeGPWuq1i1A5Uepv1+ImpjpaGsYbrsPs9TZ9ArXTb9mSri04emkIfV8ltOfc+IRpMhLplZNlhAAShISPgCENvs8thaL0tfjrAbk7memEIQmUSHuqmO1eiTMkw6ppxwABSVbSOQe/wDkU/S3TWVspLzhWXpp1Sipa9pOCoHuAIQjqvbLFeW5gcB1CNwDmaRCEI6Gf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFB//EACgQAAEDBAAFAwUAAAAAAAAAAAEAAhEDEiExBCJBUWEFE3EVM4GR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+UdrR/EMXZOUOYk58FXr0HlRQfoLERbjmVHUyShw2CQPhAdoXFEMzjMakogGQduj4XXwlGhUosNSsxpFYB4e6JZA1jcyuRotJ3brSF1rcaQe23h/STVBdXdaWtFtxw7BcZjUGI7ytPD/AE6o6mHsDCabi4+4cODoAz4zsLyiOaRPc4V7kTKDPiGtZxVX2nl1IONro2Jxvwi1fcYNycBEFG7SMgDEoOVoDiY3+ERAJyARg+VQLSdxpEQRxIaS3UIiIP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">incentive
-Explicit content</div>
-                                    <div class="artist">Disphing</div>
+                                    <div class="name">Chains</div>
+                                    <div class="artist">Alex Yarmak</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAtEAABAwIEBAUEAwAAAAAAAAABAAIEAxEFEiExBiJBURMWUoGRFTNCYbHC8P/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBQQB/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECAxEEFDFR/9oADAMBAAIRAxEAPwDYqkIdk3dB12U+5lxtokywLTnyDNrBlFn15VDizD8NZRpmLIpl2YghxIDi6x25bN0t+SmHQLdFITcGiy8UiT33bXjG7XMABO+hdvl122PVPjTaknyPvWHWH4iBbB/SFPCmP8EK/YRPrsz+TBpvksqnHMT5e8h9/Y5tPhSDplLIG/U8R0FvvrJK/Ertecpq/iR/rKzlKO96M1CfSbJcC3G8RZY31rOP8OCRlRXV8uXiDE22Ftarj/ZZj5lf0eV3zK/1lIspoh60i7T+H5FVpd5gkPb18Q1HG3s9CpEniupRi1XMqAVMpy379EI7wyl8bLnTS11IoVXEXd9E2dPdc8x+UIXOmx+IRfiBD2jNqetzt27L02c5xsHaoQri2jxyharIcW+FUuDobO0QhCO6bfWJKSXEf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBgEDBwT/xAAsEAACAgEEAQMCBQUAAAAAAAABAgMRBAAFEiExBhNRIkEHJDJCcRQVI3OR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQQFAwAC/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAwQREiEFQRQiMZHw/9oADAMBAAIRAxEAPwBQ24Qvt0UUWPjuuU57SYxqWU2b5L4JAHx3/OluflvLnCSTHKDIuP8AxTlUBDuSrMosG2PX8aR77kl5ZWM6pLE3t/TGQvGh4JHjr4HzpJFus2OYoRLZLgoHTl2fuD1Xepoo32I58nvifUsWNO+Pt6CbDEmJjvzhEgBFnoqTd1ZvxrO5rNk4yR8RjyvXtLyACJdigouqFUez570oiy8hi2K8y+0p5NEv6eX3Pz/3TCVM7E3JYc4sLRJIz39KG6BAHx8DXhk0d+4yrch3+J7sSKGHEDwYZzHenmjVkIQgAE0DY8eDWjW19yDxwY74jyTQg1asFlB66Io/FaNZcSeyP79zTko63K6sP5vbJMNJJ2yoiwxyPcLVyUg9UewftqO2ynE2zdW3TbTlRvhqEfkt4xkce24B/dS9Ad0b8afbBJJsc0kkCpNIYfYUy2TH9Ya1ojvqu+jZsHUfWPqCPL2/GE2NFjmGZp+MLU88hVVXk1XSgOaHguaI1SR0J1JNmPYi8pt9A+pMabfNtm3va1yJ05MmTHGSzcQaAUfTyseeuu9dH/Fb1TgZXpafHZXx86WZGiQ9NQYEkMPJA66P31yFN1yMr32w8WLG2yNqEcZYrPMxLLfLryC11YCkA96rTSyyQGBTL7SL7xHIsAT5fvx511mON/XqGrIYDTDcef3ITL3k5PMqWuSQtT18k350ar6FujyP86NEULCb2nSzseSWC/1URlP7Atgn/Z+nUsf0rOvM5mLjS+7KjMzOG+lQx4jvwSVPRF1o0aTNhQgrL64ldqlX7mzO2nNypMIvh40S48cjTBGUJPKUoPxBom+dWKpvGojFH5jIiw1TLcCL6TH9Clw1qKIPEIFogAg6NGg2XYIafFY7a2DK56j23P3Ld8jPeJAJSFWyilgoC9haAPV0Oh9utGjRorlPqLv4+pTobn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Had Some Help (feat. Morgan Wallen)
+                                    <div class="name">1984
 Explicit content</div>
-                                    <div class="artist">Post Malone</div>
+                                    <div class="artist">glaive</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUGBAECBwP/xAAuEAABAwIFAgUDBQEAAAAAAAABAgMEBREABhIhMRNBFCIyUYEjYXEHFTORoWL/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUAA//EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMRBBITIQUxUYEUIkH/2gAMAwEAAhEDEQA/AO2fatWejTaGp2IJTjeupIjEBLhNipJuLpH4uTe/tiVYy61UqigSo8OnoWSUojp9Q3JI1G6vk/1jjLcGfVZzM+ZIefdWrqLW4Dde2xv3GGVVhwPHvS6gyh0tlMeOw4uwbSEk6r3FidJvybm3fC/yzjDbjoUqJZum3KTKqfCmKaqVFqCG21nUAkXKAebkW/rb74ZSYeWKnFW9RG5SpDagVxnhoKUfF73O1wdrffFg/FhSMussyUyC2hegMGQ5pJvqsd7qAvwfxhJSqZTxXGJ0NsI+qWnW2l+tJSkna5HBHzccjHNvU5ncuNUs/EaOGfq+OTXImW80tP1B+VDp/SW42AgG5uCUL0jzC47bXsRa+DGXMsCNHVrcOpAClJR6RpNtVve4ODDD2x5tSkH0tDuQt0FwT6lvopzs4xEJQ54da2bJSpJSUga0kW7b9xirXkR1qgIlZdnDxDqEKWHhrS7cAn/Sd+RiEyTXHMuTW4E9gvQ3EdWK66mxShQ2uL7jfcdvxj0Y1Z7LFOhvQJESZR5bn046nrLZNtWlKu/HpO4xIka5jtJTb6PLTykEmnZgXSU0pvKpEkLCup1h0h57lWr1Y2KyLIk0RU3MU8IfZQsobYGlDWkEj/QPucO3P1GSH0AUGpKKvIFJW2UXtq9Wriw5xkTOmZtgTHJz0Wn0iI6AtkPAl421edYOw+2xOOYsdkLvuvPatPkz4rIW2yp92OUqXc7JCfURwn3JPwMGNmb3P3KY5BSfDxXmfEPOR0glaLDSokcI7BPJO2DDDJNAomkRgbv2HPulEUOrxJrLdOqTokthsOav41oWRv0yeVdtPCu2LOhVGTCbeTCVFq8Y/wDYYfa4B8p72Hyd8GDDmSwCNz/CGKBO4Rv8e0wGYtNf6q6VVUQuj0w2HEnfni+nna/NsLa9UJ9VYbQ8uPSYIIClF0OOu7m1wNvbYnkXwYMTi7TRAVTH6dE8kus0oqsVyLHgSINHfXFaU0fqA61yVX0kKUD5Ra+3A+cGDBinHE3TZ5UbImeX0DQHhf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAArEAACAQQBAwMCBwEAAAAAAAABAgMABAURIQYSQQcTYRQxFSIjMjOxwdH/xAAZAQEBAQADAAAAAAAAAAAAAAAFBAECAwb/xAAlEQACAgEEAgAHAAAAAAAAAAABAwACBAUREyESMRQiI0FxgaH/2gAMAwEAAhEDEQA/AOusMwuGxjOXHukHtXyTVEZPLXGSuWeZySTwKn3rRYXcORhunlDW0i9qDf7SPvx/tV1huz8Sg9wbXu5rzeh4q1Y3OOyY3qTrsfw+hFIYpFQM2xv4p4sna4lUIgUDgjxU8uumoLnFJdQJplQd2j51TZjcG9vIpeM8/FbfVFMqT6MvVpDFWHe4npsYj7SBid0U529ufq0XgDdFBXf3HFp2rtJf1X03b9QdOpBcbV4lDxuByDqs+5DGzYLKRmcMY1f8p88VqyJFS1TvA12iqk9W8fbXFszwa+oDd2qzQ9Qupnw9u6n+QTPxgwctR8wi/pvkYLq1v7cygwP/AB78n/nippf4pY7RJUXkL4qi+hc6tiy2M36R94OJB9wN8g/Gq0NhHOR6cnuBv2tkRk+VH2qvOxDV1q7fiKYeXViK3B79ESFY+1MmSTg63RT909bCTIjjYBoo5SLOHkJYx4SfGNXVvWaQEW1mrMwXxVd32TOQDNIWaTfPPFFFKYOKuqxcDuCOueXw+0V6fwNleZWN722VkLD4/qtD21tDadKtHAgREj0APA1RRXPkte9vI+hKWLqutBQbbmRrotQ9yzcHmiiiuvTwOL9zc0/Vn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">antidepressants
+                                    <div class="name">IN THE FLESH
 Explicit content</div>
-                                    <div class="artist">bbno$</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                         </div>
@@ -1505,7 +1504,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2025, 02:13:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2025, 04:30:59 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
