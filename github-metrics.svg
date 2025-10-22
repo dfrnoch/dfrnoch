@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    592k added, 572k removed
+                                    39.1k added, 35.7k removed
                                 </div>
                             </section>
                             <section>
@@ -1479,32 +1479,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQj/xAApEAABAwMEAQMEAwAAAAAAAAABAgMEAAURBhIhMUEHE1EUFSJxMmGB/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMSEyFBUf/aAAwDAQACEQMRAD8ArXpl6fzNXel1rTBbYaLt0eLsh7ACEhCEp57PJPA7NN9QfbYWjmLPHdjiSjDUp0I53Nuvnj97wc/AFaZ6bXWVqGx6IekxY8CKXn5bcaI37bSW0OqCQAO/4dnJNVm3+nzF+tRuU65xYLXuK35Bcc5UT/EfOfNMo2Uvo88XIpS4UpIUPnFJ2qxXO9TG2bVb5MtxSgkJZaKuf8FapqiNpnTbDqbVbFT5ecfUXAnGc+G0kAf6TVFl6x1FIZ+kauD0aGFBX08TDLYwcg7U4FM40I2MpmjrwxeZdueYablx2lPutl1OUJCgn8sHg5I4PPNFM4lymw7lKmxHFl1wKCnO87vJ+Tnn980UgBKLfLvGbaRGuk9ptlO1tLchaQgZzhIB4GTniui9XdkKQ3dJ6ASCQJCwCfHmp+Fp/wB2Ay6WVj3BuG4YUMHHIx/VJv6fU4fyykFXJx14oWGiC996S0p6XcH1qHKgVKUrvHk0pbYL9xeLMNLxBQpSlOKwnABPirfpu0WxnSMyVMjqkSXln2ytYCEBCikEDycnncf0KdStPXKLYI89MZaJEl9TTDaUggp258HvjrHXeKpq/TBlZtDJvlhL9huanLi02pyRGPCRhO7GfBxnGe8fNFV8v3K2Q2hEeejJQFby0opKgrvOO+PnxRSuLXgU0boLfbm77NP3mGtiWy24nfIbUApPCgOfxVwk94NQeolRYEVTUEQXXnvwS+5ITsaJPe1KiSf66oopnFUUorOjLhEahtRbipCXYzqlNrwCF5VkjGcE8kA9jqt59MtQ6NudrnNuO28Oxm/bebcY9hWwA5UUk4V2fyHPiiinzLbHFkcbpsyfU+lrcVyW2X0qjJ3OoTvGT2UhR88UUUV0uOPw1N2f/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYDBAUHCP/EACcQAAEEAgEEAQQDAAAAAAAAAAEAAgMRBAUGEhMxQVEHISJxQqGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAiEQADAAEDAwUAAAAAAAAAAAAAAQIDBBEhEhNRMUFhcZH/2gAMAwEAAhEDEQA/APVHpEpSO95ZJqOUza+TGEuKzWHNaWX3Hy9zpDB6oj+0XL2Hs34K5K+y6vw/qDtsd4m3mDgxYr3BpGNI57oLNAuJADhZFkV8i1T8C5Bm7/Dml2EEMMjCPxiuqN/P6UVUy1Kaf1yasmjzYp67WyKpERSZR7UdyHjZ2HLMTYvnZHAMV+O8fy8kgg+PJHn4VgtDY4s2RJGY3R9toNtd7K5qJvih1NJrymv0km8Px2NLNg/vhxtrWAgOojyPQulz/F9UNVE+IOY4ljAekewDf+rcy9Y3Lgjjkmmb0nqtryHX+xRpZ8DBgwWvGOwtLz1PJcSXH5NlU4dJiwNuPUuepy1Hbqt18m2iItBSEREAREQBERAf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">paranoia</div>
-                                    <div class="artist">KENTENSHI</div>
+                                    <div class="name">Intuit</div>
+                                    <div class="artist">Disphing</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYC/8QALhAAAQMDAwMEAAUFAAAAAAAAAQIDBAAFEQYSIQcTQQgUIjEyUWGEwxYjRnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQARAiExcf/aAAwDAQACEQMRAD8Ap195uOyp19xDbSBlS1nASP1Jr0hQWlKkqCkqGQQeCKmG0dVtRdQYj7blsiKEBtyS7BjLWn3rYCUlpSSTn8eQQofX0abkXqLD2adYtFseuMeZ2o76oLqVmAtQACVoPyIHk+AM1jctZstPWB/iv7n+OpqXjFUp6wjj+lf3P8dJLSmh71qmLMkW6I8Y7Lail7t5Q44nB7QOfxHNCh20DycLkHmHvbe47Lvt93b7uw7N2M43fWcc4orvLrqa5WnptK0TcrLDiqZnZeQ+0v3CXCneHd27AVjCcYxiitEWh0JmRm73Ltry5rF6mJU3bVR1bW47uxRK1DdtJwAACk881k6d1TK0r1gF1clXL2aJylSAgYceZ3Eq3IGAcgk4xium9ON3Sxc7jbG7dGe1JdFtot0mYjCGdqVqcysAqTkAcAcn7pna16SuXgB6HFSxclmUtxbbXx3B0lIBwCQpK8DPJ2j8sUMljeomc1rljp27plRkovC324u8dvcpSm04OfrB4NMTpBpUaLtLtkuOpYsy8OLATGbcwI/G7tpSTk8kqzgE5/1SUiOORLH0XFyd7JhXWQ2sp+SmgmQ2SlQAzkHIx911dn1TDf8AUDd5l0loiW2yqmPOLdOxCSEttJ5J8nccD7qQfaFPJHdSpkiXqfUrkxRVIF2UhZ/VIUnjPj4/8orHuN5gS7dcm5EF1y6S5plicZOAMk8dvbzwo85zmikK+1K+ne1aaiaoeEN6LcbsmKpQkCWl3YAQFFtGwEZz+LOcceaorzRRSlmm71XuLsknSciyrNukb5jnci/2lblBsKVkeT5P3U4MXObDgXKFHfxGuCUpkhSAouBKtyfkRkc+QRmiiiaoemB6Xad0TAg3ZVuRMlMR5Mxd1YCtzjre9I3qTtxgHAHAA/M0UUUVf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcDBAUGCAEC/8QALRAAAgEDAgQEBgMBAAAAAAAAAQIDAAQRBRIGITFBE0JRcQcUkaHB0SJTYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A5VzVe0tZ7y4SC0hknmc4VI1LMfYCqHrU+8EaNBw3wdbz26pJrWoAGRvMikZCjuAB1x3/AOVjeDxPpkTS8Fa9BHums1Rv62mTf9M5FYK7tZ7SUxXMLxOPKwxU23mmurM1wXeQnJz0rGanw7DqunzRKhEyqWj78/xTqdWolVSnhD1KEEHBpSjF5pNnJf6lb2sSh3kcDBOBjqcn0xmukOHAtzqS7Y1jSOMBf4kAruBHvyrnHSNRm0rUYry2CGWPOA4yDkYOfrUlcK/ElXjeDXLhrZyRtljiDIB6cuY+9Ja1F+NTPxkycetp0dyFgtXRdoyyEOM4/wArUbG8sIJwx8XIPTbj71Y8VfFTh69KrbgSARrGWSJhuwMZ5hedanNxrolzIWYTQH1RSP3WcppTjYvdc29RoHFUcUXEuprAMRfMOU5diSRSrbV7r53U7m4BJWRyVz1x2+1KoSLeMRHPiu6+m1c/mvQsRD5dwfKNnX358u1KUANsO4De+3HM7O/1r6ZbfyySk8usY/dKUAU5BGMeGzN7rj80pSgD/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">cloak n dagger
+                                    <div class="name">Disappear (VIP)</div>
+                                    <div class="artist">Mozey &amp; WHAT EVA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUBBgIDBAj/xAAxEAACAAUDAgQDCAMAAAAAAAABAgADBAUREiExBhMUQVFhIlKhByMyQmJxgbGSorL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8rKpYgAEkxt8LP3+5m7foMMekpIn9T2qU3DVUof7CNlTJehutQWOJKEhvNZqnge+fpz5QCtaWobOmRNOBk4Q8Rj4afr09mZq9NJzFgtyvS26rrKVzKlVQFMrzBnQSdTLnHOFAB88+W+DpqSJl7plBdJ6zl1tOG+S3l6H6mArjo0tyrqVYHBBGCIIf/aFLErra9oMbVk3/swQC2xVDUl6oKhc6pU9HH8MIt9ssVT1FT3OZLMsJQDW0hjnUXfBcHnA3Jx8uBzFGkZE+UR8w/uHlHe6+y3HxFHNInKWRtQDB02+Fs8jPlAWxp9G1tIFtmqjUa29ZXLCaJgfvdv0/NnPJxHFcbDV9P3CxHuLOeslio7cxs9pg5AbPIBGGB98RA6xtplSy3S1qWqYlw+qb2g3GTK16fL0x7QmvF7rr3d/HXFmZmZUdBsEIGFCgbAYGwG2NoBZ1NWPcOoLjVTAA86omOR+7GCOGpy1TNJzkuf7ggIQEsoXknaNrTJuQDOf/IwQQGeuZsO/M34+IxIM7uaDPfnT+I8wQQHZJttG9rqKmfd6eTWSmYCkaW5d8ejAad/cwQQQH//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">victim
 Explicit content</div>
-                                    <div class="artist">glaive &amp; ericdoa</div>
+                                    <div class="artist">ericdoa</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EAC8QAAICAQMDAgIKAwAAAAAAAAECAwQRAAUhBhIxE1EiQQgUIzJCUmFxgZEVJKH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACkRAAEEAQMCBAcAAAAAAAAAAAEAAgMEERIhMUFxBQYTYSJCUYGRoeH/2gAMAwEAAhEDEQA/ANnceU9kknpLEO3u7o1OM4yRxqqsPcTc7VetFBYZGQK5RAkgZsAg4zgZH98aWPU+49Q2bFqWfd54QE74q1GMNHEyr4LtyeUI/f8AfUnpy/vO57RUuXUtmdY4wI5U7Yu1WY9wOR5ABI/XA1XRzaiAAip/EHvIAG2U6IoyN1fbrG2xKEVsyA4BZV5AZlAOCT4BBOs8Idy2/qCWRbNd4GlEXpmFcggZJBA+XjHvkZ8au+mNybeZo5N7v0bduP8A16UdBcqqKoZu5vxNzjGBjH651A6n6Xu7gtldru2UsyNj4WEgMWAfsxkduRxg5OfHnQELyC6OU8pffrskGQOOe3t7/RW08rR05fWhRnILwtHGrEfCf6GBo1gNlFjbrJg3C/dsQxs0K/WBn7ykBDxxz7/PRrcNVkALc5zuou3JTlk1SBxPb+jhLvqHft0iqrPtcccl5UBuSriR67dg7SiDhFOfvYzngnxpcbbuO4y2pey1dkvOQFKFnc88j316M2wV49lo344xLYgZR9aWuHkC9yZXIGeVB9+NX+2Wts/yVRJadcW7MoHdJWUMyuJCozjP4c848ambfmkV5XN9M/ASPwr8Vx6e3Xosd9H7qKK5uN/bN9jRTVjWWvadSvpuDgqzfmPB8Zwp08I7NVr86UGUr6wmiUD75IAIGB7r3e2qDb9upHbZbElhaNlXB9SJAgZmJ5YY+I8aLG67bOZ7dWxA1eGf0FkrqO5JEwpHHgk+Me+mlS029ELGkjK2xjIhpXHVlCeStYbc40jSWRXJkRZMkD8p48+Pb/ujVpY2uWxLCu+RbglCw3owV42JeVyCQCxPwHAzkkf3o0YLccY0u/SwXNPyhKSrv+1SbJBJNKIGjcSthCMIHQrkLxllDcfwdRYurek4rcM4uE2a7NYCpC47seoAGPb8g+f50aNJbPl+tYke95duTwR1+y7PlMm56qbB1vS3PqraZK8wubLKGrbl6f2XpBie0knGACc8fzrKbDd6prdebjtO3usVPeLQDtu0SdsUgHaO/gZ4wvAGR8s8aNGmUVNlWCOOMnAB57oWSQgjCbVze69/p2Tb56NddyEL17j3LLSR9qcNKj9xKocAjtwRo0aNP69aNrMAKgpQxOhBc0Er/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dead End in My Brain</div>
-                                    <div class="artist">レトベア(unknown Vo:10fu)</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACoQAAIBAgQGAQUBAQAAAAAAAAECAwQRAAUSIQYTMUFhcVEiIzKBoRQk/8QAGwEAAQQDAAAAAAAAAAAAAAAABQACAwYBBAf/xAAkEQACAgIBAwQDAAAAAAAAAAABAgMRAAQFEiFBExQxUaGx0f/aAAwDAQACEQMRAD8AmlrqSE/9M7RekLee2OTmmXcyCNamUyzG0cYgbW3ofrGX4ln5UpJ3AUn+HGtpXoaeaunqoYoZQEkmmYXRV07KCdwe9tjfzi57ExiKgeRnNvZoNczGybqhjSLLZZE1cwJ8K1rn9A4UVmYU1E8S1n+yESEhXemYITf5wrr+NREy1NFlMZvsHcAM/W3bYeO+LSZ9T8R5ZUsk00dREoaanClulugA3322/eBr8owsKbP1jF46eNgdlSFP4/eW6TMKOqLCmmkZl6h4yve218GFENNJl2fTU0u+qBJEbTbWp777+PBwYJwyNIgZh3OQzwqr1GbGLeIQsWawGYfbsC23v5wx4rqpJMvnblSR3lVXj1A6R1HTYb9hYeL4i44o052gsCdAH9OJqqqhNXUUUMTyTsw1QsvLFiASy7AkXvZrdeuIOQhMhUDyD3wzqSVrq9XRHbPNs+mzKqqUlUTNAFURlR9Abqb+feNNwVQ18vENPXJVpHRUv3pRHcXW5+k9N7/P9w6bLKQRyxwV0kVHKpMi6A67AfVq6jY+/jHeUk5TFIMmoXqaWoYMec6rZl/IAHci1uu2+A7a5QL6vbp8/eE5+SbajZIVtmHkf3HedMs+dZY4dpHkpHcuRYlS4I27dTgwuyVK6uz2aszCEwxOjJCTKH6MCV+dr+t7dsGD2v0tGCDeVLZDazCJvkDNLmXDUeaVayvIQALFbbHr8YrNwBRsY25ra4/wbW919G+2DBhPM/xeCBv7CDpVqGMU4Y0TiVZxqC6bWNj7F9z5xQr+A6OvqedVyu7kaTZ3At61ecGDGvfVdjGx8jsq1q9ZNl/CNDlUzTUoOthpYlmNx17k4MGDE8bkL2zMm1NI3U7EnP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">2005</div>
-                                    <div class="artist">South Arcade</div>
+                                    <div class="name">Everybody's dead!
+Explicit content</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                         </div>
@@ -1513,7 +1514,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2025, 04:32:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 06:04:40 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
