@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            985 Commits
+                            986 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    561k added, 555k removed
+                                    38.6k added, 32.5k removed
                                 </div>
                             </section>
                             <section>
@@ -1484,33 +1484,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQBAwUGAgf/xAApEAACAQMDAgUFAQAAAAAAAAABAgMABBEFEiExUQYTIkGRFDJxgaHh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgMBBQD/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIRAxIhMVH/2gAMAwEAAhEDEQA/AMGLSJprZJoxGYz0G7nisjUbYyiFI1DSGQABRk5wa27izXTbiGFJZpRcAFDFgBhxyc/mkrhEkvYI7FpXuTcbF80bcsP9rnAjOnVOR6zJtbG8vL9bSGFfOZ/KG7I9XsDxxzX0DVPBOk6Z4em0+eY3OuOA+7dsjU5GQvPb3PWuTJki1G/E5jW4aVtygYQNk8A+wrL0+6ay1IvA7C1mQNKhJYRknGfkd6tXEkOSrRxjGp6XLY8vLC+3A9D5Ioqb69MW6Ke3QxK+4lE29Rnvzjr+6KLX5ML/AGdubXfZWUYW4RIkwpgVEBU4I6nGOB7VXaaIJZ0vbaeGOa1nFwsVwMb1U5ZiwOOhzg9aq1DUTBDp24ZQ265YD7QOMkfjmkbk3Q0C3v7icJ5k0qqqYy8ewHd14IJ6HriiX30R12joxnxPoT3Elxfw3MDS30pZYSpX0kcNknGeOlc5pug3kcsTTRpEIvuZZV9Xboe/etC0mNzoGozrdL9TbtBwV425YM3yR09qSe7uYkdJnO9VUl34VR3/ALSLMzke7rLtYsY2mjjmeVXkw7ISuCMEZJHfGKKsvdTMd3b5YHbbqMjjcPainXUkLGMiSSSUxfVRXB8pBHGNp27R03cdfmpubk3EKQTyxNEjblRnUc/PP7oootA9Sndnh2uYYWKyBIpBhhuG1x2PODSc0U9xGX8kSqBxgA8UUUQnt2JvMs5V5pYImRdhjkJDnHYAEf2iiirVPElZ8z//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcCAwYFAf/EACsQAAEDAwEHBAIDAAAAAAAAAAEAAgMEBRESBiEiMUFRYRMycYEUkaGx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECERIhAyL/2gAMAwEAAhEDEQA/AIhqmGqwNXLvt6p7RGPUzJO4ZbGOfyewXQ2Y9HSDVIN3pdzbWXOSXVHI2FvRrGD+yqI9oro1+RWSHwcEIdqw8fNjOa1CzNi2pFQ9sVwY1hO4SN5fYQi0gTVBvJKDaKeatulS8P0vMnUZw0HAH6CcwaldtlaH2+5ySaT+PM4vjeO53kJXo2lwZBJvpnJYdckb/Uc3Qc4B3H5U4HF4JIGnPCc8wqXgZ4tTvBO5eiU45FR7ZVhHSpDh/hCnZKaouFZHBTxl0jj9Adz2CE1SdCJRVjoDVXVUkNXA6GpibLG7m1w3IQqQBfbUbEyUsctVbSZIGgudE48TB4PUfysxYrLUXe4x0tPpbnic48mt6lCFPKC0MUnkcdhsdLZqURUzcuPvkd7nn/PCEIVC4LP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">BMXXing
+                                    <div class="name">Spoiled little brat
 Explicit content</div>
-                                    <div class="artist">mgk</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAgDB//EAC0QAAIBAwMCBAYCAwAAAAAAAAECAwAEEQUSIQYxE0FhcQcUIjJRkRUlM3KB/8QAGQEBAQEAAwAAAAAAAAAAAAAABQMGAQQH/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQACAwQRIQUSFCIxUWEyceH/2gAMAwEAAhEDEQA/AOcUilmE7RkkRDc3Plmn3S0yNqjeGRnw2P2444pPYOyyzKqq6spLZfbx7n0NOfh/YzX/AFSllahfFlVkXJyByO5HcVKS5BCToS2KaOU+cp9d3hWQxw914Y5zz6Vm+bnUg793oRVXB8MtRm025udGu4tRnikZXiC7ASCeVYnDe3BqJlgvdPu3g1G3nhkHcSIVx+665h2hOt1YTEZ/FS2zpeRRtGx3Lw48x+PeikvT8jfypCNxtJP7FFQe3abBaCin5MW+3pR1qge5lOyVwucbAOD2GaovhooXrBIWke3WSOSDxM4ZNw2g58iM1O2rMJ5QjLubOFYfd7HyNM+j1P8ANsrA/wCNs58uR3pB5sCVgKWISuZH5K6O+Heg3vSMt2ZtRgnhmUAxRQY7H6WJ3d8ZHt/ytnVXUWm2llIL2SGdUyy27hSX57Bcevn5V8SfUJ4rmG0OoyxoR9W+UhAPySTXn1ZrVg1vBp+ibpUi+qW6YY8V/wAgHnHvXLZNzcBTnpONMWOPZUn9NLcpJaWsUN1ID4nyylYxySAMnn9Cik2iMl7HFPnhfuA4KmijZLudlehabCIadojyDnupLpuz0Oe1vX1jWrrTboErFHFZmYSL/sD9PPFbuntKt5Oqpbfp+5m1C3FvlHkj8J2JxuAQnJweOM0UUjL8CsBpjjymeit/U1m8ECpPC63G7KgrggdjmkV3pt5ZqhuraWAyAMiyLtZgexweceuMUUVKA9ISOt5qnerJzNPpFpbLJo76sl7lQRME8M885xRRRVi0HJCPjqZom7WPIH2v/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIA//EAC4QAAEDAwMDAQYHAAAAAAAAAAECAwQABREGEiEHEzFRFCIyQWFxFUNikZKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACURAAICAgEDAwUAAAAAAAAAAAEDAAIEESEFEjEGE3EiQVGR0f/aAAwDAQACEQMRAD8A5ljRHJTwQ2Dmrbb9PRYsfvzlpSgeVKOAKm6VsjwZDxjOEn57TUPXj8pvtQEMvISob1naRn0HislmUXt9mh0PvNpSF4yfduNn8SemZpxlshchtWODtSTXrK09brpEL9sdQoYz7hzj7+lZv7K+fyXP4GrV0+k3CNeG4jbTymHzhSNhI+/0qHYxTUsVfkc8mQnNDbija8GI7lb3YMgtupP7UVpWtLA+9EL4iu5T89hopnF6lRyxax5gsnBNGEL8TQ7Z1Itz0ZKxAWjj4QRiod66o2mM0txdoLzqR7u/bz9PFY7YLgGz2nFDFNJcbvrKnGwW8bef7Nc6ei4y2/UDr5Md9irFi6vMuCetduBBOmkcfqT/AJT3TPV+2z5hH4CYyEjl1JT59PFYy5pl9pxTqkKMbOErwcfbPrTi1REQ2hjAAo2R0rANCKA7+T/YFGO299X8Tc7j1StMSKpxUJ1Yx8PHNFc8akunewwhXjzzRQkemsW1N3B/Zln2Su/bWIwotOhSfIOaeIvyvZlIUDuwBRRXSXVW+u6LIfdexUyyp1SyvS21xcLvhHbDW9XdHOM7du36+c1Tpt6cdSUt8CiiqUxl0PAknLb2kbioErcyokk0UUUxFvM//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Pain</div>
-                                    <div class="artist">Magnolia Park</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUHCAL/xAAwEAABAwIEAggGAwAAAAAAAAABAAIDBBEFBiExEkETFCIyUWFxkQcVFiNCgVKhwf/EABgBAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxEEIRJBUf/aAAwDAQACEQMRAD8A2QDwCaqIZHtPRVD4X8tAR7FPhpvpuqzNWJ/I8vV+IkAvgiJjafyedGj9khbGYhp6priH4pw6jvMaFMhp5IwOkmkleN7gAewC5Oq6DFsSdNiFW900srjJJI+S5c7/AD05Lpf4cV9TiWSsJqawv6yIuikc/dxYS2/7smvZWck10mX9kJxzTc7IQtskDgB0VRm+OOoy9WRPaXhzRtbcEEHX0U4PN0P7UbgSADpqoXT2VufKXP0xV2H4L1d8To3shMhlLQ613c7+Xktcyj1X6eoWUh+0yMAf2s0zBk3HsTzHPLFHSwUUslmyiUd3+RG9ytQwqkbh+HwUsb+NsTGt4uZsLarLGqW030c/hca8V06e0WXYQo/EQbW1QtTpjd0rteXuhCkHkRx2ADG28LJWgNaA0AAbWQhAKHWB80IQgP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Blue
+                                    <div class="name">Prospect (feat. Lil Baby)
 Explicit content</div>
-                                    <div class="artist">guardin</div>
+                                    <div class="artist">iann dior</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcDAQL/xAAuEAABAwMEAAUDAwUAAAAAAAABAgMEAAURBhIhMRMiQVFhBxQVI3GhMkKBkcH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACYRAAICAgAFAwUAAAAAAAAAAAECAAMEEQUSEyIxITJBFCNCgaH/2gAMAwEAAhEDEQA/AE9u1f8AT6HbYkeRo5T01tpCHnPtWlblhOFHJVk5PPNNoepdKTVvrhaJhmHH2LW4iO0VJycYVxgDJAzk891S1Xi2WmStmZpxKnW3CpeXiMKHaeB1785+adxNSWa7W6RbpTLNmbuW1SlRkhxKXEnA3gnIQQRwOiMiruNh0L7+4x6qqoHuOzMpvUVLc6R9ok7EK/p7xS1l6Qk4bURmtI1DbmLK27GbmMYZd2LKkkqccHqAQFbf4PzSG16f/JMOOMNvPOJUUkMoyO+D7Ci5HCxY/wBs+fiLuu3OhKuHpDryEqcUoFQGKKv9g0ZNXd4hcgPLZLyQvcnBSMgc84B/iikzwtx7jqNpw2xxzTy4WSbJLrSVoS4fOppeQtR583NVwWd5EnaqQyytPmBcVtB/Y9Gm7EmdPkeE+yQjkJcBKVIHeB6Y/wAVE1LOiyQzERbWGlxglKn0k+I7jPZJI9fQDoVRK0NSLtEHevMQcjewZzFmemOeK9PYkPKyNvjpUrgZ9/atH0n9P4kW4Rvz01EaC+nh2PIIJVwQhQ9Dg9f66rLrRLiQJyJJitSCg8tSAFIVwexj/tWZOsZkxbzaWmXY6HPuERXhuaQnBBQkE5A54AP7V1Gr/EjZ/cLjWKDthNMmau0xpH9DTtjDkpasKlSXdyiM9+/zRWa6whXG2vs5Yaai7U+G2CcLzzuUogE+2Oh1RWtARtAH+mVHyGrPLqfMlh5MlZQ46DuOdoqPcdLy48FqepfldOAQrnHz60UVOwl6qEOfQSfjUrYrlvgSDatMv3O6Nw0KShxf9ys4A9zUO52w2u6OxFOKUUL25Skndg0UU29FddfOo9dw306DHFo87nXUV+ky7xujvylRkBLbaHOQEjgcGiiipN+bd1D3QD3OzEkz/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMCBQUBAAAAAAAAAAECAAMRBCExBRITIlFisRVScoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AGgCTgZJMp6bpTMoa4ke0Tw0BSom6wE42WWtPqVsp8XZQPWX8lNfCHjmX9FfpdWMdp/sW1HSmVS1JJP2mUtNqkd3FjDI4PAIjAYOgZWBU8b7RXekxqiKXh8kQQSDkEQlLrVIDi1RgnYwlE1q0mqceGKKw+lrbHGZg12FmQEJU3JJ2m+mWjzUuQM7rPTU+RGDAHG8HXuBYs03praKLCljlsY7d8jEpV6mixQK3X8cyZ03Su6CxnCA7hQufmUCorI3BP8AsVaWjuNtIU6vjwG/XzCLdXuDMKxueWhGwvBPI12Jw2IIzmNHVC2vsvBPuHMIQ2tBTO1apqlCpaCo9VOZ19c+D28+uIQmdUd2YmSSSSSSYQhNMP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">THE CONSTANT</div>
-                                    <div class="artist">TWISTED</div>
+                                    <div class="name">Once in a While</div>
+                                    <div class="artist">Thisistoodifficult</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAf/EADIQAAEDAwIBCgUFAQAAAAAAAAECAwQABRESITEGBxMVIjJBUYHwFGFxkbEkQmKhotH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMCBP/EAB8RAAICAwACAwAAAAAAAAAAAAABAhEDEiEEMUFRof/aAAwDAQACEQMRAD8A3O0IQ3c16GwO+BpwOKwcfLfepLjy0at8p9mS0hsNuqaBUrjivbMB1yofNZ/1ShemW7nKuZS0Xgm4BSRpOeCh6etFx2UZOhN1FsZE84ttUop6aPqHgFgn81G/zhWZ0dGuayhX8HtKvzSfbbSi3CU+tEVpTgxh5lR0p4+A3P1yarXIz7d06xauDCTjBRHYKSrPDfSSK05eOm1v+EHmkvg1/k1do98aW9DeW422QApLmUq4/fhRSxzNvDq65F5eFGQrOoad9SvA0VLaP2WpvpZwy8m4uFkIUe331aQBq33G9KrTp13tbvxCv1QB+HJUdwr1I+dOVnSFXhQJUMhe4xt2qzPlIWonKi4NfsEhSUpUvdW33Nc2bFLdyvlFE040d0e4wWoj5lRLi84nudIHD/VSwrvDkpzonxh4gMKSPxVAZDI3MfsgEqwSTjjXGu+W5ppxzQEoSNRPaOB9qjj8aup0Tca9Gh81ymJy7k48npQqWpSC6gkndWD5DbzoqfmZmsz4M+RHXrZWW9KsYz3vOiuqGGNdSZTauFRH5VhqfeVRSVv2xsOP9gYyrfSMnypCvl1M+7SZRktJW65rISEnfA4b+/WiitJ37Gc4ek+Djivo39f+e96mS/KQcqU+AOJ0Y9+/Lcop0gHLm55Si33EQn2VJTNcSjpHD3VYykYx45ooooEf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Self-esteem
+Explicit content</div>
+                                    <div class="artist">webcage</div>
                                 </div>
                             </div>
                         </div>
@@ -1519,7 +1520,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2025, 14:06:20 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2025, 16:04:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
