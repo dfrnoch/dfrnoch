@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    728k added, 682k removed
+                                    241k added, 120k removed
                                 </div>
                             </section>
                             <section>
@@ -1435,32 +1435,31 @@
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Tongue in cheek
+                                    <div class="name">Heck
 Explicit content</div>
                                     <div class="artist">underscores</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QALxAAAgEDAwIEBQMFAAAAAAAAAQIDAAQRBRIhMUETIlFhBhQkcYEjMpFisdHh8P/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAAEE/8QAHxEAAgMAAgIDAAAAAAAAAAAAAAECESEDMRITIkFR/9oADAMBAAIRAxEAPwBCI7bEVtqfiwlQzRyxjcCTwQR6f9mutUt4tLvomMglEqboXjOAw/qGcA9uecVXhjjubFkv42Ro498TbsFGzjB7ge1RlJ5Y/qH+nAG3bz+FH37162vLAF+kupQ6ZqEHiwlrLUAoJXGUkArvT9avrLSY7ZjLBHg7OuDyMkEd/ftV7TmtFgkiW1laZ/N4knBUdwOenb/VM4Pn70Nb2FsLmxTk2jMMBcDzbuCuOzZGKNzTl4SG9HIuP29oQWaX17eTQpuu2mk37GY4f3JPtRUw+bs55NQ0mJ2toNysfFBliUjHmHb0z09DRVOLX0EmqIYmiud0DptQ4YKCf7nv960Pwdb6PJqgW+G59rMlux2rI4/aoP8Amsms4uollkZxIwwWA4J4/g4/FM478pETJGIZnBRZVQBlOOcHrg+1c1dHFnZu9c0yO+f55Y7aCQQlZbWM7Y5WXkbS3AcAYKtjPUZrLWFpdNqrQptyFLMFmC4ix5snuMH3HtS+bU5rmS3aZ3leHy4DYZl6nPqfQ/jp0u2aSfEmptaLPDp8e3y24HLDsGPVm+/HoKr4yW6y1yyjai8YvlvYNP1iaXS2F5CjmOEzJwVIwdw6N+eD6UUwvvh2XSJW8WP9IYBmfpkngCiolNrKDpmL06T6INJjj1+9NY50vAsF5GUjXKpKFyyfzRRSSNRW1RbvSbmLczPZzY8Of7ds+opppS2t34TW7sL88QsOpbsDjlh78EUUUc8SkjJbRvrW/wBQt0g0rWlMmrNF4iWzOpRxnjJXzHp3/NFFFLF2rZdH/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcDBAUGCAEC/8QALRAAAgEDAgQEBgMBAAAAAAAAAQIDAAQRBRIGITFBE0JRcQcUkaHB0SJTYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A5VzVe0tZ7y4SC0hknmc4VI1LMfYCqHrU+8EaNBw3wdbz26pJrWoAGRvMikZCjuAB1x3/AOVjeDxPpkTS8Fa9BHums1Rv62mTf9M5FYK7tZ7SUxXMLxOPKwxU23mmurM1wXeQnJz0rGanw7DqunzRKhEyqWj78/xTqdWolVSnhD1KEEHBpSjF5pNnJf6lb2sSh3kcDBOBjqcn0xmukOHAtzqS7Y1jSOMBf4kAruBHvyrnHSNRm0rUYry2CGWPOA4yDkYOfrUlcK/ElXjeDXLhrZyRtljiDIB6cuY+9Ja1F+NTPxkycetp0dyFgtXRdoyyEOM4/wArUbG8sIJwx8XIPTbj71Y8VfFTh69KrbgSARrGWSJhuwMZ5hedanNxrolzIWYTQH1RSP3WcppTjYvdc29RoHFUcUXEuprAMRfMOU5diSRSrbV7r53U7m4BJWRyVz1x2+1KoSLeMRHPiu6+m1c/mvQsRD5dwfKNnX358u1KUANsO4De+3HM7O/1r6ZbfyySk8usY/dKUAU5BGMeGzN7rj80pSgD/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Not Like Us
-Explicit content</div>
-                                    <div class="artist">Kendrick Lamar</div>
+                                    <div class="name">Disappear (VIP)</div>
+                                    <div class="artist">Mozey &amp; WHAT EVA</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQHAwYIAgX/xAAxEAABAgUCBAQDCQAAAAAAAAABAgMABAURIQYSBzFBYRMiUXEUFjIjJDNCUoGR0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFBAv/aAAwDAQACEQMRAD8A5odk/h20BxbTi3d20tOhRRtJB3AevTPLMSBKoRL2Qkrd6qF7jtblESSlg8r8ZpoD9arRYej+EupdUMrmKcywmVQAQ67MbNxORYc+WciAq8N2njuRuCTfau+exsYutrS+lmqC1NzFIa+J8NKlbX3ACTfoFG0ZNHcE61L6ibXqejpXTWz5vviClw362N7dusbzxWplBp9HbRNqVTh9DTksjxACEmySnqP494x1OBT8xI0CapiHaOiiyVUadUXJebfe+0bCVG2bi2PUG/pCNIak2pmaUuozCmW7nzJRc8sY97QjSfMlEpcXtJSnBOetukX9w840Sem9KNSswwl+YY5t7dqljkAFDHIcyMDGYpJineA2084UqWrIT/sSq09KJkEtiWaQ+QPN+a/9QmXUNO4ty+stPVr5bkFoq8lLCZEnOEWdQPr2KSclIznsbRztxE1vUNXVQKfWsSrFyy3sAIHUm3M9zGmMzLqBdCiggEXSbG3UYiTSKqunT6JoMtPbUqSUODyqChYg/tBWqmBU0tzCySPeER3VhTqlJSEJKiQkHA7QhSQqpOlAFhuAtuOSPaIinCpRKiSfUwhEXndmBJhCJAVjkIQhEH//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBggD/8QAKhAAAgEEAQIEBwEBAAAAAAAAAQIDAAQFEQYSIQcTMXEUFSNBUVKRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwDqCouUvY8djri8mV3SFC5VBtm/AH+k9qlVl+fXnkY+GFdFmLXBXq1sRDa++5DEP+1rmbcS3FrxzKnM4qK9a0ltGcn6MhBZR6gnXbuCDVnVHxWH4S0Wz3vyYxHve9lGaPf8VavKnUy+EKUpUUrIZNfmXJlj6FkiWeK1KuBoKgM8jD87byl91rX1zzzLNZjD8gy11w3K3uQuYrq4j+Eh49LcC1eVl6wJSwVjtB3O9d9DVWXErVeLPK5uB3uEyUV4bbHfM2hu7aO2DtcRsiOQGPZQNN6d91rcHzXjeVzJXF5i1nF3GpH1NAyDQCjf3IPoP1rmbknGPF/xDFm2fx128dt1GNrryrdFLaBIUa12AHcGpOH8OeZcJz+Ev5sVLdR2twknXZ7k6ulgwUgDY3ojZGu9Yt9dJJkz66/+9K8Y7hWZVkR4pCoPS4/P2B9CfY0rTD2oo6eyjXsKUoB77B7io01mkqBA7ou99PZl/jAjVKUHpDCsduISS6j9u9KUoP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">MILLION DOLLAR BABY</div>
-                                    <div class="artist">Tommy Richman</div>
+                                    <div class="name">Antifreeze*
+Explicit content</div>
+                                    <div class="artist">aldrch &amp; Ryan Leahan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIA//EAC4QAAEDAwMDAQYHAAAAAAAAAAECAwQABREGEiEHEzFRFCIyQWFxFUNikZKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACURAAICAgEDAwUAAAAAAAAAAAEDAAIEESEFEjEGE3EiQVGR0f/aAAwDAQACEQMRAD8A5ljRHJTwQ2Dmrbb9PRYsfvzlpSgeVKOAKm6VsjwZDxjOEn57TUPXj8pvtQEMvISob1naRn0HislmUXt9mh0PvNpSF4yfduNn8SemZpxlshchtWODtSTXrK09brpEL9sdQoYz7hzj7+lZv7K+fyXP4GrV0+k3CNeG4jbTymHzhSNhI+/0qHYxTUsVfkc8mQnNDbija8GI7lb3YMgtupP7UVpWtLA+9EL4iu5T89hopnF6lRyxax5gsnBNGEL8TQ7Z1Itz0ZKxAWjj4QRiod66o2mM0txdoLzqR7u/bz9PFY7YLgGz2nFDFNJcbvrKnGwW8bef7Nc6ei4y2/UDr5Md9irFi6vMuCetduBBOmkcfqT/AJT3TPV+2z5hH4CYyEjl1JT59PFYy5pl9pxTqkKMbOErwcfbPrTi1REQ2hjAAo2R0rANCKA7+T/YFGO299X8Tc7j1StMSKpxUJ1Yx8PHNFc8akunewwhXjzzRQkemsW1N3B/Zln2Su/bWIwotOhSfIOaeIvyvZlIUDuwBRRXSXVW+u6LIfdexUyyp1SyvS21xcLvhHbDW9XdHOM7du36+c1Tpt6cdSUt8CiiqUxl0PAknLb2kbioErcyokk0UUUxFvM//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMCBQUBAAAAAAAAAAECAAMRBCExBRITIlFisRVScoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AGgCTgZJMp6bpTMoa4ke0Tw0BSom6wE42WWtPqVsp8XZQPWX8lNfCHjmX9FfpdWMdp/sW1HSmVS1JJP2mUtNqkd3FjDI4PAIjAYOgZWBU8b7RXekxqiKXh8kQQSDkEQlLrVIDi1RgnYwlE1q0mqceGKKw+lrbHGZg12FmQEJU3JJ2m+mWjzUuQM7rPTU+RGDAHG8HXuBYs03praKLCljlsY7d8jEpV6mixQK3X8cyZ03Su6CxnCA7hQufmUCorI3BP8AsVaWjuNtIU6vjwG/XzCLdXuDMKxueWhGwvBPI12Jw2IIzmNHVC2vsvBPuHMIQ2tBTO1apqlCpaCo9VOZ19c+D28+uIQmdUd2YmSSSSSSYQhNMP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Prospect (feat. Lil Baby)
-Explicit content</div>
-                                    <div class="artist">iann dior</div>
+                                    <div class="name">Once in a While</div>
+                                    <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                         </div>
@@ -1469,7 +1468,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2025, 04:30:17 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2025, 06:04:21 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
