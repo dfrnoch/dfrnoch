@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    68.4k added, 52k removed
+                                    61.4k added, 38.8k removed
                                 </div>
                             </section>
                             <section>
@@ -1445,18 +1445,25 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBQcBAgT/xAAtEAACAQMDAgUCBwEAAAAAAAABAgMABBEFEiETMQYiQVFxgaEHFBUXIzJCwf/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAQIFAAb/xAAgEQACAgIBBQEAAAAAAAAAAAABAgARAxIEFCEiMUEy/9oADAMBAAIRAxEAPwDrWFpfCYW1xKFik25UnJZWyCVHcY4x7U0+F7y2tWHVhtB/nzQGVu45OSMZ+KWdJ0/UYJp2uIzaoSDscHf2wM57/NdlUWMM1q5I6yFV2nkDbgmvOAhCNI0ENRh1HWNPGpvD17dJjC7ALZDb5eQM5Kg/eqzw7ZJfL1maZdhLg+XDAHHt2rP9S8PPHrNvfwuvRRVLBiclgMD7mtCXq29tsh/jieE/1POTya7kaBgy/ZOFGW7Miv4zBqllNJFbJCJF3xhz5lwSGLZwOI+3uaKqb7UWS+jmuVZbd5CqhkByBGwIx9e/pRVzkC+vsIqXLCw1wx2ok1K/NzcyHpsMswHOQRkDA+OKjuLqG6ZneCRpE5Vdpzx8d6U/3CuJOFYhfmob3xxd/l36cpEm0lfN61OTh7N2NRvVauMN0t5eRBWge2QsCXcBSPgGp7fVpLRw99dQSKo2hFGSf+VkmseLNVuJAovFjVhycjOfpmvKao8ttCzTFztGSfWi9AFAuBxtjYkTXpNQ0jUiUuWKQ+bYSpYIWAGeDn37c0Vn2itdXzCKyhluJRjKxqTj2z7fWigNgo0DUZCY5nNjesUwScivrluWCZLErjFFFbjKLmWjnWV/X3YCRM+Pen38PrjSIbKb9fs1eTq+Q5wNm0cdx65ooon5MprYMv8AVLrwpJbTGys2jlkUdLa53I3oTz6UUUUDOfKM8ZRrP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQgCBP/EAC0QAAIBAwQBAgQGAwAAAAAAAAECAwQFEQAGEiExBxMIQVGBFSJCcaHRMmHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABwRAAMAAwEBAQAAAAAAAAAAAAABEQIDEkETIf/aAAwDAQACEQMRAD8Ajth26k+B7ZJP11R9t+nBrWT20AzgliRgazttCnWZFnU/sBnVv2NTUsdNwjp3we+cijP8aDTCb07tautMtTAtVhcwsy8jyzjryc4OOvlqZb+9O5KOvcJEDHjPQAOmK4101X8QCUNDTEXNapKZK2aRmNNCFywjRSFwVLH82RlsY+tl3haaealzJTPOwXHucV5Z+px4+2lxyWVhbdpeqX1U4yr9se3GX4kdfTRqtbutK06SYjYD/YH96NOQM/akNPI6+9OQcg4zjV62fRU7UPvJKjcl/S2cDXL+3LvdFlkhktEJXjlZBL0v96tnpvepqSSQTUbyw54KyMMBT3kk/TSNjT8PFqtrH4mrtMkaqsNvFQWbrtkRM/zqk7wuAstlaqjEMxaWOBFkl4Jzdwo5Ng4HeT18tJgmr33vc9wWfbdVcDNRLQSU9Q0cSsY5P8lYk5BGOsZ/bS96zb0q7VNT0dXt+poYkqElWtpyMTcRnCtx+RPec4I8fPS4qUvu2fR43xQSd5X2ouEMkysqZkdeMbiRRxYqcNgch15xo0pvuG31ltmEkkgn96RyZCe+TFvIGCe/+aNbGQcESnulzQgxV9QpHjDeNVJt+22bbf4dLU3JJiqA1EUQWTIwSeQfBz4JI8aNGiluUfSnqjDbqKKCxyXOjZZAzHCEOP1Ds5BbrvzrLvO+LXfCJLt+MvMq/lkp5uLBvu5GPt9tGjWdBykTOulkNTOY55PaZyRluyM9E48nRo0a0OUf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">KRATOM
+                                    <div class="name">Ten Thousand Feet
 Explicit content</div>
-                                    <div class="artist">Řáhol One</div>
+                                    <div class="artist">I See Stars</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcDBAUGCAEC/8QALRAAAgEDAgQEBgMBAAAAAAAAAQIDAAQRBRIGITFBE0JRcQcUkaHB0SJTYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A5VzVe0tZ7y4SC0hknmc4VI1LMfYCqHrU+8EaNBw3wdbz26pJrWoAGRvMikZCjuAB1x3/AOVjeDxPpkTS8Fa9BHums1Rv62mTf9M5FYK7tZ7SUxXMLxOPKwxU23mmurM1wXeQnJz0rGanw7DqunzRKhEyqWj78/xTqdWolVSnhD1KEEHBpSjF5pNnJf6lb2sSh3kcDBOBjqcn0xmukOHAtzqS7Y1jSOMBf4kAruBHvyrnHSNRm0rUYry2CGWPOA4yDkYOfrUlcK/ElXjeDXLhrZyRtljiDIB6cuY+9Ja1F+NTPxkycetp0dyFgtXRdoyyEOM4/wArUbG8sIJwx8XIPTbj71Y8VfFTh69KrbgSARrGWSJhuwMZ5hedanNxrolzIWYTQH1RSP3WcppTjYvdc29RoHFUcUXEuprAMRfMOU5diSRSrbV7r53U7m4BJWRyVz1x2+1KoSLeMRHPiu6+m1c/mvQsRD5dwfKNnX358u1KUANsO4De+3HM7O/1r6ZbfyySk8usY/dKUAU5BGMeGzN7rj80pSgD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYIBP/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGEiExEyNBUQciMlJxkQgUYbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREkEEITFR/9oADAMBAAIRAxEAPwDl6ipYbeSVuKKWJ9hW4+Gm2JbndWnT6ppi3GjpMEuzcRsYVVgQOTAjBz2696aKXI3IPITBUU7t96Btpdr7dbbOlwruK8hWe8gEZbwfLUsArHH1OBg/acdRSt1jSJ7d1n/pyxW0qji4RhGzgAOEY/UA2R0JxWpSznBO5ASjoqR0wTRQMjKcM4HY59pbQEcSO0XIkD0/WKbWgW9tpuy9cswwhF+pjjmzhVOCCT7YJ/dVW1oI5UZEQgJhWA759vx/vrWm1WwMm3b9VtBdSRwtLFAOnNlwygH8gf50rLvJZrQp/ZIp7k7bD1qHwdNkm0g6C/HzJY8zciR5a5GAhK56kkDoPSsV8WIE07ZVpaa4ltZQ6ddCBDE7SK7PGZAO2cgYGffNWe2tU1ncRtX3G09sFe5kdZkRfBljMAVkLAlPkkmPf3NKf+Q25NSG6tR2uL83GiwyQ3Ko6ozeIY8klwAc/MR19KpblW2HqPChhFlqy2hfnaTq6t6YwR+6KrHzyJOcUVtlvJtIhBc7nQWkb10mz057m4vIR4a8gQ2XYfaFzk/j/leK6+Ks+4dMv7OzeHSoDCy82k87kVPEqcgdxggDPXOaKKbVRW92MJOoxdi417SETTbW+1DWoGuXjCKvAvI+PRgCSOI6ciBmsrcrHHPJHDL4sYYhZOPHmPfB7UUUi9ySCZQvyRt37iiiiksfcKf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Disappear (VIP)</div>
-                                    <div class="artist">Mozey &amp; WHAT EVA</div>
+                                    <div class="name">Undercover Martyn</div>
+                                    <div class="artist">Two Door Cinema Club</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAgEDBv/EACgQAAICAQMCBQUBAAAAAAAAAAECAAMRBCExBRITIlFisRVScoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AGgCTgZJMp6bpTMoa4ke0Tw0BSom6wE42WWtPqVsp8XZQPWX8lNfCHjmX9FfpdWMdp/sW1HSmVS1JJP2mUtNqkd3FjDI4PAIjAYOgZWBU8b7RXekxqiKXh8kQQSDkEQlLrVIDi1RgnYwlE1q0mqceGKKw+lrbHGZg12FmQEJU3JJ2m+mWjzUuQM7rPTU+RGDAHG8HXuBYs03praKLCljlsY7d8jEpV6mixQK3X8cyZ03Su6CxnCA7hQufmUCorI3BP8AsVaWjuNtIU6vjwG/XzCLdXuDMKxueWhGwvBPI12Jw2IIzmNHVC2vsvBPuHMIQ2tBTO1apqlCpaCo9VOZ19c+D28+uIQmdUd2YmSSSSSSYQhNMP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Control</div>
+                                    <div class="artist">Thisistoodifficult</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1466,20 +1473,13 @@ Explicit content</div>
                                     <div class="artist">Milky Chance</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYIBP/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGEiExEyNBUQciMlJxkQgUYbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREkEEITFR/9oADAMBAAIRAxEAPwDl6ipYbeSVuKKWJ9hW4+Gm2JbndWnT6ppi3GjpMEuzcRsYVVgQOTAjBz2696aKXI3IPITBUU7t96Btpdr7dbbOlwruK8hWe8gEZbwfLUsArHH1OBg/acdRSt1jSJ7d1n/pyxW0qji4RhGzgAOEY/UA2R0JxWpSznBO5ASjoqR0wTRQMjKcM4HY59pbQEcSO0XIkD0/WKbWgW9tpuy9cswwhF+pjjmzhVOCCT7YJ/dVW1oI5UZEQgJhWA759vx/vrWm1WwMm3b9VtBdSRwtLFAOnNlwygH8gf50rLvJZrQp/ZIp7k7bD1qHwdNkm0g6C/HzJY8zciR5a5GAhK56kkDoPSsV8WIE07ZVpaa4ltZQ6ddCBDE7SK7PGZAO2cgYGffNWe2tU1ncRtX3G09sFe5kdZkRfBljMAVkLAlPkkmPf3NKf+Q25NSG6tR2uL83GiwyQ3Ko6ozeIY8klwAc/MR19KpblW2HqPChhFlqy2hfnaTq6t6YwR+6KrHzyJOcUVtlvJtIhBc7nQWkb10mz057m4vIR4a8gQ2XYfaFzk/j/leK6+Ks+4dMv7OzeHSoDCy82k87kVPEqcgdxggDPXOaKKbVRW92MJOoxdi417SETTbW+1DWoGuXjCKvAvI+PRgCSOI6ciBmsrcrHHPJHDL4sYYhZOPHmPfB7UUUi9ySCZQvyRt37iiiiksfcKf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">What You Know</div>
-                                    <div class="artist">Two Door Cinema Club</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2025, 03:34:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 05:09:53 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
