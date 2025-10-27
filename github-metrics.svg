@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            16 Pull requests opened
+                            15 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    36k added, 35k removed
+                                    212k added, 105k removed
                                 </div>
                             </section>
                             <section>
@@ -1291,6 +1291,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1438,34 +1445,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAUGBAcCAwj/xAAmEAABBAICAgEEAwAAAAAAAAABAAIDEQQFEiEGMRMHFDJRQWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APVKIonauzBlRtxHOaCw99cbv+bQSyKrZ24gw9jj67L2ZjzpYTMRya1rWggWb9WTQ/dH9KR0krpppXDLkyIS0cbc1w9+wQEEwiIgLCyHj71jLF8Lr/VmqG3OpmzcqLKxsowzRN4tBbY92gpPmfgOu8p+pGqzNthOydfHrZmzguc1jnh7RGLFd055991/SufjWq1uigbrdPjx4uNEy2wsJ6BPvs37XH5MwTfZHLwDsPj+UR2Q4sui/j7q+r9Wurx7VbDB2+bPnSxTRysaGvDjyJuz1XQQWNERAREQajPinmjvqU7yR2djDGbPxZjt9HH/AB4kmz+PdChyPLtbcREBERB//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMECAH/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSEzEiMlEHFUFxgZFCUmFicqHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAQEBAAMBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AKDTl5cEEDFdGezfV7TXOH4pUCCWHlilj/Kygf0dq5pEy7eM5pxwbcavHro9w3MsMuxkKnw8uQPEDse/aizwWdusIprPqmPqxCUnt/lZLh4bZXmkChUUkn0FV9bW1zGlyBMhk5SxbJJc/qOw7/Cqt40424jvC+l6jIlpGiBZIoT5wRkZbucj0xXLP01rj6I/aBqjcR8WXF8rKtuG6cKgfgB7/U70UkMylwP3CiuwSPKiMz+UDJp3pFxHo5tb+G5bp3JAdFG5xvjPoDSCeNpoHUeY15IqxusUchdI1CqSuBnALbfPb6VWdxS+rjseO9DngSykjmtJzkx9UZVj6hwSDVW67Ib/AFaadpGlBPKrH0HaiwllihboyvHk78hxn7VjCjmyFHbvWc5kN1a02t1VsrnIordKDB3P2orQSntUhs4ZxfW8rS94IyxeP+QIx9jSiRsTPjOM0UVJuWkxCYznepwToJB1Qzp6A4PbaiipJ3TxLzdKRdifiTzfLaiiimmv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Drain Me
+                                    <div class="name">I Think I'm OKAY
 Explicit content</div>
-                                    <div class="artist">Arizona Zervas</div>
+                                    <div class="artist">mgk, YUNGBLUD &amp; Travis Barker</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwf/xAAoEAACAgEBBwMFAAAAAAAAAAAAAQIRITEDEhRBYXGRNFGxQlOSwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD2JdbLSxl13Eell9jQulKtWGslGrAy2lJK3eoOU64vZ5+h/KAHZaPBSLSivUCaLIWpXbX9HmwOMvUQ991/KAmnxEHbrdfPqgBZOab3IRfeVfoKe1+3H8ufgADaeMp+C338AAYlG9opW8KqoAAf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QALhAAAgEDAwMDAwIHAAAAAAAAAQIDAAQRBRIhBhMxQVFxFBUiYZEWIzKBouHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABQABBAb/xAAkEQABBQAABQUBAAAAAAAAAAABAAIDBBEFEiEiMQYTFUFRgf/aAAwDAQACEQMRAD8A4P01/DLWUaazHL9b3SWkLuI9m5BjCDOcbzn/AFU+rwdJR3ljNpk801qSwubeUSBx+OVIbHjPHHP9qyicMPWnotMvJ4O/DbTPGcgbUJ8Dk8DxSAb0UAJWitl6M+6XSTm5+h7iGGTMhbbtXcMAe+7k+KLdOixo7yTtcHVe+wEX8wRCLucEEc52H19Rz5rKS200cYeSKRUPhipA/eoMVXIqIxX3U0OgCzsptBnfvMMXFvIrkq2AcqxGCM8e9FUJoqcuKlcaVYRSLBNPu7bsVwGA8fr6c1ZtoMy7JIrpowAVypJ+fBpLTbqSNIY5QJLZM4XOCvJJwfQ8/FazTZEeHckwYABe2eDnkms1kTxEuZ4XT8IjoW2iOcd24MWcn0W8dFVrh5oUPClj49hmkrrRJ1bdboWQeQM5X5zXUuo5NHuriKfQbV7G12KkkMzlyHxywPPB/wCFJxaFe3RAgW6lDDgRWztn/GsIvyg/qdk9PUTGHYW7+/S5PNbtE22Tarex4NFa7q3TZhthuYhBdiTYDcN2yCByhLYA8jg0UtBL77A/FxHEqgpTmLm0fSY07SYWiEiq0wPDLjGPc1Ouldm4eePfGw/pLA7cfqSMUUUxJG13Q+ELHPJE8PYcIT33XULLTDb9uCSAyiUoYw35YwDn4qsvuuNfRQrX10qcgZmY/tzRRWI0YGjQ1L/NXJj3v3+BUZlv9cdYbiclQxk98E+T8nj5ooopOCvGxgDQgb1+d0xLnav/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">uno reversinnn'
+                                    <div class="name">Pedal To the Metal
 Explicit content</div>
-                                    <div class="artist">poptropicaslutz!</div>
+                                    <div class="artist">TH3 KXD</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUEBgIDAQcI/8QALBAAAgEDAwMCBgIDAAAAAAAAAQIDAAQRBRIhEzFBUWEGFCIycaGBsSRCUv/EABgBAQEAAwAAAAAAAAAAAAAAAAIDAAEE/8QAHBEAAwEBAQADAAAAAAAAAAAAAAECEQMhIkFR/9oADAMBAAIRAxEAPwDzvcxgzSruEs5K7ZBx7YINWO30cJZQvexiG4hj+YKBdodQQFIYdz65wKivFsudLdo4pYZUK70H3OONx98/1W60u5Na1hEuMq8cICK7BV7ZI9OTTzWBt4TNH01Luc20wYSMGjDpJ9KNznPqO3PYiuL3RZbTEUcyrNCDA43Fh3PPHAGc/msLaO9vRHLG3Izu6ZAPHjk4Hj90/wBbtTbpbT29wJL17ZZXWBMGIg4O/wBcj+KTnPTWpLMFDfI2WnG6jaeTU9oYMhKDd/0D4weMUVl8Q3xhtLfqWJS3nBlaPwrsOCD6YwcGisN8KdTrKhoMst0kqyzlyg3RxknAbIycdu36zVmsGs7qC6mSzieUp9Gf9ScAf3VD0qTpXDtuIbpttI8HHendncSxx27Q52edo3HIx47gZqnGl9oPSfws9rhNQiSOTDSsVJjH2kkr+KnfEGn3tjHHavdJMZIgN6Lsd1znBHsRz61AhuGhuXjcDCymT6Tjb2IyMdvxWnVL24bV4b2dlMczH7h44P8AFWqYzWvSKdtjSXUFGjHSZnMcpnDNkdRYAFIwOMsc/kYorr6bV7k9R5JCzuxbPnPbNFcraOqPgsQpt5Ok+7APGPxTnS7wJqcIhLFDgKMjg8eDxzjtRRRhtMxrUWJNXkkkuo/8cHc3Tkbjv3Pt3J96r82rR4BdGmlSQO244VuwxjHHAooql9KpLQzClvBmI/hCXROpcX+prqhiZjGkKmPq47A+mf1RRRUhn//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECCAP/xAAzEAABAwMCBQICCQUAAAAAAAABAgMRAAQFBiEHEhMxQVFhFCIVFiQycYGhsdFCcpGiwf/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRITEE/9oADAMBAAIRAxEAPwDnMS4rnMgeJ8D+ayVmISQEjzWXJgCdyd6avD/g1e6mZddyr11ikIA5Ertx8widiSO0jx52rOlp685qtdKrw01ddaSzi7mzKJuGiypxTYJQO+xI27fnT8x3EJX1XvMjjcnbNu2f269auCoqKQIKBIIPOeUCO3pSU1PoF3Ruq38beXbV610EvMvtJ5ZBJmQZg7R3NRVslplfOStds6ek63O0HaCPPt6GqxWLDBZJWS1EVKbrI3GRfQhttbil9NAhJUoyEj2E0VtjWW2bK7VdNKPQeQASn8ZEzsdqK6KWdGtskpcLbpzQaj0cjmbhpFiFgo6C0rLv9pJCY95IjsDT4x2WTe41u/tn3nHXllhTayQhEEAcpI+YRvOw9Kq+Wz2jlZBwXuk7lbyVNpS45dh1KSvcBAnbYzEftTHw/wABkW0Xb1uldnCGwk77Ekdo8RHb29aMUl4LbNz6xHcYHurqwKBM/BhP+6v+EUvMQtu5U7bOE8qlHmj0NXzi8Us6zeYACS20U8oPYSCB/g0uMBKcktU9zH7/AMUxFenlkrmba2tW0gMtAkHl+8SdyT53oqQzWNUzk72wIIWFdViQASFbge0jb2NFSlF7w3/PbWoZL0Z3C7Rlxc6cuNV5+DaktpsG1j5lrbBSl0+ISJAnvFOfCWSk6UwKukGnnFFQQj+pKTKR+O0/maKKePhkueyZztxTvG8nxKyirMqU1zcsxO5SCf12qjWhLF0I2V1VfptRRRBixG2XuVfSnWCirmSIUfNFFFEkf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Doomsday Blue</div>
-                                    <div class="artist">Bambie Thug</div>
+                                    <div class="name">Gedosanka</div>
+                                    <div class="artist">FantasticYouth</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwf/xAAoEAACAgEBBwMFAAAAAAAAAAAAAQIRITEDEhRBYXGRNFGxQlOSwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD2JdbLSxl13Eell9jQulKtWGslGrAy2lJK3eoOU64vZ5+h/KAHZaPBSLSivUCaLIWpXbX9HmwOMvUQ991/KAmnxEHbrdfPqgBZOab3IRfeVfoKe1+3H8ufgADaeMp+C338AAYlG9opW8KqoAAf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBQcBAgT/xAAtEAACAQMDAgUCBwEAAAAAAAABAgMABBEFEiETMQYiQVFxgaEHFBUXIzJCwf/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAQIFAAb/xAAgEQACAgIBBQEAAAAAAAAAAAABAgARAxIEFCEiMUEy/9oADAMBAAIRAxEAPwDrWFpfCYW1xKFik25UnJZWyCVHcY4x7U0+F7y2tWHVhtB/nzQGVu45OSMZ+KWdJ0/UYJp2uIzaoSDscHf2wM57/NdlUWMM1q5I6yFV2nkDbgmvOAhCNI0ENRh1HWNPGpvD17dJjC7ALZDb5eQM5Kg/eqzw7ZJfL1maZdhLg+XDAHHt2rP9S8PPHrNvfwuvRRVLBiclgMD7mtCXq29tsh/jieE/1POTya7kaBgy/ZOFGW7Miv4zBqllNJFbJCJF3xhz5lwSGLZwOI+3uaKqb7UWS+jmuVZbd5CqhkByBGwIx9e/pRVzkC+vsIqXLCw1wx2ok1K/NzcyHpsMswHOQRkDA+OKjuLqG6ZneCRpE5Vdpzx8d6U/3CuJOFYhfmob3xxd/l36cpEm0lfN61OTh7N2NRvVauMN0t5eRBWge2QsCXcBSPgGp7fVpLRw99dQSKo2hFGSf+VkmseLNVuJAovFjVhycjOfpmvKao8ttCzTFztGSfWi9AFAuBxtjYkTXpNQ0jUiUuWKQ+bYSpYIWAGeDn37c0Vn2itdXzCKyhluJRjKxqTj2z7fWigNgo0DUZCY5nNjesUwScivrluWCZLErjFFFbjKLmWjnWV/X3YCRM+Pen38PrjSIbKb9fs1eTq+Q5wNm0cdx65ooon5MprYMv8AVLrwpJbTGys2jlkUdLa53I3oTz6UUUUDOfKM8ZRrP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">mdma keeps the doctor away
+                                    <div class="name">KRATOM
 Explicit content</div>
-                                    <div class="artist">poptropicaslutz!</div>
+                                    <div class="artist">Řáhol One</div>
                                 </div>
                             </div>
                         </div>
@@ -1474,7 +1481,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2025, 23:04:01 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 01:15:08 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
