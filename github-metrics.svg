@@ -1244,6 +1244,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1398,33 +1403,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EAC0QAAEEAQQBAgUDBQAAAAAAAAECAwQRBQAGEiExE0EHFCIyUXGh0RU0QkNh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQD/xAAnEQACAgIBAQcFAAAAAAAAAAABAgADBBEhEhMiMUFhcbEFFUKB0f/aAAwDAQACEQMRAD8Awdja+Wn4fHT28U0lhKQlKkKSDIFqPJY5ch11ZAsa7Jbi4tb6cnhceFpQpaQZJKiDYpIF9/qNMNpZmTtjGszYGTaZElotyYwUk0jl0fBPfn9teH1RJRniQ88xj3ZAdRkVslxSllBSpv0+r/y76IPnrQuikA7hqQNhhuIccqHlniw1jYUbvkp115YCR467/bUlWOjxckqK81AcSkoVzS4s+oPdKQBd+R3X66k7S2duGc45Jx+LfciA8ip5ZY5gX0FWOz/y9XGZtBe34qMs+/j1TYq/7e1OhSVJ48bV+OzY6/Hepnz6UIq6hs8esbRjP+I4i2R8OcNH2a9nmd0wnX1Y8S0wSyeSVKAPphXL7k3V17aNWqHu8yPgjPhR2JhiRIXyD9oa4+qUgWklXLj9p8aNX9oh8BEETNcdIxjODiRHHWXw4UuLaLQK+ZKrogXQoCu7vWt4HPwMg0I0OHChCKlJU482EHkniDQI/QH3rVFwGzd1/wBExmQaU6MezHMv1FKKfTYWOwhZFAkHwDZPjvSyZMymFnnGRmkPLU4paVpUlywv6k2v3VQN3pHZVZLqMjfQPeV1IEU97o35gbI9QDxNbn5pj/bMemOHsIb+lPn3Uf41Uc4W8sp5uDFUtxZTxDQ9R1sAHwaoA+TY9q1S4kLceckIbUoRkrCqW8tKE9e1k1f8aYNY3cO3Z6kQZSW1vMlbgbfbdbFGhZJIBs9UL1pPZg1VFKahofr4/sJVw6CW07vo952+FGhOWShP5PETFx4kuPGhhRmmLHLTRII6cocbHJPkX2PbRrS9z7FK/hlLvINiY1EOQkvpZVyfKUFxSVELokmk32PoTQ60ahr5HK6kjOCfCL9n7sy8r4eGI9lMPEjR4giIZkMqDjqUoBHE2Pq66UL71U97RZmQzDbUPHq+QiJSqOptgJ5igOSuRN/XYo2fOjRrOtyXUzXqwq2GiTzFuPamRCluRHlNNx+XJYaa5ItJr8WbPi9TjIyLLokwRP8AUZaPKQ5GQFJSoigEiwR15PYvRo0f3K4UGoa0SPL28/GPT6dVZYC5JlkyvxK3RktnToCX0paXCVFUj5FKi4wEhJNj7aB89+dGjRrqr3IisnCqVhoT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFCAEDBAf/xAAtEAABBAEDAgQGAgMAAAAAAAABAgMEEQUAEiEGMRQiQYEHE1FhcZEkMkLB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCxEDKSJU5CIr6JTBIK1eGWkJHqAu9tjvR51INZnHu5VzGtym1T2xamOdyRV8+x9/bS9NzUp1aEhRQgqPKVbePb/p/GufxbiZiZG5XzG00XCdxCftfb9aBgzLGWels+AWyIgouBTqkL9bqhzfl9RVHWcIxkWpDxmymnWdoSG0krUF9ySo9uPStRvTrq40+UuXMmPCQrypdcttvufKCLH7I/11wMDGxeTk5V2Q6pe1QC3HVUEk7lbhe0m/WrAAHpoGDRrW06h4W2oKH20aCIh42Ni4bkqaErUhBUtW0qCUjmgKs/qz9PTXNk5+HVBXJlOqittp3LWGjaBVndwew50tTeq8gvDSkbYz8p8BCUNrQUtbto4UFcpG67o+/bSV8SZeSZ6Qlwm3Zjv8tbbzm5JLu6lGgBylKCUkUOfroHFPVvTbjQcazkVtJIS3847Fm+1ivWuPqNN/TmUiZPDKdElmREspDwV5Vp9+341TST0yUOPPRpS4jgfCUsvuf41W2levJAqzX016HjusG8L0F1RgzjnN7jLbbHyVlwJLoU3Zv+tbDzftoLE5PKYXASY3jHQw/KtDVIUsr7E9gft30arn02RMdwByzzq3lIBa8RJU3YFmtwNgcdx7aNAtyfiHlIwAThcbYQAkNSlnbxSTwkgkJ45u9anPjBlXYpYlYWE8LKrW7QB8xsAJruon86NGgi2+vQiU7KX06h5yQtSnCJqiPNwQARSeOOOdJuZzOTkSWJsRGSZWwNqV+K3nvYvy1o0aCVi9bIDTJy+GEl1uvMp6uQKutpA4+laNGjQf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Buttercup
+                                    <div class="name">Hysteria Is Impossible Without an Audience</div>
+                                    <div class="artist">poptropicaslutz! &amp; aldrch</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYIBP/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGEiExEyNBUQciMlJxkQgUYbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREkEEITFR/9oADAMBAAIRAxEAPwDl6ipYbeSVuKKWJ9hW4+Gm2JbndWnT6ppi3GjpMEuzcRsYVVgQOTAjBz2696aKXI3IPITBUU7t96Btpdr7dbbOlwruK8hWe8gEZbwfLUsArHH1OBg/acdRSt1jSJ7d1n/pyxW0qji4RhGzgAOEY/UA2R0JxWpSznBO5ASjoqR0wTRQMjKcM4HY59pbQEcSO0XIkD0/WKbWgW9tpuy9cswwhF+pjjmzhVOCCT7YJ/dVW1oI5UZEQgJhWA759vx/vrWm1WwMm3b9VtBdSRwtLFAOnNlwygH8gf50rLvJZrQp/ZIp7k7bD1qHwdNkm0g6C/HzJY8zciR5a5GAhK56kkDoPSsV8WIE07ZVpaa4ltZQ6ddCBDE7SK7PGZAO2cgYGffNWe2tU1ncRtX3G09sFe5kdZkRfBljMAVkLAlPkkmPf3NKf+Q25NSG6tR2uL83GiwyQ3Ko6ozeIY8klwAc/MR19KpblW2HqPChhFlqy2hfnaTq6t6YwR+6KrHzyJOcUVtlvJtIhBc7nQWkb10mz057m4vIR4a8gQ2XYfaFzk/j/leK6+Ks+4dMv7OzeHSoDCy82k87kVPEqcgdxggDPXOaKKbVRW92MJOoxdi417SETTbW+1DWoGuXjCKvAvI+PRgCSOI6ciBmsrcrHHPJHDL4sYYhZOPHmPfB7UUUi9ySCZQvyRt37iiiiksfcKf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">What You Know</div>
+                                    <div class="artist">Two Door Cinema Club</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAYHBQMECP/EAC4QAAEDAwMDAwMDBQAAAAAAAAECAwQABREGEiEHMYETIkEUUWEjMnFCgpGh8P/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAEABf/EACQRAAIDAAADCQAAAAAAAAAAAAECAAMREiExBAUUIjJRUmFx/9oADAMBAAIRAxEAPwCMS41yQgR0NPsttpPdsgLGfx2NaOlE3GJNI+jfeQ7jPtO3/dWp/T1wLe6RBLKP6vqihgJP95GR+a4TBtsdstPXyzMOn2gNyPWUk/wgK5rzxfY3ILKW7voAwvE+axDTpV4SmXojzDrn0sdCkrCsgHKgT91ntznvmk1c5SFB1LhKVsJUSncC5gYAPHI9ue/ml9u1XBWsW7N68vDs8tJeIOVkLxvAJAJ8+asdp6c3GHNXLtkSbEKR6ampLBWSMcZCCsYx8VRjKPeSt2dPSOX7JDJlLkhLYUQ3x+n3P2xn7UVa51kvCk+g9HhDYdxC4q0cn55bGKKHjb4zfDgdGEe7z01sMSyPS4Mf1p4J2quBU6VHODhJIyc8gfPmtXp5EC58tkRLeymKktrLMEN5c4wUKIz8KyDyOK0+oN+0M1FSjU0uO+GFb0tod9wPGeQQPjtnNIFq6k6ZhXFNxtGl72m3N53zGg4pHOR+zsRyew4qzGIitrU/cX4THrdYEacWHtqJ646n239qsNsB3eE7SBncOM96u7Gn5CJDTgvdyJRgqSsNEOAfCvZnH8EGpHpa86cuXW6ZqBq+xEwsLcQ0s4HqqYaayFHgn2q/7NX1h+NIAXHkMupPYoWFA/4NBkqsva4652dQwUh1bg3b1JCTzxgZxx5orTI780V2xWTzVo3QUV67KSq3O3J9O4/XXAuLHB+ApAQPBPmqvC0s0y6EuzkJlrR7WhgYH4HyKKK0k7ErWubFfVnTK13MLVOtbLylZ/Xjj03POO/nNQyHZNU3CWiDbYxhWyDvDTUxZQVnPdRHu3nxj8UUVoMF/JyEqekeousre/Fsly0w+4lpsNoWk70bRwMuk9vySTRRRQu+HpH1JxLuz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">title track
 Explicit content</div>
-                                    <div class="artist">ceo@business.net &amp; lentra</div>
+                                    <div class="artist">mgk</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUEBgIDAQcI/8QALBAAAgEDAwMCBgIDAAAAAAAAAQIDAAQRBRIhEzFBUWEGFCIycaGBsSRCUv/EABgBAQEAAwAAAAAAAAAAAAAAAAIDAAEE/8QAHBEAAwEBAQADAAAAAAAAAAAAAAECEQMhIkFR/9oADAMBAAIRAxEAPwDzvcxgzSruEs5K7ZBx7YINWO30cJZQvexiG4hj+YKBdodQQFIYdz65wKivFsudLdo4pYZUK70H3OONx98/1W60u5Na1hEuMq8cICK7BV7ZI9OTTzWBt4TNH01Luc20wYSMGjDpJ9KNznPqO3PYiuL3RZbTEUcyrNCDA43Fh3PPHAGc/msLaO9vRHLG3Izu6ZAPHjk4Hj90/wBbtTbpbT29wJL17ZZXWBMGIg4O/wBcj+KTnPTWpLMFDfI2WnG6jaeTU9oYMhKDd/0D4weMUVl8Q3xhtLfqWJS3nBlaPwrsOCD6YwcGisN8KdTrKhoMst0kqyzlyg3RxknAbIycdu36zVmsGs7qC6mSzieUp9Gf9ScAf3VD0qTpXDtuIbpttI8HHendncSxx27Q52edo3HIx47gZqnGl9oPSfws9rhNQiSOTDSsVJjH2kkr+KnfEGn3tjHHavdJMZIgN6Lsd1znBHsRz61AhuGhuXjcDCymT6Tjb2IyMdvxWnVL24bV4b2dlMczH7h44P8AFWqYzWvSKdtjSXUFGjHSZnMcpnDNkdRYAFIwOMsc/kYorr6bV7k9R5JCzuxbPnPbNFcraOqPgsQpt5Ok+7APGPxTnS7wJqcIhLFDgKMjg8eDxzjtRRRhtMxrUWJNXkkkuo/8cHc3Tkbjv3Pt3J96r82rR4BdGmlSQO244VuwxjHHAooql9KpLQzClvBmI/hCXROpcX+prqhiZjGkKmPq47A+mf1RRRUhn//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Doomsday Blue</div>
-                                    <div class="artist">Bambie Thug</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALxAAAQMCBAQEBQUAAAAAAAAAAQACAwQRBQYSIRMxQVFhcYHRFBYiM0KhscHw8f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQYH/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAwQRBRITIUEx/9oADAMBAAIRAxEAPwCppRiOO01I4xsBmkHMA2A9UZjrjS0ojjJEknUDcBZ7W1Ja91jt5qLRR39mdO5TlTinpX+y4jM8mq5gi09tRUqgzFFNLoqGCIE7OBuPX3WemsHCDrm5Xekqrnx80w2KuvyRquct7DbbmsjcAgoSLK1Y6andBISTHu3y7f39eaFPdSp1Nfj3eesWL9kDODiKpnO3D23Pc+ioOIatT+y1DM9C6qpBLGCXxXuB1CoFVS3J8VRxXHWY7nsd/KT8MQbmn/K+r0U/D76mAqR8EODpUmjpi14v0TTONSDTjOHBMteU2kVt7H7ZvsP9QmmWqE09OZpGhr5BsLW+n90KRcwLTo/G1mqgA/Y5SbEcAgqnmSF3BkPMWu0+yEIasV9iM30V3Dq43FnyzPqA1w273PsmWG4BBSuD5nCV46Ws0H+UIRGucjW4tVxuOh7BfcdIQhCj0//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Flood Light</div>
-                                    <div class="artist">I See Stars</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQgCBP/EAC0QAAIBAwQBAgQGAwAAAAAAAAECAwQFEQAGEiExBxMIQVGBFSJCcaHRMmHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABwRAAMAAwEBAQAAAAAAAAAAAAABEQIDEkETIf/aAAwDAQACEQMRAD8Ajth26k+B7ZJP11R9t+nBrWT20AzgliRgazttCnWZFnU/sBnVv2NTUsdNwjp3we+cijP8aDTCb07tautMtTAtVhcwsy8jyzjryc4OOvlqZb+9O5KOvcJEDHjPQAOmK4101X8QCUNDTEXNapKZK2aRmNNCFywjRSFwVLH82RlsY+tl3haaealzJTPOwXHucV5Z+px4+2lxyWVhbdpeqX1U4yr9se3GX4kdfTRqtbutK06SYjYD/YH96NOQM/akNPI6+9OQcg4zjV62fRU7UPvJKjcl/S2cDXL+3LvdFlkhktEJXjlZBL0v96tnpvepqSSQTUbyw54KyMMBT3kk/TSNjT8PFqtrH4mrtMkaqsNvFQWbrtkRM/zqk7wuAstlaqjEMxaWOBFkl4Jzdwo5Ng4HeT18tJgmr33vc9wWfbdVcDNRLQSU9Q0cSsY5P8lYk5BGOsZ/bS96zb0q7VNT0dXt+poYkqElWtpyMTcRnCtx+RPec4I8fPS4qUvu2fR43xQSd5X2ouEMkysqZkdeMbiRRxYqcNgch15xo0pvuG31ltmEkkgn96RyZCe+TFvIGCe/+aNbGQcESnulzQgxV9QpHjDeNVJt+22bbf4dLU3JJiqA1EUQWTIwSeQfBz4JI8aNGiluUfSnqjDbqKKCxyXOjZZAzHCEOP1Ds5BbrvzrLvO+LXfCJLt+MvMq/lkp5uLBvu5GPt9tGjWdBykTOulkNTOY55PaZyRluyM9E48nRo0a0OUf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ten Thousand Feet
+                                    <div class="name">Everybody's dead!
 Explicit content</div>
-                                    <div class="artist">I See Stars</div>
+                                    <div class="artist">underscores</div>
                                 </div>
                             </div>
                         </div>
@@ -1433,7 +1438,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2025, 23:03:44 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2025, 01:14:57 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
