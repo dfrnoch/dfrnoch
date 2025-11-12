@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    84.2k added, 55.6k removed
+                                    52.4k added, 38.1k removed
                                 </div>
                             </section>
                             <section>
@@ -1485,33 +1485,33 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgME/8QALxAAAgECBAMHAwUBAAAAAAAAAQIDAAQFERIhBjFBBxMiMlFhcQhi4RSBkaHB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDBAAB/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhMRIi/9oADAMBAAIRAxEAPwDB8YnD7TiC3jwKBJwFErMoJVDmTlz98+WdZC+D3N1NKWGonxb9PT2pjhvGiRSjvopISkZ0SJ4/H0zU5bHrvXDDlucX/UXjQKFZtKlFyHvzrU2HhM4NfZxji3jVcjuK092kNusYyXMKM8z1+axGLteWtwkU0mTBQRpGW3T96XSSyTed2Ye7Z0N6i1vsv/ZThK3T309u7GbSFDLyXrkN/iilP05XwsMQvTOri2kVFY7kKczv8/5RTLW1yStWu+xDxN2ZwYPjAE1zLHYyeNVKgsPtzz39M6btiVpw9w+Xt7YSRxrpWP2PM1Qe02aWRxYkao5NB1soLIy88j77b1OLrBLm4URK7N6+EEH+6VKKbCTyq2BeSZ47eTX+JSXF0oVpMioA5L0pcMs+fzWyxDg6e1YrJKpYdQv5r1cIcBSY3JO4uAqQecFcm35bem3Og47HpLmSuuSifTLYW90mLpdae6ceVjz06Tt/Jopdw6bzhKUiGIZeXuTuT9xPrtRRasP1Vlp7QsNW+aIhCqruZF9amcmD3catNayxkHlmcjRRVcVkIMx+meiXhee4mg7+aFUfLUSpIX/tabD8DwzBrOYWc6a3PiYuC0v4+KKK6914zzHU1FV3h4m706WJ5rrG+XxRRRTPJF9n/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQj/xAApEAABAwMEAQMEAwAAAAAAAAABAgMEAAURBhIhMUEHE1EUFSJxMmGB/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMSEyFBUf/aAAwDAQACEQMRAD8ArXpl6fzNXel1rTBbYaLt0eLsh7ACEhCEp57PJPA7NN9QfbYWjmLPHdjiSjDUp0I53Nuvnj97wc/AFaZ6bXWVqGx6IekxY8CKXn5bcaI37bSW0OqCQAO/4dnJNVm3+nzF+tRuU65xYLXuK35Bcc5UT/EfOfNMo2Uvo88XIpS4UpIUPnFJ2qxXO9TG2bVb5MtxSgkJZaKuf8FapqiNpnTbDqbVbFT5ecfUXAnGc+G0kAf6TVFl6x1FIZ+kauD0aGFBX08TDLYwcg7U4FM40I2MpmjrwxeZdueYablx2lPutl1OUJCgn8sHg5I4PPNFM4lymw7lKmxHFl1wKCnO87vJ+Tnn980UgBKLfLvGbaRGuk9ptlO1tLchaQgZzhIB4GTniui9XdkKQ3dJ6ASCQJCwCfHmp+Fp/wB2Ay6WVj3BuG4YUMHHIx/VJv6fU4fyykFXJx14oWGiC996S0p6XcH1qHKgVKUrvHk0pbYL9xeLMNLxBQpSlOKwnABPirfpu0WxnSMyVMjqkSXln2ytYCEBCikEDycnncf0KdStPXKLYI89MZaJEl9TTDaUggp258HvjrHXeKpq/TBlZtDJvlhL9huanLi02pyRGPCRhO7GfBxnGe8fNFV8v3K2Q2hEeejJQFby0opKgrvOO+PnxRSuLXgU0boLfbm77NP3mGtiWy24nfIbUApPCgOfxVwk94NQeolRYEVTUEQXXnvwS+5ITsaJPe1KiSf66oopnFUUorOjLhEahtRbipCXYzqlNrwCF5VkjGcE8kA9jqt59MtQ6NudrnNuO28Oxm/bebcY9hWwA5UUk4V2fyHPiiinzLbHFkcbpsyfU+lrcVyW2X0qjJ3OoTvGT2UhR88UUUV0uOPw1N2f/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Words That Kill
+                                    <div class="name">paranoia</div>
+                                    <div class="artist">KENTENSHI</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAgEBQYHA//EAC0QAAIBAwIFAwQBBQAAAAAAAAECAwAEEQUSBgchMWETIkEUI1GhFiQyQoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwECAAT/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDERIhUf/aAAwDAQACEQMRAD8Az/LzVuJb/iK3lsRdB573+sCnftjDDcrFgf7fPWmAi13TvXeI6jaiaPO5TIAVx3zXAovrbThy3vdAuGjGp6ekd6iNhvaSFlUD/NQuDjqVPiueLfSXVwWuJ5C+fc0jEk4+Tk5yaJSxEsp7l8HcspxNEkkEiyRt1DIcg1a2zu/RmOKVrl3xdqmkTwrDLNcWxYD6NMYbwM9u/wACmhsHea1imaNoi6hjG/dfBqqfQbrdbxst0jRU+KKhPI23Gf3RWtNdIQPh3iW5TUrIsxdooXgVXfA2lWAGT2Hu+arrZz67DAwGPboKi8PsltqFnLNaiaLILRuejL1z/rFaTUrawjuIDapLbyHO9GydpyPP4o5vHh64R31lrwxcpHeRtOzrbq2W2fPimHbnHp1jp0AWzkkl9NR918bjjqemaWqCaK1kEjKXXvjGAfFeV1qck1wkm4lz2A/4BRp+6iWQT9GttObuh/x2C+1JkiuC6rJDGGOATgbenU/rzRSfarqEzLiRjuyC3uJORjrmikXQOI0tryz1UusvqJ6gIP3ZRj9DtV5p/LDXXZ/W1KwWNyCQAxPjqRRRROxiptFpJyy4ihnRrIWtyI9pV96ruPz0YfH5qZLyP4juJhcQ6tpYnY723IwGe/YLRRXRkySk2Z3WuUHFwsmtmj+ruISSgghJR8/AkOB2/I6HpRRRTKbDP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">"conditional"
 Explicit content</div>
-                                    <div class="artist">Ty Lorenzo</div>
+                                    <div class="artist">Musa &amp; soupandreas</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAwEAABAwMDAgQFAwUAAAAAAAABAgMEAAURBhIhEzEHIkFhCBQWUXEyobEjgaLR4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDIQQSMUH/2gAMAwEAAhEDEQA/ALo1nr+16Bu6Wr6/c5Qnp6sdpphCkshJwRkFJ5JHfJ96W7N42adZiKakuXuY6pxag4qIhBCSSQnAX6DjPtS/8S9pVPv1heRKdYKGHU7UpB3eYHPNIVltTkcpLswLQO+9hP8AugZMhXyMY8QcbnQcfWUBek0uolTy8qPsEgtAubsY3bc4znnGahZnjBYLfaBGlO3Yyks9Myflkbt+3G/G7Gc847Ulp6wtwDMlCWcd+kMfzikLUOnXJhU4u4rOfs2MfzQUzOTuGfjoBqdDaG8S7N4g3B2Dp924MPwQiQ+X2EpDiM428KPc0VWXwv2EWvUt8eEhbpXGQjaUgY8+c8UU2psRN1o1Nv4irg+xrPTURLRcRIZcG1KSV7t4CcAdx7Unz4olWCW2vI8hz6Hiuo57TTklla2kLcbJUhamwSg+xI4qs/EHR6lzlzLbHecjzfLJajo3KQs91gYPB9eOD+aDmUkGobjZQrU3kpBGjr/9JG4iXN+n/l9xj7/6W79Ocffd+9Tduhpi6ZhpSSR088/mrhbssg6G+nfl5oglG3lo9X9W77Y7+1a2itIdGY1IuUd5EKBgMNyU4U4vuFKGOw/HJ/FAVWZhGTkVVaz9iZ8Odzfk661FE6PTaZjI2kghRUHMHI9B/airjsca1nVM6dFjtIuLjSUPPtpwpxO7I3Y4PPr396KdUanOL9tyclRX35G8uJS2B5QlOT755rAwXs8SFDHY7P8AtFFaqZ6i7noEPhvb1T1Ptt/fv2qNmWaa/u23FSArO4dHOf8AKiiqoSVc1dN6Zk2a7PS1TxJQ8jYpKmtpHqCDk+tFFFX5LAAn/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQBAwUGAgf/xAApEAACAQMDAgUFAQAAAAAAAAABAgMABBEFEiExUQYTIkGRFDJxgaHh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgMBBQD/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIRAxIhMVH/2gAMAwEAAhEDEQA/AMGLSJprZJoxGYz0G7nisjUbYyiFI1DSGQABRk5wa27izXTbiGFJZpRcAFDFgBhxyc/mkrhEkvYI7FpXuTcbF80bcsP9rnAjOnVOR6zJtbG8vL9bSGFfOZ/KG7I9XsDxxzX0DVPBOk6Z4em0+eY3OuOA+7dsjU5GQvPb3PWuTJki1G/E5jW4aVtygYQNk8A+wrL0+6ay1IvA7C1mQNKhJYRknGfkd6tXEkOSrRxjGp6XLY8vLC+3A9D5Ioqb69MW6Ke3QxK+4lE29Rnvzjr+6KLX5ML/AGdubXfZWUYW4RIkwpgVEBU4I6nGOB7VXaaIJZ0vbaeGOa1nFwsVwMb1U5ZiwOOhzg9aq1DUTBDp24ZQ265YD7QOMkfjmkbk3Q0C3v7icJ5k0qqqYy8ewHd14IJ6HriiX30R12joxnxPoT3Elxfw3MDS30pZYSpX0kcNknGeOlc5pug3kcsTTRpEIvuZZV9Xboe/etC0mNzoGozrdL9TbtBwV425YM3yR09qSe7uYkdJnO9VUl34VR3/ALSLMzke7rLtYsY2mjjmeVXkw7ISuCMEZJHfGKKsvdTMd3b5YHbbqMjjcPainXUkLGMiSSSUxfVRXB8pBHGNp27R03cdfmpubk3EKQTyxNEjblRnUc/PP7oootA9Sndnh2uYYWKyBIpBhhuG1x2PODSc0U9xGX8kSqBxgA8UUUQnt2JvMs5V5pYImRdhjkJDnHYAEf2iiirVPElZ8z//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Synthetica</div>
-                                    <div class="artist">Metric</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Everybody's dead!
+                                    <div class="name">BMXXing
 Explicit content</div>
-                                    <div class="artist">underscores</div>
+                                    <div class="artist">mgk</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQHBgEDCAX/xAAwEAACAQMCBAMFCQAAAAAAAAABAgMABBEFMQYSEyEyQWFRcaHB0QcUFiJDY4KRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAwQFAP/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhEhMQMEEjJRYf/aAAwDAQACEQMRAD8AvFzOtvA0rhioIH5Rk9yB86zf4+0HniTrzdWTPKnSIPrv8q0tyeW1mI8kY/CvOHEtz9ysbOfoySTC4Tpuv6bb5PoR2x61pJqsoi4oKWGXe14r0m4hWRZZV5vJojn4U2uuaewyJyf4N9KnfDMsGqWaXEPMAfErjBU+w1t9N0VJ4x03Demc0HWy1DpFLLdH24ZFmiWSPJRxzDtjtRXKR9KJIwPAAtFKUnSdHXfsFsbgkHHTbYEnb2CohPNGukzjBd3XpqgGSWbsBj31cLvvZz98Dpt/hrzfp813w66y6lENQtolAhuYlw6DYhxtnHnTxqmTcEU39H+GYje3b2cCyCTJZnZsIoHoNzVh0q/l0S0gjtY3uCx5WwNj7fQVK/s9nW4udSvUUqjuAoO/fJ+lb1Lkqu9Ck1TL8Kjdm7RzJGrtjLAMcGiltLk6um2z53QUUDKn5MYZBJGyN4WBU+41nhwToQiKC2kAP7zH54oooqTjoCbjoasOF9HsYylvaADOTlye/wDdOjSdPHYWkWKKK627bD3y9jMUUcESxxKEjXZR5UUUUouz/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAgDB//EAC0QAAIBAwMCBAYCAwAAAAAAAAECAwAEEQUSIQYxE0FhcQcUIjJRkRUlM3KB/8QAGQEBAQEAAwAAAAAAAAAAAAAABQMGAQQH/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQACAwQRIQUSFCIxUWEyceH/2gAMAwEAAhEDEQA/AOcUilmE7RkkRDc3Plmn3S0yNqjeGRnw2P2444pPYOyyzKqq6spLZfbx7n0NOfh/YzX/AFSllahfFlVkXJyByO5HcVKS5BCToS2KaOU+cp9d3hWQxw914Y5zz6Vm+bnUg793oRVXB8MtRm025udGu4tRnikZXiC7ASCeVYnDe3BqJlgvdPu3g1G3nhkHcSIVx+665h2hOt1YTEZ/FS2zpeRRtGx3Lw48x+PeikvT8jfypCNxtJP7FFQe3abBaCin5MW+3pR1qge5lOyVwucbAOD2GaovhooXrBIWke3WSOSDxM4ZNw2g58iM1O2rMJ5QjLubOFYfd7HyNM+j1P8ANsrA/wCNs58uR3pB5sCVgKWISuZH5K6O+Heg3vSMt2ZtRgnhmUAxRQY7H6WJ3d8ZHt/ytnVXUWm2llIL2SGdUyy27hSX57Bcevn5V8SfUJ4rmG0OoyxoR9W+UhAPySTXn1ZrVg1vBp+ibpUi+qW6YY8V/wAgHnHvXLZNzcBTnpONMWOPZUn9NLcpJaWsUN1ID4nyylYxySAMnn9Cik2iMl7HFPnhfuA4KmijZLudlehabCIadojyDnupLpuz0Oe1vX1jWrrTboErFHFZmYSL/sD9PPFbuntKt5Oqpbfp+5m1C3FvlHkj8J2JxuAQnJweOM0UUjL8CsBpjjymeit/U1m8ECpPC63G7KgrggdjmkV3pt5ZqhuraWAyAMiyLtZgexweceuMUUVKA9ISOt5qnerJzNPpFpbLJo76sl7lQRME8M885xRRRVi0HJCPjqZom7WPIH2v/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Naked And Alive</div>
-                                    <div class="artist">Milky Chance</div>
+                                    <div class="name">Pain</div>
+                                    <div class="artist">Magnolia Park</div>
                                 </div>
                             </div>
                         </div>
@@ -1520,7 +1520,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2025, 05:05:32 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2025, 07:05:31 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
