@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    579k added, 558k removed
+                                    42.8k added, 38.1k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.20k views in last two weeks
+                                    2.21k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1462,35 +1462,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMI/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIAEQMSITEEIlFBcQUTFCNhgTKS0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERUf/aAAwDAQACEQMRAD8A9UxErkNIx3/UCSaqRrWrvaYUcIPukr5BNnxcZAFDKFLpQB34FwNmPIrnsYGvSJn+HKNLucao5NGvHpEDWWAG8yZSz5AFFqTufx4nXqB/G7IvcAzJl1qGvUt3vdC+YFs33nsBaGxN71LZlJx9jaG9/T2MjpcTIurKSzVZr1/Mtm1MGAUEUQu/J9+YHbpMfy8IBbWx3LeYluns4gzWGYAkExA6yCAeQIiBxPTYyzHv7ue9q4ri9o+mx1Xf/dv9iIyK29Xx41QnTq/bExERibX/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">burbank house
+Explicit content</div>
+                                    <div class="artist">tsubi club</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACoQAAIBAgQGAQUBAQAAAAAAAAECAwQRAAUSIQYTMUFhcVEiIzKBoRQk/8QAGwEAAQQDAAAAAAAAAAAAAAAABQACAwYBBAf/xAAkEQACAgIBAwQDAAAAAAAAAAABAgMRAAQFEiFBExQxUaGx0f/aAAwDAQACEQMRAD8AmlrqSE/9M7RekLee2OTmmXcyCNamUyzG0cYgbW3ofrGX4ln5UpJ3AUn+HGtpXoaeaunqoYoZQEkmmYXRV07KCdwe9tjfzi57ExiKgeRnNvZoNczGybqhjSLLZZE1cwJ8K1rn9A4UVmYU1E8S1n+yESEhXemYITf5wrr+NREy1NFlMZvsHcAM/W3bYeO+LSZ9T8R5ZUsk00dREoaanClulugA3322/eBr8owsKbP1jF46eNgdlSFP4/eW6TMKOqLCmmkZl6h4yve218GFENNJl2fTU0u+qBJEbTbWp777+PBwYJwyNIgZh3OQzwqr1GbGLeIQsWawGYfbsC23v5wx4rqpJMvnblSR3lVXj1A6R1HTYb9hYeL4i44o052gsCdAH9OJqqqhNXUUUMTyTsw1QsvLFiASy7AkXvZrdeuIOQhMhUDyD3wzqSVrq9XRHbPNs+mzKqqUlUTNAFURlR9Abqb+feNNwVQ18vENPXJVpHRUv3pRHcXW5+k9N7/P9w6bLKQRyxwV0kVHKpMi6A67AfVq6jY+/jHeUk5TFIMmoXqaWoYMec6rZl/IAHci1uu2+A7a5QL6vbp8/eE5+SbajZIVtmHkf3HedMs+dZY4dpHkpHcuRYlS4I27dTgwuyVK6uz2aszCEwxOjJCTKH6MCV+dr+t7dsGD2v0tGCDeVLZDazCJvkDNLmXDUeaVayvIQALFbbHr8YrNwBRsY25ra4/wbW919G+2DBhPM/xeCBv7CDpVqGMU4Y0TiVZxqC6bWNj7F9z5xQr+A6OvqedVyu7kaTZ3At61ecGDGvfVdjGx8jsq1q9ZNl/CNDlUzTUoOthpYlmNx17k4MGDE8bkL2zMm1NI3U7EnP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">HOW 2 GET AWAY WITH MURDER</div>
+                                    <div class="artist">South Arcade</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAnEAACAgIBAwUAAgMAAAAAAAABAgMRAAQhBhJBBRMxUWEHFSKBwf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQQA/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhMSL/2gAMAwEAAhEDEQA/AKEZSq24Obws7sAosqeOcTEziiLK/d57azFp6Vxfb8gefIzk7nQ8G+54rZ+L4GaTbH+AHnCU99hnBr4FecRlegbPnDxN9NQxM49tj4+cMUeTuCi+PjDLSxHmJrKFiYD4Izq9L6Mvq3rOpoQsEl2GCAseM4HNfv7kh6Dn3oeodP8ArUgbfaQLC0wJCk8XX+8aS4yoLZLSfyfxl6xHOVaXVEQTuM3eaH2Kq7yveo9WHS3Xgh2ROqr3e4BQJ/Mn3XHT/WL725swbcs+tIyUsMpXwLAW+AD95Wm6ZpWVJolDICvAqz+/eBXHOtjWxjHiWGQDQC2b+RhjupEUhXu4Pk1hkytxnK5HNg9PlYEtSA+Tkn6Qn1en/UU3pYhtTpXti6CH4J/T9YYZllkvClNp6ifydeJINZigAZW9xb4Y1x/3K29QaKbYMqoYx5v7vnDDJ1+CTslNfQo+zEhAYmiausMMMRVxaCw//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Stop
+Explicit content</div>
+                                    <div class="artist">Ekeon</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Everybody's dead!
+                                    <div class="name">Heck
 Explicit content</div>
                                     <div class="artist">underscores</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMECAH/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSEzEiMlEHFUFxgZFCUmFicqHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAQEBAAMBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AKDTl5cEEDFdGezfV7TXOH4pUCCWHlilj/Kygf0dq5pEy7eM5pxwbcavHro9w3MsMuxkKnw8uQPEDse/aizwWdusIprPqmPqxCUnt/lZLh4bZXmkChUUkn0FV9bW1zGlyBMhk5SxbJJc/qOw7/Cqt40424jvC+l6jIlpGiBZIoT5wRkZbucj0xXLP01rj6I/aBqjcR8WXF8rKtuG6cKgfgB7/U70UkMylwP3CiuwSPKiMz+UDJp3pFxHo5tb+G5bp3JAdFG5xvjPoDSCeNpoHUeY15IqxusUchdI1CqSuBnALbfPb6VWdxS+rjseO9DngSykjmtJzkx9UZVj6hwSDVW67Ib/AFaadpGlBPKrH0HaiwllihboyvHk78hxn7VjCjmyFHbvWc5kN1a02t1VsrnIordKDB3P2orQSntUhs4ZxfW8rS94IyxeP+QIx9jSiRsTPjOM0UVJuWkxCYznepwToJB1Qzp6A4PbaiipJ3TxLzdKRdifiTzfLaiiimmv/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Think I'm OKAY
-Explicit content</div>
-                                    <div class="artist">mgk, YUNGBLUD &amp; Travis Barker</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EAC0QAAEEAQQBAgUDBQAAAAAAAAECAwQRBQAGEiExE0EHFCIyUXGh0RU0QkNh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQD/xAAnEQACAgIBAQcFAAAAAAAAAAABAgADBBEhEhMiMUFhcbEFFUKB0f/aAAwDAQACEQMRAD8Awdja+Wn4fHT28U0lhKQlKkKSDIFqPJY5ch11ZAsa7Jbi4tb6cnhceFpQpaQZJKiDYpIF9/qNMNpZmTtjGszYGTaZElotyYwUk0jl0fBPfn9teH1RJRniQ88xj3ZAdRkVslxSllBSpv0+r/y76IPnrQuikA7hqQNhhuIccqHlniw1jYUbvkp115YCR467/bUlWOjxckqK81AcSkoVzS4s+oPdKQBd+R3X66k7S2duGc45Jx+LfciA8ip5ZY5gX0FWOz/y9XGZtBe34qMs+/j1TYq/7e1OhSVJ48bV+OzY6/Hepnz6UIq6hs8esbRjP+I4i2R8OcNH2a9nmd0wnX1Y8S0wSyeSVKAPphXL7k3V17aNWqHu8yPgjPhR2JhiRIXyD9oa4+qUgWklXLj9p8aNX9oh8BEETNcdIxjODiRHHWXw4UuLaLQK+ZKrogXQoCu7vWt4HPwMg0I0OHChCKlJU482EHkniDQI/QH3rVFwGzd1/wBExmQaU6MezHMv1FKKfTYWOwhZFAkHwDZPjvSyZMymFnnGRmkPLU4paVpUlywv6k2v3VQN3pHZVZLqMjfQPeV1IEU97o35gbI9QDxNbn5pj/bMemOHsIb+lPn3Uf41Uc4W8sp5uDFUtxZTxDQ9R1sAHwaoA+TY9q1S4kLceckIbUoRkrCqW8tKE9e1k1f8aYNY3cO3Z6kQZSW1vMlbgbfbdbFGhZJIBs9UL1pPZg1VFKahofr4/sJVw6CW07vo952+FGhOWShP5PETFx4kuPGhhRmmLHLTRII6cocbHJPkX2PbRrS9z7FK/hlLvINiY1EOQkvpZVyfKUFxSVELokmk32PoTQ60ahr5HK6kjOCfCL9n7sy8r4eGI9lMPEjR4giIZkMqDjqUoBHE2Pq66UL71U97RZmQzDbUPHq+QiJSqOptgJ5igOSuRN/XYo2fOjRrOtyXUzXqwq2GiTzFuPamRCluRHlNNx+XJYaa5ItJr8WbPi9TjIyLLokwRP8AUZaPKQ5GQFJSoigEiwR15PYvRo0f3K4UGoa0SPL28/GPT6dVZYC5JlkyvxK3RktnToCX0paXCVFUj5FKi4wEhJNj7aB89+dGjRrqr3IisnCqVhoT/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Buttercup
-Explicit content</div>
-                                    <div class="artist">ceo@business.net &amp; lentra</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAIEBQMBBgj/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMABBEFIRIxQWEGIlFxkbHB8BMUM6HR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAfEQADAAIBBQEAAAAAAAAAAAAAAQIDESEEEhMxQTL/2gAMAwEAAhEDEQA/APm+SEm5YKOInOO231osZyuMYKGrzSRRuJRxHYscjcch/tRee0aNAqOxHyB0+lL2YFb0uCnLAyRBiD5sqDj87VYhswLZ2yeJWXYDoRz+2K83N9BJMzJCykbAFsjOPw1YtJHuY5AbdlRyCXQHbA+MdaLJVUp5JOuZWBBULjBNK6XIMUTEKzqoXIPXalRiZTrlF0aKr21ws8iLPJ/GVbiUbgnJqNppVnHqkclzcB7VJAZEiOGZOoBxgH+qywpPF5GAqCvGtzCzTR/ok5cIpLLjpv1pSdV6BjjJT0qPdvF+heGrRrK40sXDfuUE5Rm8mCCPQFTnpy271k6Le2ulRXERghujMjIrS54lzzIwefvU7XV49NMdzf20iLJlVVtie/tWFd6kNS1Wa8VTHEzAKvoAKt46if1sb1GF194NgSxu/HGsYC4Yca5zvkAg7Y6UrIS4YBR5jsRy9x96UO9mN4q+B5WYbNy9MVXNrC7pm4wzNlsjYH53pSg6a9GvG+18FK4sJJZMiXiA239O1TtkuIF4Q3l7ClKs6bRby1S0zuWmHMKD7UpSgiJI/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">December (feat. Weepings)
-Explicit content</div>
-                                    <div class="artist">JOLLY WRLD &amp; Ekeon</div>
                                 </div>
                             </div>
                         </div>
@@ -1499,7 +1498,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2025, 17:04:01 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2025, 19:04:24 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
