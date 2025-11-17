@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            13 Pull requests opened
+                            11 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    51.8k added, 36.5k removed
+                                    571k added, 561k removed
                                 </div>
                             </section>
                             <section>
@@ -1291,6 +1291,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1462,33 +1469,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwf/xAAoEAACAgEBBwMFAAAAAAAAAAAAAQIRITEDEhRBYXGRNFGxQlOSwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD2JdbLSxl13Eell9jQulKtWGslGrAy2lJK3eoOU64vZ5+h/KAHZaPBSLSivUCaLIWpXbX9HmwOMvUQ991/KAmnxEHbrdfPqgBZOab3IRfeVfoKe1+3H8ufgADaeMp+C338AAYlG9opW8KqoAAf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAUIAgMEBgcB/8QAJhAAAQMEAgICAgMAAAAAAAAAAQIDBAAFERIGITFRQZETIgdxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwQB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A7q3ECUjAyapXFV76pi0r9QDVWUk9jNX0y4c551yKTx652CDDtxnybtJLCU766JGNlf4Dn11WwhPeNT9VFe7Hkcnlc69N3CSi4svqXHd/McoSQVYGegAnrHj4xUs4OXosdbhClqaSpRAxkkDNR59PbZbpy8JGOllxSjqBiimyUDHdFWJYi8VBOPVeNrBcT/dYbctDnSiKW8hnmBZbk+2HFPMxXHW0tjZSiEkjUfJoAiXyW5SHOXzUW2QU26RN0DmBqgnKSnYjzjPXqpgW/VqM0j5QhKfoYqKsqyPwf4t4sy7GULjcr3+ZxK0kOAa6oBB77HdSfXIQ0DsoVOJwrdehg48cYFFKF3JrwFp+6KcQ0+DygfqFqBGAfNMJV5anR2UNSA0oLCivvYJz2AQeiaKKIp6jtwsZicqbReGoD0aQy1NhyW5CXHEbBep7CgPYzVm8XxzVejQwPHdFFNTCUvhps3kBSpW4WggfBooorO2zR5R//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">uno reversinnn'
+                                    <div class="name">Copycats
 Explicit content</div>
-                                    <div class="artist">poptropicaslutz!</div>
+                                    <div class="artist">Danny Brown &amp; underscores</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAf/EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUSMRMhIkFRgQYVMkJhcRSxweH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAACBQH/xAAgEQEAAgMAAQUBAAAAAAAAAAABAAIDESESBCIjMUFR/9oADAMBAAIRAxEAPwDikmq27Wwi+U2QfpdPqYbdnYF3c85G79mmUWrCFBMNEsEicHK9/EC2c4/HH6rMSwzROFlRo2PrV5ruW52q+AFAUADkegpsQNs40bIHSRSyLHcBmXci44ODTNZoZQSsilMcY4pdLb2kLyR3DTbgcZx29u1UpswOyxs4jb1596g83ALpa15Ogad8SadDofy59D0h5um6m8kQmbcT9Wc4yM9u1FYG2kG7BfAPOTge9FRoW7udrmaHjrcc6vqUF5Njo9Ne4IJBbOPIY/2oNEV574QpIgIXwh/UHOB+at/Ed9ayXa/x0R5WXMh8lNQaOVmu4RbssDIGY72yOMZH5yaonxsaL6uajKbFvbANGJW6u2Q5BDA8cVmdZEaSARqo7+QrTXVxJBbRlTAwZiTJF2CL5ZIHPtWP1Ilb1mkJcP4huPlQ8K/TK+opXy8ieWrIXUSKSn3YOKKZ2DwQRLtTL4JJz/VFaNMHOzLyZvdwiu3jSS16js7MG8S+Z/5Vy2UQSCQviRxiJs575yD28uRRRSmU1Q1+zXxd7/JetrqeBXZV2n7sj6v8rO6rcm4u+o3BAx3ooqmgNxds2t2FrdiMbSRg+1FFFFpmsEHbFVds/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMI/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIAEQMSITEEIlFBcQUTFCNhgTKS0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERUf/aAAwDAQACEQMRAD8A9UxErkNIx3/UCSaqRrWrvaYUcIPukr5BNnxcZAFDKFLpQB34FwNmPIrnsYGvSJn+HKNLucao5NGvHpEDWWAG8yZSz5AFFqTufx4nXqB/G7IvcAzJl1qGvUt3vdC+YFs33nsBaGxN71LZlJx9jaG9/T2MjpcTIurKSzVZr1/Mtm1MGAUEUQu/J9+YHbpMfy8IBbWx3LeYluns4gzWGYAkExA6yCAeQIiBxPTYyzHv7ue9q4ri9o+mx1Xf/dv9iIyK29Xx41QnTq/bExERibX/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Drown</div>
-                                    <div class="artist">Rain Check</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAECBAYHAwUI/8QALBAAAgEEAAUCBAcAAAAAAAAAAQIDAAQFEQYSEyFRMUEiUmFzFBVCcaGisf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiMf/aAAwDAQACEQMRAD8A+ppZEijaSRgqKNsxOgBUQ5XHgbN7b6+4KXMqXxN2g1sxMP4qh2OLTJ3sFuzhY+Ys/L4A3oVNNxZGXo5fGg6N9bb+4Ka+axiDb39qB5Moqs8S8N2dla/i7ZWWOMASJzb7fMN+9eHDhrq/gDWCRNbn4SJG0d0vYqddspW31+TT4ZY54klhdXjccysp2CPINFRcJAbbEWkDgK0caqQPQaFFB0iM4gZkwd+yAFhC5Hf31Wd8A2uck4iWW5tkjx6xmTrLLzbY9uTWvXR39K0DimTo8OZKT5Ldz/U0/ASWUmJtnxkiyWpQFWU73+/1rNuIsl2Q5MfGc83jZslhL2zju3hmnB6crIrdM72Ow9R29+/1qq43H5nFouOu7pSV5pEu44uRXOtcutn09a0CoeWAOOuC36UJB8HVVw9ma7fXeoYgs2LtS+ixjUnXnVFJh9fldrruOmv+UUpbyqMqYpJM8Mc8LxTIrxuCrKw2CPBrhj7C0sEdLK3igRm2RGutmiitTMliuVwiSRMkgDI/wkH3B7UUUTYixRpDGscahUUaAA7AUUUUADCJ/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">90 DAYS</div>
-                                    <div class="artist">Aries</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAv/EAC8QAAIBAwMCBAUDBQAAAAAAAAECAwQFEQASIQYxExUiQRRRcZGhI2GBJTJCQ1L/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAEQMhEjEEE1Ei/9oADAMBAAIRAxEAPwBf0LbpAqrc6lpFaTcrCBxlmPIJxjG48avDC4wVIit/wezanDmXcMqCc447/jVD6LhuMdVAuKjyiJ0ClCAm7eOCO/c61yybGnLNjOE+21dBzM2UhbqOCDGL7iOv8/hjhH9NjZ1/3zOmW4/tyeR31Cq6S/IkhuK0yxBWY+G8meASO5x311k6ees6hv8AW3OemrC8gFPBVlmhij/yyF98YwDx/OmFht0hs70hnUQzzStTYcyLHAR6QCecY5A9s40bg1EhzqVsCrUbmRUc3mV7OyUyFQ4Ppx2Az+c6NWuHpiHp6+s/xUVQJHfG2MoVU+2MkH66NbfjZA6XcE6i9T30zRUdZYIfK5aZLnLEDG0o4D5VgdwHDYB4A99JK3r+vtF8qbXUxCH9GNYJEGXLFVw3PHI7Z4zrHVuFZHTLJHO0CPJ4qJG2wBhxlQO3BI0wuj/EWGjrKi5NU1rMY2ifJaJBjaST7HnHyxoCJzP6MQcnrAPG5p09dd7xPdfK6xhKyI0oqgDvTDA+n/rO3kfXVm6S6ravpWp2jhjmo4TgRtlGUAgY9+MY1Wrf1nHabHFVXILWmqQbXpKdYwjqPVG/bnBU554PGlL9VVlZPNNYqWKKFoSxkqIlGWUEyKH7ngjgH+OdGp9rFu+NgSBJFy6ukqauFKmOOCt8Z43iVSGBUgDv88nj9tGs787QdRQ3G4wv6ZRLIsTndkHOQT++jTsZ9a8U6mYzEmJbfVCaMwzIH9BCse6jGulPIkiGKQ4BHH19tGjXOpNySNnqMqGslqaaeBXWOCGPxmTJw5HHHtnB+2pcFTPeYaC1mqFNS0SySeK2SEViCxwPsB+fkaNTCiifkcGLLv5K91E1FDVrHQTSzqg2tJIuN5+YHsPvo0aNVXqCY7n/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">It Boy
+                                    <div class="name">burbank house
 Explicit content</div>
-                                    <div class="artist">bbno$</div>
+                                    <div class="artist">tsubi club</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECCAP/xAAzEAABAwMCBQICCQUAAAAAAAABAgMRAAQFBiEHEhMxQVFhFCIVFiQycYGhsdFCcpGiwf/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRITEE/9oADAMBAAIRAxEAPwDnMS4rnMgeJ8D+ayVmISQEjzWXJgCdyd6avD/g1e6mZddyr11ikIA5Ertx8widiSO0jx52rOlp685qtdKrw01ddaSzi7mzKJuGiypxTYJQO+xI27fnT8x3EJX1XvMjjcnbNu2f269auCoqKQIKBIIPOeUCO3pSU1PoF3Ruq38beXbV610EvMvtJ5ZBJmQZg7R3NRVslplfOStds6ek63O0HaCPPt6GqxWLDBZJWS1EVKbrI3GRfQhttbil9NAhJUoyEj2E0VtjWW2bK7VdNKPQeQASn8ZEzsdqK6KWdGtskpcLbpzQaj0cjmbhpFiFgo6C0rLv9pJCY95IjsDT4x2WTe41u/tn3nHXllhTayQhEEAcpI+YRvOw9Kq+Wz2jlZBwXuk7lbyVNpS45dh1KSvcBAnbYzEftTHw/wABkW0Xb1uldnCGwk77Ekdo8RHb29aMUl4LbNz6xHcYHurqwKBM/BhP+6v+EUvMQtu5U7bOE8qlHmj0NXzi8Us6zeYACS20U8oPYSCB/g0uMBKcktU9zH7/AMUxFenlkrmba2tW0gMtAkHl+8SdyT53oqQzWNUzk72wIIWFdViQASFbge0jb2NFSlF7w3/PbWoZL0Z3C7Rlxc6cuNV5+DaktpsG1j5lrbBSl0+ISJAnvFOfCWSk6UwKukGnnFFQQj+pKTKR+O0/maKKePhkueyZztxTvG8nxKyirMqU1zcsxO5SCf12qjWhLF0I2V1VfptRRRBixG2XuVfSnWCirmSIUfNFFFEkf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Gedosanka</div>
+                                    <div class="artist">FantasticYouth</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgME/8QALxAAAgECBAMHAwUBAAAAAAAAAQIDAAQFERIhBjFBBxMiMlFhcQhi4RSBkaHB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDBAAB/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhMRIi/9oADAMBAAIRAxEAPwDB8YnD7TiC3jwKBJwFErMoJVDmTlz98+WdZC+D3N1NKWGonxb9PT2pjhvGiRSjvopISkZ0SJ4/H0zU5bHrvXDDlucX/UXjQKFZtKlFyHvzrU2HhM4NfZxji3jVcjuK092kNusYyXMKM8z1+axGLteWtwkU0mTBQRpGW3T96XSSyTed2Ye7Z0N6i1vsv/ZThK3T309u7GbSFDLyXrkN/iilP05XwsMQvTOri2kVFY7kKczv8/5RTLW1yStWu+xDxN2ZwYPjAE1zLHYyeNVKgsPtzz39M6btiVpw9w+Xt7YSRxrpWP2PM1Qe02aWRxYkao5NB1soLIy88j77b1OLrBLm4URK7N6+EEH+6VKKbCTyq2BeSZ47eTX+JSXF0oVpMioA5L0pcMs+fzWyxDg6e1YrJKpYdQv5r1cIcBSY3JO4uAqQecFcm35bem3Og47HpLmSuuSifTLYW90mLpdae6ceVjz06Tt/Jopdw6bzhKUiGIZeXuTuT9xPrtRRasP1Vlp7QsNW+aIhCqruZF9amcmD3catNayxkHlmcjRRVcVkIMx+meiXhee4mg7+aFUfLUSpIX/tabD8DwzBrOYWc6a3PiYuC0v4+KKK6914zzHU1FV3h4m706WJ5rrG+XxRRRTPJF9n/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Words That Kill
+Explicit content</div>
+                                    <div class="artist">Ty Lorenzo</div>
                                 </div>
                             </div>
                         </div>
@@ -1497,7 +1505,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2025, 23:03:45 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2025, 01:14:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
