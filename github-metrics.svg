@@ -1415,32 +1415,35 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUBBgIDBAj/xAAxEAACAAUDAgQDCAMAAAAAAAABAgADBAUREiExBhMUQVFhIlKhByMyQmJxgbGSorL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8rKpYgAEkxt8LP3+5m7foMMekpIn9T2qU3DVUof7CNlTJehutQWOJKEhvNZqnge+fpz5QCtaWobOmRNOBk4Q8Rj4afr09mZq9NJzFgtyvS26rrKVzKlVQFMrzBnQSdTLnHOFAB88+W+DpqSJl7plBdJ6zl1tOG+S3l6H6mArjo0tyrqVYHBBGCIIf/aFLErra9oMbVk3/swQC2xVDUl6oKhc6pU9HH8MIt9ssVT1FT3OZLMsJQDW0hjnUXfBcHnA3Jx8uBzFGkZE+UR8w/uHlHe6+y3HxFHNInKWRtQDB02+Fs8jPlAWxp9G1tIFtmqjUa29ZXLCaJgfvdv0/NnPJxHFcbDV9P3CxHuLOeslio7cxs9pg5AbPIBGGB98RA6xtplSy3S1qWqYlw+qb2g3GTK16fL0x7QmvF7rr3d/HXFmZmZUdBsEIGFCgbAYGwG2NoBZ1NWPcOoLjVTAA86omOR+7GCOGpy1TNJzkuf7ggIQEsoXknaNrTJuQDOf/IwQQGeuZsO/M34+IxIM7uaDPfnT+I8wQQHZJttG9rqKmfd6eTWSmYCkaW5d8ejAad/cwQQQH//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDBP/EADEQAAEDAgUCBAUDBQAAAAAAAAECAwQFEQAGEiExE0EUUWFxBxUiMjMkQoFSYpGhsf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESBCFBMf/aAAwDAQACEQMRAD8AqKTSqQ/TKUJECO86+wha1q2J1C/nhbjZBnO5uTSVoaQLlS3NAKQ3/UNv498OlNlGl5IhVKUGBFahMqF0q1H6QNrDkk25t7YnAznDzNS6qaey/HqUeGBZenUpnWnUUkckeXr3x5nbjSJ18gkAy0by1kn5T8mvA6pVp6utPV1catXn/rtbCI38N1R6xUabNlNJDWhTD/R1BSVHY29hYjzw0VWn06VET0KauO8NW4Ufr2BvqO3qRbEZmcaRQqTRFV6nOVGouxNm9KTpaC1BKjq23HHpg62cfh3ZdtaqNlXmH4bU6l5J8epCzJQlVnuoCHTpJB0eW3bjvfBhwqJptYyRPrFIjMoiOQX1N3aCFIOhQOwHPb/hscGFS1/sHAZSsV16XQctUGU2FRqpBLLjiQAsaWk2IB24J7b4QqRUGvh9nKdCSWavGWjwkrSgpNjbUEf3DjyOHGmyESMqU99shM+JA/S9MXIWGNJNrdhvb+d8ZaajLRV1VNSdUxMlLzjpTupRN97Dbjge2KqXrofIlg5wzQq7XZtMmQW53i0qkMhlpekWU2ogbJA+7TuQd9W3GKKpVCP8RM4QIRLNHiIR4OJdBWQB9oXb9x48hh9n1ZMtuPmSXBivQ2EqUy+d0IKrAuaL31XFrEetr4xmPUpnztFSbGiV4gvNuJH2rCri1+fY3vxjKRvsDCJXkAjPeibcuvPx6HmnL8FpPhaRADLbiwCtQU0q5sNuAO22DHkmvIYyxNeWoePmU/VKKh9S1ljSDbtdN1W57m2DEJ7mOvJyLMDOUOLkhpCGHE1NqIYzZW2dOm1tWrjz74RHpio8Vt1uU0uSsJuUqSSk3UTtx3AwYMdVaAE59hWOWA2dU1Fro/n/AG/j6ne9/a/b33vjq1OZWwSX2gvndwDfYnb/AD6HBgxeCHsfKlnSmTMndTwzhqi4Zhu6GrhAKbFQVxzp74MGDBpUoitYzYTP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">lifeline</div>
-                                    <div class="artist">ericdoa</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBgEDBwT/xAAsEAACAgEEAQQBAgcBAAAAAAABAgMRBAAFEiExBhMiUUEycQcUIyRCUnOR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgUD/8QAIBEAAgIDAAIDAQAAAAAAAAAAAQIAAwQRIQUSFCIxQf/aAAwDAQACEQMRAD8AUNuEL7fFFFj47rlOe0lMallNm+S+CQB9d/vpbn5by5wkkxygyLj/AKU5VAQ7kqzKLBtj1+2ke+5JeSVjkKksTe38YyF40PBI8deKH3pJHus2P7UIlslwUDpy7P5B6rvWcKN9Ec+T31P8lixpnx9vQTYYkxMd+cIkAIs9FSburN+OtZ3NZsnGSPiIJXr2l5ABEuxQUXVCqPZ896URZeQxbFeZfaU8miX9PL8n7/8AdMJUzsTclhziwtEkjPfxQ3QIA+voa5MmjuMhvYd/J7sSOGHEDwYZzHenmjVkIQgAE0DY8eDXejW19yDxwY74jyTQg1asFlB66Io/VaNc9E9Ily4HNyurD/d7ZJhpJO2VEWGOR7hauSkHqj2D+NY22Q4e2bq267actHw1CPzW8YyOPbcA/wCVL0B3Rvxp76fkk2OaSSBUmkaH2FMtkx/MNa0R31XfRs2NR9Y+oI8vb8YTY0WOYZmn4wtTzyFVVeTVdKA5oeC5ojWkjoTqZVmPYi+02+gfUmNNvm2zb3ta5E6cmTJjjJZuINAKPjyseeuu9dH/AIr+qcDK9Kz47I+PmyzI0SHpqDWSGHkgddH865Cm65GV77YeLFjbbG1COMsVnmYllvl15Ba6sBSAe9VppZZIDAvu+0g94jkWAJ8v3486lmON/XklWQwXTCPDuQmXvJyeZUtckhanr7Jvzo1X0LUDyP76NEULLG9p0ttjySwX+ZiaX/QLYJ/6fp1LH9KzrzOZi40pllRmZpA3wUMeI78ElfBF1o0aTNhQgrN9cOu1Sr9mzO2nNypMIvh4sQx45GmCMoSeUpQfiDRN86sVTeNRGKLyMiPDVMtwIviY/gpcNaiiDxCBaIAIOjRoNl2CGnxWO2tgyueottz9y3bIz3hQCUhV7RSwUBewtAHq6HQ/HWjRo0Vyn1F38fUp0Nz/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">1984
+                                    <div class="name">two
 Explicit content</div>
-                                    <div class="artist">glaive</div>
+                                    <div class="artist">bbno$</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAwEAABAwMDAgQFAwUAAAAAAAABAgMEAAURBhIhEzEHIkFhCBQWUXEyobEjgaLR4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDIQQSMUH/2gAMAwEAAhEDEQA/ALo1nr+16Bu6Wr6/c5Qnp6sdpphCkshJwRkFJ5JHfJ96W7N42adZiKakuXuY6pxag4qIhBCSSQnAX6DjPtS/8S9pVPv1heRKdYKGHU7UpB3eYHPNIVltTkcpLswLQO+9hP8AugZMhXyMY8QcbnQcfWUBek0uolTy8qPsEgtAubsY3bc4znnGahZnjBYLfaBGlO3Yyks9Myflkbt+3G/G7Gc847Ulp6wtwDMlCWcd+kMfzikLUOnXJhU4u4rOfs2MfzQUzOTuGfjoBqdDaG8S7N4g3B2Dp924MPwQiQ+X2EpDiM428KPc0VWXwv2EWvUt8eEhbpXGQjaUgY8+c8UU2psRN1o1Nv4irg+xrPTURLRcRIZcG1KSV7t4CcAdx7Unz4olWCW2vI8hz6Hiuo57TTklla2kLcbJUhamwSg+xI4qs/EHR6lzlzLbHecjzfLJajo3KQs91gYPB9eOD+aDmUkGobjZQrU3kpBGjr/9JG4iXN+n/l9xj7/6W79Ocffd+9Tduhpi6ZhpSSR088/mrhbssg6G+nfl5oglG3lo9X9W77Y7+1a2itIdGY1IuUd5EKBgMNyU4U4vuFKGOw/HJ/FAVWZhGTkVVaz9iZ8Odzfk661FE6PTaZjI2kghRUHMHI9B/airjsca1nVM6dFjtIuLjSUPPtpwpxO7I3Y4PPr396KdUanOL9tyclRX35G8uJS2B5QlOT755rAwXs8SFDHY7P8AtFFaqZ6i7noEPhvb1T1Ptt/fv2qNmWaa/u23FSArO4dHOf8AKiiqoSVc1dN6Zk2a7PS1TxJQ8jYpKmtpHqCDk+tFFFX5LAAn/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwf/xAAoEAACAgEBBwMFAAAAAAAAAAAAAQIRITEDEhRBYXGRNFGxQlOSwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD2JdbLSxl13Eell9jQulKtWGslGrAy2lJK3eoOU64vZ5+h/KAHZaPBSLSivUCaLIWpXbX9HmwOMvUQ991/KAmnxEHbrdfPqgBZOab3IRfeVfoKe1+3H8ufgADaeMp+C338AAYlG9opW8KqoAAf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Synthetica</div>
-                                    <div class="artist">Metric</div>
+                                    <div class="name">mdma keeps the doctor away
+Explicit content</div>
+                                    <div class="artist">poptropicaslutz!</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEECAP/xAAuEAABAwMDAwMCBgMAAAAAAAABAgMEAAURBhIhEzFRIkFhFHEHFSMyM0KBscH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERIUH/2gAMAwEAAhEDEQA/AGa6xWy9JciobVNUHEBGBjHuaVkOA2GKl6OHVBQTuT3BzxXhrm9OQYTzkVTiXFyFnITgbT80q2rUcl+yENYQthWUqKe+fNZSKPOuJ8eNDNvloSqbKa2MtITucWfgDsPmlrQt7Z0/GlWm/QnYTz+VNLdAUAfbPx80u2LUf5hrqXcru+lS22+m2pSsJSlPFGsZ8vUlwkSorP6MRCRuSk8J88jNVJ4WrTXbbpMhWd4LYYWysrdCsYUnORjHB4oqsNK6gnTGE2h+U6y404AkZ/rn1D/tFTYenydHgqj9E3JlLKFZTx1CR5qBvdyttqtzwtr8h6Zt7KbG3H2pyg6MtkeKlxT5LKv2+rkHvjB5rbeslnYbaWlLLgUQFHvkfbvQHOOnZLcXUipMhYSeor0FORz/AKp1vSXH3yba11nn8bsOYT8cdqgPxH05cmNQ3CYxGjxre46VNLckIQCnt2J/zjvUZpMSXW23UPLUEK2q2qPI8itCMGn7Vdrbry2xxH6swESV9PlKUZwd3j3oq2rFNatNmlT222wG2gtxxSRuCB359/OPf70VFumLq2WTGlgr+maLinsZITlJAURnnB8VhVtiX+yogx7tOYku5LchsBC044wST6xn2HNFFKBzhrmxXGwalk267uKekNncl0qJDiD2UM81pWW6TLa+lUF8tLzuAIBST8g8UUVpOxKVn6pvdxthhTJyvplufwoSEJJHJzgc8kcHiiiijA//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcCAwYFAf/EACsQAAEDAwEHBAIDAAAAAAAAAAEAAgMEBRESBiEiMUFRYRMycYEUkaGx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECERIhAyL/2gAMAwEAAhEDEQA/AIhqmGqwNXLvt6p7RGPUzJO4ZbGOfyewXQ2Y9HSDVIN3pdzbWXOSXVHI2FvRrGD+yqI9oro1+RWSHwcEIdqw8fNjOa1CzNi2pFQ9sVwY1hO4SN5fYQi0gTVBvJKDaKeatulS8P0vMnUZw0HAH6CcwaldtlaH2+5ySaT+PM4vjeO53kJXo2lwZBJvpnJYdckb/Uc3Qc4B3H5U4HF4JIGnPCc8wqXgZ4tTvBO5eiU45FR7ZVhHSpDh/hCnZKaouFZHBTxl0jj9Adz2CE1SdCJRVjoDVXVUkNXA6GpibLG7m1w3IQqQBfbUbEyUsctVbSZIGgudE48TB4PUfysxYrLUXe4x0tPpbnic48mt6lCFPKC0MUnkcdhsdLZqURUzcuPvkd7nn/PCEIVC4LP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">bella</div>
-                                    <div class="artist">EKKSTACY</div>
+                                    <div class="name">Spoiled little brat
+Explicit content</div>
+                                    <div class="artist">underscores</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcGCAEEAgMF/8QAMRAAAQMDAgMGAwkAAAAAAAAAAgEDBAAFEQYSByFBEyIxUWFxFFKBCBUWI0KRsdHh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMFAv/EAB4RAAICAwADAQAAAAAAAAAAAAECABEDBCESMUEi/9oADAMBAAIRAxEAPwCtcVk33gaZbI3DXaIjzVV9K9KZbX7cStzW1ZeRUQmz5En0pkfZ30gF4u53mUa9nCPa2CdSxnK03eJOiLdeZUaY4Ko80neQUTvp6+tGzbYxvXwRGLT81BJ6Ym9I6Ltmp46fCyCZMBTcJKima9VVPBE6IlcNccPHbHFdmxTUooEg7VXKonnT10jpW2R5LUqPBaA22+yHu+Cf3WpxPR+yx/vKOw3JgISDJjGv6F5ZT1o4zuzWp5KNhVPyfcqXITYq0U+dV6UsGotNtybNGSNJQVIUQdi5X5koq42lrvJA4jFpw2vV6huHAtIEbbroukIObCyPkqVZPTd9i6ibbXc4EsBw8y8mCTpn2z1qu/Bch/FbAuwmpLOOZGuOz9afl0uNjtms7M3DNpH3d4v7Cz0wO5ffPKjbiBslVHaz+OEG5O4rQRhyGUrpmxWLgiMygF1guZCaZRfeshIbdTd2gonvWu44+4RORCa+HbQu0I+fTwRPPNT+UJx7azIjrZ2PY7ZOcVlsIqM7gcRMd/OBBPOiq+cSdfXTVV3JHCWNAjufkRxXlyXGSXqv8UUhdah2SybAJ5IjbJzsCQjjLhASfKuOVSm1zp92nNjboj0meS5FGhyX+UUVouBRauwCsbC3yPvQel9SoyDupZ5MCfP4ZtUUseSl4J9P3pptxGmbUcdttBDYoinlyoorHTIWYmaZQChKD6hZfiXSUyeNzTpCXPqhKlFFFah+QI5P/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">WICHITA BLUES
+Explicit content</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                         </div>
@@ -1449,7 +1452,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2025, 19:05:21 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2025, 21:04:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
