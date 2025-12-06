@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    699k added, 605k removed
+                                    68k added, 50.4k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.41k views in last two weeks
+                                    2.43k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1439,33 +1439,35 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUDBgEIAgQH/8QAMBAAAgEDAwEECQUBAAAAAAAAAQIDAAQRBRIhBhMxQVEHFCJhcYGRsdEyNUJiocH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EAB8RAAICAQQDAAAAAAAAAAAAAAABAhESAzFBUSIyQv/aAAwDAQACEQMRAD8A1e5z3muXNTs0bRIFjIkBO4+BHhWFU54xQBbegra5k7dHt5vVn9pZSp27vLNehaPocUtwpupeyTI/iSTTD0Xabd6j0fay3MSpsZkibP60B4P14+VWmTQJInB4J/qc/amk1jViL2toz1ZY6FZ9KxR2SH1tuWY/5iiluo6PezxkCOUjy2E/8orlUEt2Wbvg1nweeB9amghZ3AVlz72xVgt+m5JJkRCjMxwBu/NSSWhsLl4JoGWZGKsCvGR96eWr0bg92MNC626l6a0oafpmoQ21pvMnMCyHJ7+SD5d1MrP0l9aRzCdNfD852NaxFT8sVWJeyuF2yBSq9wxUbGNAVVFHwFTytAo8lwuvSt1jMu2TULI+/wBUXNFUV1hZtzYD/CihRXRjbG2nLqGogiCQRjaG9jAA5PiTnwrsQXWqQXSwQytMync6NyPMcnwooo+qLNeNjUa1Ev7xoNs+O9uz2E/Mfmqpq1zBcX88trbC2gY+xECTgfEnNFFNFIlNi5mycqDRRRTkz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECBQP/xAAwEAABAwMCAwYEBwAAAAAAAAABAgMEAAURITEGEhMHIkFRYaEIMnGRFSMzRFJigf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBgIA/8QAHREAAgIDAQEBAAAAAAAAAAAAAAECAwQRIRIxFP/aAAwDAQACEQMRAD8AcRbtu77Vum27YFSmfbJwhOm1MMPTQPy231KCFHyJSCfbenLfbJD0GK9LhPwn3mkuKYeThbZI1B9QdKsXnR9ed9Ib8dzj71wiLdvzjmT7Uwi2/wBdfpUpmR4sFsOTXmmEk8qeorHMfAAbk+g1pSTdbNCiLkSpzTLSFdNSnEkcqiCQCCMg6Gg8vfEGOFY+nIRbj/E0VKbQ0xOhtyo0lEqO6ApDiAMexopLy9fRn4JFf9iHEvETd5jzuLb809ZjHdUpTzaEFtQwASsJH2z41n4l+0qKwqNabJPKllvqPPxXFAp17oCknY4qn08SyH27XBt7JgsxpKHEnrFYOp0V5jJrk9p1sciy7O+5IVIVJiJWtvTKFhRCk90nxz5eW4NTFWRKuxSl1lpPHhKDUVpHGe4lvy3m7hInSXHWlDoul5RW0fDlUTkfeno3H9ykFDPESpV3tCFJWqE5KUlKlpGEqyckeOQN6RtsyNFitJm2hctxGe648Q36ZAAOg03x6U5LuUGbETHVaGGEDH6IAVpp82/vTnlW7TT+C1VD5otjsp4iuEBEN8qtlusbZKn2lL6z7qVZKcFI7o+pA9KKry3cRsw2UMhpwsoAT0s4SQNvGisSybpNuXTSoqI8V85xpQpKctqWtRCE8qAokhI3wB4f5RRSTZgqCjgA17MxOttjP1oorgjbluhJt6nfxICYn9qWFZ3x8+22tFFFFMB//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">westminster</div>
-                                    <div class="artist">polar</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAIFAQQDBgj/xAAoEAACAQMDBAIBBQAAAAAAAAABAhEAAwQSITEFBkFRE3EjMkKBwdH/xAAWAQADAAAAAAAAAAAAAAAAAAAAAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDEhFBExQx/9oADAMBAAIRAxEAPwD0RmdTvdIzdOZc+dcq7+BAVXQNhG/JkzvV1i30ybCXbcw3g7Eewaru5LFm7iBslj8SkD4xqGskiBK7zP39Vq9sYa4fT7gxrTpaZwySwYsNIHIJkTP+UmXSvXopqYrEr+M7EKgzBWA1CfXk1BFJ3eA3mKmIA43FOJiSnUJEwaUHApQBQ9wtdXKwyuRvqLWsdbYJdwpMkyNv7itbtDJyL2Dfa4JY3NREAaWYSRAJjczvB34rPddrGt3Uy8y2lxBba0mtjFtj+4LO/rbf1U+y7YXpjsr3WtO8oLi6RHgrMmCI2NTJvy8FzS9bkvbQdhruCJ4Hqo46XQblx2/W0hPC+OfqK2B6rHn+apISQ4pSlAFFl4fUcs5et7aLq02VDHS6bSGHg8wQZrm7f6cvTsa5bFkW2NwklYhxMg7fcUpS1C22HPLTlx0W29ByaUpgkzSlKAP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">laced up
+                                    <div class="name">DEVIL IS A LIE
 Explicit content</div>
-                                    <div class="artist">tsubi club</div>
+                                    <div class="artist">Tommy Richman</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcCA//EACkQAAIBBAAGAgEFAQAAAAAAAAECAwAEESEFBhIxQVETYcEHFSIygZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMhMf/aAAwDAQACEQMRAD8AwRkKrlgf+13CzuwCjPSdbpQTONjJX2DXrbsWmwrj+vce/Irk9S9Dwb6niyz6zobria4/gBuiU9Zw0mcdhjzSUr4ByfNHibNPeZx8bH/aKUeTqCjOjrtRVpYjBMShY2AHcVK8r2MvFuM2lhCQktwwQFjqoDePurDyJPfQ8w2f7akDXzOFheZSQhOvzTVPjEhbS0v8n6Y8YjuCrS2oiCdRm6jgfWMZzWe8x2sNlevBDcidVXq+QDAJ+qv3PHL/ADjJfXl1BeSz20jLhYZSvrIC50Afe6zW9M0rKk0a9SAroYyfv3Qc5z1sXtMz4lgAHpAGSD380U7aRFIU6tHG9UVNdcZyuiNg4fKRlsID5NWflCe15f4il9LELqdMfGOwQ9ifs+qKKy+lfClbT1F/l58WQWzFQAyt8i50xxr81m3EGiluDKqGMecnz5ooqdfwS+lX9FHuYkKhidnGaKKKtc00Fh//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUGBAECBwP/xAAuEAABAwIFAgUDBQEAAAAAAAABAgMEBREABhIhMRNBFCIyUYEjYXEHFTORoWL/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUAA//EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMRBBITIQUxUYEUIkH/2gAMAwEAAhEDEQA/AO2fatWejTaGp2IJTjeupIjEBLhNipJuLpH4uTe/tiVYy61UqigSo8OnoWSUojp9Q3JI1G6vk/1jjLcGfVZzM+ZIefdWrqLW4Dde2xv3GGVVhwPHvS6gyh0tlMeOw4uwbSEk6r3FidJvybm3fC/yzjDbjoUqJZum3KTKqfCmKaqVFqCG21nUAkXKAebkW/rb74ZSYeWKnFW9RG5SpDagVxnhoKUfF73O1wdrffFg/FhSMussyUyC2hegMGQ5pJvqsd7qAvwfxhJSqZTxXGJ0NsI+qWnW2l+tJSkna5HBHzccjHNvU5ncuNUs/EaOGfq+OTXImW80tP1B+VDp/SW42AgG5uCUL0jzC47bXsRa+DGXMsCNHVrcOpAClJR6RpNtVve4ODDD2x5tSkH0tDuQt0FwT6lvopzs4xEJQ54da2bJSpJSUga0kW7b9xirXkR1qgIlZdnDxDqEKWHhrS7cAn/Sd+RiEyTXHMuTW4E9gvQ3EdWK66mxShQ2uL7jfcdvxj0Y1Z7LFOhvQJESZR5bn046nrLZNtWlKu/HpO4xIka5jtJTb6PLTykEmnZgXSU0pvKpEkLCup1h0h57lWr1Y2KyLIk0RU3MU8IfZQsobYGlDWkEj/QPucO3P1GSH0AUGpKKvIFJW2UXtq9Wriw5xkTOmZtgTHJz0Wn0iI6AtkPAl421edYOw+2xOOYsdkLvuvPatPkz4rIW2yp92OUqXc7JCfURwn3JPwMGNmb3P3KY5BSfDxXmfEPOR0glaLDSokcI7BPJO2DDDJNAomkRgbv2HPulEUOrxJrLdOqTokthsOav41oWRv0yeVdtPCu2LOhVGTCbeTCVFq8Y/wDYYfa4B8p72Hyd8GDDmSwCNz/CGKBO4Rv8e0wGYtNf6q6VVUQuj0w2HEnfni+nna/NsLa9UJ9VYbQ8uPSYIIClF0OOu7m1wNvbYnkXwYMTi7TRAVTH6dE8kus0oqsVyLHgSINHfXFaU0fqA61yVX0kKUD5Ra+3A+cGDBinHE3TZ5UbImeX0DQHhf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Hurt (feat. Happy Jax)
+                                    <div class="name">antidepressants
 Explicit content</div>
-                                    <div class="artist">PVNKSTXRNATION, Caught in 4K &amp; Ekeon</div>
+                                    <div class="artist">bbno$</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYDBAUHCP/EACcQAAEEAgEEAQQDAAAAAAAAAAEAAgMRBAUGEhMxQVEHISJxQqGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAiEQADAAEDAwUAAAAAAAAAAAAAAQIDBBEhEhNRMUFhcZH/2gAMAwEAAhEDEQA/APVHpEpSO95ZJqOUza+TGEuKzWHNaWX3Hy9zpDB6oj+0XL2Hs34K5K+y6vw/qDtsd4m3mDgxYr3BpGNI57oLNAuJADhZFkV8i1T8C5Bm7/Dml2EEMMjCPxiuqN/P6UVUy1Kaf1yasmjzYp67WyKpERSZR7UdyHjZ2HLMTYvnZHAMV+O8fy8kgg+PJHn4VgtDY4s2RJGY3R9toNtd7K5qJvih1NJrymv0km8Px2NLNg/vhxtrWAgOojyPQulz/F9UNVE+IOY4ljAekewDf+rcy9Y3Lgjjkmmb0nqtryHX+xRpZ8DBgwWvGOwtLz1PJcSXH5NlU4dJiwNuPUuepy1Hbqt18m2iItBSEREAREQBERAf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC4QAAIBAwMDAwMDBQEAAAAAAAECAwQFEQASIQYTMQcUQSJRcSMygSVCUmGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAyESUQQiMUH/2gAMAwEAAhEDEQA/AJSGhvcVgqZrLChNxkZxIkZEwTPDA8+UA4YfjVp6MvbdR2esorhGKO70pFNURoPnHDqCOVP4+MaLTdpqm10Vyp4JRDUsxETnayRYJBx99oHHxnUddbdUXT2l66dH9Ttu2fs4P6sTctDgEfVgZGT5/OsXsSVbG8PT0dlvFbR0cky060TVFPT5CRySsTuOBxkELkAf3axn1HvMFfU2WopbjVSUhhQSwSfp7JMkghcDjB/cBjzzrd+pLxSVEPTHUdG5Wl92YZWIwUV1IZGHwQ4UEHkEayz1G3y9N9KVdRSoT2npoFQYd42TgZHHDEHVRIn0av1m7XK0ye3kEfZbhhg5zwDg8HkjgnBGjS90o46qGlaB0jp65/bzIwwsfO4sAfA+gjGMZ5++jU2GyMnv1sul5s1Haqx0apUydwAFWVVO5j/iDtYHPjOfjV8t1ZT0VKKqnlWricbz2QrF8klsHOCfz8DjJ1zT0TVVtpr6lfbI60sTQOkbqCykbiN/gjIYcHJzjB0jdfUqvpNiUIhoaB13pHGAHiceSfvz/wB0pR/EbY/bbLn1jLfLt1Nd5enF9tb65YmQzBRHLKmHHKN9DkgckAnwdQ9bYxeKy2yXCetpWjhQ9iXd9Eq8ssSkcnIb6T5GADrNY/UOojiaET1CRNu3dpypwfjPyPz40S+o11no44JKyarMeArTorFR9ucn+eNC5DePH2dV3CSCnmpKyeWJKeNmcSu/ajeLZIykseFx4OcYzo1z4vqC946eNsvrl6NYzEq78BQc+SBo0qYcF2KUEND05bqKSumkeiuhaaN2XaqdvI8Dnk4A8YA/3qqXTp2LqGa43aOq9pGsYm7TLv284IOOfseAfOjRqpyaVj8eKlPi/hQqykanYHJZD+19pXd+MjTYNgg4H86NGtIu0TNU9D6jqXz2nKmN127Scf8AvwdGjRoYI//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Intuit</div>
-                                    <div class="artist">Disphing</div>
+                                    <div class="name">Wait Up
+Explicit content</div>
+                                    <div class="artist">Ryan Hall &amp; Atlas in Motion</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMFBgcIAgT/xAArEAACAQQBAwMCBwEAAAAAAAABAgMABAURIQYSQQcTYRQxFSIjMjOxwdH/xAAZAQEBAQADAAAAAAAAAAAAAAAFBAECAwb/xAAlEQACAgEEAgAHAAAAAAAAAAABAwACBAUREyESMRQiI0FxgaH/2gAMAwEAAhEDEQA/AOusMwuGxjOXHukHtXyTVEZPLXGSuWeZySTwKn3rRYXcORhunlDW0i9qDf7SPvx/tV1huz8Sg9wbXu5rzeh4q1Y3OOyY3qTrsfw+hFIYpFQM2xv4p4sna4lUIgUDgjxU8uumoLnFJdQJplQd2j51TZjcG9vIpeM8/FbfVFMqT6MvVpDFWHe4npsYj7SBid0U529ufq0XgDdFBXf3HFp2rtJf1X03b9QdOpBcbV4lDxuByDqs+5DGzYLKRmcMY1f8p88VqyJFS1TvA12iqk9W8fbXFszwa+oDd2qzQ9Qupnw9u6n+QTPxgwctR8wi/pvkYLq1v7cygwP/AB78n/nippf4pY7RJUXkL4qi+hc6tiy2M36R94OJB9wN8g/Gq0NhHOR6cnuBv2tkRk+VH2qvOxDV1q7fiKYeXViK3B79ESFY+1MmSTg63RT909bCTIjjYBoo5SLOHkJYx4SfGNXVvWaQEW1mrMwXxVd32TOQDNIWaTfPPFFFKYOKuqxcDuCOueXw+0V6fwNleZWN722VkLD4/qtD21tDadKtHAgREj0APA1RRXPkte9vI+hKWLqutBQbbmRrotQ9yzcHmiiiuvTwOL9zc0/Vn//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">IN THE FLESH
+Explicit content</div>
+                                    <div class="artist">Aries</div>
                                 </div>
                             </div>
                         </div>
@@ -1474,7 +1476,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2025, 17:04:17 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2025, 19:04:25 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
