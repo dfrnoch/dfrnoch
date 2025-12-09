@@ -1415,33 +1415,35 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcDBAUGCAEC/8QALRAAAgEDAgQEBgMBAAAAAAAAAQIDAAQRBRIGITFBE0JRcQcUkaHB0SJTYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A5VzVe0tZ7y4SC0hknmc4VI1LMfYCqHrU+8EaNBw3wdbz26pJrWoAGRvMikZCjuAB1x3/AOVjeDxPpkTS8Fa9BHums1Rv62mTf9M5FYK7tZ7SUxXMLxOPKwxU23mmurM1wXeQnJz0rGanw7DqunzRKhEyqWj78/xTqdWolVSnhD1KEEHBpSjF5pNnJf6lb2sSh3kcDBOBjqcn0xmukOHAtzqS7Y1jSOMBf4kAruBHvyrnHSNRm0rUYry2CGWPOA4yDkYOfrUlcK/ElXjeDXLhrZyRtljiDIB6cuY+9Ja1F+NTPxkycetp0dyFgtXRdoyyEOM4/wArUbG8sIJwx8XIPTbj71Y8VfFTh69KrbgSARrGWSJhuwMZ5hedanNxrolzIWYTQH1RSP3WcppTjYvdc29RoHFUcUXEuprAMRfMOU5diSRSrbV7r53U7m4BJWRyVz1x2+1KoSLeMRHPiu6+m1c/mvQsRD5dwfKNnX358u1KUANsO4De+3HM7O/1r6ZbfyySk8usY/dKUAU5BGMeGzN7rj80pSgD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAIFAQQDBgj/xAAoEAACAQMDBAIBBQAAAAAAAAABAhEAAwQSITEFBkFRE3EjMkKBwdH/xAAWAQADAAAAAAAAAAAAAAAAAAAAAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDEhFBExQx/9oADAMBAAIRAxEAPwD0RmdTvdIzdOZc+dcq7+BAVXQNhG/JkzvV1i30ybCXbcw3g7Eewaru5LFm7iBslj8SkD4xqGskiBK7zP39Vq9sYa4fT7gxrTpaZwySwYsNIHIJkTP+UmXSvXopqYrEr+M7EKgzBWA1CfXk1BFJ3eA3mKmIA43FOJiSnUJEwaUHApQBQ9wtdXKwyuRvqLWsdbYJdwpMkyNv7itbtDJyL2Dfa4JY3NREAaWYSRAJjczvB34rPddrGt3Uy8y2lxBba0mtjFtj+4LO/rbf1U+y7YXpjsr3WtO8oLi6RHgrMmCI2NTJvy8FzS9bkvbQdhruCJ4Hqo46XQblx2/W0hPC+OfqK2B6rHn+apISQ4pSlAFFl4fUcs5et7aLq02VDHS6bSGHg8wQZrm7f6cvTsa5bFkW2NwklYhxMg7fcUpS1C22HPLTlx0W29ByaUpgkzSlKAP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Disappear (VIP)</div>
-                                    <div class="artist">Mozey &amp; WHAT EVA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAIBAwQFCP/EACcQAAEDAwMDBAMAAAAAAAAAAAEAAhEDBCESMVEFEyIUMkGBYXGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDBBESITFBE//aAAwDAQACEQMRAD8A+by5hjxz+1g6cxIKgLoo2zqjqIbk1SdhJCxtLs6QjKx7YrVmn7CrQTnTj8Lff2vo6jWF+tzmh3tIInZczXGNyAiaa1Rtlbqk4TXKMkcz98IncdEE44RaRwSvV6Ff0bKsH12OcG5aRzC8wjxGywBHKmcFNbWdsbInjWK2vtHf1OtTvGtuGaw8eLgTMZwFxGi4UO4SNMwpkAH+Shd8Z0pGO1aIXX/absmuWSizI4RUecukQXQ4w3lQ47oieleEod0RCRKIiA//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Falling</div>
-                                    <div class="artist">HARRY WAS HERE</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAtEAABAwIEBAUEAwAAAAAAAAABAAIEAxEFEiExBiJBURMWUoGRFTNCYbHC8P/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBQQB/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECAxEEFDFR/9oADAMBAAIRAxEAPwDYqkIdk3dB12U+5lxtokywLTnyDNrBlFn15VDizD8NZRpmLIpl2YghxIDi6x25bN0t+SmHQLdFITcGiy8UiT33bXjG7XMABO+hdvl122PVPjTaknyPvWHWH4iBbB/SFPCmP8EK/YRPrsz+TBpvksqnHMT5e8h9/Y5tPhSDplLIG/U8R0FvvrJK/Ertecpq/iR/rKzlKO96M1CfSbJcC3G8RZY31rOP8OCRlRXV8uXiDE22Ftarj/ZZj5lf0eV3zK/1lIspoh60i7T+H5FVpd5gkPb18Q1HG3s9CpEniupRi1XMqAVMpy379EI7wyl8bLnTS11IoVXEXd9E2dPdc8x+UIXOmx+IRfiBD2jNqetzt27L02c5xsHaoQri2jxyharIcW+FUuDobO0QhCO6bfWJKSXEf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Had Some Help (feat. Morgan Wallen)
+                                    <div class="name">laced up
 Explicit content</div>
-                                    <div class="artist">Post Malone</div>
+                                    <div class="artist">tsubi club</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAwQHBv/EACkQAAIBBAEDAgYDAAAAAAAAAAECAAMEBRExIUFRBhIHExQiYXGBkaH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEDEzFR/9oADAMBAAIRAxEAPwDgqMAOmtwKmzPPWN46v7HJYE8k8SwF7RRtM/Ufjc3R5k0Z3xtFnyCRMTIdyurZcJUC0l969zx/UlcrScfd7kP5EfbF6sWEjZqCJqPfUlI+4HfiJLnH6Viyux9uLm7p0mqLTV2ClmOgN+T4npPVPpy3xGRpW1llLTIB6at8y3bagkbI6jtKqxxVJwTcZG3oKfIZj/gmWkbawyVOs1x9ZSp9kJpsf5IOp5rlb0zSmqozYv0/SyWKyN6LkUksqau7CmzAlmCgdBzsjiapwFYIrG4tgrK7qWLDaodNrY89uZ0zJ/FbF3XoS5wlHEXFG8qFPZWauKgAVg3dQeVnK8rf/WZC4uKe0Woxb2+N89P3HByfuhvFeFe6ldb4PUfqJB0TE6EE/MaQWJ7xEAI3IiIAIiIAf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBggD/8QAKhAAAgEEAQIEBwEBAAAAAAAAAQIDAAQFEQYSIQcTMXEUFSNBUVKRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwDqCouUvY8djri8mV3SFC5VBtm/AH+k9qlVl+fXnkY+GFdFmLXBXq1sRDa++5DEP+1rmbcS3FrxzKnM4qK9a0ltGcn6MhBZR6gnXbuCDVnVHxWH4S0Wz3vyYxHve9lGaPf8VavKnUy+EKUpUUrIZNfmXJlj6FkiWeK1KuBoKgM8jD87byl91rX1zzzLNZjD8gy11w3K3uQuYrq4j+Eh49LcC1eVl6wJSwVjtB3O9d9DVWXErVeLPK5uB3uEyUV4bbHfM2hu7aO2DtcRsiOQGPZQNN6d91rcHzXjeVzJXF5i1nF3GpH1NAyDQCjf3IPoP1rmbknGPF/xDFm2fx128dt1GNrryrdFLaBIUa12AHcGpOH8OeZcJz+Ev5sVLdR2twknXZ7k6ulgwUgDY3ojZGu9Yt9dJJkz66/+9K8Y7hWZVkR4pCoPS4/P2B9CfY0rTD2oo6eyjXsKUoB77B7io01mkqBA7ou99PZl/jAjVKUHpDCsduISS6j9u9KUoP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Everybody's dead!
+                                    <div class="name">Antifreeze*
 Explicit content</div>
-                                    <div class="artist">underscores</div>
+                                    <div class="artist">aldrch &amp; Ryan Leahan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAgEBQYHA//EAC0QAAIBAwIFAwQBBQAAAAAAAAECAwAEEQUSBgchMWETIkEUI1GhFiQyQoGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwECAAT/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDERIhUf/aAAwDAQACEQMRAD8Az/LzVuJb/iK3lsRdB573+sCnftjDDcrFgf7fPWmAi13TvXeI6jaiaPO5TIAVx3zXAovrbThy3vdAuGjGp6ekd6iNhvaSFlUD/NQuDjqVPiueLfSXVwWuJ5C+fc0jEk4+Tk5yaJSxEsp7l8HcspxNEkkEiyRt1DIcg1a2zu/RmOKVrl3xdqmkTwrDLNcWxYD6NMYbwM9u/wACmhsHea1imaNoi6hjG/dfBqqfQbrdbxst0jRU+KKhPI23Gf3RWtNdIQPh3iW5TUrIsxdooXgVXfA2lWAGT2Hu+arrZz67DAwGPboKi8PsltqFnLNaiaLILRuejL1z/rFaTUrawjuIDapLbyHO9GydpyPP4o5vHh64R31lrwxcpHeRtOzrbq2W2fPimHbnHp1jp0AWzkkl9NR918bjjqemaWqCaK1kEjKXXvjGAfFeV1qck1wkm4lz2A/4BRp+6iWQT9GttObuh/x2C+1JkiuC6rJDGGOATgbenU/rzRSfarqEzLiRjuyC3uJORjrmikXQOI0tryz1UusvqJ6gIP3ZRj9DtV5p/LDXXZ/W1KwWNyCQAxPjqRRRROxiptFpJyy4ihnRrIWtyI9pV96ruPz0YfH5qZLyP4juJhcQ6tpYnY723IwGe/YLRRXRkySk2Z3WuUHFwsmtmj+ruISSgghJR8/AkOB2/I6HpRRRTKbDP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">"conditional"
+Explicit content</div>
+                                    <div class="artist">Musa &amp; soupandreas</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACsQAAEDAgQEBQUAAAAAAAAAAAEAAgMEEQUSIUEGEyJhFDFRcZEkMjOBsf/EABkBAAMBAQEAAAAAAAAAAAAAAAACAwEFBP/EACARAAICAQQDAQAAAAAAAAAAAAABAhESAwQxQSEiUWH/2gAMAwEAAhEDEQA/AOJ8O4o+tJgfGBlFw4HQD09VeFq57gxk8fT8gOe8OHS02JC6M5twurttRzj56JNCANdEoN1CdgpZJLmNpdYEmw2S2sB7r0ZdBTCNiE+xtgEIyCjF0PD/AIfFY5mSfTM6gb69gVb1+MUlHKI5JC5+4aL291jnwNP4Z3Rj0uSmzQtdq6oA7lpXJjquC9VRdxvg39PjsccWanq2iIhwfldsRrf4SaTGKGoJ5dQzTZ3T/Vg46WFn3Sh9+xCcbHE1wsI7b3BTrddmYvhllxBiVRVVb6cVEbYWSHJbf3IQonMg127BqFKWpKTs3BfSA1xuNVIidr5tQhI+AQ6+ONwJzZHfq3woMl2ki4PdqEKdDyEZ7eZuEIQnSFv8P//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Intoxicated (feat. yung van)
+Explicit content</div>
+                                    <div class="artist">Ekeon</div>
                                 </div>
                             </div>
                         </div>
@@ -1450,7 +1452,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2025, 09:05:41 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Dec 2025, 11:04:49 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
